@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on QQQ Investor</title>
+    <link>http://localhost:1313/en/tags/example/</link>
+    <description>Recent content in Example on QQQ Investor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 QQQ Investor</copyright>
+    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>new-article</title>
+      <link>http://localhost:1313/en/posts/1728231523948/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/en/posts/1728231523948/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1728231523948/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
