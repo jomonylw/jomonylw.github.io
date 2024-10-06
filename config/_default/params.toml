@@ -33,8 +33,8 @@ homepageImage = "img/background.jpeg"
 
 [article]
 showDate = true
-showViews = false
-showLikes = false
+showViews = true
+showLikes = true
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
@@ -96,6 +96,13 @@ cardView = false
 cardViewScreenWidth = false
 
 [firebase]
+apiKey = "AIzaSyAfO4iBFVOYdNuEFyHTt-1viaG0HvVI5eo"
+authDomain = "qqq-investor.firebaseapp.com"
+projectId = "qqq-investor"
+storageBucket = "qqq-investor.appspot.com"
+messagingSenderId = "144896880465"
+appId = "1:144896880465:web:64989e17b6b1ed9a986d70"
+measurementId = "G-C0WXZ17FTN"
 
 [fathomAnalytics]
 

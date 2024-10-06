@@ -117,11 +117,43 @@
   
   
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C0WXZ17FTN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C0WXZ17FTN');
+</script>
+
 
 
   
   
   <meta name="theme-color"/>
+  
+  
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyAfO4iBFVOYdNuEFyHTt-1viaG0HvVI5eo",
+      authDomain: "AIzaSyAfO4iBFVOYdNuEFyHTt-1viaG0HvVI5eo",
+      projectId: "qqq-investor",
+      storageBucket: "qqq-investor.appspot.com",
+      messagingSenderId: "144896880465",
+      appId: "1:144896880465:web:64989e17b6b1ed9a986d70",
+      measurementId: "G-C0WXZ17FTN"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
   
   
 </head>
