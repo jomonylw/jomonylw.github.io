@@ -65,3 +65,25 @@ googleAnalytics = "G-C0WXZ17FTN"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+# 添加不蒜子计数
+[params.busuanzi]
+  enable = true
+  # 是否开启全站独立访客数
+  site_uv = true
+  # 全站独立访客数前的图标或提示语
+  site_uv_pre = '' 
+  # 全站独立访客数后的图标或提示语
+  site_uv_post = ''
+  # 是否开启全站浏览量
+  site_pv = true
+  # 全站浏览量前的图标或提示语
+  site_pv_pre = ''
+  # 全站浏览量后的图标或提示语
+  site_pv_post = ''
+  # 是否开启单页浏览量
+  page_pv = false
+  # 单页浏览量前的图标或提示语
+  page_pv_pre = ''
+  # 单页浏览量后的图标或提示语
+  page_pv_post = ''

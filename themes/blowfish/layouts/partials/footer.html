@@ -22,19 +22,24 @@
     {{ end }}
   {{ end }}
   <div class="flex items-center justify-between">
-
-    {{/* Copyright */}}
-    {{ if .Site.Params.footer.showCopyright | default true }}
-    <p class="text-sm text-neutral-500 dark:text-neutral-400">
-      {{- with replace .Site.Params.copyright "{ year }" now.Year  }}
-      {{ . | markdownify }}
-      {{- else }}
-      &copy;
-      {{ now.Format "2006" }}
-      {{ .Site.Params.Author.name | markdownify }}
-      {{- end }}
-    </p>
-    {{ end }}
+    <div>
+      {{/* Copyright */}}
+      {{ if .Site.Params.footer.showCopyright | default true }}
+      <p class="text-sm text-neutral-500 dark:text-neutral-400">
+        {{- with replace .Site.Params.copyright "{ year }" now.Year  }}
+        {{ . | markdownify }}
+        {{- else }}
+        &copy;
+        {{ now.Format "2006" }}
+        {{ .Site.Params.Author.name | markdownify }}
+        {{- end }}
+      </p>
+      {{ end }}
+      <p>
+        {{- /* busuanzi plugin */ -}}
+        {{- partial "plugin/busuanzi.html" (dict "params" .Site.Params.busuanzi "bsz_type" "footer") -}}
+      </p>
+    </div>  
 
     {{/* Theme attribution */}}
     {{ if .Site.Params.footer.showThemeAttribution | default true }}
@@ -47,7 +52,6 @@
       {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
     </p>
     {{ end }}
-
   </div>
   <script>
     {{ if not .Site.Params.disableImageZoom | default true }}
