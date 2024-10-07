@@ -3,6 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://jomonylw.github.io/en/posts/1728295541698/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://jomonylw.github.io/posts/1728295541698/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jomonylw.github.io/en/posts/1728295541698/"
+    />
+  </url>
+  <url>
+    <loc>https://jomonylw.github.io/en/posts/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://jomonylw.github.io/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jomonylw.github.io/en/posts/"
+    />
+  </url>
+  <url>
+    <loc>https://jomonylw.github.io/en/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://jomonylw.github.io/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jomonylw.github.io/en/"
+    />
+  </url>
+  <url>
     <loc>https://jomonylw.github.io/en/posts/1728231523948/</loc>
     <lastmod>2024-10-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -19,35 +67,19 @@
     />
   </url>
   <url>
-    <loc>https://jomonylw.github.io/en/posts/</loc>
-    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+    <loc>https://jomonylw.github.io/en/posts/1728295490690-book-list/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://jomonylw.github.io/posts/"
+      href="https://jomonylw.github.io/posts/1728295490690-book-list/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://jomonylw.github.io/en/posts/"
-    />
-  </url>
-  <url>
-    <loc>https://jomonylw.github.io/en/</loc>
-    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://jomonylw.github.io/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://jomonylw.github.io/en/"
+      href="https://jomonylw.github.io/en/posts/1728295490690-book-list/"
     />
   </url>
   <url>

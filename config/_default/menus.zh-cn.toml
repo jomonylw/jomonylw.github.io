@@ -15,6 +15,11 @@
   pageRef = "posts"
   weight = 10
 
+[[main]]
+  name = "书单"
+  pageRef = "/posts/1728295490690-book-list"
+  weight = 11  
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
