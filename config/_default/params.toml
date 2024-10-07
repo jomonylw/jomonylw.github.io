@@ -111,5 +111,10 @@ measurementId = "G-C0WXZ17FTN"
 [selineAnalytics]
 
 [buymeacoffee]
+  identifier = "jomonylw"
+  globalWidget = true
+  globalWidgetMessage = ""
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
 
 [verification]
