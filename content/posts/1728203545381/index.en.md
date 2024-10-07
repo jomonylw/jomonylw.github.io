@@ -1,114 +1,140 @@
 ---
-title: 00480 part 1 Is investing in Index Fund guaranteed to be profitable? How can one consistently make profits in the market?
+title: 00480 Is investing in Index Fund guaranteed to be profitable? How can one consistently make profits in the market?
 date: 2024-08-17
-description: This lecture primarily discusses the relationship between economic recession and central bank policy, the risks of investing in Chinese stocks, asset allocation strategies, insurance choices, retirement account investments, currency value and credit, and the concept of leveraged investing. James addresses questions from students regarding Starlink, dollar-cost averaging into leveraged funds, Roth IRA investments, timing investments in Chinese stocks, real estate investment, and annuities, using real-life examples to explain these concepts clearly.
-tags: ["CLEC","investment", "finance", "economic recession", "unemployment rate", "central bank", "asset allocation", "insurance", "Chinese stocks", "real estate", "dollar-cost averaging", "Roth IRA", "currency", "leveraged funds", "cycle", "pledging", "annuity"]
+description: This session focuses on investment cycles, covering how to identify market cycles, emphasizing the challenge of differentiating between premature and incorrect judgments, and illustrating with Buffett's actions during the 2008 financial crisis. It also touches upon risks associated with real estate investment, insurance choices, stock pledges, and asset allocation strategies, particularly comparing and offering advice for the Taiwanese and US markets. In the Q&A section, students raised questions and shared insights on topics such as the aircraft carrier investment strategy, property tax, central bank policy, currency devaluation, and James addressed each one in detail.
+tags: ["CLEC", "investment cycle", "asset allocation", "real estate investment", "insurance", "stock pledge"]
 ---
 
+- Part 1:
 {{< youtubeLite id="ztdWeAncmqY" label="CLEC youtube video" >}}
+- Part 2:
+{{< youtubeLite id="Xvv1cCV3dHA" label="CLEC youtube video" >}}
 
 ## I. Main Topic
-This lecture focuses on how to make sound asset allocation and investment decisions amidst economic fluctuations and market uncertainty.  The core message is to prioritize long-term, value-based investing, avoid chasing market highs and lows, and develop a rational investment strategy based on individual circumstances and risk tolerance.  Avoid blindly following trends and emotional market reactions.
+This session centered around investment cycles, exploring how to assess market cycles, highlighting the difficulty in distinguishing between acting too early and making wrong judgments during cycle shifts. It used Buffett's actions during the 2008 financial crisis as a case study. Additionally, it discussed risks related to real estate investment, insurance, and stock pledges, while providing an in-depth analysis of asset allocation strategies, particularly comparing and recommending approaches for the Taiwanese and US markets.
 
-## II.  Lecture Summary
+## II.  Briefing Content
+1. **Investment Cycles**
+   - Investor sentiment is likened to a pendulum, swinging between extreme fear and extreme optimism.
+   - Differentiating between premature judgments and incorrect ones during cycle changes is challenging, as exemplified by Buffett's public announcement of buying stocks in late 2008, followed by a further 30% market decline.
+   - Swing trading is no longer recommended, as the market perpetually rises, making long-term investment the key.
 
-* **Central Bank Policy and the Economy:** Central banks primarily focus on inflation and unemployment. Economic recessions are typically accompanied by rising unemployment, prompting central banks to implement policies like quantitative easing to stimulate the economy and reduce unemployment.  For instance, quantitative easing during the subprime mortgage crisis and the pandemic aimed to address rising unemployment.
-* **Risks of Chinese Stocks:** James reiterates his advice against investing in Chinese stocks, using his personal experience of recommending selling off Chinese stocks at the beginning of the US-China trade war as evidence of their risk.  He mentions Nio's price surge from $16 to $30-$40, followed by a significant drop, illustrating the high volatility and risk associated with Chinese stocks.
-* **Asset Allocation Strategy:**  James emphasizes that asset allocation and the amount of capital available for investment are two distinct concepts.  The correct buying strategy is "buy when you have money," not dollar-cost averaging. This is similar to the 401k or retirement account investment strategy, where early investment is encouraged to maximize the benefits of compounding.
-* **Insurance Choices:**  He advises against purchasing commercial insurance, particularly investment-linked insurance products, arguing that they offer low returns and poor liquidity. He recommends Term Life Insurance and Medical Care insurance for managing unforeseen risks.  For example, a Term Life policy might cost only a few hundred dollars a year for $1 million in coverage. He discourages purchasing other commercial insurance products like long-term care insurance and universal life insurance, viewing them as a waste of money that could be better used for investments.
-* **The Concept of Leveraged Investing:**  James introduces the concept of leveraged investing, suggesting that borrowing at low interest rates to invest in high-return assets can be a sound strategy. For example, with loan interest rates at 2%-7% and potential asset appreciation of 10%-12%, leveraged investing can be more profitable in the long run. He illustrates this with a hypothetical example: If you have $1 million and spend $100,000 annually, your assets will remain at $1 million after ten years. However, if you borrow money to invest that $1 million, even after deducting annual expenses and 7% interest, your assets could grow to $30 million in 30 years, resulting in a net profit of over $20 million.
+2. **Risks of Real Estate Investment**
+   - Real estate investment is considered high-risk, requiring maintenance and incurring high holding costs like property taxes and HOA fees.
+   - US property tax is a holding tax; the longer you hold, the more tax you pay.
+   - Rental yields are low, around 2% in the US Bay Area after deducting expenses.
+   - The biggest risks of buying a house are job loss and having outstanding mortgage debt at retirement.
+
+3. **Insurance Choices**
+   - Avoid commercial insurance, such as life insurance, long-term care insurance, universal life insurance, etc.
+   - Necessary insurance includes health insurance and term life insurance. Term life insurance is suitable for those who are the sole income source for their family, providing support for children under 18.
+
+
+4. **Risks of Stock Pledging**
+   - Stock pledging is extremely risky, especially in the Taiwanese market, with a maintenance ratio requirement of 167%.
+   - Absolutely forbid using borrowed funds from stock pledges for reinvestment.
+   - In Taiwan, leveraged ETFs can be pledged, but risks still exist.
+   - Be cautious about diversifying risks in stock pledging in Taiwan. Do not pledge all assets to the same financial institution, and avoid pledging everything at once.
+   - Taiwanese investors are advised to adopt the "Situation 3" asset allocation strategy: 30% cash, 30% leverage, and 40% QQQ or other broad-based index funds.
+
+5. **Asset Allocation Strategies**
+   - When selecting investment targets, understand their risk and return characteristics, and allocate assets reasonably based on your circumstances.
+   - Long-term investment in QQQ index funds is like piloting an aircraft carrier—stable and offering considerable returns.
+   - Investing in individual stocks and sectors is like sailing a small boat—high risk and susceptible to market fluctuations.
+   - Investments in individual stocks and sectors are similar to the once-booming railway industry, which was eventually replaced by new technologies and industries. For example, the semiconductor industry may also be eliminated in the future.
+   - QQQ index funds have a replacement mechanism to promptly remove underperforming stocks, maintaining overall growth momentum.
+   - Investing in individual stocks requires the ability to identify potential opportunities and understand market and industry trends, as exemplified by James' interaction with NVIDIA's CEO before its IPO and his purchase of Amazon shares during its slump.
+   - For retirement accounts, it's recommended to invest all Rust account funds in leveraged ETFs, while 401K accounts can hold cash or bonds.
+   - Be cautious when borrowing for investment; ensure cash flow can cover interest payments and manage risks effectively.
+   - In the US, if capital gains tax is implemented, consider transferring funds to other countries.
+   - Avoid investing in the Chinese market due to policy risks and economic downturn pressures.
+   - Do not purchase annuity products; they offer low returns and carry risks.
+   - After selling a house, do not deposit funds into IRA or traditional IRA accounts.
+   - Be decisive in investing and avoid hesitation. For example, loss-making properties should be sold as soon as possible, and the funds should be invested in the stock market.
 
 ## III. Q&A Session
+**Eric:**
+- **Sharing:**  Used the analogy of QQQ index funds being like aircraft carriers and individual stocks being like small boats to illustrate the advantages of index fund investing.
+- **Sharing:**  James' channel not only shares investment knowledge but also many life stories, such as estate planning and tax planning, from which valuable lessons can be learned.
+
+**Brian:**
+- **Question:**  For employed individuals using the "Situation 2" asset allocation strategy, is it possible to set a higher Beta value, such as 1.1 or 1.2?
+- **Answer:**  There is no upper limit for Beta, as long as cash is at least twice the amount of borrowed funds. Excel spreadsheets can be used to simulate investment outcomes under different scenarios, allowing adjustments based on individual risk tolerance.
 
 **Mike:**
+- **Sharing:** The US is like a Bogue bird, adept at concealing its strength and waiting for the opportune moment to reap the rewards, which aligns with the long-term investment philosophy.
+- **Question:**  Will the central bank ignore economic recession and focus solely on inflation?
+- **Answer:**  The central bank will not ignore economic recession because it leads to increased unemployment, which is one of the central bank's key concerns. Economic recession and unemployment are closely related.
 
-- Question: You use T-Mobile; why don't you have Starlink as a backup?
-- Answer: My apartment building doesn't allow Starlink installation, and the T-Mobile signal is generally good. Network interruptions are rare and usually resolved by restarting the router.
+**Cheng Ge (PC):**
+- **Sharing:**  Illustrated the drawbacks of investment-linked insurance policies through a real-life case study, recommending early surrender and transferring funds to QQQ index funds to recoup losses within a shorter timeframe and achieve higher returns.
 
-**Mike:**
+**Lang:**
+- **Question:**  Is it feasible to utilize market downturns to buy QLD leveraged ETFs using a Roth IRA account and convert a 401K account to cash, aiming to increase the proportion of funds in the Roth IRA account?
+- **Answer:**  If Rust account funds are limited, they should all be invested in leveraged ETFs. The 401K account can hold cash as a hedge. There's no need to wait for market downturns to make the switch; asset allocation should be completed as early as possible.
 
-- Comment: Some YouTubers claim that the central bank ignores economic recessions.
-- Question: Is this true?
-- Answer: The central bank focuses on the unemployment rate, which is highly correlated with economic recessions.  Therefore, the central bank doesn't ignore recessions, but rather focuses on a different indicator.  Many YouTubers are not professional financial advisors; don't be misled.
 
-**Jason:**
-
-- Question: Can I dollar-cost average into leveraged funds in my retirement account without rebalancing?
-- Answer: Your question indicates a misunderstanding of asset allocation.  Asset allocation and dollar-cost averaging are different concepts.  The correct buying strategy is "buy when you have money." Leveraged funds are volatile and are better purchased in a lump sum.  The same applies to QQQ.
-
-**PC:**
-
-- Comment: A friend surrendered their investment-linked insurance policy and invested the proceeds in 00670L (2x leveraged ETF), recovering their losses within two weeks.
-- Summary: Don't be trapped by sunk costs. Cut your losses promptly and reallocate your assets effectively.
-
-**Wolf:**
-
-- Question: I'm ten years from retirement with limited retirement savings. Can I take advantage of market downturns to buy QLD in my Roth IRA and convert my 401k to cash?
-- Answer:  With limited Roth IRA funds, you should invest entirely in leveraged funds.  Hold an equivalent amount of cash in your 401k. For example, if you buy $100,000 of QLD, hold $100,000 in cash in your 401k. If your Roth IRA only has $30,000, invest it all in TQQQ and hold $60,000 cash in your 401k. This strategy aims for higher returns due to the Roth IRA's lower contribution limits.
+**Tina:**
+- **Question:**  If the 401K account is already maxed out, is it still possible to invest in an IRA account?
+- **Answer:** After maxing out the 401K account, you cannot contribute to a traditional IRA account, but you can contribute to a Roth IRA account. Specific eligibility depends on income level and IRA contribution limits. It's recommended to check the IRA contribution limit for relevant information.
 
 
 **IAM:**
+- **Question:**  Will events like the Malaysian currency devaluation and the Hong Kong emigration wave impact the US economy and the US dollar? How does the US prevent currency devaluation? Will the companies in the QQQ index fund be affected?
+- **Answer:** A country's currency value depends on its creditworthiness, which is backed by national industries and power. The US possesses strong national strength and diversified industries, allowing the US dollar to maintain its strong position. The US government will safeguard the interests of American companies and citizens. It's uncertain whether US companies will be directly affected by US dollar devaluation, but they will undoubtedly be protected by the US government.
 
-- Comment: The devaluation of the Malaysian currency brings to mind the impact of migration on currency, such as wealthy individuals from Hong Kong migrating. How does the US avoid currency devaluation, and do US companies benefit from the US dollar?
-- Answer: A country's currency value depends on its creditworthiness, which is backed by its industries and national strength.  The US has four pillars: government, finance, corporations, and national defense.  Whether US companies benefit from the dollar is uncertain, but they are undoubtedly protected by the US government.  James uses a hypothetical "James currency" (10 point) example:  The value of a currency depends on the issuer's services and creditworthiness.  For example, 10 points could be exchanged for a meal. If others recognize the value of the James currency, it can circulate.
-
-**T:**
-
-- Question: Do you still consider market cycles in your investing approach?
-- Answer: I will continue to discuss cycles, but cycle-based trades will be anticipated, potentially three months, six months, or even a year in advance, and may be incorrect. I will no longer advocate for all-in/all-out strategies, but rather adjusting Beta. This is because managing a large volume of funds from many individuals makes rapid market entry and exit difficult and prone to market impact.  It's better to invest the annual $7,000 contribution as a lump sum rather than in installments; long-term performance will likely be better.  Lump-sum investing in the US market has historically outperformed dollar-cost averaging or periodic investments.
+**TT:**
+- **Question:**  Are you still considering cycle investing at present?
+- **Answer:**  Yes, cycle investing will be considered, but not through the all-in, all-out approach used in the past. Instead, Beta adjustments will be employed to navigate market volatility, as it's difficult for a large number of investors to keep up with rapid trading, thus requiring a more robust strategy.
+- **Question:**  Which US political party, Democrat or Republican, is more favorable to investors?
+- **Answer:**  In the long run, policies of both parties have minimal impact on investors. The market adjusts according to policies; for example, higher tax rates may induce investors to hold assets for longer periods.
 
 **YJ:**
+- **Question:** Are there any differences in asset allocation strategies between Taiwan and the US? What is the role of the 00864B bond? Why is investing in 00757 no longer recommended?
+- **Answer:** Asset allocation strategies are universally applicable. The main differences between Taiwan and the US lie in stock pledging rules and leveraged ETF choices. 00864B can be used as a cash alternative, similar to a USD fixed deposit. Reasons for no longer recommending investment in 00757 can be found in the videos from 2021 and 2022.
 
-- Question: Why allocate to 00864B?  Why is 00757 no longer recommended?  What advice do you have for Taiwanese investors?
-- Answer: Asset allocation strategies are generally universal. 00864B is similar to a US dollar time deposit but carries exchange rate risk. Refer to the 2021-2022 videos for information on 00757. The main difference between investing in Taiwan and the US lies in pledging.  Maintain a loan-to-value ratio above 167%, avoid pledging all assets, and diversify pledges across multiple financial institutions to mitigate the risk of credit lines being reduced. For instance, if you have $50 million in assets, don't pledge all of it; start by pledging 1/3, enough to cover your needs, and seek other financial institutions for additional pledging needs. Taiwanese financial institutions have fluctuating credit lines, so be cautious.
-
-**Little John:**
-
-- Question: Why borrow against assets instead of selling stocks?
-- Answer:  Pledging assets offers lower interest rates (2%-7%) compared to the potential for higher asset appreciation (10%-12%).  Using loans for investment is more cost-effective and avoids capital gains taxes from selling stocks.  Example: If you have $1 million and spend $100,000 annually, you'll still have $1 million after ten years. But if you borrow and invest, even after 30 years of expenses and interest payments, your assets could grow to $30 million, resulting in a net profit of over $20 million after paying off the loan.
-
-
-**Cristina:**
-
-- Question: Questions about annuities and what to do with funds after selling a house.
-- Answer: Avoid annuities; surrender them if you have any.  Proceeds from a house sale cannot be put into an IRA or Roth IRA; they should be placed in a brokerage account.
-
+**Jason:**
+- **Question:** Can dollar-cost averaging (DCA) be used to invest in leveraged ETFs like Q2D?
+- **Answer:** When investing in any asset, including leveraged ETFs, lump-sum purchasing should be adopted instead of DCA. Returns from DCA are likely to be lower than lump-sum purchasing.
 
 ## IV. Key Takeaways
+> QQQ index funds are like aircraft carriers, offering stability and substantial returns, while individual stock and sector investments are like sailing small boats, carrying high risk and vulnerability to market fluctuations.
+> -- James & Eric
 
-> The central bank's primary focus is the unemployment rate; economic recession and unemployment are closely related.
+Choosing long-term investment in QQQ index funds can mitigate the risks associated with individual stocks and sector investments, providing more stable returns.
+
+> The central bank will not disregard economic recession, as it leads to rising unemployment, a key indicator that the central bank monitors.
+> --  James
+
+One of the objectives of the central bank's monetary policy is to maintain low unemployment; therefore, it will not stand idly by in the face of economic recession.
+
+
+> Loss aversion is a common mistake among investors. Losses should be cut promptly, and funds should be reallocated to higher-quality assets.
+> -- Cheng Ge (PC)
+
+It's crucial to overcome the psychological barrier of loss aversion in investing, decisively cutting losses to prevent them from escalating.
+
+
+> The US's national strength rests on four pillars: government, the financial industry, businesses, and national defense. These four pillars work in synergy to achieve strategic goals.
 > -- James
 
-In response to Mike's question about the central bank's focus.
+America's robust, comprehensive national strength is the cornerstone of the US dollar's strong position.
 
-> Asset allocation strategy and the amount of capital are distinct; the buying strategy is "buy when you have the money."
+> In the long term, policies of both US parties have a limited impact on investors; the market adjusts itself based on policies.
 > -- James
 
-Addressing Jason's question about dollar-cost averaging into leveraged funds.
+The market has a self-regulating mechanism, enabling it to adapt to various policy environments.
+
+>  When investing in any asset, including leveraged ETFs, lump-sum purchasing should be adopted instead of dollar-cost averaging (DCA). Returns from DCA are likely to be lower than lump-sum purchasing.
+>  -- James
+
+"Buy whenever you have money" is the investment strategy James consistently emphasizes. DCA is less efficient for long-term investment.
 
 
-> Don't be trapped by sunk costs; cut your losses promptly.
-> -- PC
-
-PC shared an anecdote about a friend who cut losses on an investment and quickly recovered by investing in a leveraged ETF.
-
-> Timing the Market is always wrong.
-> -- James
-
-James repeatedly emphasized this point when students asked about market timing.
-
-> Hesitation is the worst thing in investing.
-> -- James
-
-James's response to Cristina's question about handling real estate sales.
-
-
-## V. Conclusion
-
-This lecture reinforces James's consistent investment philosophy, emphasizing the importance of long-term, value-based investing and risk management. He uses clear language and relatable examples to answer students' questions about asset allocation, insurance choices, retirement account investments, currency value, and real estate investments, tailoring his advice to the specific context of Taiwanese investors. He encourages the audience to ask questions, think critically, and develop personalized investment strategies based on their circumstances.
+##  V. Summary
+This session primarily revolved around investment cycles, with James explaining how to identify market cycles and emphasizing the distinction between premature and incorrect judgments, using Buffett's actions during the 2008 financial crisis as an example. Furthermore, it provided detailed insights into the risks of real estate investment, insurance selection, stock pledging, and asset allocation strategies. In the Q&A segment, students raised questions and shared their perspectives on topics such as the aircraft carrier investment strategy, property tax, central bank policy, currency devaluation, and investment strategy in the Taiwanese market. James offered comprehensive answers to each question and reiterated the importance of long-term investment in QQQ index funds, along with the "buy whenever you have money" investment strategy.
 
 
 {{< alert >}}
-**Disclaimer:** This article represents personal notes and should not be considered financial advice.
+**Disclaimer:** This document is for personal learning and note-taking purposes only and does not constitute any investment advice. 
 {{< /alert >}}
-
