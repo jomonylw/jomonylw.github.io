@@ -4,7 +4,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 replyByEmail = false
-mainSections = [ "posts", "clec" ]
+mainSections = [ "posts",]
 disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
@@ -28,8 +28,8 @@ showMoreLink = true
 showMoreLinkDest = "/posts/"
 cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
-homepageImage = "img/background.jpeg"
+layoutBackgroundBlur = true
+homepageImage = "img/background_blur.jpg"
 
 [article]
 showDate = true
