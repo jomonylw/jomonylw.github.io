@@ -2,8 +2,10 @@
 title: Early Retirement Extreme：Book Notes
 date: 2024-10-08
 description: This book offers an unconventional philosophical and practical guide to financial independence and early retirement, encouraging readers to break free from the traditional "work-consume" cycle. By cultivating diverse skills, reducing consumption, and investing wisely, readers can achieve financial independence within a few years and live a more free and balanced life. The book also delves into how "the system" influences individual decisions and how to escape its constraints.
-tags: ["financial independence", "early retirement", "FIRE", "personal finance", "lifestyle", "investing", "systems thinking"]
+tags: ["financial independence", "early retirement", "FIRE", "personal finance", "lifestyle", "investing", "systems thinking", "book"]
 RelPermalink: "/en/posts/1728390192272/"
+series: ["Books"]
+series_order: 2
 ---
 
 ## I. Summary
@@ -59,6 +61,10 @@ This book provides a perspective that goes beyond traditional financial advice, 
 * **Pursuing personal growth and self-realization:** Live a more meaningful, autonomous, and free life.
 
 In conclusion, this book encourages readers to undertake a profound self-reflection and lifestyle transformation to ultimately break free from the constraints of "the system" and achieve financial independence and true freedom.
+
+**Download:** [Early Retirement Extreme](https://github.com/TianmingLi/early_retirement_extreme_cn/blob/main/src/earlyretirementextreme.pdf)
+
+{{< github repo="TianmingLi/early_retirement_extreme_cn" >}}
 
 ---
 {{< article link="/en/posts/1728295490690-book-list/" >}}

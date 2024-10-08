@@ -2,8 +2,10 @@
 title: 《极早退休》读书笔记
 date: 2024-10-08
 description: 这本书提供了一种非常规的财务独立和提前退休的哲学和实践指导，鼓励读者打破传统的“工作-消费”循环，通过培养多方面技能，减少消费，明智投资，在几年内实现经济独立，过上更自由、平衡的生活。  本书还深入探讨了“系统”如何影响个人决策，以及如何摆脱系统束缚。
-tags: ["财务独立", "提前退休", "FIRE", "个人理财", "生活方式", "投资", "系统思维"]
+tags: ["财务独立", "提前退休", "FIRE", "个人理财", "生活方式", "投资", "系统思维", "书籍"]
 RelPermalink: "/posts/1728390192272/"
+series: ["书单"]
+series_order: 2
 ---
 
 ## 一、内容概要
@@ -61,6 +63,12 @@ RelPermalink: "/posts/1728390192272/"
 
 
 总而言之，这本书鼓励读者进行一场深刻的自我反思和生活方式的变革，最终摆脱“系统”的束缚，实现财务独立和人生的真正自由。
+
+
+**下载：** [《极早退休》中文翻译版](https://github.com/TianmingLi/early_retirement_extreme_cn/blob/main/cn/release.pdf)
+
+{{< github repo="TianmingLi/early_retirement_extreme_cn" >}}
+
 
 ---
 {{< article link="/posts/1728295490690-book-list/" >}}
