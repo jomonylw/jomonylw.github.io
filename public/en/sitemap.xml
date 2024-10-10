@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://jomonylw.github.io/en/posts/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,8 +19,24 @@
     />
   </url>
   <url>
+    <loc>https://jomonylw.github.io/en/posts/1728564107112/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://jomonylw.github.io/posts/1728564107112/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jomonylw.github.io/en/posts/1728564107112/"
+    />
+  </url>
+  <url>
     <loc>https://jomonylw.github.io/en/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -240,6 +256,22 @@
       rel="alternate"
       hreflang="en"
       href="https://jomonylw.github.io/en/posts/1728479738630/"
+    />
+  </url>
+  <url>
+    <loc>https://jomonylw.github.io/en/posts/1728565408053/</loc>
+    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://jomonylw.github.io/posts/1728565408053/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jomonylw.github.io/en/posts/1728565408053/"
     />
   </url>
 </urlset>

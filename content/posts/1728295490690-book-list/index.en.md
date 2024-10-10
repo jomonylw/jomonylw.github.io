@@ -20,3 +20,8 @@ This book offers an unconventional philosophical and practical guide to financia
 
 This book, focusing on the psychology of money, states that the key to financial success is not intellect but behavior. Through numerous real-life examples and stories, it reveals the psychological weaknesses, biases, and behavioral patterns that influence human financial decisions, proposing strategies for making smarter choices in personal finance. 
 {{< article link="/en/posts/1728478918602/" >}}
+
+## Property of Money
+
+Korean entrepreneur Kim Seung-ho shares his personal journey from poverty to wealth, providing practical guidance on wealth accumulation, management, and the pursuit of financial freedom.
+{{< article link="/en/posts/1728564107112/" >}}
