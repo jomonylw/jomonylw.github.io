@@ -17,11 +17,7 @@ You Only Have to Get Rich Once
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
   {
-  "symbols": [
-    [
-      "NASDAQ:QQQ|60M"
-    ]
-  ],
+  "symbols": "NASDAQ:QQQ|60M",
   "chartOnly": false,
   "width": "100%",
   "height": "400",
