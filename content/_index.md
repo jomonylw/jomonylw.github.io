@@ -11,6 +11,25 @@ description: ""
 {{< /typeit >}}
 </div>
 
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+  {
+  "symbol": "NASDAQ:QQQ",
+  "width": "350",
+  "height": "220",
+  "locale": "en",
+  "dateRange": "12M",
+  "colorTheme": "light",
+  "isTransparent": false,
+  "autosize": false,
+  "largeChartUrl": "",
+  "chartOnly": false
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+
 ## 🔗&nbsp;&nbsp;或许你想了解
 
 | 网站 | 描述 |
