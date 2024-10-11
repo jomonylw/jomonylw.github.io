@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: macOS 14 Arm64
+    runs-on: macos-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
