@@ -10,7 +10,6 @@ description: ""
 You Only Have to Get Rich Once
 {{< /typeit >}}
 
-
 ## 🔗&nbsp;&nbsp;Maybe you want to know more
 
 | Website | Description |
