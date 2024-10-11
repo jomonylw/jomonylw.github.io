@@ -13,6 +13,17 @@ description: ""
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+  {
+  "symbol": "NASDAQ:QQQ",
+  "width": 350,
+  "height": 220,
+  "locale": "zh_CN",
+  "dateRange": "12M",
+  "colorTheme": "light",
+  "isTransparent": false,
+  "autosize": false,
+  "largeChartUrl": ""
+}
   </script>
 </div>
 <!-- TradingView Widget END -->
