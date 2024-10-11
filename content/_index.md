@@ -2,30 +2,17 @@
 title: ""
 description: ""
 ---
-<div class="pt-1 pb-3">
+
 {{< typeit 
   tag=h2
   speed=100
 >}}
 人生只需要富有一次
 {{< /typeit >}}
-</div>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
-  {
-  "symbol": "NASDAQ:QQQ",
-  "width": "350",
-  "height": "220",
-  "locale": "en",
-  "dateRange": "12M",
-  "colorTheme": "light",
-  "isTransparent": false,
-  "autosize": false,
-  "largeChartUrl": "",
-  "chartOnly": false
-}
   </script>
 </div>
 <!-- TradingView Widget END -->

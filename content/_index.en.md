@@ -2,14 +2,14 @@
 title: ""
 description: ""
 ---
-<div class="pt-1 pb-3">
+
 {{< typeit 
   tag=h2
   speed=100
 >}}
 You Only Have to Get Rich Once
 {{< /typeit >}}
-</div>
+
 
 ## 🔗&nbsp;&nbsp;Maybe you want to know more
 
