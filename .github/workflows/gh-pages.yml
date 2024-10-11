@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: flyci-macos-large-latest-m2
+    runs-on: macOS 14 Arm64
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
