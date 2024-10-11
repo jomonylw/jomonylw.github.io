@@ -11,12 +11,8 @@ description: ""
 {{< /typeit >}}
 </div>
 
-
 <!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
   {
   "symbols": "NASDAQ:QQQ|60M",
   "chartOnly": false,
@@ -53,8 +49,7 @@ description: ""
   ],
   "dateFormat": "yyyy/MM/dd"
 }
-  </script>
-</div>
+</script>
 <!-- TradingView Widget END -->
 
 ### 🔗&nbsp;&nbsp;或许你想了解
@@ -65,3 +60,6 @@ description: ""
 | [QQQ 持仓](https://www.invesco.com/us/financial-products/etfs/holdings?audienceType=Investor&ticker=QQQ) | QQQ 持仓列表 | 
 | [QQQ 财务比率](https://marketchameleon.com/Overview/QQQ/ETF-Financial-Ratios/) | QQQ 各项财务比率数据汇总 | 
 | [QQQ 历史回报](https://www.lazyportfolioetf.com/etf/invesco-qqq-trust-qqq/) | 从各维度展示QQQ历史表现 |
+
+
+
