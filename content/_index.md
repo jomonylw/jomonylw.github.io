@@ -16,7 +16,7 @@ description: ""
   {
   "symbol": "NASDAQ:QQQ",
   "width": 360,
-  "height": 220,
+  "height": 230,
   "locale": "zh_CN",
   "dateRange": "12M",
   "colorTheme": "light",
