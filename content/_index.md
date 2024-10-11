@@ -15,7 +15,7 @@ description: ""
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
   {
   "symbol": "NASDAQ:QQQ",
-  "width": 350,
+  "width": 360,
   "height": 220,
   "locale": "zh_CN",
   "dateRange": "12M",
