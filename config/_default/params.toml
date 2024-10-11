@@ -21,7 +21,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "background"
+layout = "page"
 showRecent = true
 showRecentItems = 6
 showMoreLink = true

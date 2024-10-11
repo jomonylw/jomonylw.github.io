@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://jomonylw.github.io/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jomonylw.github.io/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://jomonylw.github.io/"
+    />
+  </url>
+  <url>
     <loc>https://jomonylw.github.io/posts/1728564107112/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -32,22 +48,6 @@
       rel="alternate"
       hreflang="zh-cn"
       href="https://jomonylw.github.io/posts/"
-    />
-  </url>
-  <url>
-    <loc>https://jomonylw.github.io/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://jomonylw.github.io/en/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://jomonylw.github.io/"
     />
   </url>
   <url>
