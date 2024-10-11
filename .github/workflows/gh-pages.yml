@@ -18,11 +18,13 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
+          node-version: '20'
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
+          node-version: '20'
 
       - name: Build
         run: hugo --minify
@@ -34,3 +36,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
+          node-version: '20'
