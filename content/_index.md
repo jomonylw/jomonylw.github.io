@@ -10,13 +10,16 @@ description: ""
 人生只需要富有一次
 {{< /typeit >}}
 
+
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://cn.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">在TradingView上跟踪所有市场</span></a></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
   {
   "symbol": "NASDAQ:QQQ",
-  "width": 360,
-  "height": 230,
+  "width": 350,
+  "height": 220,
   "locale": "zh_CN",
   "dateRange": "12M",
   "colorTheme": "light",
@@ -27,6 +30,7 @@ description: ""
   </script>
 </div>
 <!-- TradingView Widget END -->
+
 
 ## 🔗&nbsp;&nbsp;或许你想了解
 

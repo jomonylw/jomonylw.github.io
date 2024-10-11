@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-22.04
+    runs-on: flyci-macos-large-latest-m2
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:

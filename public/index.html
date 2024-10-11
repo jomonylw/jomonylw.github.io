@@ -586,21 +586,22 @@
     });
 </script>
 <!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
-  {
-  "symbol": "NASDAQ:QQQ",
-  "width": 360,
-  "height": 230,
-  "locale": "zh_CN",
-  "dateRange": "12M",
-  "colorTheme": "light",
-  "isTransparent": false,
-  "autosize": false,
-  "largeChartUrl": ""
-}
-  </script>
-</div>
+<p></script></p>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async defer>
+  document.write(`
+    new TradingView.widget({
+      "symbol": "${longString}", 
+      "width": 350,
+      "height": 220,
+      "locale": "zh_CN",
+      "dateRange": "12M",
+      "colorTheme": "light",
+      "isTransparent": false,
+      "autosize": false,
+      "largeChartUrl": ""
+    });
+  `);
+</script>
 <!-- TradingView Widget END -->
 
 
