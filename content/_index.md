@@ -4,7 +4,7 @@ description: ""
 ---
 <div class="pt-1 pb-3">
 {{< typeit 
-  tag=h3
+  tag=h2
   speed=100
 >}}
 人生只需要富有一次
@@ -12,47 +12,25 @@ description: ""
 </div>
 
 <!-- TradingView Widget BEGIN -->
-<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
+<div class="tradingview-widget-container">
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
   {
-  "symbols": "NASDAQ:QQQ|60M",
-  "chartOnly": false,
-  "width": "100%",
-  "height": "400",
+  "symbol": "NASDAQ:QQQ",
+  "width": "350",
+  "height": "220",
   "locale": "en",
+  "dateRange": "12M",
   "colorTheme": "light",
-  "autosize": true,
-  "showVolume": false,
-  "showMA": false,
-  "hideDateRanges": false,
-  "hideMarketStatus": false,
-  "hideSymbolLogo": false,
-  "scalePosition": "right",
-  "scaleMode": "Normal",
-  "fontFamily": "-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif",
-  "fontSize": "10",
-  "noTimeScale": false,
-  "valuesTracking": "1",
-  "changeMode": "price-and-percent",
-  "chartType": "area",
-  "maLineColor": "#2962FF",
-  "maLineWidth": 1,
-  "maLength": 9,
-  "headerFontSize": "medium",
-  "lineWidth": 2,
-  "lineType": 0,
-  "dateRanges": [
-    "1w|15",
-    "1m|30",
-    "12m|1D",
-    "60m|1W",
-    "all|1M"
-  ],
-  "dateFormat": "yyyy/MM/dd"
+  "isTransparent": false,
+  "autosize": false,
+  "largeChartUrl": "",
+  "chartOnly": false
 }
-</script>
+  </script>
+</div>
 <!-- TradingView Widget END -->
 
-### 🔗&nbsp;&nbsp;或许你想了解
+## 🔗&nbsp;&nbsp;或许你想了解
 
 | 网站 | 描述 |
 |---|---|
@@ -60,6 +38,3 @@ description: ""
 | [QQQ 持仓](https://www.invesco.com/us/financial-products/etfs/holdings?audienceType=Investor&ticker=QQQ) | QQQ 持仓列表 | 
 | [QQQ 财务比率](https://marketchameleon.com/Overview/QQQ/ETF-Financial-Ratios/) | QQQ 各项财务比率数据汇总 | 
 | [QQQ 历史回报](https://www.lazyportfolioetf.com/etf/invesco-qqq-trust-qqq/) | 从各维度展示QQQ历史表现 |
-
-
-
