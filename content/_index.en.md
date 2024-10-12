@@ -36,6 +36,25 @@ options: {
 {{< /chart >}}
 ## 🔗&nbsp;&nbsp;Maybe you want to know more
 
+<div id="qqq-tradingview">
+    <script>
+        const container = document.getElementById('qqq-tradingview');
+        const script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js';  // 加载TradingView库
+        script.async = true; //  异步加载，不阻塞页面渲染
+        script.textContent = `{"symbol": "NASDAQ:QQQ",
+                                "width": "100%",
+                                "height": "220",
+                                "locale": "EN",
+                                "dateRange": "60M",
+                                "colorTheme": "dark",
+                                "isTransparent": true,
+                                "autosize": true}`;
+        container.appendChild(script);  //  将 <script> 标签添加到容器中
+    </script>
+</div>
+
 | Website | Description |
 |---|---|
 | [Invesco QQQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&productId=ETF-QQQ) | Official QQQ Website |
