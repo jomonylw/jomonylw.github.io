@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-22.04
+    runs-on: macos-12
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:

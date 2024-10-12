@@ -7,7 +7,7 @@ description: ""
   tag=h2
   speed=100
 >}}
-人生只需要富有一次
+人生只需富有一次
 {{< /typeit >}}
 
 ## 🔗&nbsp;&nbsp;或许你想了解
