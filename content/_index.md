@@ -35,9 +35,7 @@ options: {
 }
 {{< /chart >}}
 
-
-## 🔗&nbsp;&nbsp;或许你想了解
-
+---
 <div id="qqq-tradingview">
     <script>
         const container = document.getElementById('qqq-tradingview');
@@ -57,6 +55,9 @@ options: {
     </script>
 </div>
 
+
+## 🔗&nbsp;&nbsp;或许你想了解
+
 | 网站 | 描述 |
 |---|---|
 | [Invesco QQQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&productId=ETF-QQQ) | QQQ 官方网站 |
@@ -65,3 +66,4 @@ options: {
 | [QQQ 历史回报](https://www.lazyportfolioetf.com/etf/invesco-qqq-trust-qqq/) | 从各维度展示QQQ历史表现 |
 | [QQQ 金融图表](https://www.financecharts.com/etfs/QQQ/) | QQQ 金融图表资讯 |
 | [如何投资 QQQ](/posts/1728723295012-invest-qqq/) | QQQ 投资资讯 |
+
