@@ -205,5 +205,9 @@ tags: ["投资", "理财", "QQQ", "证券", "开户"]
 -   自1983年发明第一部交易场内手提电脑开始，盈透证券集团始终处于[交易创新的前沿](https://www.interactivebrokers.com/cn/general/about/about.php)。
 -   标准普尔公司对[IBG LLC](https://www.interactivebrokers.com/download/IBG_SandP-Rating-06-2022.pdf)及[IB LLC（IBKR）](https://www.interactivebrokers.com/download/IBG_SandP-Rating-06-2022.pdf)均给予了投资级别评级。
 
-### 开户申请链接
+### 开户推荐链接
 -   [Interactive Brokers (IBKR)](https://ibkr.com/referral/zumou900)
+
+{{< alert "circle-info">}}
+使用**上方链接**开户后在账户中每存入100美元的资产（现金或其它资产）可获得1美元IBKR股票，最高可获得价值1000美元的股票。平均余额必须至少保有一年方可使股票解禁。[(官方说明)](https://www.interactivebrokers.com/cn/trading/referral-member-to-member.php)
+{{< /alert >}}

@@ -9,6 +9,7 @@ description: ""
 >}}
 人生只需富有一次
 {{< /typeit >}}
+
 ## 💰&nbsp;&nbsp;1 美元的增长
 {{< alert "circle-info">}}
 如从 2004 年 10 月开始投资 **QQQ** **1** 美元，到 2024 年 10 月将价值 **13.68** 美元，总回报率为 **1268.00%**（年化回报率为 **13.94%**）。
@@ -36,6 +37,25 @@ options: {
 
 
 ## 🔗&nbsp;&nbsp;或许你想了解
+
+<div id="qqq-tradingview">
+    <script>
+        const container = document.getElementById('qqq-tradingview');
+        const script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js';  // 加载TradingView库
+        script.async = true; //  异步加载，不阻塞页面渲染
+        script.textContent = `{"symbol": "NASDAQ:QQQ",
+                                "width": "100%",
+                                "height": "220",
+                                "locale": "zh_CN",
+                                "dateRange": "60M",
+                                "colorTheme": "dark",
+                                "isTransparent": true,
+                                "autosize": true}`;
+        container.appendChild(script);  //  将 <script> 标签添加到容器中
+    </script>
+</div>
 
 | 网站 | 描述 |
 |---|---|

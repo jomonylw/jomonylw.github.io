@@ -203,6 +203,9 @@ Interactive Brokers Group affiliates provide automated trade execution and custo
 -   Interactive Brokers Group has consistently been at the [forefront of trading innovation](https://www.interactivebrokers.com/en/general/about/about.php), starting with the invention of the first floor-based handheld computer in 1983.
 -   Standard & Poor's issues investment grade ratings to both [IBG LLC](https://www.interactivebrokers.com/download/IBG_SandP-Rating-06-2022.pdf) and [IB LLC (IBKR)](https://www.interactivebrokers.com/download/IBG_SandP-Rating-06-2022.pdf).
 
-### Account Application Link
+### Referral Link for Account Opening
 -   [Interactive Brokers (IBKR)](https://ibkr.com/referral/zumou900)
 
+{{< alert "circle-info">}}
+For every $100 in assets (cash or other assets) you deposit in your account after opening an account using **the link above**, you'll receive $1 worth of IBKR stock, up to a maximum value of $1,000. The average balance must be maintained for at least one year for the stock to vest.  [(Official Instructions)](https://www.ibtws.com/en/trading/referral-member-to-member.php)
+{{< /alert >}}
