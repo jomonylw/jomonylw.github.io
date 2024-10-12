@@ -1,9 +1,9 @@
 ---
-title: "How to Invest in QQQ"
+title: "How to Invest in NASDAQ 100"
 date: 2024-10-12
 draft: false
 description: "a description"
-tags: ["investing", "finance", "QQQ", "securities", "account opening"]
+tags: ["investing", "finance", "QQQ", "securities", "account opening","NASDAQ 100"]
 ---
 
 ## North America

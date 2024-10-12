@@ -65,5 +65,5 @@ options: {
 | [QQQ 财务比率](https://marketchameleon.com/Overview/QQQ/ETF-Financial-Ratios/) | QQQ 各项财务比率数据汇总 | 
 | [QQQ 历史回报](https://www.lazyportfolioetf.com/etf/invesco-qqq-trust-qqq/) | 从各维度展示QQQ历史表现 |
 | [QQQ 金融图表](https://www.financecharts.com/etfs/QQQ/) | QQQ 金融图表资讯 |
-| [如何投资 QQQ](/posts/1728723295012-invest-qqq/) | QQQ 投资资讯 |
+| [如何投资纳斯达克 100](/posts/1728723295012-invest-qqq/) | 纳斯达克 100 投资资讯 |
 

@@ -1,9 +1,9 @@
 ---
-title: "如何投资QQQ"
+title: "如何投资纳斯达克 100"
 date: 2024-10-12
 draft: false
 description: "a description"
-tags: ["投资", "理财", "QQQ", "证券", "开户"]
+tags: ["投资", "理财", "QQQ", "证券", "开户", "纳斯达克 100"]
 ---
 
 

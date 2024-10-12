@@ -64,5 +64,5 @@ options: {
 | [QQQ Financial Ratios](https://marketchameleon.com/Overview/QQQ/ETF-Financial-Ratios/) | Summary of QQQ Financial Ratios |
 | [QQQ Historical Returns](https://www.lazyportfolioetf.com/etf/invesco-qqq-trust-qqq/) | QQQ Historical Performance from various perspectives |
 | [QQQ Finance Charts](https://www.financecharts.com/etfs/QQQ/) | QQQ Finance Charts Information |
-| [How to Invest in QQQ](/en/posts/1728723295012-invest-qqq/) | QQQ Investment Information  |
+| [How to Invest in NASDAQ 100](/en/posts/1728723295012-invest-qqq/) |  NASDAQ 100 Investment Information  |
 
