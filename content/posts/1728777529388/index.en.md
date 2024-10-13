@@ -2,101 +2,164 @@
 title: 00487 The Truth About Investing：Maximizing the Probability of Success, Not Returns; How to Navigate Market Volatility：Strategies to Avoid Interrupting Compound Growth
 date: 2024-10-12
 description: James announces the discontinuation of short video updates, with content to be condensed into a Saturday briefing format. This session emphasizes the importance of risk control and how to maximize the success probability of an investment portfolio. James addresses audience questions on stock pledging, asset allocation, individual stock investments, and reiterates warnings about pump-and-dump schemes and scams. He also shares insights on market volatility, A-share market fluctuations, and investment psychology.
-tags: ["CLEC", "Risk Control", "Asset Allocation", "Stock Pledging", "QQQ", "Tesla", "A-Share Market", "Investment Psychology", "Long-Term Investing", "Market Volatility"]
+tags: ["CLEC", "Risk Management", "Asset Allocation", "Stock Pledging", "QQQ", "SPY", "Tesla", "A-shares", "Meme Stocks", "Futures", "Pump and Dump"]
 ---
 
 {{< youtubeLite id="ThLEX-IsszE" label="CLEC youtube video" >}}
 
-## I. Session Topic
-This session revolves around risk control and investment strategies, with the core message being that investment success lies not in maximizing returns, but in maximizing the probability of success. It emphasizes avoiding forced interruption of compound growth due to market fluctuations, choosing an investment portfolio that can be held for the long term, and highlights the importance of cash. James announces the discontinuation of short video updates, with future sharing of investment philosophies and case studies through long videos and Saturday briefings.
+## I. Main Topic
+
+The most important thing in investing is **maximizing the probability of success**, not maximizing returns. Investors should **control risks**, **avoid being forced to interrupt compounding due to market fluctuations**, and choose investment portfolios that can be **held for the long term**. James emphasizes the importance of asset allocation, especially the role of cash, and the need to choose appropriate investment strategies based on different individuals (retired/not retired, different asset sizes).
 
 ## II. Briefing Content
-* **Discontinuation of Short Videos:** James announces the end of short video updates, with content to be streamlined and condensed into a briefing format, shared and discussed on Saturdays, covering case studies and life philosophies. Short videos have been produced up to March 27th of next year, at which point updates will cease.
-* **Prioritizing Risk Control:** The most important aspect of investing is maximizing the probability of success, not maximizing returns. Risk control aims to safeguard the long-term success of an investment portfolio, avoiding forced exits due to market volatility. It's better to earn less and ensure long-term holding.
-* **Importance of Cash:** Sufficient cash is a crucial asset for ensuring the safety of an investment portfolio, allowing investors  to weather periods of significant market decline with peace of mind. It's the key to "sleeping well at night."
-* **Risks of Stock Pledging:** Stock pledging, if not accompanied by proper asset allocation, carries a substantial risk of bankruptcy. Without adequate financial literacy, it should not be attempted lightly. Especially in Taiwan, borrowing 3 million against 5 million in assets is close to the pledging limit and extremely risky. James emphasizes understanding "Scenario 1" through "Scenario 9" and how to respond to different situations.
-* **Importance of Asset Allocation:** Proper asset allocation is crucial, tailored to individual circumstances.  Those who don't understand stock pledging should avoid it. Recommendations are provided for different asset levels and retirement statuses:
-    * **Not retired and with income:** QQQ 60% + QLD 20% + Cash 20%. This is an aggressive investment strategy, with most funds allocated to Nasdaq 100 index funds.
-    * **Retired and with sufficient assets (50x annual expenses and above):** QQQ 80% + Cash 20%. Retirees with ample assets can adopt this allocation.
-    * **Retired with assets between 20-50x annual expenses:** SPY or High Dividend + Cash 20% (SPY/High Dividend ratio can be adjusted based on specific circumstances). Those who are retired but with insufficient assets can utilize an SPY or High Dividend strategy with a 20% cash allocation.
-    * **Retired with assets below 20x annual expenses:** 0056 or SPHD + 5% Cash (conservative strategy).  Individuals with even fewer assets should not engage in stock pledging due to the higher risk, and should adopt a more conservative strategy.
-* **Beware of Pump-and-Dump Schemes and Scams:**  Listeners are warned to be vigilant against pump-and-dump schemes and scams in the market, not to blindly trust so-called "gurus" and "experts," and to avoid sending money to unknown websites. CLEC does not charge any fees, and all groups are open and transparent.
-* **Market Volatility is Normal:** The market will eventually rise and continually reach new highs. Investors should remain optimistic and patiently await the growth of their wealth. "Investors are always optimistic, always looking towards the sun." 
-* **A-Share Market Volatility:** The A-share market is highly volatile, reminding investors to remain rational and avoid impulsive buying and selling. The government's cooling measures are aimed at the long-term healthy development of the market, not at specific stocks or investors.
-* **Investing is Like Life's Cultivation:** The example of Journey to the West is used to illustrate that both investing and life require continuous learning and progress. Making mistakes is not terrible; the important thing is to learn from them.
-* **Recommended Reading:** Recommends Professor Zhou Guannan's book "Long-Term Investing" to learn about investment psychology.
-* **Guidance for Newcomers:** Newcomers are advised to watch YouTube channel videos 00451, 00398 or 00288, as well as videos from 2023 to the present, to understand CLEC's investment philosophy and system.
+
+1. **The Most Important Thing in Investing:**
+    - The goal of investing is to maximize the probability of success, not to maximize the rate of return.
+    - Risk management is to maximize the success of the investment portfolio and avoid interrupting compound growth due to being forced to sell because of market fluctuations.
+    - Good investment assets must be able to withstand fear and panic. The best investment strategies are those that do not create fear and panic.
+    - Sufficient cash is the best asset to help you sleep well and survive a sharp market decline.
+2. **Risks of Stock Pledging:**
+    - Stock pledging can easily lead to bankruptcy if asset allocation is not done properly.
+    - Do not try stock pledging lightly if you do not understand the operating principles of stock pledging, otherwise, you will most likely go bankrupt. 
+    - Most people do not need to do stock pledging. Good asset allocation can make you rich without pledging. 
+3. **Asset Allocation for Different Individuals:**
+    - **Individuals who are not retired and have salary income:** Refer to the article "Asset Allocation for Those Who Are Still Some Time Away from Retirement", with QQQ as the main investment.
+    - **Individuals who are retired and have no income:** Refer to the article "Asset Allocation for Those Who Are Retired and Have No Income", and choose QQQ, SPY, or high-dividend ETFs for allocation based on asset size, and consider the withdrawal rate.
+4. **Investment and Life Philosophy:**
+    - Investing is like life. It requires continuous learning and experiencing different stages to find an investment strategy that suits you.
+    - Resist temptation, avoid chasing short-term hotspots, and adhere to long-term investment.
+5. **A-share Market Volatility:**
+    - The A-share market has recently experienced a surge and a plunge, with many investors being trapped due to chasing hotspots.
+    - Market fluctuations are normal, especially in emerging markets. Investors need to be rational and adhere to long-term investment strategies.
+    - The Chinese government's cooling measures are aimed at preventing further expansion of the bubble and protecting the interests of investors.
+6. **Beware of Pump and Dump Schemes:**
+    - Some online groups and "teachers" use market forecasts and insider information to induce investors to make trades and profit from them. Be wary of these pump and dump schemes.
+    - The futures market, due to its smaller scale, is more susceptible to manipulation. Be wary of pump and dump schemes in the futures market as well.
+7. **CLEC Investment and Financial Management Channel Update Plan:**
+    - Due to the time-consuming nature of producing short videos and the low viewership, we plan to stop updating short videos.
+    - The content of the produced short videos will be condensed into a briefing format and shared with you on Saturdays for discussion.
+    - It is recommended that you listen to long videos several times or listen to them in segments to achieve the same learning effect.
 
 ## III. Q&A Session
+
 **Ethan:**
-* Sharing: Although stock pledging is not available in mainland China, a similar effect can be achieved through the margin financing function of brokerage firms, utilizing the transfer of collateral between margin accounts and regular accounts.
-* Sharing: The A-share market has experienced significant volatility recently, reminding everyone not to be swayed by market sentiment and to adhere to a long-term investment strategy. Many investors are easily influenced by market emotions, leading to buying high and selling low.
+- **Sharing:** In China, a similar effect to stock pledging can be achieved through the margin financing function of securities firms.
+- **Sharing:** The A-share market has recently experienced drastic fluctuations, and many investors have been influenced by the media to chase hotspots, resulting in heavy losses.
+- **Viewpoint:** If you don't have the right understanding of the stock market, you are the victim.
 
 **Jackie:**
-* Sharing: Describes her journey from initial skepticism to fully understanding and embracing the concept of long-term Nasdaq investing, including overcoming psychological barriers to finally going all-in on QQQ. This sharing mentions two psychological obstacles overcome: 1. Fear of buying at the highest point; 2. Comparison between investing in real estate and investing in QQQ. 
+- **Sharing:**  Her personal journey of investing in the Nasdaq, from skepticism to firm holding, and finally overcoming psychological barriers to achieve "buy whenever you have money".
 
 **H:**
-* Sharing: Recounts her personal experience of investing in popular stocks, and the eventual process of cutting losses and switching to QQQ, emphasizing the importance of cutting losses. Shares her experience of listening to recommendations for popular stocks in 2021, which led to losses, and finally switching to QQQ in 2023.
-* Question: The ratio of QQQ and QLD is out of balance, how to rebalance?
-* James's reply: Suggests using the Smart Rebalancing strategy, transferring 30% of the profits from QLD to SGOV. When the market falls, transfer 2% of the total assets in cash to QLD.  Also recommends that H read articles about Smart Rebalancing.
+- **Sharing:**  Followed recommendations for meme stocks in 2021, resulting in heavy losses. Started gradually transferring funds to QQQ in 2023 and using leverage.
+- **Question:**  The current proportions of QQQ, QLD, and SGOV have deviated from the initial 70%, 20%, and 10%. Is rebalancing needed? How should it be rebalanced?
+- **James's Reply:**  It is recommended to adopt a smart rebalancing strategy. Transfer 30% of the QLD profits to SGOV. When the market falls, transfer 2% of the total assets in cash to QLD.
+
+**Im:**
+- **Sharing:**  Uses the mural story of Journey to the West as an analogy for the different stages of investment, reminding investors not to chase short-term gains and to adhere to long-term investment and continuous learning.
+- **Question:**  How to persuade people who spend extravagantly to develop the habit of saving?
+- **James's Reply:**  You can introduce them to the concept of long-term investment in index funds and the power of compound growth. Provide help within your means.
+- **Question:**  If you also have the habit of spending extravagantly, how do you control it?
+- **James's Reply:**  Live within your means. As your wealth grows, it is normal for your living standards to gradually improve within the scope of risk control, but avoid excessive consumption and spending beyond your means.
+
+**Sunny:**
+- **Sharing:**  The CLEC course not only teaches investment knowledge but also conveys life philosophy, helping everyone maintain a stable mindset in life and work.
+- **Viewpoint:**  People with stable emotions are the most valuable. Investing in QQQ also brings peace of mind.
+
+**Beisen:**
+- **Background:**  Assets of 70 million, monthly mortgage payment of 125,000.
+- **Question:**  How to allocate assets to achieve early retirement?
+- **James's Reply:**  Based on the current assets and expenses, immediate retirement is not possible. It is recommended to try the SPY asset allocation strategy, or use part of the funds to invest in high-dividend ETFs, and control the withdrawal rate.
 
 **Kevin:**
-* Questions: 
-    * I'd like to understand why Tesla has dropped so much.
-    * Also, could the stock market ever really fall to zero?
-
-* James' responses:
-    * Tesla's Decline: James stated that he doesn't have a specific opinion on this. Daily fluctuations are unpredictable, and jokingly suggested asking a deity ("Third Prince") for a more accurate prediction. He emphasized that investing in individual stocks requires an understanding of the company's business model that surpasses even the CEO's. If you don't have a stronger vision and ability than Elon Musk, you shouldn't be investing in Tesla. Market ups and downs are not the primary concern; understanding the company's value and long-term plan is crucial.
-    * Stock Market Crashing to Zero: James explained that "the market falling to zero" is a figure of speech. It refers to a situation where the market might not literally hit zero, but it falls to a point where selling is impractical or impossible. There's a possibility of market closures, like what happened during 911. Closure is equivalent to zero in that context. He highlighted the importance of cash reserves, as they are essential for sustaining living expenses during market downturns. 
-
-**IM:**
-* Sharing: Uses the mural story from Journey to the West as an analogy for the investment journey, from the initial excitement of entering the market to the pain of being trapped, and finally to the enlightenment of finding the correct investment method.
-* Question: How to persuade friends who spend money lavishly?
-* James's reply: Explain the concept of long-term investing and show them the long-term upward trend of the market, illustrating that even small investments can accumulate wealth over time. If they still can't understand, then there's nothing more that can be done.
-* Question: How to control one's own lavish spending?
-* James's reply: Within the scope of risk control, it's normal for living standards to improve as wealth grows. The key is not to exceed one's own capabilities and to avoid selling stocks as much as possible. Spending money is a form of self-cultivation; it's important to live within one's means.
+- **Question:**  Why has Tesla fallen so much?
+- **James's Reply:**  Investing in individual stocks requires understanding the company better than the CEO to grasp the ups and downs of the stock price. If you don't understand Tesla's business model, you shouldn't invest in it.
+- **Question:**  If you are very confident in Tesla, can you hold it for the long term?
+- **James's Reply:**  If you truly understand and are optimistic about Tesla, you can hold it for the long term, but you must manage risks well.
+- **Question:**  Does the teacher think the stock market will fall to zero?
+- **James's Reply:**  "Falling to zero" is a figure of speech, which means that even if the stock does not completely fall to zero, it will not be able to be realized if it falls to a certain level, and cash is needed to maintain life.
 
 **Ming:**
-* Question: A series of questions about retirement accounts, stock pledging, cash allocation, etc. Ming has 3.3 million in assets, of which 2 million are in brokerage, 300,000 in Roth, and 1 million in a traditional account, with a monthly mortgage payment of 125,000.
-* James's reply: Provides detailed answers to Ming's questions and offers specific asset allocation advice based on her situation, including the allocation of brokerage, Roth, and traditional accounts, and how to utilize stock pledging and borrowing to reduce tax burden. Recommends brokerage 100% SPY, Roth 100% TQQQ, traditional 60% cash + 40% SPY.  Also suggests that Ming engage in stock pledging and use borrowed funds to cover living expenses and taxes.
+- **Sharing:**  I have invested in individual stocks before, and they all ended up going to zero in the end, so now I want to learn how to invest in index ETFs.
+- **Background:**  Total assets of 3.3 million, of which 2 million are in a brokerage account, 300,000 are in a Roth account, and 1 million are in a traditional IRA account.  About to retire.
+- **Question:**  How to allocate cash and index ETFs?
+- **James's Reply:**  It is recommended to fully invest the brokerage account in SPY, the Roth account in TQQQ, and 60% of the traditional IRA account in money market funds and 40% in SPY.
+- **Question:**  How to withdraw funds after retirement? Do you sell even in a loss state?
+- **James's Reply:**  After retirement, you can withdraw 3% of your total assets for living expenses. You can sell SPY or obtain funds through stock pledging loans. You have to sell even in a loss state because you need cash to maintain your life.
+- **Question:**  Is the risk of investing in TQQQ in a Roth account too high?
+- **James's Reply:**  It is to maintain a certain cash ratio while obtaining relatively high returns. In extreme cases, you can transfer cash from the traditional IRA to the brokerage account or sell TQQQ to supplement cash.
+- **Question:**  How to transfer funds from a traditional IRA to a Roth account?
+- **James's Reply:**  Transfer out a portion of the money every year and use loans or salary to pay taxes.
+- **Question:**  Why is the borrowing interest rate 5% and the cash interest rate only 2.5% when calculating interest in SPACE?
+- **James's Reply:**  This is just a conservative estimate. The yield of money market funds is usually lower than the borrowing interest rate.
+
 
 **Sara:**
-* Question: As a 1099 worker nearing retirement, how to carry out asset allocation and borrow for investment?
-* James's reply: Since Sara lacks sufficient understanding of concepts like stock pledging, it's recommended that she not borrow money and adopt a simple allocation of 80% QQQ + 20% cash, with the cash portion allocated to BOXS. Also advises Sara to rebalance annually.
+- **Sharing:**  I have been investing in QQQ for three years and recently also invested in meme stocks. 
+- **Question:**  I plan to borrow money to invest. Should I buy QLD? How should cash be allocated?
+- **James's Reply:**  Based on Sara's questions, it can be seen that she does not understand the concepts of stock pledging, leveraged ETFs, and asset allocation. Borrowing money to invest is not recommended. It is recommended to continue holding the 80% QQQ + 20% cash portfolio, and cash can be invested in BOXS.
+
 
 **Tom:**
-* Question: Questions about borrowing for investment, cash allocation, tax optimization, etc. Tom is concerned about the interest expenses and high tax rates associated with long-term borrowing, and how to maintain sufficient cash in brokerage accounts.
-* James's reply: Suggests that Tom keep leveraged funds and cash primarily in retirement accounts and engage in pledging operations based on specific circumstances. Emphasizes the flexibility of Roth accounts and the ability to transfer funds to brokerage accounts in emergencies. Explains that the interest calculation method is an estimate and doesn't need to be overly precise. Also recommends that Tom use Roth account funds for investing in TQQQ, traditional accounts for holding cash, and brokerage accounts for investing in QQQ and engaging in pledging.
+- **Question:**  How to maintain the cash ratio and avoid excessive tax rates in the case of long-term borrowing to live?
+- **James's Reply:**  
+    - Leveraged ETFs and cash should be placed in retirement accounts as much as possible.
+    - Borrowing from a brokerage account should not exceed 70% of the account assets.
+    - Invest Roth IRA in TQQQ and hold cash in a traditional IRA.
+    - In extreme cases, the cash in the traditional IRA can be transferred to the brokerage account or TQQQ can be sold to supplement cash.
+    - The borrowing amount should be controlled within a certain range, for example, not exceeding 2% of the total assets per year.
+    - Taxes incurred by transferring a traditional IRA to a Roth IRA can be paid with loans or salary.
+- **Question:**  Why is the borrowing interest rate 5% while the cash interest rate is only calculated as 2.5% in SPACE?
+- **James's Reply:**  This is just a conservative estimate. Money market fund yields are usually lower than borrowing rates.
+- **Question:**  How to handle it if funds in the Brokerage account need to be used before retirement?
+- **James's Reply:**  You can use the funds in the Brokerage account for a pledge loan, but you need sufficient cash as a guarantee.
+- **Question:**  What if the cash in the Brokerage account is insufficient to cover the loan in the event of an extreme stock market decline?
+- **James's Reply:**  In extreme cases, you can transfer the cash in the Roth or Traditional IRA account to the Brokerage account, but this is an emergency measure and will incur penalties.
+- **Question:**  Is investing TQQQ in a Roth IRA too risky?
+- **James's Reply:**  Investing Roth IRA in TQQQ is to obtain higher returns while ensuring a certain cash ratio. If you are concerned about risks, you can appropriately reduce the proportion of TQQQ and increase the proportion of money market funds.
+- **Question:**  In the long run, will borrowing from a Brokerage account lead to paying high taxes?
+- **James's Reply:**  Borrowing itself does not increase the tax burden, but it can avoid the tax burden caused by selling stocks. However, if you transfer funds from a Traditional IRA to a Roth IRA, it will increase your taxable income for the year and you will need to pay additional taxes.
 
+## IV. Highlights
 
-## IV. Key Insights
-> Don't make getting rich your goal, but rather strive not to die impoverished. 
+> **The most important thing in investing is maximizing the probability of success, not maximizing the rate of return.**
 > -- James
 
-Investing is for a better life, not for becoming a billionaire. A sound investment strategy is more important than pursuing high returns.
+To achieve long-term stable returns, control risks, avoid being forced to interrupt compound growth due to market fluctuations, and choose investment portfolios that can be held for the long term.
 
-> If you don't have the right understanding of the stock market, you'll become a victim. The stock market is a scam.
+> **Don't try stock pledging lightly if you don't understand it.**
 > -- James
 
-Emphasizes the importance of investor education and the risks present in the market.
+Stock pledging is very risky if not done properly and can lead to bankruptcy.
 
-> A rotten apple won't get better, and a broken elevator won't fix itself.
-> --- James
-
-Uses an analogy to illustrate the risk of individual stock investing and the importance of cutting losses in a timely manner.
-
-> Market fluctuations can sometimes exceed your imagination. If, midway, due to a sharp decline caused by fluctuations, you exit the market out of fear, or are forced to exit, the initially projected performance of your investment portfolio, no matter how good, will be useless.
+> **Most people don't need to do stock pledging and can still become wealthy without it.**
 > -- James
 
-Highlights the importance of risk control. Even if the expected return is high, if you can't withstand the risk, you may ultimately end up losing everything.
+Good asset allocation and long-term investment can lead to financial freedom even without stock pledging.
 
-> Human nature is what it is, but you must learn to control it.
+> **If you don't have the right understanding of the stock market, you are the victim.**
+> -- Ethan
+
+Learn investment knowledge, understand market rules, and avoid becoming a韭菜 (leek, a metaphor for someone easily exploited in the stock market).
+
+> **Investing is like life. You need to keep learning to find an investment strategy that suits you.**
+> -- Im
+
+Investing is a continuous learning process. You need to constantly improve your cognitive level to succeed in the market.
+
+> **People with stable emotions are the most valuable. Investing in QQQ also brings peace of mind.**
+> -- Sunny
+
+Investing requires rationality and avoiding emotional trading to succeed in market volatility.
+
+> **Rotten apples don't get better, and broken elevators don't fix themselves.**
 > -- James
 
-Points out the importance of controlling human nature and emotions in investing.
+If the individual stocks you hold are not performing well, cut your losses in time and switch to more potential investment targets.
 
 ## V. Summary
-This session underscores the importance of risk control and long-term investing. Avoid blindly chasing high returns while ignoring risks. The most important aspect of investing is long-term holding, avoiding forced exits due to market fluctuations. James announces the discontinuation of short video updates and addresses audience questions on stock pledging, asset allocation, individual stock investing (Tesla), and A-share market volatility. He reminds everyone again to be wary of pump-and-dump schemes and scams in the market, emphasizing that CLEC does not charge any fees. He encourages everyone to read Professor Zhou Guannan's book "Long-Term Investing" to gain knowledge about investment psychology. Based on the situations of different listeners, James provides specific asset allocation advice and explains in detail how to conduct stock pledging and rebalancing operations.
+
+This episode emphasizes the importance of risk management and asset allocation and gives specific investment advice for different groups of people. James answers the audience's questions about stock pledging, asset allocation, individual stock selection, market fluctuations, pump and dump schemes, etc., to help everyone better understand the concept and methods of long-term investment. At the same time, James also announced the future update plan of the CLEC Investment and Financial Management Channel, which will stop updating short videos and condense the content of the short videos into a briefing format for sharing on Saturdays.
 
 
 {{< alert >}}
