@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Securities on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/securities/</link><description>Recent content in Securities on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/securities/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Invest in NASDAQ 100</title><link>https://jomonylw.github.io/en/posts/1728723295012-invest-qqq/</link><pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/posts/1728723295012-invest-qqq/</guid><description>a description</description><content:encoded><![CDATA[
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Securities on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/securities/</link><description>Recent content in Securities on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/securities/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Invest in NASDAQ 100</title><link>https://jomonylw.github.io/en/posts/1728723295012-invest-qqq/</link><pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/posts/1728723295012-invest-qqq/</guid><description>a description</description><content:encoded><![CDATA[<div id="qqq-tradingview">
+    <script>
+        const container = document.getElementById('qqq-tradingview');
+        const script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js';  // 加载TradingView库
+        script.async = true; //  异步加载，不阻塞页面渲染
+        script.textContent = `{"symbol": "NASDAQ:NDX",
+                                "width": "100%",
+                                "height": "220",
+                                "locale": "EN",
+                                "dateRange": "ALL",
+                                "colorTheme": "dark",
+                                "isTransparent": true,
+                                "autosize": true}`;
+        container.appendChild(script);  //  将 <script> 标签添加到容器中
+    </script>
+</div>
+
 
 <h2 class="relative group">North America 
     <div id="north-america" class="anchor"></div>
