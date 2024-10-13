@@ -35,7 +35,7 @@ options: {
 }
 {{< /chart >}}
 
----
+## 📈&nbsp;&nbsp;Market and Constituent Stocks
 <div id="qqq-tradingview">
     <script>
         const container = document.getElementById('qqq-tradingview');
@@ -52,6 +52,33 @@ options: {
                                 "isTransparent": true,
                                 "autosize": true}`;
         container.appendChild(script);  //  将 <script> 标签添加到容器中
+    </script>
+</div>
+
+<br>
+<div id="ndx-holdings">
+    <script>
+        const container_holdings = document.getElementById('ndx-holdings');
+        const script_holdings = document.createElement('script');
+        script_holdings.type = 'text/javascript';
+        script_holdings.src = 'https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js';         
+        script_holdings.async = true; //  异步加载，不阻塞页面渲染
+        script_holdings.textContent = `{"exchanges": [],
+                                        "dataSource": "NASDAQ100",
+                                        "grouping": "no_group",
+                                        "blockSize": "market_cap_basic",
+                                        "blockColor": "change",
+                                        "locale": "en",
+                                        "symbolUrl": "",
+                                        "colorTheme": "dark",
+                                        "hasTopBar": false,
+                                        "isDataSetEnabled": false,
+                                        "isZoomEnabled": false,
+                                        "hasSymbolTooltip": true,
+                                        "isMonoSize": false,
+                                        "width": "100%",
+                                        "height": "350"}`;
+        container_holdings.appendChild(script_holdings);  //  将 <script> 标签添加到容器中
     </script>
 </div>
 
