@@ -6,6 +6,25 @@ description: "a description"
 tags: ["investing", "finance", "QQQ", "securities", "account opening","NASDAQ 100"]
 ---
 
+<div id="qqq-tradingview">
+    <script>
+        const container = document.getElementById('qqq-tradingview');
+        const script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js';  // 加载TradingView库
+        script.async = true; //  异步加载，不阻塞页面渲染
+        script.textContent = `{"symbol": "NASDAQ:NDX",
+                                "width": "100%",
+                                "height": "220",
+                                "locale": "EN",
+                                "dateRange": "ALL",
+                                "colorTheme": "dark",
+                                "isTransparent": true,
+                                "autosize": true}`;
+        container.appendChild(script);  //  将 <script> 标签添加到容器中
+    </script>
+</div>
+
 ## North America
 
 ### United States

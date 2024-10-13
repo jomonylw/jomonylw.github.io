@@ -10,6 +10,8 @@ disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
+# defaultBackgroundImage = "img/background_blur.jpg"
+
 [header]
 layout = "basic"
 
