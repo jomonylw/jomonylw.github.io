@@ -153,4 +153,4 @@ Earn money through ethical means and avoid ill-gotten gains like those from gamb
 * **Ethics in Action:**  Show respect for others, be willing to help, and cultivate kindness in your interactions.
 
 ---
-{{< article link="/posts/1728295490690-book-list/" >}}
+{{< article link="/en/posts/1728295490690-book-list/" >}}

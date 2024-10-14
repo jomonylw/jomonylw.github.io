@@ -25,3 +25,8 @@ This book, focusing on the psychology of money, states that the key to financial
 
 Korean entrepreneur Kim Seung-ho shares his personal journey from poverty to wealth, providing practical guidance on wealth accumulation, management, and the pursuit of financial freedom.
 {{< article link="/en/posts/1728564107112/" >}}
+
+## Just Keep Buying
+
+This book answers the most common questions in the field of personal finance and investing. From saving to investing, it provides practical tips to teach you how to increase your income, invest in income-producing assets, manage your finances more wisely, and live a richer life.
+{{< article link="/en/posts/1728914740948/" >}}
