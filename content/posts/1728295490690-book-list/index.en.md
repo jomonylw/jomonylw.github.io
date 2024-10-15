@@ -30,3 +30,8 @@ Korean entrepreneur Kim Seung-ho shares his personal journey from poverty to wea
 
 This book answers the most common questions in the field of personal finance and investing. From saving to investing, it provides practical tips to teach you how to increase your income, invest in income-producing assets, manage your finances more wisely, and live a richer life.
 {{< article link="/en/posts/1728914740948/" >}}
+
+## The Millionaire Next Door
+
+This book reveals the true portrait of American millionaires through a survey, debunking myths about them and showcasing their common characteristics: frugality, diligence, self-discipline, and skillful investment. It also explores the definition of wealth, how to accumulate it, how to educate children, and how to distribute inheritance, providing a life textbook for readers.
+{{< article link="/en/posts/1728996298300/" >}}
