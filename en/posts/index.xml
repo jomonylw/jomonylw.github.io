@@ -1523,46 +1523,46 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left"><strong>QQQ</strong></td>
-          <td style="text-align: left">Invesco QQQ Trust</td>
-          <td style="text-align: left"></td>
+          <td><strong>QQQ</strong></td>
+          <td>Invesco QQQ Trust</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left"><strong>QQQM</strong></td>
-          <td style="text-align: left">Invesco NASDAQ 100 ETF</td>
-          <td style="text-align: left"></td>
+          <td><strong>QQQM</strong></td>
+          <td>Invesco NASDAQ 100 ETF</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">QLD</td>
-          <td style="text-align: left">ProShares Ultra QQQ</td>
-          <td style="text-align: left">2x</td>
+          <td>QLD</td>
+          <td>ProShares Ultra QQQ</td>
+          <td>2x</td>
       </tr>
       <tr>
-          <td style="text-align: left">TQQQ</td>
-          <td style="text-align: left">ProShares UltraPro QQQ</td>
-          <td style="text-align: left">3x</td>
+          <td>TQQQ</td>
+          <td>ProShares UltraPro QQQ</td>
+          <td>3x</td>
       </tr>
       <tr>
-          <td style="text-align: left">PSQ</td>
-          <td style="text-align: left">ProShares Short QQQ</td>
-          <td style="text-align: left">-1x</td>
+          <td>PSQ</td>
+          <td>ProShares Short QQQ</td>
+          <td>-1x</td>
       </tr>
       <tr>
-          <td style="text-align: left">QID</td>
-          <td style="text-align: left">ProShares UltraShort QQQ</td>
-          <td style="text-align: left">-2x</td>
+          <td>QID</td>
+          <td>ProShares UltraShort QQQ</td>
+          <td>-2x</td>
       </tr>
       <tr>
-          <td style="text-align: left">SQQQ</td>
-          <td style="text-align: left">ProShares UltraPro Short QQQ</td>
-          <td style="text-align: left">-3x</td>
+          <td>SQQQ</td>
+          <td>ProShares UltraPro Short QQQ</td>
+          <td>-3x</td>
       </tr>
   </tbody>
 </table>
@@ -1581,31 +1581,31 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">XQQ</td>
-          <td style="text-align: left">iShares NASDAQ 100 (CAD Hedged)</td>
-          <td style="text-align: left"></td>
+          <td>XQQ</td>
+          <td>iShares NASDAQ 100 (CAD Hedged)</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">QQC</td>
-          <td style="text-align: left">Invesco NASDAQ 100 Index Fund</td>
-          <td style="text-align: left"></td>
+          <td>QQC</td>
+          <td>Invesco NASDAQ 100 Index Fund</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">HQU</td>
-          <td style="text-align: left">BetaPro NASDAQ-100 2x Daily Bull</td>
-          <td style="text-align: left">2x</td>
+          <td>HQU</td>
+          <td>BetaPro NASDAQ-100 2x Daily Bull</td>
+          <td>2x</td>
       </tr>
       <tr>
-          <td style="text-align: left">HQD</td>
-          <td style="text-align: left">BetaPro NASDAQ-100 2x Daily Bear</td>
-          <td style="text-align: left">-2x</td>
+          <td>HQD</td>
+          <td>BetaPro NASDAQ-100 2x Daily Bear</td>
+          <td>-2x</td>
       </tr>
   </tbody>
 </table>
@@ -1636,41 +1636,41 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">159941</td>
-          <td style="text-align: left">GF Fund NASDAQ-100 ETF</td>
-          <td style="text-align: left"></td>
+          <td>159941</td>
+          <td>GF Fund NASDAQ-100 ETF</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">513100</td>
-          <td style="text-align: left">Cathay NASDAQ-100 ETF</td>
-          <td style="text-align: left"></td>
+          <td>513100</td>
+          <td>Cathay NASDAQ-100 ETF</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">513300</td>
-          <td style="text-align: left">ChinaAMC NASDAQ-100 ETF</td>
-          <td style="text-align: left"></td>
+          <td>513300</td>
+          <td>ChinaAMC NASDAQ-100 ETF</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">159513</td>
-          <td style="text-align: left">Dacheng NASDAQ-100 ETF</td>
-          <td style="text-align: left"></td>
+          <td>159513</td>
+          <td>Dacheng NASDAQ-100 ETF</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">159632</td>
-          <td style="text-align: left">HuaAn NASDAQ-100 ETF</td>
-          <td style="text-align: left"></td>
+          <td>159632</td>
+          <td>HuaAn NASDAQ-100 ETF</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">159501</td>
-          <td style="text-align: left">Harvest NASDAQ-100 ETF</td>
-          <td style="text-align: left"></td>
+          <td>159501</td>
+          <td>Harvest NASDAQ-100 ETF</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -1689,41 +1689,41 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">02834</td>
-          <td style="text-align: left">iShares NASDAQ 100</td>
-          <td style="text-align: left"></td>
+          <td>02834</td>
+          <td>iShares NASDAQ 100</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">03034</td>
-          <td style="text-align: left">CSOP NASDAQ 100</td>
-          <td style="text-align: left"></td>
+          <td>03034</td>
+          <td>CSOP NASDAQ 100</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">07266</td>
-          <td style="text-align: left">FL 2X CSOP NASDAQ 100</td>
-          <td style="text-align: left">2x</td>
+          <td>07266</td>
+          <td>FL 2X CSOP NASDAQ 100</td>
+          <td>2x</td>
       </tr>
       <tr>
-          <td style="text-align: left">07261</td>
-          <td style="text-align: left">FL 2X ChinaAMC NASDAQ 100</td>
-          <td style="text-align: left">2x</td>
+          <td>07261</td>
+          <td>FL 2X ChinaAMC NASDAQ 100</td>
+          <td>2x</td>
       </tr>
       <tr>
-          <td style="text-align: left">07568</td>
-          <td style="text-align: left">FI 2X Inverse CSOP NASDAQ 100</td>
-          <td style="text-align: left">-2x</td>
+          <td>07568</td>
+          <td>FI 2X Inverse CSOP NASDAQ 100</td>
+          <td>-2x</td>
       </tr>
       <tr>
-          <td style="text-align: left">07522</td>
-          <td style="text-align: left">FI 2X Inverse ChinaAMC NASDAQ 100</td>
-          <td style="text-align: left">-2x</td>
+          <td>07522</td>
+          <td>FI 2X Inverse ChinaAMC NASDAQ 100</td>
+          <td>-2x</td>
       </tr>
   </tbody>
 </table>
@@ -1742,16 +1742,16 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">00662</td>
-          <td style="text-align: left">Fubon NASDAQ 100</td>
-          <td style="text-align: left"></td>
+          <td>00662</td>
+          <td>Fubon NASDAQ 100</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -1770,16 +1770,16 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">N100</td>
-          <td style="text-align: left">Motilal Oswal MOSt Shares NASDAQ 100</td>
-          <td style="text-align: left"></td>
+          <td>N100</td>
+          <td>Motilal Oswal MOSt Shares NASDAQ 100</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -1798,46 +1798,46 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">2569</td>
-          <td style="text-align: left">Listed Index Fund US Equity (NASDAQ100) Currency Hedged</td>
-          <td style="text-align: left"></td>
+          <td>2569</td>
+          <td>Listed Index Fund US Equity (NASDAQ100) Currency Hedged</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">1545</td>
-          <td style="text-align: left">NEXT FUNDS NASDAQ-100</td>
-          <td style="text-align: left"></td>
+          <td>1545</td>
+          <td>NEXT FUNDS NASDAQ-100</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">2568</td>
-          <td style="text-align: left">Listed Index Fund US Equity (NASDAQ100) No Currency Hedging</td>
-          <td style="text-align: left"></td>
+          <td>2568</td>
+          <td>Listed Index Fund US Equity (NASDAQ100) No Currency Hedging</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">2631</td>
-          <td style="text-align: left">MUKAM MAXIS NASDAQ100 ETF</td>
-          <td style="text-align: left"></td>
+          <td>2631</td>
+          <td>MUKAM MAXIS NASDAQ100 ETF</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">2842</td>
-          <td style="text-align: left">iFreeETF NASDAQ100 Inverse</td>
-          <td style="text-align: left">-1x</td>
+          <td>2842</td>
+          <td>iFreeETF NASDAQ100 Inverse</td>
+          <td>-1x</td>
       </tr>
       <tr>
-          <td style="text-align: left">2869</td>
-          <td style="text-align: left">iFreeETF NASDAQ100 Leveraged (2x)</td>
-          <td style="text-align: left">2x</td>
+          <td>2869</td>
+          <td>iFreeETF NASDAQ100 Leveraged (2x)</td>
+          <td>2x</td>
       </tr>
       <tr>
-          <td style="text-align: left">2870</td>
-          <td style="text-align: left">iFreeETF NASDAQ100 Double Inverse (-2x)</td>
-          <td style="text-align: left">-2x</td>
+          <td>2870</td>
+          <td>iFreeETF NASDAQ100 Double Inverse (-2x)</td>
+          <td>-2x</td>
       </tr>
   </tbody>
 </table>
@@ -1856,36 +1856,36 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">379810</td>
-          <td style="text-align: left">Samsung KODEX US NASDAQ100 Total Return</td>
-          <td style="text-align: left"></td>
+          <td>379810</td>
+          <td>Samsung KODEX US NASDAQ100 Total Return</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">409820</td>
-          <td style="text-align: left">SAMSUNG KODEX US NASDAQ100 Leverage (SYNTH H)</td>
-          <td style="text-align: left"></td>
+          <td>409820</td>
+          <td>SAMSUNG KODEX US NASDAQ100 Leverage (SYNTH H)</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">367380</td>
-          <td style="text-align: left">KIM KINDEX NASDAQ100</td>
-          <td style="text-align: left"></td>
+          <td>367380</td>
+          <td>KIM KINDEX NASDAQ100</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">368590</td>
-          <td style="text-align: left">KB KBSTAR US NASDAQ100</td>
-          <td style="text-align: left"></td>
+          <td>368590</td>
+          <td>KB KBSTAR US NASDAQ100</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">133690</td>
-          <td style="text-align: left">Mirae Asset TIGER NASDAQ 100 ETF</td>
-          <td style="text-align: left"></td>
+          <td>133690</td>
+          <td>Mirae Asset TIGER NASDAQ 100 ETF</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -1916,16 +1916,16 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">NDXEX</td>
-          <td style="text-align: left">iShares NASDAQ-100 UCITS ETF</td>
-          <td style="text-align: left"></td>
+          <td>NDXEX</td>
+          <td>iShares NASDAQ-100 UCITS ETF</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -1944,21 +1944,21 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">CNDX</td>
-          <td style="text-align: left">iShares NASDAQ 100 UCITS ETF</td>
-          <td style="text-align: left"></td>
+          <td>CNDX</td>
+          <td>iShares NASDAQ 100 UCITS ETF</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">EQQQ</td>
-          <td style="text-align: left">INVESCO MARKETS III PLC INVESCO EQQQ NASDAQ 100 UCITS ETF</td>
-          <td style="text-align: left"></td>
+          <td>EQQQ</td>
+          <td>INVESCO MARKETS III PLC INVESCO EQQQ NASDAQ 100 UCITS ETF</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -1977,26 +1977,26 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">USTE</td>
-          <td style="text-align: left">Lyxor UCITS Nasdaq-100 D-EUR</td>
-          <td style="text-align: left"></td>
+          <td>USTE</td>
+          <td>Lyxor UCITS Nasdaq-100 D-EUR</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">PUST</td>
-          <td style="text-align: left">Lyxor PEA Nasdaq 100 C</td>
-          <td style="text-align: left"></td>
+          <td>PUST</td>
+          <td>Lyxor PEA Nasdaq 100 C</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">PANX</td>
-          <td style="text-align: left">Amundi ETF PEA Nasdaq-100 UCITS</td>
-          <td style="text-align: left"></td>
+          <td>PANX</td>
+          <td>Amundi ETF PEA Nasdaq-100 UCITS</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -2015,16 +2015,16 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">EXXT</td>
-          <td style="text-align: left">iShares NASDAQ-100 UCITS</td>
-          <td style="text-align: left"></td>
+          <td>EXXT</td>
+          <td>iShares NASDAQ-100 UCITS</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -2043,16 +2043,16 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">DE0A0F.</td>
-          <td style="text-align: left">iShares NASDAQ-100 UCITS</td>
-          <td style="text-align: left"></td>
+          <td>DE0A0F.</td>
+          <td>iShares NASDAQ-100 UCITS</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -2071,16 +2071,16 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">CSNDX</td>
-          <td style="text-align: left">iShares Nasdaq 100 UCITS</td>
-          <td style="text-align: left"></td>
+          <td>CSNDX</td>
+          <td>iShares Nasdaq 100 UCITS</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -2111,21 +2111,21 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">NASD11</td>
-          <td style="text-align: left">Trend ETF Nasdaq 100 Fundo de Índice</td>
-          <td style="text-align: left"></td>
+          <td>NASD11</td>
+          <td>Trend ETF Nasdaq 100 Fundo de Índice</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">QQQI11</td>
-          <td style="text-align: left">Buena Vista Nasdaq-100 High Income</td>
-          <td style="text-align: left"></td>
+          <td>QQQI11</td>
+          <td>Buena Vista Nasdaq-100 High Income</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -2156,16 +2156,16 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">STXNDQJ</td>
-          <td style="text-align: left">Satrix Nasdaq 100 Feeder Portfolio</td>
-          <td style="text-align: left"></td>
+          <td>STXNDQJ</td>
+          <td>Satrix Nasdaq 100 Feeder Portfolio</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -2196,21 +2196,21 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">NDQ</td>
-          <td style="text-align: left">Betashares Nasdaq 100</td>
-          <td style="text-align: left"></td>
+          <td>NDQ</td>
+          <td>Betashares Nasdaq 100</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">HNDQ</td>
-          <td style="text-align: left">BetaShares NASDAQ 100 ETF - Currency Hedged</td>
-          <td style="text-align: left"></td>
+          <td>HNDQ</td>
+          <td>BetaShares NASDAQ 100 ETF - Currency Hedged</td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -2241,41 +2241,41 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Ticker</th>
-          <th style="text-align: left">Product Name</th>
-          <th style="text-align: left">Remarks</th>
+          <th>Ticker</th>
+          <th>Product Name</th>
+          <th>Remarks</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">MTFF96</td>
-          <td style="text-align: left">MTF Sal (4A) Nasdaq 100 Currency Hedged</td>
-          <td style="text-align: left"></td>
+          <td>MTFF96</td>
+          <td>MTF Sal (4A) Nasdaq 100 Currency Hedged</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">MTFF95</td>
-          <td style="text-align: left">MTF Sal (4D) Nasdaq 100</td>
-          <td style="text-align: left"></td>
+          <td>MTFF95</td>
+          <td>MTF Sal (4D) Nasdaq 100</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">KSMF83</td>
-          <td style="text-align: left">KSM 4A NASDAQ 100 Currency Hedged</td>
-          <td style="text-align: left"></td>
+          <td>KSMF83</td>
+          <td>KSM 4A NASDAQ 100 Currency Hedged</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">HRLF49</td>
-          <td style="text-align: left">Harel Sal 4A NASDAQ 100 Currency Hedged</td>
-          <td style="text-align: left"></td>
+          <td>HRLF49</td>
+          <td>Harel Sal 4A NASDAQ 100 Currency Hedged</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">HRLF217</td>
-          <td style="text-align: left">Harel Sal (E) 3 Time Lvrg Nasdaq 100 Mnth CH (6A)</td>
-          <td style="text-align: left">3x</td>
+          <td>HRLF217</td>
+          <td>Harel Sal (E) 3 Time Lvrg Nasdaq 100 Mnth CH (6A)</td>
+          <td>3x</td>
       </tr>
       <tr>
-          <td style="text-align: left">KSMF115</td>
-          <td style="text-align: left">KSM 6D Short Leveraged NASDAQ 100 x3 Monthly</td>
-          <td style="text-align: left">-3x</td>
+          <td>KSMF115</td>
+          <td>KSM 6D Short Leveraged NASDAQ 100 x3 Monthly</td>
+          <td>-3x</td>
       </tr>
   </tbody>
 </table>
