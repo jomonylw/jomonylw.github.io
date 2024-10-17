@@ -9,31 +9,57 @@ description: ""
 >}}
 You Only Have to Get Rich Once
 {{< /typeit >}}
-## 💰&nbsp;&nbsp;Growth of $1
+## 💰&nbsp;&nbsp;Growth of $1000
 {{< alert "circle-info">}}
-An investment of **$1** in **QQQ** starting in **October 2004** would be worth **$13.68** by **October 2024**, representing a total return of **1268.00%** (annualized return of **13.94%**).
-
+If you invested **$1000** in **QQQ** starting from **2014/10**, and held it for **10** years, by 
+**2024/09** it would be worth **$4813.31**, with a total return of **381.33%** (annualized return of **17.17%**).
 {{< /alert >}}
 <br>
 {{< chart >}}
-type: 'line',
-data: {
-    labels: ['2004/10', '2005/04', '2005/10', '2006/04', '2006/10', '2007/04', '2007/10', '2008/04', '2008/10', '2009/04', '2009/10', '2010/04', '2010/10', '2011/04', '2011/10', '2012/04', '2012/10', '2013/04', '2013/10', '2014/04', '2014/10', '2015/04', '2015/10', '2016/04', '2016/10', '2017/04', '2017/10', '2018/04', '2018/10', '2019/04', '2019/10', '2020/04', '2020/10', '2021/04', '2021/10', '2022/04', '2022/10', '2023/04', '2023/10', '2024/04', '2024/10'],
-    datasets: [{
-        label: '$',
-        data: [1.04, 0.98, 1.08, 1.17, 1.18, 1.31, 1.51, 1.32, 0.92, 0.95, 1.15, 1.38, 1.46, 1.66, 1.65, 1.89, 1.83, 1.95, 2.33, 2.42, 2.85, 3.10, 3.18, 2.97, 3.29, 3.82, 4.24, 4.55, 4.68, 5.35, 5.49, 6.00, 7.56, 9.49, 10.84, 8.79, 7.89, 9.05, 9.69, 12.10, 13.68],
-        borderColor: 'rgb(75, 192, 192)',
-        tension: 0.1,
-    }],
-},
-options: {
-    plugins: {
-        legend: {
-            display: false
+    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1018.2445759368835, 1103.1558185404338, 1168.4418145956606, 1536.0946745562128, 1521.3017751479288, 2096.7455621301774, 3094.082840236686, 3923.5700197238657, 2626.0355029585794, 4038.658777120315, 4813.313609467455], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.018244575936883507, 0.08338983050847454, 0.059181119256213166, 0.3146522619851451, -0.009630200308166414, 0.37825748735900444, 0.47565965852970216, 0.26808822591955134, -0.33070252607766754, 0.5379299984978219, 0.19180992381324474], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]},
+    options: {
+        scales: {
+            'price-axis': {
+                type: 'linear',
+                position: 'left',
+                title: {
+                    display: true,
+                    text: 'Price' 
+                }
+             },
+            'return-axis': {
+                type: 'linear',
+                position: 'right',
+                title: {
+                    display: true,
+                    text: 'Return'
+                },
+                ticks: {
+                    callback: function(value, index, values) {
+                        return (value * 100).toFixed(2) + '%';
+                    }
+                }
+            }
+        },
+        plugins: {
+            legend: {
+                display: false
+            },
+            tooltip: {
+                callbacks: {
+                    label: function(context) {
+                        if (context.dataset.type === 'bar') {
+                            return context.dataset.label + ': ' + (context.parsed.y * 100).toFixed(2) + '%';
+                        } else {
+                            return context.dataset.label + ': $' + context.parsed.y.toFixed(2);
+                        }
+                    }
+                }
+            }
         }
     }
-}
 {{< /chart >}}
+
 
 ## 📈&nbsp;&nbsp;Market and Constituent Stocks
 <div id="qqq-tradingview">
