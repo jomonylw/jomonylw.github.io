@@ -1,6 +1,7 @@
 ---
 title: ""
 description: ""
+tags: ["Investment", "Financial Management", "Nasdaq Index", "Nasdaq-100", "Fund", "Stock", "ETF", "Portfolio", "Asset Allocation", "Financial Freedom", "Investment Strategy", "Investment & Financial Management for Beginners", "How to Invest in Funds", "Nasdaq Index Analysis", "Fund Recommendation", "Stock Investment Strategy", "ETF Investment Guide", "Asset Allocation Plan", "Personal Financial Planning", "Investment Book Recommendation", "Value Investing","Early Retirement","FIRE"]
 ---
 
 {{< typeit 

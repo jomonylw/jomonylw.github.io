@@ -11,7 +11,7 @@ title = "QQQ Investor"
   dateFormat = "2 January 2006"
   logo = "img/logo_transparent.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Invest in Nasdaq-100 index funds and ride the wave of human progress. Build your wealth and live a life of abundance and joy. Grow your wealth and claim your right to happiness."
   copyright = "© 2024 QQQ Investor"
 
 [params.author]

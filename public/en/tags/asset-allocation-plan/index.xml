@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Asset Allocation Plan on QQQ Investor</title>
+    <link>https://jomonylw.github.io/en/tags/asset-allocation-plan/</link>
+    <description>Recent content in Asset Allocation Plan on QQQ Investor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/asset-allocation-plan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jomonylw.github.io/en/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomonylw.github.io/en/</guid>
+      <description></description>
+      <content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      new TypeIt("#typeit-365a765a1a66ed2d7a06c5abeedf88fd", {
+        strings: ["","You Only Have to Get Rich Once",""],
+        speed:  100 ,
+        lifeLike:  false ,
+        startDelay:  0 ,
+        breakLines:  true ,
+        waitUntilVisible:  true ,
+        loop:  false 
+      }).go();
+    });
+</script>
+
+
+<h2 class="relative group">💰  Growth of $1000 
+    <div id="nbspnbspgrowth-of-1000" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#nbspnbspgrowth-of-1000" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256s256-114.6 256-256S397.4 0 256 0zM256 128c17.67 0 32 14.33 32 32c0 17.67-14.33 32-32 32S224 177.7 224 160C224 142.3 238.3 128 256 128zM296 384h-80C202.8 384 192 373.3 192 360s10.75-24 24-24h16v-64H224c-13.25 0-24-10.75-24-24S210.8 224 224 224h32c13.25 0 24 10.75 24 24v88h16c13.25 0 24 10.75 24 24S309.3 384 296 384z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2009/09</strong>, and held it for <strong>15</strong> years, by
+<strong>2024/09</strong> it would be worth <strong>$11551.95</strong>, with a total return of <strong>1055.20%</strong> (annualized return of <strong>17.72%</strong>).</span>
+</div>
+
+<br>
+
+<div class="chart">
+  <canvas id="chart-3f42e1dde0a3be6b7dd45d9363bdb47b"></canvas>
+  <script type="text/javascript">
+    window.addEventListener("DOMContentLoaded", (event) => {
+      const ctx = document.getElementById("chart-3f42e1dde0a3be6b7dd45d9363bdb47b");
+      const chart = new Chart(ctx, {
+        
+    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1082.8402366863904, 1288.9940828402366, 1321.4201183431953, 1541.5384615384614, 2081.8934911242604, 2443.786982248521, 2647.5739644970413, 2804.2603550295858, 3686.627218934911, 3651.1242603550295, 5032.1893491124265, 7425.798816568047, 9416.56804733728, 6302.485207100591, 9692.781065088757, 11551.952662721893], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.08284023668639043, 0.19038251366120224, 0.02515607785530675, 0.16657710908113904, 0.35052970981114706, 0.1738290131878127, 0.08338983050847446, 0.05918111925621316, 0.3146522619851451, -0.009630200308166388, 0.37825748735900444, 0.4756596585297021, 0.26808822591955145, -0.33070252607766765, 0.537929998497822, 0.1918099238132448], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]},
+    options: {
+        scales: {
+            'price-axis': {
+                type: 'linear',
+                position: 'left',
+                title: {
+                    display: true,
+                    text: 'Price' 
+                }
+             },
+            'return-axis': {
+                type: 'linear',
+                position: 'right',
+                title: {
+                    display: true,
+                    text: 'Return'
+                },
+                ticks: {
+                    callback: function(value, index, values) {
+                        return (value * 100).toFixed(2) + '%';
+                    }
+                }
+            }
+        },
+        plugins: {
+            legend: {
+                display: false
+            },
+            tooltip: {
+                callbacks: {
+                    label: function(context) {
+                        if (context.dataset.type === 'bar') {
+                            return context.dataset.label + ': ' + (context.parsed.y * 100).toFixed(2) + '%';
+                        } else {
+                            return context.dataset.label + ': $' + context.parsed.y.toFixed(2);
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+      });
+    });
+  </script>
+</div>
+</p>
+
+
+<h2 class="relative group">📈  Market and Constituent Stocks 
+    <div id="nbspnbspmarket-and-constituent-stocks" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#nbspnbspmarket-and-constituent-stocks" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<div id="qqq-tradingview">
+    <script>
+        const container = document.getElementById('qqq-tradingview');
+        const script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js';  // 加载TradingView库
+        script.async = true; //  异步加载，不阻塞页面渲染
+        script.textContent = `{"symbol": "NASDAQ:QQQ",
+                                "width": "100%",
+                                "height": "220",
+                                "locale": "EN",
+                                "dateRange": "60M",
+                                "colorTheme": "dark",
+                                "isTransparent": true,
+                                "autosize": true}`;
+        container.appendChild(script);  //  将 <script> 标签添加到容器中
+    </script>
+</div>
+<br>
+<div id="ndx-holdings">
+    <script>
+        const container_holdings = document.getElementById('ndx-holdings');
+        const script_holdings = document.createElement('script');
+        script_holdings.type = 'text/javascript';
+        script_holdings.src = 'https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js';         
+        script_holdings.async = true; //  异步加载，不阻塞页面渲染
+        script_holdings.textContent = `{"exchanges": [],
+                                        "dataSource": "NASDAQ100",
+                                        "grouping": "no_group",
+                                        "blockSize": "market_cap_basic",
+                                        "blockColor": "change",
+                                        "locale": "en",
+                                        "symbolUrl": "",
+                                        "colorTheme": "dark",
+                                        "hasTopBar": false,
+                                        "isDataSetEnabled": false,
+                                        "isZoomEnabled": false,
+                                        "hasSymbolTooltip": true,
+                                        "isMonoSize": false,
+                                        "width": "100%",
+                                        "height": "350"}`;
+        container_holdings.appendChild(script_holdings);  //  将 <script> 标签添加到容器中
+    </script>
+</div>
+
+
+<h2 class="relative group">🔗  Maybe you want to know more 
+    <div id="nbspnbspmaybe-you-want-to-know-more" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#nbspnbspmaybe-you-want-to-know-more" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Website</th>
+          <th style="text-align: left">Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><a href="https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&amp;productId=ETF-QQQ" target="_blank">Invesco QQQ</a></td>
+          <td style="text-align: left">Official QQQ Website</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="https://www.invesco.com/us/financial-products/etfs/holdings?audienceType=Investor&amp;ticker=QQQ" target="_blank">QQQ Holdings</a></td>
+          <td style="text-align: left">QQQ Holdings List</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="https://marketchameleon.com/Overview/QQQ/ETF-Financial-Ratios/" target="_blank">QQQ Financial Ratios</a></td>
+          <td style="text-align: left">Summary of QQQ Financial Ratios</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="https://www.lazyportfolioetf.com/etf/invesco-qqq-trust-qqq/" target="_blank">QQQ Historical Returns</a></td>
+          <td style="text-align: left">QQQ Historical Performance from various perspectives</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="https://www.financecharts.com/etfs/QQQ/" target="_blank">QQQ Finance Charts</a></td>
+          <td style="text-align: left">QQQ Finance Charts Information</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="/en/posts/1728723295012-invest-qqq/">How to Invest in NASDAQ 100</a></td>
+          <td style="text-align: left">NASDAQ 100 Investment Information</td>
+      </tr>
+  </tbody>
+</table>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

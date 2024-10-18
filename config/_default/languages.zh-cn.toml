@@ -11,7 +11,7 @@ title = "QQQ 投资者"
   dateFormat = "2006-01-02"
   logo = "img/logo_transparent.png"
   # secondaryLogo = "img/logo_transparent.png"
-  # description = "My awesome website"
+  description = "投资纳斯达克100指数基金，搭上人类科技发展快车，实现富有人生。富有是天赋，快乐是人权。"
   copyright = "© 2024 QQQ Investor"
 
 [params.author]

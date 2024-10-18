@@ -8,11 +8,41 @@
     <language>en</language>
     <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Asset Allocation</title>
+      <link>https://jomonylw.github.io/en/tags/asset-allocation/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomonylw.github.io/en/tags/asset-allocation/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Asset Allocation Plan</title>
+      <link>https://jomonylw.github.io/en/tags/asset-allocation-plan/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomonylw.github.io/en/tags/asset-allocation-plan/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Book</title>
       <link>https://jomonylw.github.io/en/tags/book/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>https://jomonylw.github.io/en/tags/book/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Early Retirement</title>
+      <link>https://jomonylw.github.io/en/tags/early-retirement/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomonylw.github.io/en/tags/early-retirement/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -28,6 +58,36 @@
     </item>
     
     <item>
+      <title>ETF</title>
+      <link>https://jomonylw.github.io/en/tags/etf/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomonylw.github.io/en/tags/etf/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>ETF Investment Guide</title>
+      <link>https://jomonylw.github.io/en/tags/etf-investment-guide/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomonylw.github.io/en/tags/etf-investment-guide/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Financial Freedom</title>
+      <link>https://jomonylw.github.io/en/tags/financial-freedom/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomonylw.github.io/en/tags/financial-freedom/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Financial Management</title>
       <link>https://jomonylw.github.io/en/tags/financial-management/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
@@ -38,71 +98,11 @@
     </item>
     
     <item>
-      <title>Investment</title>
-      <link>https://jomonylw.github.io/en/tags/investment/</link>
+      <title>FIRE</title>
+      <link>https://jomonylw.github.io/en/tags/fire/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/tags/investment/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Wealth</title>
-      <link>https://jomonylw.github.io/en/tags/wealth/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://jomonylw.github.io/en/tags/wealth/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Finance</title>
-      <link>https://jomonylw.github.io/en/tags/finance/</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://jomonylw.github.io/en/tags/finance/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Investing</title>
-      <link>https://jomonylw.github.io/en/tags/investing/</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://jomonylw.github.io/en/tags/investing/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Personal Finance</title>
-      <link>https://jomonylw.github.io/en/tags/personal-finance/</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://jomonylw.github.io/en/tags/personal-finance/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Saving</title>
-      <link>https://jomonylw.github.io/en/tags/saving/</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://jomonylw.github.io/en/tags/saving/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Wealth Building</title>
-      <link>https://jomonylw.github.io/en/tags/wealth-building/</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://jomonylw.github.io/en/tags/wealth-building/</guid>
+      <guid>https://jomonylw.github.io/en/tags/fire/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

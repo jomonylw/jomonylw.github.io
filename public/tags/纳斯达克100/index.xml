@@ -6,7 +6,235 @@
     <description>Recent content in 纳斯达克100 on QQQ 投资者</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/tags/%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B100/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/tags/%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B100/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jomonylw.github.io/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomonylw.github.io/</guid>
+      <description></description>
+      <content:encoded><![CDATA[<h2 id="typeit-6fb22d3943ec7794c447a8e7c1bb77a4"></h2>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      new TypeIt("#typeit-6fb22d3943ec7794c447a8e7c1bb77a4", {
+        strings: ["","人生只需富有一次",""],
+        speed:  100 ,
+        lifeLike:  false ,
+        startDelay:  0 ,
+        breakLines:  true ,
+        waitUntilVisible:  true ,
+        loop:  false 
+      }).go();
+    });
+</script>
+
+
+<h2 class="relative group">💰  1000 美元的增长 
+    <div id="nbspnbsp1000-%E7%BE%8E%E5%85%83%E7%9A%84%E5%A2%9E%E9%95%BF" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#nbspnbsp1000-%E7%BE%8E%E5%85%83%E7%9A%84%E5%A2%9E%E9%95%BF" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<p>
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256s256-114.6 256-256S397.4 0 256 0zM256 128c17.67 0 32 14.33 32 32c0 17.67-14.33 32-32 32S224 177.7 224 160C224 142.3 238.3 128 256 128zM296 384h-80C202.8 384 192 373.3 192 360s10.75-24 24-24h16v-64H224c-13.25 0-24-10.75-24-24S210.8 224 224 224h32c13.25 0 24 10.75 24 24v88h16c13.25 0 24 10.75 24 24S309.3 384 296 384z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    >如从 <strong>2009 年 9月</strong> 开始投资 <strong>QQQ</strong> <strong>1000</strong> 美元，持有 <strong>15</strong> 年，到
+<strong>2024 年 9月</strong> 将价值 <strong>11551.95</strong> 美元，总回报率为 <strong>1055.20%</strong>（年化回报率为 <strong>17.72%</strong>）。</span>
+</div>
+
+<br>
+
+<div class="chart">
+  <canvas id="chart-6e61fa6ce30d8b27e87ef84b4af9faf0"></canvas>
+  <script type="text/javascript">
+    window.addEventListener("DOMContentLoaded", (event) => {
+      const ctx = document.getElementById("chart-6e61fa6ce30d8b27e87ef84b4af9faf0");
+      const chart = new Chart(ctx, {
+        
+    data: {'datasets': [{'type': 'line', 'label': '价格', 'data': [1082.8402366863904, 1288.9940828402366, 1321.4201183431953, 1541.5384615384614, 2081.8934911242604, 2443.786982248521, 2647.5739644970413, 2804.2603550295858, 3686.627218934911, 3651.1242603550295, 5032.1893491124265, 7425.798816568047, 9416.56804733728, 6302.485207100591, 9692.781065088757, 11551.952662721893], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': '收益率', 'data': [0.08284023668639043, 0.19038251366120224, 0.02515607785530675, 0.16657710908113904, 0.35052970981114706, 0.1738290131878127, 0.08338983050847446, 0.05918111925621316, 0.3146522619851451, -0.009630200308166388, 0.37825748735900444, 0.4756596585297021, 0.26808822591955145, -0.33070252607766765, 0.537929998497822, 0.1918099238132448], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]},
+    options: {
+        scales: {
+            'price-axis': {
+                type: 'linear',
+                position: 'left',
+                title: {
+                    display: true,
+                    text: '价格' 
+                }
+             },
+            'return-axis': {
+                type: 'linear',
+                position: 'right',
+                title: {
+                    display: true,
+                    text: '收益率'
+                },
+                ticks: {
+                    callback: function(value, index, values) {
+                        return (value * 100).toFixed(2) + '%';
+                    }
+                }
+            }
+        },
+        plugins: {
+            legend: {
+                display: false
+            },
+            tooltip: {
+                callbacks: {
+                    label: function(context) {
+                        if (context.dataset.type === 'bar') {
+                            return context.dataset.label + ': ' + (context.parsed.y * 100).toFixed(2) + '%';
+                        } else {
+                            return context.dataset.label + ': $' + context.parsed.y.toFixed(2);
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+      });
+    });
+  </script>
+</div>
+</p>
+
+
+<h2 class="relative group">📈  市场及成分股 
+    <div id="nbspnbsp%E5%B8%82%E5%9C%BA%E5%8F%8A%E6%88%90%E5%88%86%E8%82%A1" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#nbspnbsp%E5%B8%82%E5%9C%BA%E5%8F%8A%E6%88%90%E5%88%86%E8%82%A1" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<div id="qqq-tradingview">
+    <script>
+        const container = document.getElementById('qqq-tradingview');
+        const script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js';  // 加载TradingView库
+        script.async = true; //  异步加载，不阻塞页面渲染
+        script.textContent = `{"symbol": "NASDAQ:QQQ",
+                                "width": "100%",
+                                "height": "220",
+                                "locale": "zh_CN",
+                                "dateRange": "60M",
+                                "colorTheme": "dark",
+                                "isTransparent": true,
+                                "autosize": true}`;
+        container.appendChild(script);  //  将 <script> 标签添加到容器中
+    </script>
+</div>
+<br>
+<div id="ndx-holdings">
+    <script>
+        const container_holdings = document.getElementById('ndx-holdings');
+        const script_holdings = document.createElement('script');
+        script_holdings.type = 'text/javascript';
+        script_holdings.src = 'https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js';         
+        script_holdings.async = true; //  异步加载，不阻塞页面渲染
+        script_holdings.textContent = `{"exchanges": [],
+                                        "dataSource": "NASDAQ100",
+                                        "grouping": "no_group",
+                                        "blockSize": "market_cap_basic",
+                                        "blockColor": "change",
+                                        "locale": "zh_CN",
+                                        "symbolUrl": "",
+                                        "colorTheme": "dark",
+                                        "hasTopBar": false,
+                                        "isDataSetEnabled": false,
+                                        "isZoomEnabled": false,
+                                        "hasSymbolTooltip": true,
+                                        "isMonoSize": false,
+                                        "width": "100%",
+                                        "height": "350"}`;
+        container_holdings.appendChild(script_holdings);  //  将 <script> 标签添加到容器中
+    </script>
+</div>
+
+
+<h2 class="relative group">🔗  或许你想了解 
+    <div id="nbspnbsp%E6%88%96%E8%AE%B8%E4%BD%A0%E6%83%B3%E4%BA%86%E8%A7%A3" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#nbspnbsp%E6%88%96%E8%AE%B8%E4%BD%A0%E6%83%B3%E4%BA%86%E8%A7%A3" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">网站</th>
+          <th style="text-align: left">描述</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><a href="https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&amp;productId=ETF-QQQ" target="_blank">Invesco QQQ</a></td>
+          <td style="text-align: left">QQQ 官方网站</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="https://www.invesco.com/us/financial-products/etfs/holdings?audienceType=Investor&amp;ticker=QQQ" target="_blank">QQQ 持仓</a></td>
+          <td style="text-align: left">QQQ 持仓列表</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="https://marketchameleon.com/Overview/QQQ/ETF-Financial-Ratios/" target="_blank">QQQ 财务比率</a></td>
+          <td style="text-align: left">QQQ 各项财务比率数据汇总</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="https://www.lazyportfolioetf.com/etf/invesco-qqq-trust-qqq/" target="_blank">QQQ 历史回报</a></td>
+          <td style="text-align: left">从各维度展示QQQ历史表现</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="https://www.financecharts.com/etfs/QQQ/" target="_blank">QQQ 金融图表</a></td>
+          <td style="text-align: left">QQQ 金融图表资讯</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="/posts/1728723295012-invest-qqq/">如何投资纳斯达克 100</a></td>
+          <td style="text-align: left">纳斯达克 100 投资资讯</td>
+      </tr>
+  </tbody>
+</table>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>00484 有钱立即市价买进是最佳投资策略：固若金汤的资产配置市场就不存在</title>
       <link>https://jomonylw.github.io/posts/1728261371758/</link>
