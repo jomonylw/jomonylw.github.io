@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
 Sitemap: https://jomonylw.github.io/sitemap.xml
+Sitemap: https://jomonylw.github.io/zh-cn/sitemap.xml
+Sitemap: https://jomonylw.github.io/en/sitemap.xml
