@@ -61,8 +61,6 @@ If you invested **$1000** in **QQQ** starting from **2009/09**, and held it for 
     }
 {{< /chart >}}
 
-
-
 ## 📈&nbsp;&nbsp;Market and Constituent Stocks
 <div id="qqq-tradingview">
     <script>
