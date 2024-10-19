@@ -338,19 +338,4 @@
       href="https://jomonylw.github.io/posts/1728565408053/"
     />
   </url>
-  <url>
-    <loc>https://jomonylw.github.io/_growth/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://jomonylw.github.io/en/_growth/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://jomonylw.github.io/_growth/"
-    />
-  </url>
 </urlset>
