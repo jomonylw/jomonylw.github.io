@@ -35,3 +35,8 @@ This book answers the most common questions in the field of personal finance and
 
 This book reveals the true portrait of American millionaires through a survey, debunking myths about them and showcasing their common characteristics: frugality, diligence, self-discipline, and skillful investment. It also explores the definition of wealth, how to accumulate it, how to educate children, and how to distribute inheritance, providing a life textbook for readers.
 {{< article link="/en/posts/1728996298300/" >}}
+
+## The Most Important Thing
+
+This book, by renowned investor Howard Marks, summarizes his investment experience, explaining his investment philosophy and analyzing key factors such as market environment, investor psychology, and risk control, aiming to help investors achieve above-market investment performance.
+{{< article link="/en/posts/1729341470274/" >}}
