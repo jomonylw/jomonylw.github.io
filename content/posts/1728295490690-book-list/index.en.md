@@ -40,3 +40,8 @@ This book reveals the true portrait of American millionaires through a survey, d
 
 This book, by renowned investor Howard Marks, summarizes his investment experience, explaining his investment philosophy and analyzing key factors such as market environment, investor psychology, and risk control, aiming to help investors achieve above-market investment performance.
 {{< article link="/en/posts/1729341470274/" >}}
+
+## The Intelligent Investo
+
+This book provides guidance on investment strategies for laymen, explores the difference between investing and speculation, different strategies for defensive and enterprising investors and the relationship between investors and investment advisors, highlighting the concept of "margin of safety" as the core of investment.
+{{< article link="/en/posts/1730598742194/" >}}
