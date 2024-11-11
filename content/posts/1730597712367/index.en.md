@@ -1,7 +1,7 @@
 ---
-title: 00490 Workers are just picking up trash; Mortgages are a risk for retirees; Buying a house won't make you rich.
+title: "00490 Workers are just picking up trash; Mortgages are a risk for retirees; Buying a house won't make you rich."
 date: 2024-11-02
-description: This session focuses on investment philosophy, asset allocation, lifestyle, and how to cope with market fluctuations. It emphasizes the importance of staying optimistic, continuous learning, and answers questions from the audience on Bitcoin, real estate, retirement planning, leveraged funds, and education funds.
+description: "This session focuses on investment philosophy, asset allocation, lifestyle, and how to cope with market fluctuations. It emphasizes the importance of staying optimistic, continuous learning, and answers questions from the audience on Bitcoin, real estate, retirement planning, leveraged funds, and education funds."
 tags: ["CLEC", "Investment", "Asset Allocation", "Lifestyle", "Market Fluctuation", "Retirement Planning", "Education Fund", "Bitcoin", "Real Estate", "Leveraged Funds", "Meditation"]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Just Keep Buying：Book Notes
+title: "Just Keep Buying: Book Notes"
 date: 2024-10-14
-description: This book answers the most common questions in the field of personal finance and investing. From saving to investing, it provides practical tips to teach you how to increase your income, invest in income-producing assets, manage your finances more wisely, and live a richer life.
+description: "This book answers the most common questions in the field of personal finance and investing. From saving to investing, it provides practical tips to teach you how to increase your income, invest in income-producing assets, manage your finances more wisely, and live a richer life."
 tags: ["Finance", "Investing", "Personal Finance", "Wealth Building", "Wealth", "Saving", "book"]
 RelPermalink: "/en/posts/1728914740948/"
 series: ["Books"]

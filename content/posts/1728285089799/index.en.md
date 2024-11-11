@@ -1,7 +1,7 @@
 ---
-title: 00482 Investing in Humanity's Future：How to Harness the Power of Long-Term Investing, Grow Your Capital, and Make Time and Money Work for You?
+title: "00482 Investing in Humanity's Future: How to Harness the Power of Long-Term Investing, Grow Your Capital, and Make Time and Money Work for You?"
 date: 2024-08-31
-description: This session explored the essence of capitalism, critiquing the current financial education system and delving into a brainless investment strategy.  It emphasized the importance of asset allocation, achieving true financial freedom, and discussed topics like raising children with a sense of responsibility and finding one's purpose in life.
+description: "This session explored the essence of capitalism, critiquing the current financial education system and delving into a brainless investment strategy.  It emphasized the importance of asset allocation, achieving true financial freedom, and discussed topics like raising children with a sense of responsibility and finding one's purpose in life."
 tags: ["CLEC", "Capitalism", "Index Funds", "Asset Allocation", "Financial Freedom", "Parenting", "Life Purpose"]
 ---
 

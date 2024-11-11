@@ -1,7 +1,7 @@
 ---
-title: The Most Important Thing：Book Notes
+title: "The Most Important Thing: Book Notes"
 date: 2024-10-19
-description: This book, by renowned investor Howard Marks, summarizes his investment experience, explaining his investment philosophy and analyzing key factors such as market environment, investor psychology, and risk control, aiming to help investors achieve above-market investment performance.
+description: "This book, by renowned investor Howard Marks, summarizes his investment experience, explaining his investment philosophy and analyzing key factors such as market environment, investor psychology, and risk control, aiming to help investors achieve above-market investment performance."
 tags: ["book", "reading notes", "investing", "value investing", "risk management", "market cycle", "investor psychology"]
 RelPermalink: "/en/posts/1729341470274/"
 series: ["Books"]

@@ -1,7 +1,7 @@
 ---
-title: The Psychology of Money：Book Notes
+title: "The Psychology of Money: Book Notes"
 date: 2024-10-09
-description: This book, focusing on the psychology of money, states that the key to financial success is not intellect but behavior. Through numerous real-life examples and stories, it reveals the psychological weaknesses, biases, and behavioral patterns that influence human financial decisions, proposing strategies for making smarter choices in personal finance. 
+description: "This book, focusing on the psychology of money, states that the key to financial success is not intellect but behavior. Through numerous real-life examples and stories, it reveals the psychological weaknesses, biases, and behavioral patterns that influence human financial decisions, proposing strategies for making smarter choices in personal finance. "
 tags: ["Finance", "Psychology", "Investment", "Behavioral Economics", "Wealth", "Happiness", "book"]
 RelPermalink: "/en/posts/1728478918602/"
 series: ["Books"]

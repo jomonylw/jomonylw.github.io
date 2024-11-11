@@ -1,7 +1,7 @@
 ---
-title: Property of Money：Book Notes
+title: "Property of Money: Book Notes"
 date: 2024-10-10
-description:  Korean entrepreneur Kim Seung-ho shares his personal journey from poverty to wealth, providing practical guidance on wealth accumulation, management, and the pursuit of financial freedom.
+description:  "Korean entrepreneur Kim Seung-ho shares his personal journey from poverty to wealth, providing practical guidance on wealth accumulation, management, and the pursuit of financial freedom."
 tags: ["Finance", "Investment", "Wealth", "Freedom", "Success", "Money", "book"]
 RelPermalink: "/en/posts/1728564107112/"
 series: ["Books"]

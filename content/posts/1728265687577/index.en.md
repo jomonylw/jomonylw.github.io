@@ -1,7 +1,7 @@
 ---
-title: 00483 Rock-solid asset allocation,Investment strategies based on asset allocation and risk management
+title: "00483 Rock-solid asset allocation,Investment strategies based on asset allocation and risk management"
 date: 2024-09-14 
-description: This live stream focuses on the core concept of "wealth is a gift". James explains the importance of investing and financial management, the advantages of index investing, the relationship between risk tolerance and investment returns, and how to allocate your assets reasonably.  During the Q&A session, students raised questions about TQQQ investment, Beta calculation, asset allocation strategies, and the investment market in mainland China. James answered these questions in detail and shared numerous experiences and cases to help students overcome psychological barriers in investment and solidify their long-term investment philosophy.
+description: "This live stream focuses on the core concept of 'wealth is a gift'. James explains the importance of investing and financial management, the advantages of index investing, the relationship between risk tolerance and investment returns, and how to allocate your assets reasonably.  During the Q&A session, students raised questions about TQQQ investment, Beta calculation, asset allocation strategies, and the investment market in mainland China. James answered these questions in detail and shared numerous experiences and cases to help students overcome psychological barriers in investment and solidify their long-term investment philosophy."
 tags: ["CLEC", "investment", "financial management", "wealth", "gift", "index investing", "asset allocation", "risk", "return", "TQQQ", "Beta", "China market", "investment psychology"]
 ---
 

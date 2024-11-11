@@ -1,7 +1,7 @@
 ---
-title: The Intelligent Investor：Book Notes
+title: "The Intelligent Investor: Book Notes"
 date: 2024-11-03
-description: This book provides guidance on investment strategies for laymen, explores the difference between investing and speculation, different strategies for defensive and enterprising investors and the relationship between investors and investment advisors, highlighting the concept of "margin of safety" as the core of investment.
+description: "This book provides guidance on investment strategies for laymen, explores the difference between investing and speculation, different strategies for defensive and enterprising investors and the relationship between investors and investment advisors, highlighting the concept of 'margin of safety' as the core of investment."
 tags: ["Book", "Reading Notes", "Investment", "Value Investing"]
 RelPermalink: "/en/posts/1730598742194/"
 series: ["Books"]

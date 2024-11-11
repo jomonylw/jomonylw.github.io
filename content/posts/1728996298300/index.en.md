@@ -1,7 +1,7 @@
 ---
-title: The Millionaire Next Door：Book Notes
+title: "The Millionaire Next Door: Book Notes"
 date: 2024-10-15
-description: This book reveals the true portrait of American millionaires through a survey, debunking myths about them and showcasing their common characteristics：frugality, diligence, self-discipline, and skillful investment. It also explores the definition of wealth, how to accumulate it, how to educate children, and how to distribute inheritance, providing a life textbook for readers.
+description: "This book reveals the true portrait of American millionaires through a survey, debunking myths about them and showcasing their common characteristics：frugality, diligence, self-discipline, and skillful investment. It also explores the definition of wealth, how to accumulate it, how to educate children, and how to distribute inheritance, providing a life textbook for readers."
 tags: ["wealth", "financial management", "investment", "education", "book"]
 RelPermalink: "/posts/1728996298300/"
 series: ["Books"]

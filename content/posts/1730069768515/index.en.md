@@ -1,7 +1,7 @@
 ---
-title: 00489 US Dollar Hegemony and the Sorrow of Trade Surplus Countries; Investing in QQQ Outperforms SPY
+title: "00489 US Dollar Hegemony and the Sorrow of Trade Surplus Countries; Investing in QQQ Outperforms SPY"
 date: 2024-10-26
-description: In this session, James begins by analyzing the current investment market, pointing out that it's poised to hit new highs. He advises listeners to solidify their investment confidence and enter the market sooner rather than later. James then delves into a research paper discussing asset portfolios comprising leveraged funds, cash, QQQ, and SPY. He analyzes the risks and returns associated with various investment portfolios, emphasizing the critical role of cash allocation. He addresses questions from participants regarding asset allocation, stock pledges, retirement planning, investment strategies, and the US dollar's global dominance. He also shares his personal views on marriage and having children. 
+description: "In this session, James begins by analyzing the current investment market, pointing out that it's poised to hit new highs. He advises listeners to solidify their investment confidence and enter the market sooner rather than later. James then delves into a research paper discussing asset portfolios comprising leveraged funds, cash, QQQ, and SPY. He analyzes the risks and returns associated with various investment portfolios, emphasizing the critical role of cash allocation. He addresses questions from participants regarding asset allocation, stock pledges, retirement planning, investment strategies, and the US dollar's global dominance. He also shares his personal views on marriage and having children. "
 tags: ["CLEC", "Market Analysis", "Asset Allocation", "Retirement Planning", "Investment Strategies", "US Dollar Hegemony", "Marriage", "Childbearing"]
 ---
 

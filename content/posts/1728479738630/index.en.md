@@ -1,7 +1,7 @@
 ---
-title: 00478 Invest Immediately and Hold Long-Term：Key Strategies for Achieving Financial Freedom
+title: "00478 Invest Immediately and Hold Long-Term: Key Strategies for Achieving Financial Freedom"
 date: 2024-08-03
-description: This episode focuses on risk control and investment mindset. James reiterates the importance of asset allocation, especially during market volatility. He explains in detail how to allocate assets in different scenarios and how to maintain a positive investment mindset. In addition, James answers questions from the audience regarding insurance and financial products, Apple Vision Pro, the role of Wall Street, and 401K accounts. 
+description: "This episode focuses on risk control and investment mindset. James reiterates the importance of asset allocation, especially during market volatility. He explains in detail how to allocate assets in different scenarios and how to maintain a positive investment mindset. In addition, James answers questions from the audience regarding insurance and financial products, Apple Vision Pro, the role of Wall Street, and 401K accounts. "
 tags: ["CLEC", "risk control", "investment mindset", "asset allocation", "black swan event", "leveraged funds", "index funds", "insurance & financial products", "Vision Pro", "Wall Street", "401K"]
 ---
 

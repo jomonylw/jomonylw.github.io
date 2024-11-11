@@ -1,7 +1,7 @@
 ---
-title: 00485 Buying a house will only make you poor. Investing makes you rich. Borrowing money to keep your assets growing is the way to become wealthy
+title: "00485 Buying a house will only make you poor. Investing makes you rich. Borrowing money to keep your assets growing is the way to become wealthy"
 date: 2024-09-28
-description: This episode focuses on investment philosophy, strategies to avoid scams, and the impact of China's newest economic policies on the global market. James reiterates the importance of long-term investment in index funds, specifically QQQ, and advises investors to control their emotions and resist market volatility. He uses real-life examples and data to illustrate the concept of "borrowing for consumption, investing for asset growth", and analyzes China's recent economic stimulus policies, viewing them as a positive sign for global economic recovery. 
+description: "This episode focuses on investment philosophy, strategies to avoid scams, and the impact of China's newest economic policies on the global market. James reiterates the importance of long-term investment in index funds, specifically QQQ, and advises investors to control their emotions and resist market volatility. He uses real-life examples and data to illustrate the concept of borrowing for consumption, investing for asset growth, and analyzes China's recent economic stimulus policies, viewing them as a positive sign for global economic recovery. "
 tags: ["CLEC", "Investment Philosophy", "Index Funds", "QQQ", "Scam",  "China's Economy", "Real Estate Investment"]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 00480 Is investing in Index Fund guaranteed to be profitable? How can one consistently make profits in the market?
+title: "00480 Is investing in Index Fund guaranteed to be profitable? How can one consistently make profits in the market?"
 date: 2024-08-17
-description: This session focuses on investment cycles, covering how to identify market cycles, emphasizing the challenge of differentiating between premature and incorrect judgments, and illustrating with Buffett's actions during the 2008 financial crisis. It also touches upon risks associated with real estate investment, insurance choices, stock pledges, and asset allocation strategies, particularly comparing and offering advice for the Taiwanese and US markets. In the Q&A section, students raised questions and shared insights on topics such as the aircraft carrier investment strategy, property tax, central bank policy, currency devaluation, and James addressed each one in detail.
+description: "This session focuses on investment cycles, covering how to identify market cycles, emphasizing the challenge of differentiating between premature and incorrect judgments, and illustrating with Buffett's actions during the 2008 financial crisis. It also touches upon risks associated with real estate investment, insurance choices, stock pledges, and asset allocation strategies, particularly comparing and offering advice for the Taiwanese and US markets. In the Q&A section, students raised questions and shared insights on topics such as the aircraft carrier investment strategy, property tax, central bank policy, currency devaluation, and James addressed each one in detail."
 tags: ["CLEC", "investment cycle", "asset allocation", "real estate investment", "insurance", "stock pledge"]
 ---
 

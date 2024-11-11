@@ -1,7 +1,7 @@
 ---
-title: Early Retirement Extreme：Book Notes
+title: "Early Retirement Extreme: Book Notes"
 date: 2024-10-08
-description: This book offers an unconventional philosophical and practical guide to financial independence and early retirement, encouraging readers to break free from the traditional "work-consume" cycle. By cultivating diverse skills, reducing consumption, and investing wisely, readers can achieve financial independence within a few years and live a more free and balanced life. The book also delves into how "the system" influences individual decisions and how to escape its constraints.
+description: "This book offers an unconventional philosophical and practical guide to financial independence and early retirement, encouraging readers to break free from the traditional 'work-consume' cycle. By cultivating diverse skills, reducing consumption, and investing wisely, readers can achieve financial independence within a few years and live a more free and balanced life. The book also delves into how 'the system' influences individual decisions and how to escape its constraints."
 tags: ["financial independence", "early retirement", "FIRE", "personal finance", "lifestyle", "investing", "systems thinking", "book"]
 RelPermalink: "/en/posts/1728390192272/"
 series: ["Books"]

@@ -1,7 +1,7 @@
 ---
-title: 00487 The Truth About Investing：Maximizing the Probability of Success, Not Returns; How to Navigate Market Volatility：Strategies to Avoid Interrupting Compound Growth
+title: "00487 The Truth About Investing: Maximizing the Probability of Success, Not Returns; How to Navigate Market Volatility: Strategies to Avoid Interrupting Compound Growth"
 date: 2024-10-12
-description: James announces the discontinuation of short video updates, with content to be condensed into a Saturday briefing format. This session emphasizes the importance of risk control and how to maximize the success probability of an investment portfolio. James addresses audience questions on stock pledging, asset allocation, individual stock investments, and reiterates warnings about pump-and-dump schemes and scams. He also shares insights on market volatility, A-share market fluctuations, and investment psychology.
+description: "James announces the discontinuation of short video updates, with content to be condensed into a Saturday briefing format. This session emphasizes the importance of risk control and how to maximize the success probability of an investment portfolio. James addresses audience questions on stock pledging, asset allocation, individual stock investments, and reiterates warnings about pump-and-dump schemes and scams. He also shares insights on market volatility, A-share market fluctuations, and investment psychology."
 tags: ["CLEC", "Risk Management", "Asset Allocation", "Stock Pledging", "QQQ", "SPY", "Tesla", "A-shares", "Meme Stocks", "Futures", "Pump and Dump"]
 ---
 

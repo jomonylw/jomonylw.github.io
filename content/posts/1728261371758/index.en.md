@@ -1,7 +1,7 @@
 ---
-title: 00484 Buying at the market price immediately when you have money is the best investment strategy:a market with an unbreakable asset allocation doesn't exist
+title: "00484 Buying at the market price immediately when you have money is the best investment strategy: a market with an unbreakable asset allocation doesn't exist"
 date: 2024-09-21
-description: This live session focused on long-term investment strategies, delving into investment philosophy, risk management, and values.  James shared personal experiences and insights, offering valuable guidance on understanding the nature of investing and its inherent risks, emphasizing the importance of being rational, patient, and vigilant.
+description: "This live session focused on long-term investment strategies, delving into investment philosophy, risk management, and values.  James shared personal experiences and insights, offering valuable guidance on understanding the nature of investing and its inherent risks, emphasizing the importance of being rational, patient, and vigilant."
 tags: ["CLEC", "investment strategy", "long-term investment", "values", "Nasdaq 100", "QQQ", "leveraged funds", "market cycle", "financial security", "US manufacturing", "Asia's rise", "asset allocation", "supply chain security", "Warren Buffett", "risk management"]
 ---
 

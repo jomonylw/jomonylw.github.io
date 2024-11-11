@@ -1,7 +1,7 @@
 ---
-title: 00479 Three Easy Examples of Getting Rich, The Power of Starting Early and Compound Interest
+title: "00479 Three Easy Examples of Getting Rich, The Power of Starting Early and Compound Interest"
 date: 2024-08-10
-description: In this session, James reiterates the importance of long-term index fund investing, illustrating the power of compounding interest with multiple examples. He also explains how to avoid common investment pitfalls to achieve financial freedom.  Additionally, James addresses audience questions on asset allocation, real estate investment, trusts, and children's education funds.
+description: "In this session, James reiterates the importance of long-term index fund investing, illustrating the power of compounding interest with multiple examples. He also explains how to avoid common investment pitfalls to achieve financial freedom.  Additionally, James addresses audience questions on asset allocation, real estate investment, trusts, and children's education funds."
 tags: ["CLEC", "index funds", "long-term investment", "compounding", "asset allocation", "real estate", "trust", "risk management", "children's education"]
 ---
 

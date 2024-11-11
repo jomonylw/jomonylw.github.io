@@ -1,7 +1,7 @@
 ---
-title: 00477 Eternal Freedom from Worry and Stress：Wisdom and Strategies for Long-Term Investing
+title: "00477 Eternal Freedom from Worry and Stress: Wisdom and Strategies for Long-Term Investing"
 date: 2024-07-27
-description: In this session, James shares his investment philosophy, emphasizing the importance of independent thinking and risk management. He also answers questions from students on topics such as TQQQ, emergency funds, MAGS fund, and real estate investment.
+description: "In this session, James shares his investment philosophy, emphasizing the importance of independent thinking and risk management. He also answers questions from students on topics such as TQQQ, emergency funds, MAGS fund, and real estate investment."
 tags: ["CLEC", "Investment Philosophy", "QQQ", "TQQQ", "Emergency Fund", "Real Estate Investment", "Index Fund", "Mindset", "Risk Management"]
 ---
 
