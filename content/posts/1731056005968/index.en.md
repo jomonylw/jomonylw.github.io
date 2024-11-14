@@ -8,7 +8,7 @@ series: ["Personal Investment Bible"]
 series_order: 11
 ---
 
-## Investment Iron Law 9: Grasping the General Market Trend
+## Investment Iron Law Ⅸ: Grasping the General Market Trend
 
 > Basing investment decisions on technical analysis  
 > often indicates a lack of experience.  

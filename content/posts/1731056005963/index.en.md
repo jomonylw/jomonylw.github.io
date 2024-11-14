@@ -8,7 +8,7 @@ series: ["Personal Investment Bible"]
 series_order: 6
 ---
 
-## Investment Iron Law 4: Making Money with Other People's Money
+## Investment Iron Law IV: Making Money with Other People's Money
 
 > By applying the principle of financial leverage, an investment of 500 million can double your business.
 

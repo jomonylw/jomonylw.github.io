@@ -8,7 +8,7 @@ series: ["Personal Investment Bible"]
 series_order: 13
 ---
 
-## Investment Iron Law 11: Avoid Short-Term Trading
+## Investment Iron Law XI: Avoid Short-Term Trading
 
 > The greatest enemy of investment activity is human weakness: greed, fear, and herd mentality.
 

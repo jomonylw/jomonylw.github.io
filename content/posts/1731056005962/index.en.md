@@ -8,7 +8,7 @@ series: ["Personal Investment Bible"]
 series_order: 5
 ---
 
-## Investment Iron Law 3: Invest Sooner Rather Than Later
+## Investment Iron Law III: Invest Sooner Rather Than Later
 
 > Invest first, then wait for the opportunity,  
 > rather than waiting for the opportunity to invest.

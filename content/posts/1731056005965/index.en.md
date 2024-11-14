@@ -8,7 +8,7 @@ series: ["Personal Investment Bible"]
 series_order: 8
 ---
 
-## Investment Iron Law 6: Escaping the Trap of Locked-in Investments
+## Investment Iron Law Ⅵ: Escaping the Trap of Locked-in Investments
 
 > Don't put all your eggs in one basket.
 
