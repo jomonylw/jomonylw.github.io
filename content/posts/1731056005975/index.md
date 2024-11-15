@@ -47,12 +47,13 @@ series_order: 18
 
 由复利表中，读者不难发现，表中的数据随时间及利率大小渐增，但是光知道这点是不够的，复利究竟还具有哪些特性呢？读者在观看由复利表所形成的复利图像，便可豁然大悟。图1-1的假设条件为：每年年底存入1元，在不同的利率下，10年中总资产的增长趋线；图1-2的基本条件同图1-1，所不同的是，将时间由10年拉长为40年。
 
-(图表略)
+![image.png](https://raw.githubusercontent.com/jomonylw/jomonylw.github.io/refs/heads/main/content/posts/1731056005975/img-01.jpg)
 
 图1-1：不同利率、期数下，1元之年金未来值增长图(10年)
 
 
-(图表略)
+![image.png](https://raw.githubusercontent.com/jomonylw/jomonylw.github.io/refs/heads/main/content/posts/1731056005975/img-02.jpg)
+
 
 图1-2：不同利率、期数下，1元之年金未来值增长图(40年)
 
