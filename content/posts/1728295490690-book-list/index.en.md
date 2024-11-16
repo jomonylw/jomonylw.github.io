@@ -45,3 +45,8 @@ This book, by renowned investor Howard Marks, summarizes his investment experien
 
 This book provides guidance on investment strategies for laymen, explores the difference between investing and speculation, different strategies for defensive and enterprising investors and the relationship between investors and investment advisors, highlighting the concept of "margin of safety" as the core of investment.
 {{< article link="/en/posts/1730598742194/" >}}
+
+## Personal Investment Bible
+
+This book, written by Mr. Huang Peiyuan from Taiwan, uses easy-to-understand language to teach the correct methods of financial management. It elaborates on thirteen Investment Iron Laws for effortless wealth building, guiding readers on how to establish a correct perspective on financial management and ultimately achieve financial freedom.
+{{< article link="/en/posts/1731056005976/" >}}
