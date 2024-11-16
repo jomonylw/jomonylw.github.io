@@ -47,11 +47,11 @@ Compound interest's effect varies with different interest rates and durations.  
 
 The compound interest table reveals that the values increase with time and interest rate.  However, this isn't the whole story.  Observing compound interest graphs derived from these tables reveals further insights. Figure 1-1 assumes a yearly deposit of 1 yuan at different interest rates, plotting asset growth over 10 years. Figure 1-2 uses the same assumptions but extends the time horizon to 40 years.
 
-![image.png](https://raw.githubusercontent.com/jomonylw/jomonylw.github.io/refs/heads/main/content/posts/1731056005975/img-01.jpg)
+![image.png](https://raw.githubusercontent.com/jomonylw/jomonylw.github.io/refs/heads/main/content/posts/1731056005975/img-01-en.jpg)
 
 Figure 1-1: Future Value Growth of 1 Yuan Annuity at Different Interest Rates over 10 Years
 
-![image.png](https://raw.githubusercontent.com/jomonylw/jomonylw.github.io/refs/heads/main/content/posts/1731056005975/img-02.jpg)
+![image.png](https://raw.githubusercontent.com/jomonylw/jomonylw.github.io/refs/heads/main/content/posts/1731056005975/img-02-en.jpg)
 
 Figure 1-2: Future Value Growth of 1 Yuan Annuity at Different Interest Rates over 40 Years
 
