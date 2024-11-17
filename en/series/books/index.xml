@@ -3766,9 +3766,41 @@
 <li><strong>Building a resilient lifestyle:</strong> Reduce dependence on the external environment and &ldquo;the system&rdquo; and increase the ability to adapt to change.</li>
 <li><strong>Pursuing personal growth and self-realization:</strong> Live a more meaningful, autonomous, and free life.</li>
 </ul>
-<p>In conclusion, this book encourages readers to undertake a profound self-reflection and lifestyle transformation to ultimately break free from the constraints of &ldquo;the system&rdquo; and achieve financial independence and true freedom.</p>
-<p><strong>Download:</strong> <a href="https://github.com/TianmingLi/early_retirement_extreme_cn/blob/main/src/earlyretirementextreme.pdf" target="_blank">Early Retirement Extreme</a></p>
-<a id="github-9d257e742571844f23f4a51f109dc8a3" target="_blank" href="https://github.com/TianmingLi/early_retirement_extreme_cn" class="cursor-pointer">
+<p>In conclusion, this book encourages readers to undertake a profound self-reflection and lifestyle transformation to ultimately break free from the constraints of &ldquo;the system&rdquo; and achieve financial independence and true freedom.
+<br/>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path fill="currentColor" d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32V274.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7V32zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V416c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352H64zM432 456c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg>
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>Download:</strong> <a href="https://github.com/TianmingLi/early_retirement_extreme_cn/blob/main/src/earlyretirementextreme.pdf" target="_blank">Early Retirement Extreme</a></span>
+</div>
+
+<br/>
+<a id="github-ca5909c42993317bda43c57784488179" target="_blank" href="https://github.com/TianmingLi/early_retirement_extreme_cn" class="cursor-pointer">
   <div
     class="w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl">
 
@@ -3784,13 +3816,13 @@
 
       </span>
       <div
-        id="github-9d257e742571844f23f4a51f109dc8a3-full_name"
+        id="github-ca5909c42993317bda43c57784488179-full_name"
         class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
         TianmingLi/early_retirement_extreme_cn
       </div>
     </div>
 
-    <p id="github-9d257e742571844f23f4a51f109dc8a3-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
+    <p id="github-ca5909c42993317bda43c57784488179-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
       Early Retirement Extreme 中文翻译 Renaissance &amp; Liberty
     </p>
 
@@ -3811,7 +3843,7 @@
 
 
       </span>
-      <div id="github-9d257e742571844f23f4a51f109dc8a3-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
+      <div id="github-ca5909c42993317bda43c57784488179-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
         59
       </div>
 
@@ -3824,7 +3856,7 @@
 
 
       </span>
-      <div id="github-9d257e742571844f23f4a51f109dc8a3-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
+      <div id="github-ca5909c42993317bda43c57784488179-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
         18
       </div>
 
@@ -3839,14 +3871,14 @@
     })
       .then(response => response.json())
       .then(data => {
-        document.getElementById('github-9d257e742571844f23f4a51f109dc8a3-full_name').innerHTML = data.full_name;
-        document.getElementById('github-9d257e742571844f23f4a51f109dc8a3-description').innerHTML = data.description;
-        document.getElementById('github-9d257e742571844f23f4a51f109dc8a3-stargazers').innerHTML = data.stargazers_count;
-        document.getElementById('github-9d257e742571844f23f4a51f109dc8a3-forks').innerHTML = data.forks;
+        document.getElementById('github-ca5909c42993317bda43c57784488179-full_name').innerHTML = data.full_name;
+        document.getElementById('github-ca5909c42993317bda43c57784488179-description').innerHTML = data.description;
+        document.getElementById('github-ca5909c42993317bda43c57784488179-stargazers').innerHTML = data.stargazers_count;
+        document.getElementById('github-ca5909c42993317bda43c57784488179-forks').innerHTML = data.forks;
       })
       .catch(error => console.error(error))
   </script>
-</a>
+</a></p>
 <hr>
 
 <section class="space-y-10 w-full">
