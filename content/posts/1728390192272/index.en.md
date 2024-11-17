@@ -61,9 +61,11 @@ This book provides a perspective that goes beyond traditional financial advice, 
 * **Pursuing personal growth and self-realization:** Live a more meaningful, autonomous, and free life.
 
 In conclusion, this book encourages readers to undertake a profound self-reflection and lifestyle transformation to ultimately break free from the constraints of "the system" and achieve financial independence and true freedom.
-
+<br/>
+{{< alert "download">}}
 **Download:** [Early Retirement Extreme](https://github.com/TianmingLi/early_retirement_extreme_cn/blob/main/src/earlyretirementextreme.pdf)
-
+{{< /alert >}}
+<br/>
 {{< github repo="TianmingLi/early_retirement_extreme_cn" >}}
 
 ---

@@ -63,10 +63,11 @@ series_order: 2
 
 
 总而言之，这本书鼓励读者进行一场深刻的自我反思和生活方式的变革，最终摆脱“系统”的束缚，实现财务独立和人生的真正自由。
-
-
+<br/>
+{{< alert "download">}}
 **下载：** [《极早退休》中文翻译版](https://github.com/TianmingLi/early_retirement_extreme_cn/blob/main/cn/release.pdf)
-
+{{< /alert >}}
+<br/>
 {{< github repo="TianmingLi/early_retirement_extreme_cn" >}}
 
 

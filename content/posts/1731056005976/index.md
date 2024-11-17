@@ -172,9 +172,11 @@ series_order: 9
 ---
 ## 阅读完整书籍
 {{< article link="/posts/1731056005958/" >}}
-
+<br/>
+{{< alert "download">}}
 **下载：** [《理财圣经》文字版](https://github.com/jomonylw/PersonalInvestmentBible/releases/download/master/PersonalInvestmentBible.epub)
-
+{{< /alert >}}
+<br/>
 {{< github repo="jomonylw/PersonalInvestmentBible" >}}
 
 ---

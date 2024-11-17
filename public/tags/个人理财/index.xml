@@ -912,9 +912,41 @@
 <li><strong>构建有韧性的生活方式:</strong>  减少对外部环境和“系统”的依赖，提高应对变化的能力。</li>
 <li><strong>追求个人成长和自我实现:</strong>  过上更有意义、更自主、更自由的生活。</li>
 </ul>
-<p>总而言之，这本书鼓励读者进行一场深刻的自我反思和生活方式的变革，最终摆脱“系统”的束缚，实现财务独立和人生的真正自由。</p>
-<p><strong>下载：</strong> <a href="https://github.com/TianmingLi/early_retirement_extreme_cn/blob/main/cn/release.pdf" target="_blank">《极早退休》中文翻译版</a></p>
-<a id="github-12ce81f766c2fb578796752c5706039e" target="_blank" href="https://github.com/TianmingLi/early_retirement_extreme_cn" class="cursor-pointer">
+<p>总而言之，这本书鼓励读者进行一场深刻的自我反思和生活方式的变革，最终摆脱“系统”的束缚，实现财务独立和人生的真正自由。
+<br/>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path fill="currentColor" d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32V274.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7V32zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V416c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352H64zM432 456c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg>
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>下载：</strong> <a href="https://github.com/TianmingLi/early_retirement_extreme_cn/blob/main/cn/release.pdf" target="_blank">《极早退休》中文翻译版</a></span>
+</div>
+
+<br/>
+<a id="github-244f64136ef14da9754195c2eb552e71" target="_blank" href="https://github.com/TianmingLi/early_retirement_extreme_cn" class="cursor-pointer">
   <div
     class="w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl">
 
@@ -930,13 +962,13 @@
 
       </span>
       <div
-        id="github-12ce81f766c2fb578796752c5706039e-full_name"
+        id="github-244f64136ef14da9754195c2eb552e71-full_name"
         class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
         TianmingLi/early_retirement_extreme_cn
       </div>
     </div>
 
-    <p id="github-12ce81f766c2fb578796752c5706039e-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
+    <p id="github-244f64136ef14da9754195c2eb552e71-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
       Early Retirement Extreme 中文翻译 Renaissance &amp; Liberty
     </p>
 
@@ -957,7 +989,7 @@
 
 
       </span>
-      <div id="github-12ce81f766c2fb578796752c5706039e-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
+      <div id="github-244f64136ef14da9754195c2eb552e71-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
         56
       </div>
 
@@ -970,7 +1002,7 @@
 
 
       </span>
-      <div id="github-12ce81f766c2fb578796752c5706039e-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
+      <div id="github-244f64136ef14da9754195c2eb552e71-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
         16
       </div>
 
@@ -985,14 +1017,14 @@
     })
       .then(response => response.json())
       .then(data => {
-        document.getElementById('github-12ce81f766c2fb578796752c5706039e-full_name').innerHTML = data.full_name;
-        document.getElementById('github-12ce81f766c2fb578796752c5706039e-description').innerHTML = data.description;
-        document.getElementById('github-12ce81f766c2fb578796752c5706039e-stargazers').innerHTML = data.stargazers_count;
-        document.getElementById('github-12ce81f766c2fb578796752c5706039e-forks').innerHTML = data.forks;
+        document.getElementById('github-244f64136ef14da9754195c2eb552e71-full_name').innerHTML = data.full_name;
+        document.getElementById('github-244f64136ef14da9754195c2eb552e71-description').innerHTML = data.description;
+        document.getElementById('github-244f64136ef14da9754195c2eb552e71-stargazers').innerHTML = data.stargazers_count;
+        document.getElementById('github-244f64136ef14da9754195c2eb552e71-forks').innerHTML = data.forks;
       })
       .catch(error => console.error(error))
   </script>
-</a>
+</a></p>
 <hr>
 
 <section class="space-y-10 w-full">
