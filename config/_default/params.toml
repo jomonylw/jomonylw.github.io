@@ -35,8 +35,8 @@ homepageImage = "img/background_blur.jpg"
 
 [article]
 showDate = true
-showViews = true
-showLikes = true
+showViews = false
+showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
@@ -100,13 +100,13 @@ cardView = false
 cardViewScreenWidth = false
 
 [firebase]
-apiKey = "AIzaSyAfO4iBFVOYdNuEFyHTt-1viaG0HvVI5eo"
-authDomain = "qqq-investor.firebaseapp.com"
-projectId = "qqq-investor"
-storageBucket = "qqq-investor.appspot.com"
-messagingSenderId = "144896880465"
-appId = "1:144896880465:web:64989e17b6b1ed9a986d70"
-measurementId = "G-C0WXZ17FTN"
+#  apiKey = "AIzaSyAfO4iBFVOYdNuEFyHTt-1viaG0HvVI5eo"
+#  authDomain = "qqq-investor.firebaseapp.com"
+#  projectId = "qqq-investor"
+#  storageBucket = "qqq-investor.appspot.com"
+#  messagingSenderId = "144896880465"
+#  appId = "1:144896880465:web:64989e17b6b1ed9a986d70"
+#  measurementId = "G-C0WXZ17FTN"
 
 [fathomAnalytics]
 
