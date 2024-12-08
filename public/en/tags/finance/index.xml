@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Finance on QQQ Investor</title>
-    <link>https://jomonylw.github.io/en/tags/finance/</link>
+    <link>http://localhost:1313/en/tags/finance/</link>
     <description>Recent content in Finance on QQQ Investor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/finance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal Investment Bible - Investment Iron Law XIII</title>
-      <link>https://jomonylw.github.io/en/posts/1731056005972/</link>
+      <link>http://localhost:1313/en/posts/1731056005972/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/posts/1731056005972/</guid>
+      <guid>http://localhost:1313/en/posts/1731056005972/</guid>
       <description>This article explores the key to financial success, emphasizing that taking action is more important than knowledge. Through several stories, it illustrates that even with financial knowledge, wealth growth cannot be achieved without action.  The article encourages readers to overcome fear, dare to try, start with small investments, and learn from failures to ultimately achieve financial freedom.</description>
       <content:encoded><![CDATA[
 
@@ -136,10 +136,10 @@
     
     <item>
       <title>Personal Investment Bible: Investment Iron Law X</title>
-      <link>https://jomonylw.github.io/en/posts/1731056005969/</link>
+      <link>http://localhost:1313/en/posts/1731056005969/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/posts/1731056005969/</guid>
+      <guid>http://localhost:1313/en/posts/1731056005969/</guid>
       <description>This article introduces three stock investment strategies: value investing, growth investing, and contrarian investing. Value investing emphasizes buying stocks when the price is below their intrinsic value and selling when the price is above. Growth investing focuses on the future earnings growth potential of companies, selecting companies with sustained high growth for investment. Contrarian investing suggests going against the general market sentiment, being greedy when others are fearful, and fearful when others are greedy.  The article analyzes the advantages, disadvantages, and suitability of each strategy, pointing out that although these three strategies are theoretically effective, they are difficult to implement in practice.  Ordinary investors are more suited to adopt a long-term buy-and-hold strategy of &amp;#34;buy any stock, buy at any time, and don&amp;#39;t sell.&amp;#34;</description>
       <content:encoded><![CDATA[
 
@@ -271,10 +271,10 @@ Sell when Value is lower than Price.</p>
     
     <item>
       <title>Personal Investment Bible: Investment Iron Law XI</title>
-      <link>https://jomonylw.github.io/en/posts/1731056005970/</link>
+      <link>http://localhost:1313/en/posts/1731056005970/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/posts/1731056005970/</guid>
+      <guid>http://localhost:1313/en/posts/1731056005970/</guid>
       <description>This article explains why short-term stock trading should be avoided. The core argument is that long-term holding is the key to gaining returns from the stock market.  It analyzes the disadvantages of short-term trading, including high transaction costs, profits being taken by market makers and large investors, and investment failures caused by human weaknesses. The article emphasizes that the primary source of profit from stock investment is the company&amp;#39;s earnings, not price fluctuations. It advises investors to adopt a buy-and-hold strategy of “buy any stock, buy anytime, don&amp;#39;t sell” to truly benefit from the stock market.</description>
       <content:encoded><![CDATA[
 
@@ -380,10 +380,10 @@ Sell when Value is lower than Price.</p>
     
     <item>
       <title>Personal Investment Bible: Investment Iron Law I</title>
-      <link>https://jomonylw.github.io/en/posts/1731056005960/</link>
+      <link>http://localhost:1313/en/posts/1731056005960/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/posts/1731056005960/</guid>
+      <guid>http://localhost:1313/en/posts/1731056005960/</guid>
       <description>This article criticizes the traditional financial concept of “saving money in the bank”.  It points out that under inflation, low bank deposit interest rates struggle to withstand erosion from inflation, effectively resulting in “the more you save, the less you have”. This viewpoint is supported by examples from biblical stories, savings rate data, and the Nobel Prize Foundation&amp;#39;s case, encouraging readers to invest their funds in long-term, high-return investment tools like stocks and real estate to achieve wealth appreciation.</description>
       <content:encoded><![CDATA[
 
@@ -635,10 +635,10 @@ Have you ever heard of anyone getting rich from bank savings?</p>
     
     <item>
       <title>Just Keep Buying: Book Notes</title>
-      <link>https://jomonylw.github.io/en/posts/1728914740948/</link>
+      <link>http://localhost:1313/en/posts/1728914740948/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/posts/1728914740948/</guid>
+      <guid>http://localhost:1313/en/posts/1728914740948/</guid>
       <description>This book answers the most common questions in the field of personal finance and investing. From saving to investing, it provides practical tips to teach you how to increase your income, invest in income-producing assets, manage your finances more wisely, and live a richer life.</description>
       <content:encoded><![CDATA[
 
@@ -1383,10 +1383,10 @@ Have you ever heard of anyone getting rich from bank savings?</p>
     
     <item>
       <title>How to Invest in NASDAQ 100</title>
-      <link>https://jomonylw.github.io/en/posts/1728723295012-invest-qqq/</link>
+      <link>http://localhost:1313/en/posts/1728723295012-invest-qqq/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/posts/1728723295012-invest-qqq/</guid>
+      <guid>http://localhost:1313/en/posts/1728723295012-invest-qqq/</guid>
       <description>a description</description>
       <content:encoded><![CDATA[<div id="qqq-tradingview">
     <script>
@@ -2263,10 +2263,10 @@ Have you ever heard of anyone getting rich from bank savings?</p>
     
     <item>
       <title>Property of Money: Book Notes</title>
-      <link>https://jomonylw.github.io/en/posts/1728564107112/</link>
+      <link>http://localhost:1313/en/posts/1728564107112/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/posts/1728564107112/</guid>
+      <guid>http://localhost:1313/en/posts/1728564107112/</guid>
       <description>Korean entrepreneur Kim Seung-ho shares his personal journey from poverty to wealth, providing practical guidance on wealth accumulation, management, and the pursuit of financial freedom.</description>
       <content:encoded><![CDATA[
 
@@ -2696,10 +2696,10 @@ Have you ever heard of anyone getting rich from bank savings?</p>
     
     <item>
       <title>The Psychology of Money: Book Notes</title>
-      <link>https://jomonylw.github.io/en/posts/1728478918602/</link>
+      <link>http://localhost:1313/en/posts/1728478918602/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/posts/1728478918602/</guid>
+      <guid>http://localhost:1313/en/posts/1728478918602/</guid>
       <description>This book, focusing on the psychology of money, states that the key to financial success is not intellect but behavior. Through numerous real-life examples and stories, it reveals the psychological weaknesses, biases, and behavioral patterns that influence human financial decisions, proposing strategies for making smarter choices in personal finance. </description>
       <content:encoded><![CDATA[
 
@@ -3028,10 +3028,10 @@ Have you ever heard of anyone getting rich from bank savings?</p>
     
     <item>
       <title>Millionaire Teacher: Book Notes</title>
-      <link>https://jomonylw.github.io/en/posts/1728295541698/</link>
+      <link>http://localhost:1313/en/posts/1728295541698/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/posts/1728295541698/</guid>
+      <guid>http://localhost:1313/en/posts/1728295541698/</guid>
       <description>Andrew Hallam, the author of this book, started investing at the age of 19 and achieved millionaire status within 17 years on a teacher&amp;#39;s salary. He shares nine financial principles that anyone can learn, yet few are taught in school. Through real-life stories and personal experiences, he guides readers on how to avoid common investment pitfalls and achieve financial freedom using the simplest, safest, and most effective methods.</description>
       <content:encoded><![CDATA[
 

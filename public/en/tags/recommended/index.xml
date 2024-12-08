@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Recommended on QQQ Investor</title>
-    <link>https://jomonylw.github.io/en/tags/recommended/</link>
+    <link>http://localhost:1313/en/tags/recommended/</link>
     <description>Recent content in Recommended on QQQ Investor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/recommended/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/recommended/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recommended Reading List</title>
-      <link>https://jomonylw.github.io/en/posts/1728295490690-book-list/</link>
+      <link>http://localhost:1313/en/posts/1728295490690-book-list/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/posts/1728295490690-book-list/</guid>
+      <guid>http://localhost:1313/en/posts/1728295490690-book-list/</guid>
       <description>a description</description>
       <content:encoded><![CDATA[
 

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on QQQ Investor</title>
-    <link>https://jomonylw.github.io/en/series/</link>
+    <link>http://localhost:1313/en/series/</link>
     <description>Recent content in Series on QQQ Investor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>https://jomonylw.github.io/en/series/books/</link>
+      <link>http://localhost:1313/en/series/books/</link>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/series/books/</guid>
+      <guid>http://localhost:1313/en/series/books/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Personal Investment Bible</title>
-      <link>https://jomonylw.github.io/en/series/personal-investment-bible/</link>
+      <link>http://localhost:1313/en/series/personal-investment-bible/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/en/series/personal-investment-bible/</guid>
+      <guid>http://localhost:1313/en/series/personal-investment-bible/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

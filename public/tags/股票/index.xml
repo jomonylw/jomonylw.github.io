@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>股票 on QQQ 投资者</title>
-    <link>https://jomonylw.github.io/tags/%E8%82%A1%E7%A5%A8/</link>
+    <link>http://localhost:1313/tags/%E8%82%A1%E7%A5%A8/</link>
     <description>Recent content in 股票 on QQQ 投资者</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/tags/%E8%82%A1%E7%A5%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E8%82%A1%E7%A5%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://jomonylw.github.io/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/</guid>
+      <guid>http://localhost:1313/</guid>
       <description></description>
       <content:encoded><![CDATA[<h2 id="typeit-6fb22d3943ec7794c447a8e7c1bb77a4"></h2>
 
@@ -237,10 +237,10 @@
     
     <item>
       <title>《理财圣经》之 理财铁律十</title>
-      <link>https://jomonylw.github.io/posts/1731056005969/</link>
+      <link>http://localhost:1313/posts/1731056005969/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/posts/1731056005969/</guid>
+      <guid>http://localhost:1313/posts/1731056005969/</guid>
       <description>本文介绍了三种股票投资策略：价值策略、成长策略和反向策略。价值策略强调在股票价格低于其内在价值时买入，高于价值时卖出。成长策略关注公司未来的盈利增长潜力，选择持续高增长的公司进行投资。反向策略则建议逆市场大众的投资行为，在别人恐惧时贪婪，在别人贪婪时恐惧。文章分析了每种策略的优缺点和适用人群，并指出虽然这三种策略理论上有效，但实际操作难度较大，普通投资者更适合采用“随便买、随时买、不要卖”的长期持有策略。</description>
       <content:encoded><![CDATA[
 
@@ -374,10 +374,10 @@
     
     <item>
       <title>《理财圣经》之 理财铁律十一</title>
-      <link>https://jomonylw.github.io/posts/1731056005970/</link>
+      <link>http://localhost:1313/posts/1731056005970/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/posts/1731056005970/</guid>
+      <guid>http://localhost:1313/posts/1731056005970/</guid>
       <description>本文阐述了为什么不应进行短线股票操作，核心观点是长期持有才能获得股市收益。文章分析了短线操作的弊端，包括高交易成本、被市场大户和中间人赚取利润、以及人性弱点导致的投资失败。文章强调了投资股票的主要获利来源是公司盈余而非价差，并建议投资者采取“随便买、随时买、不要卖”的长期持有策略，才能真正从股市中获益。</description>
       <content:encoded><![CDATA[
 
@@ -484,10 +484,10 @@
     
     <item>
       <title>《理财圣经》之 理财铁律八</title>
-      <link>https://jomonylw.github.io/posts/1731056005967/</link>
+      <link>http://localhost:1313/posts/1731056005967/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/posts/1731056005967/</guid>
+      <guid>http://localhost:1313/posts/1731056005967/</guid>
       <description>这篇文章探讨了一种简单的长期投资策略：随便买、随时买、不要卖。作者认为，由于股市波动难以预测，与其费尽心思挑选股票和时机，不如分散投资并长期持有。文章引用了侯博明兄弟的例子和随机漫步理论等来支持这一观点，并强调了长期持有和分散风险的重要性。</description>
       <content:encoded><![CDATA[
 
@@ -631,10 +631,10 @@
     
     <item>
       <title>《理财圣经》之 理财铁律九</title>
-      <link>https://jomonylw.github.io/posts/1731056005968/</link>
+      <link>http://localhost:1313/posts/1731056005968/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/posts/1731056005968/</guid>
+      <guid>http://localhost:1313/posts/1731056005968/</guid>
       <description>这篇文章探讨了投资理财中的常见误区，特别是对预测和技术分析的依赖。作者认为技术分析并不能持续地帮助投资者获得超额收益，反而容易使人陷入短线操作的陷阱。文章主张“随便买、随时买、不要卖”的长期投资策略，并强调投资成功的关键在于选择正确的投资标的并长期持有，而不是试图预测市场短期波动。</description>
       <content:encoded><![CDATA[
 
@@ -769,10 +769,10 @@
     
     <item>
       <title>《理财圣经》之 理财铁律六</title>
-      <link>https://jomonylw.github.io/posts/1731056005965/</link>
+      <link>http://localhost:1313/posts/1731056005965/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/posts/1731056005965/</guid>
+      <guid>http://localhost:1313/posts/1731056005965/</guid>
       <description>这篇文章探讨了如何解除投资被套牢的危机，强调分散投资和长期持有的重要性。文章以“不要把所有鸡蛋放在同一个篮子里”的谚语开篇，解释了分散投资的原理和方法，包括分散投资标的、投资时机和投资地区。同时，文章也探讨了分散投资的原则，指出投资标的数量不宜过多，并建议选择负相关较大的投资标的。此外，文章还介绍了两种分散投资时机的方法：有钱就投资和定期定额投资。最后，文章强调了长期持有的重要性，认为长期持有可以降低投资损失的可能性，并有助于提高报酬率。</description>
       <content:encoded><![CDATA[
 
@@ -934,10 +934,10 @@
     
     <item>
       <title>《理财圣经》之 理财铁律五</title>
-      <link>https://jomonylw.github.io/posts/1731056005964/</link>
+      <link>http://localhost:1313/posts/1731056005964/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/posts/1731056005964/</guid>
+      <guid>http://localhost:1313/posts/1731056005964/</guid>
       <description>本文探讨了投资理财中风险与报酬的关系，强调风险管理的重要性。文章指出所有高报酬的投资都伴随高风险，规避风险是人之常情，但过度规避风险反而会错失良机。作者以福布斯的遇险哲学为例，说明了如何评估风险和报酬，并倡导在做好充分准备的前提下进行合理的冒险。同时，文章也提醒读者不要被高风险、低回报的投机活动所迷惑，要学会从小额投资开始积累经验，逐步克服对风险的恐惧，最终驾驭风险，实现财富增长。</description>
       <content:encoded><![CDATA[
 
@@ -1081,10 +1081,10 @@
     
     <item>
       <title>《理财圣经》之 理财铁律一</title>
-      <link>https://jomonylw.github.io/posts/1731056005960/</link>
+      <link>http://localhost:1313/posts/1731056005960/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/posts/1731056005960/</guid>
+      <guid>http://localhost:1313/posts/1731056005960/</guid>
       <description>本文批判了“将钱存银行”的传统理财观念，指出在通货膨胀下，银行存款利率过低，难以抵御通货膨胀的侵蚀，实际上是“越存越少”。文章以圣经故事、储蓄率数据、诺贝尔奖基金会的案例等论证了这一观点，并鼓励读者将资金投资于长期高报酬率的股票和房地产等投资工具，实现财富增值。</description>
       <content:encoded><![CDATA[
 
@@ -1288,10 +1288,10 @@
     
     <item>
       <title>《理财圣经》之 前言</title>
-      <link>https://jomonylw.github.io/posts/1731056005958/</link>
+      <link>http://localhost:1313/posts/1731056005958/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/posts/1731056005958/</guid>
+      <guid>http://localhost:1313/posts/1731056005958/</guid>
       <description>本书旨在帮助读者树立正确的理财观，通过学习理财知识，掌握轻松理财的技巧，最终实现财务自由，甚至成为亿万富翁。作者黄培源以连战家族的理财故事为例，深入浅出地讲解了理财的重要性，并结合自身丰富的经验和学理研究，提出了理财致富的关键要素：固定储蓄、追求高报酬和长期等待。此外，本书还强调了理财教育的不足以及在快速变化的投资环境中保持学习和适应的重要性。</description>
       <content:encoded><![CDATA[
   
@@ -1418,10 +1418,10 @@
     
     <item>
       <title>《理财圣经》之 正确理财观</title>
-      <link>https://jomonylw.github.io/posts/1731056005959/</link>
+      <link>http://localhost:1313/posts/1731056005959/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jomonylw.github.io/posts/1731056005959/</guid>
+      <guid>http://localhost:1313/posts/1731056005959/</guid>
       <description>本文探讨了正确的理财观，指出投资理财是致富的关键，而非仅仅依靠开源节流。文章以辜振甫和辜濂松的财富对比、连战家族的理财方式以及一个每月投资1200元40年后成为亿万富翁的例子，阐述了投资理财的重要性，并强调了复利的力量。此外，文章还分析了理财习惯对贫富差距的影响，以及如何教育下一代树立正确的理财观念，建议将“钱不要存银行”纳入家训，从小培养投资意识。</description>
       <content:encoded><![CDATA[
 
