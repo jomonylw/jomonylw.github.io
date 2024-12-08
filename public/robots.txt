@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /
-Sitemap: http://localhost:1313/sitemap.xml
-Sitemap: http://localhost:1313/zh-cn/sitemap.xml
-Sitemap: http://localhost:1313/en/sitemap.xml
+Allow: /
+Sitemap: https://jomonylw.github.io/sitemap.xml
+Sitemap: https://jomonylw.github.io/zh-cn/sitemap.xml
+Sitemap: https://jomonylw.github.io/en/sitemap.xml
