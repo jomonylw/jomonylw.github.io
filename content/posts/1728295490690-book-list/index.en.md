@@ -50,3 +50,8 @@ This book provides guidance on investment strategies for laymen, explores the di
 
 This book, written by Mr. Huang Peiyuan from Taiwan, uses easy-to-understand language to teach the correct methods of financial management. It elaborates on thirteen Investment Iron Laws for effortless wealth building, guiding readers on how to establish a correct perspective on financial management and ultimately achieve financial freedom.
 {{< article link="/en/posts/1731056005976/" >}}
+
+## Let Time Help You Slowly Get Rich
+
+This book primarily explains the strategy of regular investing, emphasizing that it's the best investment method for ordinary people.  The author, Li Xiaolai, elaborates on the core concepts, advantages, and correct execution of regular investing, combining personal experiences and market examples to demonstrate the importance of long-term and value investing.  Furthermore, he explores topics like proactivity vs. passivity, trends, and personal growth, aiming to help readers establish a sound investment philosophy and wealth outlook, ultimately achieving financial freedom.
+{{< article link="/en/posts/1734847682781/" >}}
