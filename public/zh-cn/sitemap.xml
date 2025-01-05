@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://jomonylw.github.io/</loc>
-    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,54 @@
       rel="alternate"
       hreflang="zh-cn"
       href="https://jomonylw.github.io/"
+    />
+  </url>
+  <url>
+    <loc>https://jomonylw.github.io/posts/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jomonylw.github.io/en/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://jomonylw.github.io/posts/"
+    />
+  </url>
+  <url>
+    <loc>https://jomonylw.github.io/posts/1736045402069/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jomonylw.github.io/en/posts/1736045402069/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://jomonylw.github.io/posts/1736045402069/"
+    />
+  </url>
+  <url>
+    <loc>https://jomonylw.github.io/posts/1736043800062/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jomonylw.github.io/en/posts/1736043800062/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://jomonylw.github.io/posts/1736043800062/"
     />
   </url>
   <url>
@@ -32,22 +80,6 @@
       rel="alternate"
       hreflang="zh-cn"
       href="https://jomonylw.github.io/posts/1735482278058/"
-    />
-  </url>
-  <url>
-    <loc>https://jomonylw.github.io/posts/</loc>
-    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://jomonylw.github.io/en/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://jomonylw.github.io/posts/"
     />
   </url>
   <url>

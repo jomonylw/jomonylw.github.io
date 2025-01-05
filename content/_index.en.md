@@ -120,3 +120,5 @@ If you invested **$1000** in **QQQ** starting from **2009/12**, and held it for 
 | [QQQ Finance Charts](https://www.financecharts.com/etfs/QQQ/) | QQQ Finance Charts Information |
 | [How to Invest in NASDAQ 100](/en/posts/1728723295012-invest-qqq/) |  NASDAQ 100 Investment Information  |
 
+---
+{{< article link="/en/posts/1736045402069/" >}}
