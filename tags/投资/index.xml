@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>投资 on QQQ 投资者</title><link>https://jomonylw.github.io/tags/%E6%8A%95%E8%B5%84/</link><description>Recent content in 投资 on QQQ 投资者</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/tags/%E6%8A%95%E8%B5%84/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/</link><pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-6fb22d3943ec7794c447a8e7c1bb77a4"></h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>投资 on QQQ 投资者</title><link>https://jomonylw.github.io/tags/%E6%8A%95%E8%B5%84/</link><description>Recent content in 投资 on QQQ 投资者</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/tags/%E6%8A%95%E8%B5%84/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/</link><pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-6fb22d3943ec7794c447a8e7c1bb77a4"></h2>
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
@@ -53,8 +53,8 @@
   <span
     
       class="dark:text-neutral-300"
-    >如从 <strong>2009 年 12月</strong> 开始投资 <strong>QQQ</strong> <strong>1000</strong> 美元，持有 <strong>15</strong> 年，到
-<strong>2024 年 12月</strong> 将价值 <strong>11174.43</strong> 美元，总回报率为 <strong>1017.44%</strong>（年化回报率为 <strong>17.46%</strong>）。</span>
+    >如从 <strong>2010 年 1月</strong> 开始投资 <strong>QQQ</strong> <strong>1000</strong> 美元，持有 <strong>15</strong> 年，到
+<strong>2025 年 1月</strong> 将价值 <strong>12205.89</strong> 美元，总回报率为 <strong>1120.59%</strong>（年化回报率为 <strong>18.14%</strong>）。</span>
 </div>
 
 <br>
@@ -66,7 +66,7 @@
       const ctx = document.getElementById("chart-6e61fa6ce30d8b27e87ef84b4af9faf0");
       const chart = new Chart(ctx, {
         
-    data: {'datasets': [{'type': 'line', 'label': '价格', 'data': [1000.0, 1190.3825136612022, 1220.327868852459, 1423.606557377049, 1922.622950819672, 2256.830601092896, 2445.0273224043717, 2589.726775956284, 3404.590163934426, 3371.803278688524, 4647.213114754099, 6857.704918032787, 8696.174863387978, 5820.327868852458, 8951.256830601093, 11174.426229508197], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': '收益率', 'data': [0.0, 0.1903825136612022, 0.025156077855306616, 0.16657710908113907, 0.350529709811147, 0.17382901318781255, 0.08338983050847476, 0.05918111925621308, 0.31465226198514507, -0.009630200308166482, 0.3782574873590045, 0.47565965852970216, 0.2680882259195512, -0.3307025260776676, 0.5379299984978221, 0.24836393826919329], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]},
+    data: {'datasets': [{'type': 'line', 'label': '价格', 'data': [1272.7272727272727, 1304.744099088572, 1522.084599205422, 2055.6204720729143, 2412.9469502220145, 2614.162187426969, 2768.8712315961675, 3640.1028277634964, 3605.047908389811, 4968.684272026175, 7332.086936200048, 9297.733115213836, 6222.949287216639, 9570.460387941108, 11947.417620939474, 12205.88922645478], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': '收益率', 'data': [0.27272727272727276, 0.0251560778553066, 0.16657710908113926, 0.3505297098111469, 0.17382901318781263, 0.08338983050847461, 0.059181119256213145, 0.3146522619851452, -0.009630200308166454, 0.3782574873590044, 0.4756596585297023, 0.26808822591955117, -0.33070252607766754, 0.5379299984978219, 0.24836393826919337, 0.02163409815542893], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]},
     options: {
         scales: {
             'price-axis': {
@@ -973,58 +973,47 @@
 </h2>
 <blockquote>
 <p>投资这件事情你要看到成果，要得看到像巴菲特这种成果，当然每个人的 level 不一样，那你要看到你觉得你是有个富有的人生的时候，你也要40年，急不来了，急不来。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点解释了长期投资中“时间”的重要性，以及“复利”的威力。</p>
 <blockquote>
 <p>人生的价值在于学习、思考、服务众人及成长，而非仅仅为了工作和金钱。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点强调了人生的意义在于不断学习、成长，服务社会，而不仅仅是追求物质财富。</p>
 <blockquote>
 <p>你要让一个财富增长到一个程度，你也需要一个适当的时间，所以这个时间就，所以你要先认清这个时间就是存在。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>强调财富的积累需要时间和耐心，不能急功近利。</p>
 <blockquote>
 <p>当这个全毁的时候你怎么办？你要有退路啊。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>你做投资也好，做任何事情，你都要考虑如果这件事失败了，你是否有退路，你是否可以承担这件事失败带来的损失。</p>
 <blockquote>
 <p>你今天买一部 test 了，还怕被刮到，害怕那个还要去洗车，洗完了不敢开，每次开出去人家要借或者女儿要借，或者不行不行。那你这是财富的奴隶，开出去没关系，我有保险，撞坏了我再买个新的，这才是财富。所以不要受资产，做资产的奴隶，永远不要。你宁愿不要买，你也不要买了，在那边花心思，我们不要为物质花任何心思，这个很重要，这样生活才会快乐啊。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>我们不要做“财富”的奴隶，我们不要被“物质”所控制，如果一件事物会影响到你的心情，那你就不要去买，因为你承受不起。</p>
 <blockquote>
 <p>人的命运受到三个因素控制：一是天命（DNA）；二是命运（出生地）；三是运势。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>出生地决定了命运，如果你出生在美国，你就是美国的命运；如果你出生在台湾，你就是台湾的命运；如果你出生在澳洲，你就是澳洲的命运。</p>
 <blockquote>
 <p>我还是跟大家讲，我们会很有钱，所以你要移民的时候要三思。我宁愿，如果我了，我宁愿花80万美金移民美国，我也不要用比较少的钱移民加拿大、欧洲或纽西南、澳洲。因为那个命运不同啊。你看美国全世界前十大有九大都是美国，只有一大是台积电中国，而台积电的漳州模也是美国培养出来的。所以讲白一点，每全世界前十大公司都是美国人创的，那这个就是命运。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>在考虑移民时，不应只考虑自身，更应考虑子孙后代的命运。</p>
 <blockquote>
 <p>80/20资产配置不做质押每年做无脑再平衡是可行的，不会破产。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>已退休人士不做质押，可以使用80/20的资产配置，即80%投资于QQQ，20%为现金，每年做无脑再平衡是可行的且不会破产。</p>
 <blockquote>
 <p>美国是不管诈骗的，它连那个0元购都不管了，它还管诈骗？所以这里面有成本会计的问题，一个国家要强，成本会计要强，你要什么？好坏就是要抢，所以大家要知道就是富有是一个关键，穷是一种病，所以新兴国家穷就是一种病，个人穷就是一种病呀。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>美国之所以强大，与其健全的制度和市场经济密不可分。</p>
 <blockquote>
 <p>投资永远保持极度乐观，坚信市场永远上涨。
 &ndash; James老师
-投资过程中，保持乐观的心态至关重要。</p>
-</blockquote>
+投资过程中，保持乐观的心态至关重要。</p></blockquote>
 <blockquote>
 <p>AI 不定的只一定要靠 computing power，还是可以靠人脑了。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点解释了在AI发展过程中，除了算力，人脑也是可以发挥重要作用的。</p>
 
 
@@ -2014,63 +2003,51 @@
 </h2>
 <blockquote>
 <p>市场唯一不变的就是震荡。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点强调了市场波动的常态性，投资者应该做好心理准备，不要被短期的市场波动所影响。</p>
 <blockquote>
 <p>投资要独立思考，不盲目听从，不加入任何群组，避免受骗。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点强调了独立思考在投资中的重要性，投资者应该根据自己的判断做出投资决策，而不是盲目听从别人的意见或加入一些不可靠的投资群组。</p>
 <blockquote>
 <p>人生最快乐的事是给予，快乐是人权，精神上的分享和能量给予比物质更能带来快乐。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点强调了精神层面的追求比物质更重要，给予和分享可以带来更大的快乐。</p>
 <blockquote>
 <p>你若商业银行好好做放贷，你就专心做放贷，出户是两趴。那你放贷就3.5趴，4趴你就乖乖赚，那个两 percent 的立场，这个才是商业银行该做的事，商业不可以去摸，去 touch 保险。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点指出了商业银行应该专注于存贷款业务，而不是涉足保险等领域，这不仅违反了金融监管的规定，也损害了客户的利益。</p>
 <blockquote>
 <p>快乐是人权，那你活着就是要快乐，你活得那么苦，你何必呢？
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点提醒大家要追求快乐，不要为了金钱或其他目标而牺牲自己的快乐。</p>
 <blockquote>
 <p>无能也是一种强大，因为接受自己无能，承认自己无能，那也是一种强大。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点表达了一种豁达的人生态度，承认自己的局限性并不是坏事，反而可以让自己更加轻松自在。</p>
 <blockquote>
 <p>聪明的富有的人是看到未来就永恒跟政府没关系，缴完税赶快逃离政府的魔掌。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点指出了富人通过合理避税来减少政府对自己财富的控制。</p>
 <blockquote>
 <p>从别人的经验中吸取教训是聪明的做法。
-&ndash; IM</p>
-</blockquote>
+&ndash; IM</p></blockquote>
 <p>此观点强调了学习和借鉴他人经验的重要性，可以帮助我们避免犯同样的错误。</p>
 <blockquote>
 <p>人家贪婪的时候你要恐惧，人家恐惧的时候你要贪婪。
-&ndash; James老师引用巴菲特</p>
-</blockquote>
+&ndash; James老师引用巴菲特</p></blockquote>
 <p>此观点是投资中非常重要的一个原则，即逆向思维，在市场狂热时保持冷静，在市场恐慌时寻找机会。</p>
 <blockquote>
 <p>快乐就好，也没有什么好，没什么好争的，也没有什么好意义的，也没有那么大，没那么伟大了。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点表达了一种超脱的人生态度，不要给自己太大的压力，要学会享受生活。</p>
 <blockquote>
 <p>不要到了，发现了太晚， too late， 让后悔来不及。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点借用投资理念强调健康检查需要及早进行，不要等到出现问题才后悔莫及，与小蔡分享的观点相呼应。</p>
 <blockquote>
 <p>我们投资者永远极度乐观了，市场波动是不用理会了，市场终将上涨，也会永远一直创新高。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>此观点强调了对市场长期走势的乐观态度，以及对短期波动的忽略，展现了长期投资者的应有心态。</p>
 
 
@@ -2328,24 +2305,19 @@
     
 </h2>
 <blockquote>
-<p>人至践则无敌！</p>
-</blockquote>
+<p>人至践则无敌！</p></blockquote>
 <p>只有将知识付诸实践，才能获得真正的力量。空谈理论而不实践，最终只会一事无成。</p>
 <blockquote>
-<p>定投是普通人唯一靠谱的投资方式。</p>
-</blockquote>
+<p>定投是普通人唯一靠谱的投资方式。</p></blockquote>
 <p>对于缺乏专业知识和时间的普通人来说，定投是风险相对较低、操作简单的有效投资策略，能够帮助他们在市场波动中保持理性，长期积累财富。</p>
 <blockquote>
-<p>没有只涨不跌的标的，只有长期来看只涨不跌的标的。</p>
-</blockquote>
+<p>没有只涨不跌的标的，只有长期来看只涨不跌的标的。</p></blockquote>
 <p>任何投资标的都存在风险，没有绝对安全的投资。只有长期持有，才能有效平滑市场波动，分享经济增长的红利。</p>
 <blockquote>
-<p>在该主动的时候不够主动；在不该主动的时候乱主动。</p>
-</blockquote>
+<p>在该主动的时候不够主动；在不该主动的时候乱主动。</p></blockquote>
 <p>认清主动的边界至关重要。在自身能力范围内要积极主动，而在能力边界之外则要顺应趋势，避免徒劳无功。</p>
 <blockquote>
-<p>你的钱虽然不多，但，你的钱没有使用期限。</p>
-</blockquote>
+<p>你的钱虽然不多，但，你的钱没有使用期限。</p></blockquote>
 <p>这是普通人在投资领域相对于专业基金经理的极端优势。专业基金经理受制于基金的期限，而普通人可以长期持有，充分利用时间的力量。</p>
 
 
@@ -2413,7 +2385,7 @@
 
       </span>
       <div id="github-f6dc642750879fb008b32ad21956f720-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
-        5750
+        5759
       </div>
 
       <span class="text-md mr-1 text-neutral-800 dark:text-neutral">
@@ -2910,33 +2882,27 @@
 </h2>
 <blockquote>
 <p>有钱就买，打死不卖。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>这是James老师一贯坚持的投资理念，也是CLEC的核心策略。</p>
 <blockquote>
 <p>台湾是一个武器精良而子弹便宜的国家。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>James老师高度评价台湾的投资环境，认为台湾的金融工具、税务优惠和低利率对投资者非常有利。</p>
 <blockquote>
 <p>人生最重要就是快乐。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>James老师强调了人生的意义在于快乐，而不是为了工作和金钱而活。</p>
 <blockquote>
 <p>AI做出来是没有温度的。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>James老师分享了使用AI工具制作短视频的心得，并指出了AI创作在情感表达方面的局限性。</p>
 <blockquote>
 <p>你能成为别人的贵人，但对方能否受益，取决于他的天命和命运。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>James老师分享了自己对财富和人生的理解，认为一个人的财富积累除了努力之外，还受到天命、命运和运气的影响。</p>
 <blockquote>
 <p>市场没有最高，只会更高；市场没有底部，只有永远没有头部，也没有底部。
-&ndash; James老师</p>
-</blockquote>
+&ndash; James老师</p></blockquote>
 <p>James老师强调市场长期向上的趋势，以及不要试图预测市场顶部和底部。</p>
 
 
@@ -3297,40 +3263,31 @@
     
 </h2>
 <blockquote>
-<p>钱不要存银行。</p>
-</blockquote>
+<p>钱不要存银行。</p></blockquote>
 <p>解析： 这句话并非字面意义上的完全不存银行，而是强调不要将大部分资产长期存放于低收益的银行存款中，应该投资于更高收益的投资工具，例如股票和房地产。</p>
 <blockquote>
-<p>理财致富要有耐心。</p>
-</blockquote>
+<p>理财致富要有耐心。</p></blockquote>
 <p>解析： 复利效应的发挥需要时间，理财是一场马拉松，而不是短跑，需要耐心等待才能获得最终的胜利。</p>
 <blockquote>
-<p>投资理财 愈早愈好。</p>
-</blockquote>
+<p>投资理财 愈早愈好。</p></blockquote>
 <p>解析： 年轻就是最大的资本，越早开始理财，就能越早享受复利带来的收益，实现财务自由。</p>
 <blockquote>
-<p>以别人的钱赚钱。</p>
-</blockquote>
+<p>以别人的钱赚钱。</p></blockquote>
 <p>解析： 合理利用财务杠杆，可以放大投资收益，加速财富积累。</p>
 <blockquote>
-<p>分散投资、长期持有。</p>
-</blockquote>
+<p>分散投资、长期持有。</p></blockquote>
 <p>解析： 分散投资可以降低风险，长期持有可以获得更高的回报，避免被市场波动所影响。</p>
 <blockquote>
-<p>随便买、随时买、不要卖。</p>
-</blockquote>
+<p>随便买、随时买、不要卖。</p></blockquote>
 <p>解析： 这句话的核心是长期持有，不要频繁交易，避免被市场短期波动所影响。</p>
 <blockquote>
-<p>知而不行，犹未知也。</p>
-</blockquote>
+<p>知而不行，犹未知也。</p></blockquote>
 <p>解析： 光有知识而不行动，等于没有知识。理财的关键在于行动，而不是空想。</p>
 <blockquote>
-<p>有土斯有财。</p>
-</blockquote>
+<p>有土斯有财。</p></blockquote>
 <p>解析： 房地产是长期保值增值的重要投资工具，在理财组合中应该占据重要地位。</p>
 <blockquote>
-<p>金钱只是手段，提升生活品质才是目的。</p>
-</blockquote>
+<p>金钱只是手段，提升生活品质才是目的。</p></blockquote>
 <p>解析： 金钱本身没有意义，它的价值在于如何被利用，最终目的是提升生活品质，实现人生价值。</p>
 
 
@@ -3817,8 +3774,7 @@
 </h2>
 <blockquote>
 <p>累积财富，不在开源节流，<br>
-而是以钱赚钱的复利力。</p>
-</blockquote>
+而是以钱赚钱的复利力。</p></blockquote>
 <p>爱因斯坦被誉为历史上最伟大的科学家，曾有人问他：“世界上最强大的力量是什么？”他的答案不是星球挤压的力量或核子爆炸的威力，而是“复利”(Compounding)。</p>
 <p>由前例所言，到底是什么因素，能够让每年存的1.4万元，40年后增长为1亿多元，答案是“复利”。既然复利是促使我们财富加速成长的主要因素，因此想要利用理财致富，首先必须对复利有所认识。</p>
 <p>假设你在求职时，有两个工作机会可供选择，第一份工作是月领10万元，另一份工作则是第一个月的薪水为1元，但以后每个月的薪水是上一个月的2倍。假设这两份工作的工作时间皆为两年(24个月)，试问你会选择哪一份工作？</p>
@@ -3979,8 +3935,7 @@
 </h2>
 <blockquote>
 <p>金钱只是手段，提升生活品质才是目的，<br>
-成功乃取得你所要的，而后享受你所有的。</p>
-</blockquote>
+成功乃取得你所要的，而后享受你所有的。</p></blockquote>
 
 
 <h3 class="relative group">不做守财奴 
@@ -4010,8 +3965,7 @@
 <em>二、在迈向致富之路之前，要了解自己对财富的价值观。</em></p>
 <blockquote>
 <p>钱有两戈，伤害多少古今人品；<br>
-穷有一穴，埋葬多少英雄豪杰。</p>
-</blockquote>
+穷有一穴，埋葬多少英雄豪杰。</p></blockquote>
 
 
 <h3 class="relative group">赚这么多做什么 
@@ -4046,8 +4000,7 @@
 <blockquote>
 <p>如何获得财富很难，<br>
 如何保持财富更难，<br>
-如何运用财富最难。</p>
-</blockquote>
+如何运用财富最难。</p></blockquote>
 
 
 <h3 class="relative group">理财三诀——赚钱、管钱、用钱 
@@ -4093,8 +4046,7 @@
 </h2>
 <blockquote>
 <p>影响一个人未来财富之多寡，
-重要的是有没有开始理财。</p>
-</blockquote>
+重要的是有没有开始理财。</p></blockquote>
 <p><strong>人人都可以因理财而致富</strong></p>
 <p>本书所要阐述的一个事实是：投资理财不仅可以改善一个人或一个家庭的财务状况，它本身亦是一个很好的致富之道。而且利用理财致富，人人可以做到，你不需要是有钱人、不需要是高收入者、不需要是高学历者、不需要具备专门的知识及高超技术、不需要依靠运气。你所需要的是致富的欲望、正确的投资观（而非技巧）以及长久等待的耐心。因此，一个人有没有钱不重要，收入高低也不重要，影响一个人未来财富之多寡，重要的是有没有开始理财。这项工作并不轻松，但无疑的，绝对值得你去做！</p>
 <p>请读者立即检视自己目前资产分配的情形，存在银行的资金或其他“保证收益”的投资比重是否太高？你的投资是否已达到适当的分散程度？你是否经常在股市中买进卖出？</p>

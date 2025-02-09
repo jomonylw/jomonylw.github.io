@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Financial Freedom on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/financial-freedom/</link><description>Recent content in Financial Freedom on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/financial-freedom/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/en/</link><pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Financial Freedom on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/financial-freedom/</link><description>Recent content in Financial Freedom on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/financial-freedom/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/en/</link><pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
@@ -53,8 +53,8 @@
   <span
     
       class="dark:text-neutral-300"
-    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2009/12</strong>, and held it for <strong>15</strong> years, by
-<strong>2024/12</strong> it would be worth <strong>$11174.43</strong>, with a total return of <strong>1017.44%</strong> (annualized return of <strong>17.46%</strong>).</span>
+    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2010/01</strong>, and held it for <strong>15</strong> years, by
+<strong>2025/01</strong> it would be worth <strong>$12205.89</strong>, with a total return of <strong>1120.59%</strong> (annualized return of <strong>18.14%</strong>).</span>
 </div>
 
 <br>
@@ -66,7 +66,7 @@
       const ctx = document.getElementById("chart-3f42e1dde0a3be6b7dd45d9363bdb47b");
       const chart = new Chart(ctx, {
         
-    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1000.0, 1190.3825136612022, 1220.327868852459, 1423.606557377049, 1922.622950819672, 2256.830601092896, 2445.0273224043717, 2589.726775956284, 3404.590163934426, 3371.803278688524, 4647.213114754099, 6857.704918032787, 8696.174863387978, 5820.327868852458, 8951.256830601093, 11174.426229508197], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.0, 0.1903825136612022, 0.025156077855306616, 0.16657710908113907, 0.350529709811147, 0.17382901318781255, 0.08338983050847476, 0.05918111925621308, 0.31465226198514507, -0.009630200308166482, 0.3782574873590045, 0.47565965852970216, 0.2680882259195512, -0.3307025260776676, 0.5379299984978221, 0.24836393826919329], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]},
+    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1272.7272727272727, 1304.744099088572, 1522.084599205422, 2055.6204720729143, 2412.9469502220145, 2614.162187426969, 2768.8712315961675, 3640.1028277634964, 3605.047908389811, 4968.684272026175, 7332.086936200048, 9297.733115213836, 6222.949287216639, 9570.460387941108, 11947.417620939474, 12205.88922645478], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.27272727272727276, 0.0251560778553066, 0.16657710908113926, 0.3505297098111469, 0.17382901318781263, 0.08338983050847461, 0.059181119256213145, 0.3146522619851452, -0.009630200308166454, 0.3782574873590044, 0.4756596585297023, 0.26808822591955117, -0.33070252607766754, 0.5379299984978219, 0.24836393826919337, 0.02163409815542893], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]},
     options: {
         scales: {
             'price-axis': {
@@ -863,53 +863,43 @@
 </h2>
 <blockquote>
 <p>People who borrow money are the ones with lower risks, and people who do not borrow money have extremely high risks.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>Because people with cash reserves can use funds immediately in an emergency, while those without cash reserves may face the risk of a broken capital chain. Those who have loans have more cash reserves in the face of crises and have stronger risk resistance than those who do not have cash reserves.</p>
 <blockquote>
 <p>A house is a consumer product. It is a kind of money-eating support, not an investment, and it is a very high-risk support.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This sentence emphasizes the attribute of real estate as a consumer product rather than an investment product, as well as its potential high risks, including natural disasters and maintenance costs.</p>
 <blockquote>
 <p>To succeed in investing, you must control your emotions. The first thing is to control your emotions. If you cannot control your emotions, please do not invest.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>Emphasizes the importance of emotional control in investing. Investing requires rationality, avoiding emotional decisions.</p>
 <blockquote>
 <p>In capitalism, if you have money, buy index funds, and you will become rich.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>Emphasizes that in a capitalist society, long-term investment in index funds is an effective way to achieve wealth growth. Due to their diversified investment characteristics, index funds can reduce risks and obtain average market returns.</p>
 <blockquote>
 <p>You have to recognize that real estate is a high-risk support, so it is very strange that everyone thinks that directly investing in 100 companies is very risky, but buying a house with all their assets is also very special.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This view challenges people&rsquo;s general perception of real estate as a safe asset. Real estate is a high-risk asset with risks such as windstorms, floods, earthquakes, and fires.</p>
 <blockquote>
 <p>If you have been speculating, then you will go bankrupt in this market. There is no need to say that if you do too much, you will go bankrupt.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This sentence warns of the risks of speculative behavior and emphasizes the importance of long-term investment. Frequent trading not only generates high transaction costs but also increases investment risk.</p>
 <blockquote>
 <p>Money is not our purpose. Money is not our purpose. The whole experience of life requires money. That is our purpose.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This sentence emphasizes the essence of money as a tool, and the real purpose of life is experience and spiritual satisfaction. We should use money to create a better experience, not just accumulate numbers.</p>
 <blockquote>
 <p>All passers-by, all the dogma of the financial industry are deceiving you.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>Criticism of the traditional financial system and dogma. Only you don&rsquo;t know. Capitalists know it, politicians know it, but only the workers don&rsquo;t know it. 99.99% of the workers think that they are living in reality and in a real environment. In fact, you are living in a scripted life without knowing it.</p>
 <blockquote>
 <p>Suppose you start working today, then you can borrow $20,000 every year. Then how much more will you have? You will have an extra $30 million.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This view quantifies the huge impact of leveraged investing on wealth growth. Moderate borrowing can amplify investment returns and accelerate wealth accumulation.</p>
 <blockquote>
 <p>This is the power of compound interest, and let me give you an example. In the United States, 401K is $20,000. Suppose you invest $20,000 every year when you are young. With an annualized rate of return of 14%, in 40 years, you will have $30 million. You just invest without doing anything.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This view reveals the great power of compound interest in long-term investment. Even a small amount of money can accumulate into amazing wealth through long-term compound interest growth.</p>
 
 
@@ -1669,20 +1659,15 @@
     
 </h2>
 <blockquote>
-<p>Diligence in practice makes one invincible!</p>
-</blockquote>
+<p>Diligence in practice makes one invincible!</p></blockquote>
 <blockquote>
-<p>Regular investing is the only reliable investment method for ordinary people.</p>
-</blockquote>
+<p>Regular investing is the only reliable investment method for ordinary people.</p></blockquote>
 <blockquote>
-<p>There are no investment targets that only rise, only those that rise in the long term.</p>
-</blockquote>
+<p>There are no investment targets that only rise, only those that rise in the long term.</p></blockquote>
 <blockquote>
-<p>Be proactive when you should be, and passive when you should be.</p>
-</blockquote>
+<p>Be proactive when you should be, and passive when you should be.</p></blockquote>
 <blockquote>
-<p>Your money may not be much, but it has no expiration date.</p>
-</blockquote>
+<p>Your money may not be much, but it has no expiration date.</p></blockquote>
 
 
 <h2 class="relative group">IV.  Guiding Significance 
@@ -1748,7 +1733,7 @@
 
       </span>
       <div id="github-e02127fda5246656fa0433195f17cabe-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
-        5750
+        5759
       </div>
 
       <span class="text-md mr-1 text-neutral-800 dark:text-neutral">
@@ -2104,40 +2089,31 @@
     
 </h2>
 <blockquote>
-<p>Don&rsquo;t keep your money in the bank.</p>
-</blockquote>
+<p>Don&rsquo;t keep your money in the bank.</p></blockquote>
 <p>Analysis: This doesn&rsquo;t literally mean not keeping any money in the bank, but emphasizes not leaving most assets in low-yield bank deposits long-term.  Invest in higher-yielding tools like stocks and real estate.</p>
 <blockquote>
-<p>Building wealth requires patience.</p>
-</blockquote>
+<p>Building wealth requires patience.</p></blockquote>
 <p>Analysis: The compound interest effect takes time. Financial management is a marathon, not a sprint, requiring patient waiting for ultimate success.</p>
 <blockquote>
-<p>The earlier you invest, the better.</p>
-</blockquote>
+<p>The earlier you invest, the better.</p></blockquote>
 <p>Analysis: Youth is the greatest asset. The earlier you start managing your finances, the sooner you can enjoy the benefits of compound interest and achieve financial freedom.</p>
 <blockquote>
-<p>Make money with other people&rsquo;s money.</p>
-</blockquote>
+<p>Make money with other people&rsquo;s money.</p></blockquote>
 <p>Analysis:  Proper use of financial leverage can magnify investment returns and accelerate wealth accumulation.</p>
 <blockquote>
-<p>Diversify investments and hold long-term.</p>
-</blockquote>
+<p>Diversify investments and hold long-term.</p></blockquote>
 <p>Analysis: Diversification reduces risk. Long-term holding yields higher returns and avoids being affected by market fluctuations.</p>
 <blockquote>
-<p>Buy casually, buy anytime, don&rsquo;t sell.</p>
-</blockquote>
+<p>Buy casually, buy anytime, don&rsquo;t sell.</p></blockquote>
 <p>Analysis:  The core of this is long-term holding and avoiding frequent trading to prevent being impacted by short-term market fluctuations.</p>
 <blockquote>
-<p>Knowing and not doing is the same as not knowing.</p>
-</blockquote>
+<p>Knowing and not doing is the same as not knowing.</p></blockquote>
 <p>Analysis: Knowledge without action is equivalent to no knowledge. The key to financial management lies in action, not just thinking.</p>
 <blockquote>
-<p>Wealth lies in land.</p>
-</blockquote>
+<p>Wealth lies in land.</p></blockquote>
 <p>Analysis: Real estate is a crucial long-term value-preserving and appreciating investment tool that should hold a significant place in your portfolio.</p>
 <blockquote>
-<p>Money is only a means, improving the quality of life is the goal.</p>
-</blockquote>
+<p>Money is only a means, improving the quality of life is the goal.</p></blockquote>
 <p>Analysis: Money itself is meaningless; its value lies in how it&rsquo;s used. The ultimate goal is to improve the quality of life and realize one&rsquo;s life value.</p>
 
 
@@ -2512,8 +2488,7 @@
 </h2>
 <blockquote>
 <p>What influences a person&rsquo;s future wealth the most,
-is whether they have started managing their finances.</p>
-</blockquote>
+is whether they have started managing their finances.</p></blockquote>
 <p><strong>Everyone Can Achieve Wealth Through Personal Finance</strong></p>
 <p>This book aims to illustrate a simple truth: investing and managing your finances can not only improve the financial situation of an individual or family, but is also an excellent path to wealth creation.  Furthermore, anyone can achieve wealth through personal finance. You don&rsquo;t need to be rich, have a high income, possess a high degree, have specialized knowledge or advanced skills, nor rely on luck. What you need is the desire for wealth, a correct investment philosophy (not just techniques), and the patience to wait for the long term.  Therefore, whether a person has money or not, or how high their income is, doesn&rsquo;t matter. What truly influences a person&rsquo;s future wealth is whether they have started managing their finances. This endeavor is not easy, but it&rsquo;s undoubtedly worth your effort!</p>
 <p>Readers, please immediately review your current asset allocation. Is too much of your capital sitting in bank accounts or other &ldquo;guaranteed return&rdquo; investments?  Is your investment portfolio sufficiently diversified? Do you frequently buy and sell in the stock market?</p>
@@ -2633,8 +2608,7 @@ Written by Mr. Huang Peiyuan from Taiwan, this book&rsquo;s greatest strength li
 </h2>
 <blockquote>
 <p>When I was young, I thought that money was the most important thing in life; now that I am old, I know that it is.</p>
-<p>— Oscar Wilde, British playwright</p>
-</blockquote>
+<p>— Oscar Wilde, British playwright</p></blockquote>
 <p>This book is written for those who are determined to become wealthy and strive for financial independence. If you have tried every possible way to get rich and your home is filled with investment books, but you still can&rsquo;t figure out how to achieve wealth in your lifetime, congratulations! You have found the book you need. The investment and financial management concepts and methods described in this book are absolutely understandable and achievable for everyone. As long as you put them into practice, becoming a millionaire is not difficult.</p>
 <p>I see many people working tirelessly to make money, hoping to improve their own and their families&rsquo; financial situation, but they can&rsquo;t find the right way. Many people clearly have the conditions to become rich through financial management, but they don&rsquo;t know how to manage their finances, resulting in missed opportunities.  Others know that investment and financial management can lead to wealth, but the problem is that what they know is not true, leading them astray and suffering from financial mismanagement.  The author sees these phenomena and often feels sorry for them.</p>
 <p>The biggest problem in Taiwan at present is the serious lack of financial education. The public lacks a correct concept of financial management. They either don&rsquo;t know how to manage their finances and neglect it, or they use the wrong methods. As a result, some people not only fail to achieve wealth through financial management, but even fail to achieve basic financial independence.  Insufficient or incorrect financial concepts are harmful not only to one&rsquo;s own financial situation, but also to the public. This is the main motivation for the author to write this book, and what this book offers readers is the correct basic concept of investment and financial management.</p>
@@ -3045,44 +3019,34 @@ Use code with caution.</p>
     
 </h2>
 <blockquote>
-<p>You don&rsquo;t have to be a financial expert; even with a moderate income, you can achieve financial freedom through prudent spending and rational investing.</p>
-</blockquote>
+<p>You don&rsquo;t have to be a financial expert; even with a moderate income, you can achieve financial freedom through prudent spending and rational investing.</p></blockquote>
 <p>This encapsulates the core message of the book:  financial management and investment are not exclusive to the wealthy; ordinary people can also achieve financial freedom through learning and practical application.</p>
 <blockquote>
-<p>Time is money.</p>
-</blockquote>
+<p>Time is money.</p></blockquote>
 <p>This emphasizes that time is our most valuable asset. The earlier you start investing, the longer the time horizon for compound interest to work its magic, leading to faster wealth accumulation.</p>
 <blockquote>
-<p>A successful investor should follow two principles: the first is to never lose money and the second is to never forget the first principle.</p>
-</blockquote>
+<p>A successful investor should follow two principles: the first is to never lose money and the second is to never forget the first principle.</p></blockquote>
 <p>This quote highlights the importance of risk management and capital preservation in investing.</p>
 <blockquote>
-<p>The investor&rsquo;s task is to focus on the horse, not the jockey.</p>
-</blockquote>
+<p>The investor&rsquo;s task is to focus on the horse, not the jockey.</p></blockquote>
 <p>This means that investors should prioritize a company&rsquo;s intrinsic value over the fund manager&rsquo;s individual ability. Over the long run, a company&rsquo;s profitability is the most important factor determining its stock price.</p>
 <blockquote>
-<p>If you plan to live off hamburgers for the rest of your life, but you don&rsquo;t own any cattle, would you want beef prices to go up or down?</p>
-</blockquote>
+<p>If you plan to live off hamburgers for the rest of your life, but you don&rsquo;t own any cattle, would you want beef prices to go up or down?</p></blockquote>
 <p>Buffett used this analogy to illustrate that stocks represent ownership in a company. When share prices fall, long-term investors should view it as an opportunity to buy more shares.</p>
 <blockquote>
-<p>The most insidious devil is the high cost associated with holding certain actively managed funds.</p>
-</blockquote>
+<p>The most insidious devil is the high cost associated with holding certain actively managed funds.</p></blockquote>
 <p>This quote emphasizes that investment costs are one of the most important factors affecting investment returns. Choosing low-cost index funds maximizes gains.</p>
 <blockquote>
-<p>How much you can accumulate in your lifetime depends not on how much you can earn, but on how you invest. Money finds people more effectively than people find money. Let your money work for you, not the other way around.</p>
-</blockquote>
+<p>How much you can accumulate in your lifetime depends not on how much you can earn, but on how you invest. Money finds people more effectively than people find money. Let your money work for you, not the other way around.</p></blockquote>
 <p>Buffett stresses the importance of investment and financial management, pointing out that wealth accumulation relies not only on income but also on how you manage and invest your money.</p>
 <blockquote>
-<p>Too much money can harm investment returns.</p>
-</blockquote>
+<p>Too much money can harm investment returns.</p></blockquote>
 <p>This seemingly paradoxical statement highlights a critical principle: avoid over-diversification and the blind pursuit of high returns. Concentrating your investments in a few high-quality assets and holding them for the long term often yields better results.</p>
 <blockquote>
-<p>In stock investing, luck inevitably plays a role, but in the long run, good luck and bad luck offset each other. For sustained success, skills and sound principles are essential.</p>
-</blockquote>
+<p>In stock investing, luck inevitably plays a role, but in the long run, good luck and bad luck offset each other. For sustained success, skills and sound principles are essential.</p></blockquote>
 <p>This emphasizes that the key to successful investing lies in mastering the correct investment philosophy and principles and adhering to them in the long term, rather than relying on luck.</p>
 <blockquote>
-<p>Let time and money work for you; you just need to sit back and wait for the results.</p>
-</blockquote>
+<p>Let time and money work for you; you just need to sit back and wait for the results.</p></blockquote>
 <p>This emphasizes the power of long-term investment and compound interest. By choosing the right investment method and being patient, significant returns will follow.</p>
 
 
@@ -3335,23 +3299,19 @@ Use code with caution.</p>
 </h2>
 <blockquote>
 <p>Spending money is moral.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Spending money should not be seen as negative; knowing how to spend and being willing to spend is the only way to truly enjoy the freedom that wealth brings. Also emphasized taking advantage of credit card benefits, points, etc.</p>
 <blockquote>
 <p>The more we know, the greater the risks we don&rsquo;t know.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>As our knowledge increases, we need to be more cautious in identifying and assessing potential unknown risks. The real risk is the unknown risk.</p>
 <blockquote>
 <p>The class of those who know and those who don&rsquo;t.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>There is a disparity in information and knowledge in capitalist society, leading to class differentiation between those who know and those who don&rsquo;t. Wealth and capital are concentrated in the hands of a few.</p>
 <blockquote>
 <p>I may not know where I&rsquo;m sailing, but I know there are some paths I can no longer take.
-&ndash; Sam</p>
-</blockquote>
+&ndash; Sam</p></blockquote>
 <p>On the road of life, clarifying what you don&rsquo;t want is more important than knowing what you want.</p>
 
 

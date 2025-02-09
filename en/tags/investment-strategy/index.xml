@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Investment Strategy on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/investment-strategy/</link><description>Recent content in Investment Strategy on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/investment-strategy/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/en/</link><pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Investment Strategy on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/investment-strategy/</link><description>Recent content in Investment Strategy on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/investment-strategy/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/en/</link><pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
@@ -53,8 +53,8 @@
   <span
     
       class="dark:text-neutral-300"
-    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2009/12</strong>, and held it for <strong>15</strong> years, by
-<strong>2024/12</strong> it would be worth <strong>$11174.43</strong>, with a total return of <strong>1017.44%</strong> (annualized return of <strong>17.46%</strong>).</span>
+    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2010/01</strong>, and held it for <strong>15</strong> years, by
+<strong>2025/01</strong> it would be worth <strong>$12205.89</strong>, with a total return of <strong>1120.59%</strong> (annualized return of <strong>18.14%</strong>).</span>
 </div>
 
 <br>
@@ -66,7 +66,7 @@
       const ctx = document.getElementById("chart-3f42e1dde0a3be6b7dd45d9363bdb47b");
       const chart = new Chart(ctx, {
         
-    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1000.0, 1190.3825136612022, 1220.327868852459, 1423.606557377049, 1922.622950819672, 2256.830601092896, 2445.0273224043717, 2589.726775956284, 3404.590163934426, 3371.803278688524, 4647.213114754099, 6857.704918032787, 8696.174863387978, 5820.327868852458, 8951.256830601093, 11174.426229508197], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.0, 0.1903825136612022, 0.025156077855306616, 0.16657710908113907, 0.350529709811147, 0.17382901318781255, 0.08338983050847476, 0.05918111925621308, 0.31465226198514507, -0.009630200308166482, 0.3782574873590045, 0.47565965852970216, 0.2680882259195512, -0.3307025260776676, 0.5379299984978221, 0.24836393826919329], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]},
+    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1272.7272727272727, 1304.744099088572, 1522.084599205422, 2055.6204720729143, 2412.9469502220145, 2614.162187426969, 2768.8712315961675, 3640.1028277634964, 3605.047908389811, 4968.684272026175, 7332.086936200048, 9297.733115213836, 6222.949287216639, 9570.460387941108, 11947.417620939474, 12205.88922645478], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.27272727272727276, 0.0251560778553066, 0.16657710908113926, 0.3505297098111469, 0.17382901318781263, 0.08338983050847461, 0.059181119256213145, 0.3146522619851452, -0.009630200308166454, 0.3782574873590044, 0.4756596585297023, 0.26808822591955117, -0.33070252607766754, 0.5379299984978219, 0.24836393826919337, 0.02163409815542893], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]},
     options: {
         scales: {
             'price-axis': {
@@ -1070,71 +1070,61 @@
 </h2>
 <blockquote>
 <p>Investing requires learning, new members need to watch previous videos to learn systematically.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>The background of this idea is the influx of new members, who are asking many questions that have already been answered in previous videos. Therefore new members need systematic learning.</li>
 </ul>
 <blockquote>
 <p>Acknowledging one’s own ignorance is power, and ignorance is wisdom.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>The reason why many retail investors lose money is that they are overconfident, trade frequently, chase highs and sell lows, and cannot understand the essence of the market. Acknowledging one&rsquo;s cognitive limitations is necessary to avoid making rash decisions, and to make more rational investment decisions.</li>
 </ul>
 <blockquote>
 <p>It’s great to have money, you can use it to resolve worries, and to buy relationships.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This is based on Brian’s sharing of his experiences after gaining financial independence, and his ability to spend his own money, and treat his family, which gave him more freedom and control. It shows the conveniences that money provides.</li>
 </ul>
 <blockquote>
 <p>Humanity is growing at an accelerating pace, and investment returns will get higher and higher.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This conclusion is based on data on QQQ&rsquo;s past 20 years of investment returns, and emphasizes the effects of compound interest due to technological developments. Long-term investment in high-quality assets that are representative of the direction of technological development allows one to share the bonuses of human progress.</li>
 </ul>
 <blockquote>
 <p>Encourage borrowing for investment, leave only 1 million in the estate, show respect.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This is based on long-term investments, compounding returns, and sensible asset allocation, allowing one to maximize wealth, and to use loans to enhance one&rsquo;s quality of life, or to help others. With sensible asset allocation, loans for investment can accelerate the growth of wealth, and not simply accumulating wealth to leave to the next generation.</li>
 </ul>
 <blockquote>
 <p>There are no shortcuts in investing, only through systematic learning and practice can one master correct investment methods.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This is a message to those who are trying to find investment skills and shortcuts, but are unwilling to learn systematically. Investing is a complex field of study that requires continuous learning and practice in order to improve one&rsquo;s investment expertise.</li>
 </ul>
 <blockquote>
 <p>When you own equity assets in Wall Street stocks, you own the world.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This is an emphasis on the importance of long-term holdings of high-quality equity assets. Stocks are not merely an investment tool, but also represent ownership of a company. By holding the stocks of the world’s best companies, one can share in the wealth generated by these companies worldwide.</li>
 </ul>
 <blockquote>
 <p>Don’t try to make money that isn’t necessary.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This is to advise investors not to over-pursue short-term gains while overlooking the value of long-term investing. We should focus our main time and energy on our work and lives, instead of spending too much time researching short-term market fluctuations or attempting to earn the difference by trading frequently.</li>
 </ul>
 <blockquote>
 <p>The numbers 442 and 433 are merely references, and the specific asset allocation ratio must be adjusted according to individual situations.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This is to emphasize the flexibility and personalization of asset allocation. Each person has a different risk tolerance, investment goals, capital size, etc., and therefore, they need to devise the appropriate asset allocation plan based on their actual situation.</li>
 </ul>
 <blockquote>
 <p>Protecting account security is very important.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This reminds investors to take account security seriously, and to take the necessary actions to prevent the account from being stolen or accidentally mishandled. Because if this occurs, it will lead to severe losses, and especially for long-term held assets, the losses would be even greater.</li>
 </ul>
@@ -1196,8 +1186,7 @@
     
 </h2>
 <blockquote>
-<p>Land possesses the characteristic of scarcity.</p>
-</blockquote>
+<p>Land possesses the characteristic of scarcity.</p></blockquote>
 
 
 <h3 class="relative group">Why Real Estate Offers High Returns 
@@ -1229,8 +1218,7 @@
 <p>The three secrets to real estate investment:</p>
 <ol>
 <li>Location, 2. Location, 3. Location.</li>
-</ol>
-</blockquote>
+</ol></blockquote>
 
 
 <h3 class="relative group">Lee Shau Kee&rsquo;s Real Estate Investment Strategy 
@@ -1258,8 +1246,7 @@
 <p>From many perspectives, real estate is a better investment than stocks. While stocks can be a good investment, their prices fluctuate significantly. Listed stocks are traded centrally on exchanges with transparent pricing, leading to daily ups and downs that can be nerve-wracking for investors, especially when prices drop immediately after purchase.  Holding stocks requires enduring the shock of substantial price swings, bringing joy during rises and pain during falls. Unfortunately, stock prices inevitably fluctuate.</p>
 <p>Some people experience pain regardless of whether prices rise or fall.  During downturns, they regret their initial investment and don&rsquo;t buy more at lower prices. During upturns, they regret not buying more initially.  Their emotions are constantly affected by price movements.  Real estate investment, on the other hand, doesn&rsquo;t have these problems. Even if real estate prices fluctuate daily, it&rsquo;s not readily apparent, allowing for a &ldquo;buy and hold&rdquo; strategy and enjoying the benefits of economic growth.</p>
 <blockquote>
-<p>Land near mountains or at the edge of development will inevitably appreciate in value.</p>
-</blockquote>
+<p>Land near mountains or at the edge of development will inevitably appreciate in value.</p></blockquote>
 
 
 <h3 class="relative group">Tsai Wan-lin&rsquo;s Secret to Real Estate Riches 
@@ -1295,8 +1282,7 @@
 <p>Generally, there are several signs of an impending price increase: rising stock prices, favorable government policies, and the central bank lowering interest rates to loosen monetary policy. Stock prices are a good predictor of economic activity.  Rising stock prices increase available funds, which often fuels real estate price increases.</p>
 <p>Real estate is a &ldquo;locomotive&rdquo; industry.  To stimulate an economy, it&rsquo;s essential to stimulate real estate prices.  When the government injects capital into the market and lowers interest rates to boost the economy, it often presents an excellent opportunity to invest in both real estate and stocks.</p>
 <blockquote>
-<p>The two secrets to land investment are &ldquo;wait&rdquo; and &ldquo;endure.&rdquo;  The right time to develop can often take two decades.</p>
-</blockquote>
+<p>The two secrets to land investment are &ldquo;wait&rdquo; and &ldquo;endure.&rdquo;  The right time to develop can often take two decades.</p></blockquote>
 
 
 <h3 class="relative group">Cheng Chou-ming&rsquo;s Real Estate Investment Strategy 
@@ -1328,8 +1314,7 @@
 <p>Several reputable construction companies in Taiwan are now emphasizing community management and after-sales service.  For instance, Taichung&rsquo;s Sancai Construction, the company where the author currently works, entrusts community management to an affiliated company, integrating software and hardware services to create a safe and comfortable living environment.  Sancai Construction also provides security, repairs, bill payment services, and housekeeping services.</p>
 <p>Therefore, future real estate investors should consider not only location and environment but also the developer&rsquo;s brand, quality, and after-sales service.  Choosing a reputable company with quality assurance, good after-sales service, and effective management is crucial for successful real estate investment.</p>
 <blockquote>
-<p>As long as you avoid buying during periods of rapidly rising prices, the risk of leveraged investment is relatively low.</p>
-</blockquote>
+<p>As long as you avoid buying during periods of rapidly rising prices, the risk of leveraged investment is relatively low.</p></blockquote>
 
 
 <h3 class="relative group">Leveraged Investment in Real Estate 
@@ -1366,8 +1351,7 @@
     
 </h2>
 <blockquote>
-<p>Don&rsquo;t put all your eggs in one basket.</p>
-</blockquote>
+<p>Don&rsquo;t put all your eggs in one basket.</p></blockquote>
 
 
 <h3 class="relative group">Diversification and Long-Term Holding 
@@ -1404,8 +1388,7 @@
 <blockquote>
 <p>Invest in ten ships.
 Three sink.
-The remaining ones still generate profits.</p>
-</blockquote>
+The remaining ones still generate profits.</p></blockquote>
 
 
 <h3 class="relative group">Principles of Diversification 
@@ -1440,8 +1423,7 @@ The remaining ones still generate profits.</p>
 <p>Some argue for concentrating investments: &ldquo;Put all your eggs in one basket and watch it carefully.&rdquo; Admittedly, many successful investors concentrate their holdings.  Few individuals are experts in both stocks and real estate. The choice between diversification and concentration depends on individual circumstances. If you&rsquo;re proficient in a specific investment area, concentration might be preferable, offering potentially higher returns.  For example, a real estate expert wouldn&rsquo;t necessarily diversify into stocks.  Over-diversification could have hindered their success.</p>
 <p>If you lack confidence in most investment areas, diversification is recommended. While it might not yield exceptional returns, it protects against significant losses. Diversified returns are close to average returns. As long as the chosen investments tend to appreciate over the long term, like stocks and real estate, achieving average returns is sufficient for wealth building.</p>
 <blockquote>
-<p>Mitigate the risk of incorrect investment timing by diversifying investment timing.</p>
-</blockquote>
+<p>Mitigate the risk of incorrect investment timing by diversifying investment timing.</p></blockquote>
 
 
 <h3 class="relative group">Diversifying Investment Timing 
@@ -1461,8 +1443,7 @@ The remaining ones still generate profits.</p>
 <p><strong>Reducing the Risk of Choosing the Wrong Selling Timing - Long-Term Holding</strong></p>
 <blockquote>
 <p>Long-term holding reduces the likelihood of losses.
-Choose long-term investment instead of being forced into it after becoming trapped.</p>
-</blockquote>
+Choose long-term investment instead of being forced into it after becoming trapped.</p></blockquote>
 <p>Years ago, during training at Merrill Lynch, a securities analyst stated: &ldquo;Statistically, the stock market rises 55% of the days and falls 45%.  The problem is, we don&rsquo;t know which days will be up.&rdquo; The ratio of gains and losses in the Taiwan stock market is similar.</p>
 <p>Therefore, if you, like the experts, don&rsquo;t know whether the market will rise or fall tomorrow, the smartest approach is to guess it will rise.  The more you guess, the higher your probability of being correct. If you consistently predict a market rise, the best strategy is: <strong>Buy whenever you have money, and hold.</strong> This seemingly simple approach is often the most effective.  Many fortunes have been built this way.</p>
 <p>Stocks and real estate are characterized by high returns and high risks. Due to their inherent risk, prices fluctuate in the short term, but their high returns generate a long-term upward trend.  The longer the holding period, the lower the probability of loss.  My research on the Taiwan stock market showed that the probability of gains and losses changes with the holding period, as shown below:</p>
@@ -1635,58 +1616,47 @@ Choose long-term investment instead of being forced into it after becoming trapp
 </h2>
 <blockquote>
 <p>The best time to buy is when you have money.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Many obsess over finding the perfect entry point, but research indicates that even if you could perfectly time market dips, the long-term returns barely differ from simply buying when funds are available. Instead of wasting time trying to predict the market, seize the opportunity and act promptly.</p>
 <blockquote>
 <p>To succeed in investing, you must be indifferent to the money you invest and the fluctuations in stock prices.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Overcoming the human tendency to fixate on money and fear short-term market swings is essential for maintaining a long-term investment strategy and achieving stable returns.</p>
 <blockquote>
 <p>To achieve effortless investing, you need to be numb to money.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>When investing becomes a habit, free from emotional impulses and external distractions, you can achieve optimal results.</p>
 <blockquote>
 <p>The concept of a &ldquo;benefactor&rdquo; is relative.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>People perceive and absorb information differently. Who you consider a benefactor might not be perceived as such by others.</p>
 <blockquote>
 <p>Don&rsquo;t try to change other people&rsquo;s values.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Everyone has their own values and ways of life. It&rsquo;s important to understand and respect diverse choices.</p>
 <blockquote>
 <p>Espionage is everywhere.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Information security is a growing concern. Be vigilant and protect your personal data.</p>
 <blockquote>
 <p>Acquisitions of large companies are generally inefficient, and leaders who are fond of acquisitions usually have inflated egos.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Integration complexities and high management costs associated with mergers often outweigh the benefits gained.</p>
 <blockquote>
 <p>The US excels in areas such as finance and technology design, while Asian countries can only substitute and supplement in specific aspects.
-&ndash; Haoqing</p>
-</blockquote>
+&ndash; Haoqing</p></blockquote>
 <p>Within the global division of labor, different countries have distinct strengths and weaknesses, leading to divergent paths of development.</p>
 <blockquote>
 <p>The best judgments are validated by facts.
-&ndash; Mike</p>
-</blockquote>
+&ndash; Mike</p></blockquote>
 <p>The success of an investment philosophy is ultimately determined by its long-term returns, not short-term fluctuations or gut feelings.</p>
 <blockquote>
 <p>Your attitude determines my response.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>James adjusts his responses based on the learning attitude of the attendees. Attendees who are truly dedicated to learning will receive greater guidance.</p>
 <blockquote>
 <p>Investing in individual stocks will ultimately lead to bankruptcy; holding onto individual stocks will also ultimately lead to bankruptcy.<br>
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Companies have lifecycles.  Holding onto a single stock long term significantly increases the risk of encountering bankruptcy. Diversification is key in investing.</p>
 
 

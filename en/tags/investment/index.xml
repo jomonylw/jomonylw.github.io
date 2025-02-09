@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Investment on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/investment/</link><description>Recent content in Investment on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/investment/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/en/</link><pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Investment on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/investment/</link><description>Recent content in Investment on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/investment/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/en/</link><pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
@@ -53,8 +53,8 @@
   <span
     
       class="dark:text-neutral-300"
-    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2009/12</strong>, and held it for <strong>15</strong> years, by
-<strong>2024/12</strong> it would be worth <strong>$11174.43</strong>, with a total return of <strong>1017.44%</strong> (annualized return of <strong>17.46%</strong>).</span>
+    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2010/01</strong>, and held it for <strong>15</strong> years, by
+<strong>2025/01</strong> it would be worth <strong>$12205.89</strong>, with a total return of <strong>1120.59%</strong> (annualized return of <strong>18.14%</strong>).</span>
 </div>
 
 <br>
@@ -66,7 +66,7 @@
       const ctx = document.getElementById("chart-3f42e1dde0a3be6b7dd45d9363bdb47b");
       const chart = new Chart(ctx, {
         
-    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1000.0, 1190.3825136612022, 1220.327868852459, 1423.606557377049, 1922.622950819672, 2256.830601092896, 2445.0273224043717, 2589.726775956284, 3404.590163934426, 3371.803278688524, 4647.213114754099, 6857.704918032787, 8696.174863387978, 5820.327868852458, 8951.256830601093, 11174.426229508197], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.0, 0.1903825136612022, 0.025156077855306616, 0.16657710908113907, 0.350529709811147, 0.17382901318781255, 0.08338983050847476, 0.05918111925621308, 0.31465226198514507, -0.009630200308166482, 0.3782574873590045, 0.47565965852970216, 0.2680882259195512, -0.3307025260776676, 0.5379299984978221, 0.24836393826919329], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]},
+    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1272.7272727272727, 1304.744099088572, 1522.084599205422, 2055.6204720729143, 2412.9469502220145, 2614.162187426969, 2768.8712315961675, 3640.1028277634964, 3605.047908389811, 4968.684272026175, 7332.086936200048, 9297.733115213836, 6222.949287216639, 9570.460387941108, 11947.417620939474, 12205.88922645478], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.27272727272727276, 0.0251560778553066, 0.16657710908113926, 0.3505297098111469, 0.17382901318781263, 0.08338983050847461, 0.059181119256213145, 0.3146522619851452, -0.009630200308166454, 0.3782574873590044, 0.4756596585297023, 0.26808822591955117, -0.33070252607766754, 0.5379299984978219, 0.24836393826919337, 0.02163409815542893], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]},
     options: {
         scales: {
             'price-axis': {
@@ -1391,63 +1391,51 @@
 </h2>
 <blockquote>
 <p>The only constant in the market is volatility.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint emphasizes the normality of market fluctuations. Investors should be mentally prepared and not be affected by short-term market fluctuations.</p>
 <blockquote>
 <p>Investing requires independent thinking. Do not blindly follow advice or join any groups to avoid being deceived.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint emphasizes the importance of independent thinking in investing. Investors should make investment decisions based on their own judgment rather than blindly following others&rsquo; opinions or joining unreliable investment groups.</p>
 <blockquote>
 <p>The happiest thing in life is giving. Happiness is a human right. Sharing and giving energy on a spiritual level can bring more happiness than material things.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint emphasizes that spiritual pursuits are more important than material ones. Giving and sharing can bring greater happiness.</p>
 <blockquote>
 <p>If you, as a commercial bank, do lending well, then focus on lending. Deposits are 2%. Then your lending is 3.5%, 4%. You just make that 2% difference. This is what a commercial bank should do. Commerce should not touch insurance.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint points out that commercial banks should focus on deposit and loan business instead of being involved in areas like insurance, which not only violates financial regulations but also harms the interests of customers.</p>
 <blockquote>
 <p>Happiness is a human right. If you are alive, you should be happy. If you live so miserably, why bother?
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint reminds everyone to pursue happiness and not sacrifice their happiness for money or other goals.</p>
 <blockquote>
 <p>Impotence is also a kind of strength because accepting one&rsquo;s own impotence and acknowledging one&rsquo;s own impotence is also a kind of strength.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint expresses a broad-minded attitude towards life. Acknowledging one&rsquo;s limitations is not a bad thing; instead, it can make one more relaxed.</p>
 <blockquote>
 <p>The truly wealthy are those who foresee a future eternally disconnected from government oversight, swiftly settling their dues to escape the clutches of authority.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This perspective highlights how affluent individuals utilize legitimate tax avoidance strategies to minimize governmental control over their wealth.</p>
 <blockquote>
 <p>Learning from the experiences of others is a wise approach.
-&ndash; IM</p>
-</blockquote>
+&ndash; IM</p></blockquote>
 <p>This viewpoint emphasizes the importance of learning and drawing lessons from others&rsquo; experiences, which can help us avoid making the same mistakes.</p>
 <blockquote>
 <p>When others are greedy, you should be fearful; when others are fearful, you should be greedy.
-&ndash; Teacher James, quoting Buffett</p>
-</blockquote>
+&ndash; Teacher James, quoting Buffett</p></blockquote>
 <p>This is a very important principle in investing, namely, contrarian thinking, staying calm when the market is frenzied and looking for opportunities when the market is panicking.</p>
 <blockquote>
 <p>Just be happy. There&rsquo;s nothing to it, nothing to fight for, no particular meaning, nothing that grand or great.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint expresses a detached attitude towards life. Don&rsquo;t put too much pressure on yourself; learn to enjoy life.</p>
 <blockquote>
 <p>Don&rsquo;t wait until it&rsquo;s too late, leaving no time for regrets.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>Drawing on investment principles, this perspective underscores the importance of early health screenings, urging not to wait until problems arise before regretting, echoing Xiao Cai&rsquo;s shared viewpoint.</p>
 <blockquote>
 <p>We investors are always extremely optimistic. Market fluctuations should be ignored. The market will eventually rise and always reach new highs.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint emphasizes the optimistic attitude towards the long-term trend of the market and the neglect of short-term fluctuations, demonstrating the proper mindset for long-term investors.</p>
 
 
@@ -1705,20 +1693,15 @@
     
 </h2>
 <blockquote>
-<p>Diligence in practice makes one invincible!</p>
-</blockquote>
+<p>Diligence in practice makes one invincible!</p></blockquote>
 <blockquote>
-<p>Regular investing is the only reliable investment method for ordinary people.</p>
-</blockquote>
+<p>Regular investing is the only reliable investment method for ordinary people.</p></blockquote>
 <blockquote>
-<p>There are no investment targets that only rise, only those that rise in the long term.</p>
-</blockquote>
+<p>There are no investment targets that only rise, only those that rise in the long term.</p></blockquote>
 <blockquote>
-<p>Be proactive when you should be, and passive when you should be.</p>
-</blockquote>
+<p>Be proactive when you should be, and passive when you should be.</p></blockquote>
 <blockquote>
-<p>Your money may not be much, but it has no expiration date.</p>
-</blockquote>
+<p>Your money may not be much, but it has no expiration date.</p></blockquote>
 
 
 <h2 class="relative group">IV.  Guiding Significance 
@@ -1784,7 +1767,7 @@
 
       </span>
       <div id="github-e02127fda5246656fa0433195f17cabe-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
-        5750
+        5759
       </div>
 
       <span class="text-md mr-1 text-neutral-800 dark:text-neutral">
@@ -2087,16 +2070,13 @@
     
 </h2>
 <blockquote>
-<p>&ldquo;If you&rsquo;re not investing for 20+ years, don&rsquo;t tell me you&rsquo;re investing.&rdquo; &ndash; James</p>
-</blockquote>
+<p>&ldquo;If you&rsquo;re not investing for 20+ years, don&rsquo;t tell me you&rsquo;re investing.&rdquo; &ndash; James</p></blockquote>
 <p>Investing requires a long-term perspective. Short-term market fluctuations should not influence investment decisions.</p>
 <blockquote>
-<p>&ldquo;Undamaged capital is the elixir that keeps us calm.&rdquo; &ndash; James</p>
-</blockquote>
+<p>&ldquo;Undamaged capital is the elixir that keeps us calm.&rdquo; &ndash; James</p></blockquote>
 <p>Holding cash helps investors remain composed during market volatility and seize opportunities to buy low.</p>
 <blockquote>
-<p>&ldquo;Don&rsquo;t engage with demons and monsters. If you don&rsquo;t engage, you don&rsquo;t need to train your mind.&rdquo; &ndash; James</p>
-</blockquote>
+<p>&ldquo;Don&rsquo;t engage with demons and monsters. If you don&rsquo;t engage, you don&rsquo;t need to train your mind.&rdquo; &ndash; James</p></blockquote>
 <p>Staying away from market noise and focusing on one&rsquo;s own investment strategy is key to maintaining rational investment decisions.</p>
 
 
@@ -2457,40 +2437,31 @@
     
 </h2>
 <blockquote>
-<p>Don&rsquo;t keep your money in the bank.</p>
-</blockquote>
+<p>Don&rsquo;t keep your money in the bank.</p></blockquote>
 <p>Analysis: This doesn&rsquo;t literally mean not keeping any money in the bank, but emphasizes not leaving most assets in low-yield bank deposits long-term.  Invest in higher-yielding tools like stocks and real estate.</p>
 <blockquote>
-<p>Building wealth requires patience.</p>
-</blockquote>
+<p>Building wealth requires patience.</p></blockquote>
 <p>Analysis: The compound interest effect takes time. Financial management is a marathon, not a sprint, requiring patient waiting for ultimate success.</p>
 <blockquote>
-<p>The earlier you invest, the better.</p>
-</blockquote>
+<p>The earlier you invest, the better.</p></blockquote>
 <p>Analysis: Youth is the greatest asset. The earlier you start managing your finances, the sooner you can enjoy the benefits of compound interest and achieve financial freedom.</p>
 <blockquote>
-<p>Make money with other people&rsquo;s money.</p>
-</blockquote>
+<p>Make money with other people&rsquo;s money.</p></blockquote>
 <p>Analysis:  Proper use of financial leverage can magnify investment returns and accelerate wealth accumulation.</p>
 <blockquote>
-<p>Diversify investments and hold long-term.</p>
-</blockquote>
+<p>Diversify investments and hold long-term.</p></blockquote>
 <p>Analysis: Diversification reduces risk. Long-term holding yields higher returns and avoids being affected by market fluctuations.</p>
 <blockquote>
-<p>Buy casually, buy anytime, don&rsquo;t sell.</p>
-</blockquote>
+<p>Buy casually, buy anytime, don&rsquo;t sell.</p></blockquote>
 <p>Analysis:  The core of this is long-term holding and avoiding frequent trading to prevent being impacted by short-term market fluctuations.</p>
 <blockquote>
-<p>Knowing and not doing is the same as not knowing.</p>
-</blockquote>
+<p>Knowing and not doing is the same as not knowing.</p></blockquote>
 <p>Analysis: Knowledge without action is equivalent to no knowledge. The key to financial management lies in action, not just thinking.</p>
 <blockquote>
-<p>Wealth lies in land.</p>
-</blockquote>
+<p>Wealth lies in land.</p></blockquote>
 <p>Analysis: Real estate is a crucial long-term value-preserving and appreciating investment tool that should hold a significant place in your portfolio.</p>
 <blockquote>
-<p>Money is only a means, improving the quality of life is the goal.</p>
-</blockquote>
+<p>Money is only a means, improving the quality of life is the goal.</p></blockquote>
 <p>Analysis: Money itself is meaningless; its value lies in how it&rsquo;s used. The ultimate goal is to improve the quality of life and realize one&rsquo;s life value.</p>
 
 
@@ -2865,8 +2836,7 @@
 </h2>
 <blockquote>
 <p>Money is merely a means; improving the quality of life is the ultimate goal.
-Success is getting what you want, then enjoying what you have.</p>
-</blockquote>
+Success is getting what you want, then enjoying what you have.</p></blockquote>
 
 
 <h3 class="relative group">Don&rsquo;t Be a Miser 
@@ -2896,8 +2866,7 @@ Success is getting what you want, then enjoying what you have.</p>
 <em>2. Before pursuing wealth, understand your values regarding it.</em></p>
 <blockquote>
 <p>Money, a double-edged sword, has corrupted countless souls throughout history.
-Poverty, a solitary grave, has buried countless heroes and talents.</p>
-</blockquote>
+Poverty, a solitary grave, has buried countless heroes and talents.</p></blockquote>
 
 
 <h3 class="relative group">Why Earn So Much? 
@@ -2932,8 +2901,7 @@ Poverty, a solitary grave, has buried countless heroes and talents.</p>
 <blockquote>
 <p>Acquiring wealth is difficult.
 Maintaining wealth is harder.
-Utilizing wealth is the hardest.</p>
-</blockquote>
+Utilizing wealth is the hardest.</p></blockquote>
 
 
 <h3 class="relative group">The Three Keys to Wealth Management: Earning, Managing, and Utilizing 
@@ -2979,8 +2947,7 @@ Utilizing wealth is the hardest.</p>
 </h2>
 <blockquote>
 <p>Accumulating wealth isn&rsquo;t about cutting expenses,<br>
-but about the compounding power of money making money.</p>
-</blockquote>
+but about the compounding power of money making money.</p></blockquote>
 <p>Albert Einstein, considered one of history&rsquo;s greatest scientists, was once asked, &ldquo;What is the most powerful force in the world?&rdquo; His answer wasn&rsquo;t the force of colliding planets or the power of a nuclear explosion, but &ldquo;compound interest.&rdquo;</p>
 <p>As the previous examples demonstrate, the factor that allows a yearly saving of 14,000 yuan to grow to over 100 million yuan in 40 years is &ldquo;compound interest.&rdquo; Since compound interest is the primary driver of accelerated wealth growth, understanding it is crucial for achieving financial success.</p>
 <p>Imagine two job offers: one with a monthly salary of 100,000 yuan, and another starting at 1 yuan in the first month, doubling each subsequent month.  Assuming both jobs last two years (24 months), which would you choose?</p>
@@ -3158,8 +3125,7 @@ but about the compounding power of money making money.</p>
     
 </h2>
 <blockquote>
-<p>Those who require a fully justified reason for every action are never practitioners.</p>
-</blockquote>
+<p>Those who require a fully justified reason for every action are never practitioners.</p></blockquote>
 
 
 <h3 class="relative group">Taking Action is Better Than Just Researching 
@@ -3200,8 +3166,7 @@ but about the compounding power of money making money.</p>
 <p>This farmer, lacking knowledge but daring to act, profited.  Meanwhile, market experts who thoroughly analyzed San Shang Yin missed out because they hesitated to act.</p>
 <p>Does knowledge or action bring wealth? The farmer&rsquo;s lack of knowledge might have been his advantage, while overthinking paralyzed the experts. How much do analysis and knowledge truly contribute to wealth creation? It&rsquo;s worth pondering.</p>
 <blockquote>
-<p>Active action makes dreams come true.  A strong desire for wealth fuels action.</p>
-</blockquote>
+<p>Active action makes dreams come true.  A strong desire for wealth fuels action.</p></blockquote>
 
 
 <h3 class="relative group">Your Future Wealth is in Your Hands 
@@ -3235,8 +3200,7 @@ but about the compounding power of money making money.</p>
 <p>Outperforming mutual funds through individual stock picking is challenging.  Fund managers have experience, expertise, and research teams.  Consider mutual funds, especially index funds like CTBC Harmony Fund or China 100 Fund, in the initial stages.  &ldquo;Beating the index&rdquo; is every fund manager&rsquo;s dream, but most admit it&rsquo;s incredibly difficult.  If so, mirroring the market through index funds is a viable strategy.</p>
 <p><strong>If you have savings and don&rsquo;t own property, consider buying a home as your first investment.</strong></p>
 <blockquote>
-<p>We learn more from failure than from success.  Success is built upon countless failures.</p>
-</blockquote>
+<p>We learn more from failure than from success.  Success is built upon countless failures.</p></blockquote>
 
 
 <h3 class="relative group">Learning from Mistakes 
@@ -3276,8 +3240,7 @@ but about the compounding power of money making money.</p>
 </h2>
 <blockquote>
 <p>Buy when Value is higher than Price.
-Sell when Value is lower than Price.</p>
-</blockquote>
+Sell when Value is lower than Price.</p></blockquote>
 
 
 <h3 class="relative group">Value Investing 
@@ -3317,8 +3280,7 @@ Sell when Value is lower than Price.</p>
 <p><em>1. When investing in stocks, ask &ldquo;Is it worth buying?&rdquo; not just &ldquo;Will it go up?&rdquo;</em></p>
 <p><em>2.  Learn from consumer behavior: buy when prices are discounted.</em></p>
 <blockquote>
-<p>Choose a great company, and if it keeps growing, you&rsquo;ll almost never have to sell.</p>
-</blockquote>
+<p>Choose a great company, and if it keeps growing, you&rsquo;ll almost never have to sell.</p></blockquote>
 
 
 <h3 class="relative group">Growth Investing 
@@ -3350,8 +3312,7 @@ Sell when Value is lower than Price.</p>
 <p><em>1. Real earnings growth drives stock price appreciation.</em></p>
 <p><em>2. Diversify investments in companies with sustainable 5-10 year growth potential, patiently awaiting substantial returns.</em></p>
 <blockquote>
-<p>Don&rsquo;t follow the crowd; be rational. Figure out what most people are doing, then don&rsquo;t do it.</p>
-</blockquote>
+<p>Don&rsquo;t follow the crowd; be rational. Figure out what most people are doing, then don&rsquo;t do it.</p></blockquote>
 
 
 <h3 class="relative group">Contrarian Investing 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Asset Allocation on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/asset-allocation/</link><description>Recent content in Asset Allocation on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/asset-allocation/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/en/</link><pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Asset Allocation on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/asset-allocation/</link><description>Recent content in Asset Allocation on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/asset-allocation/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/en/</link><pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
@@ -53,8 +53,8 @@
   <span
     
       class="dark:text-neutral-300"
-    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2009/12</strong>, and held it for <strong>15</strong> years, by
-<strong>2024/12</strong> it would be worth <strong>$11174.43</strong>, with a total return of <strong>1017.44%</strong> (annualized return of <strong>17.46%</strong>).</span>
+    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2010/01</strong>, and held it for <strong>15</strong> years, by
+<strong>2025/01</strong> it would be worth <strong>$12205.89</strong>, with a total return of <strong>1120.59%</strong> (annualized return of <strong>18.14%</strong>).</span>
 </div>
 
 <br>
@@ -66,7 +66,7 @@
       const ctx = document.getElementById("chart-3f42e1dde0a3be6b7dd45d9363bdb47b");
       const chart = new Chart(ctx, {
         
-    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1000.0, 1190.3825136612022, 1220.327868852459, 1423.606557377049, 1922.622950819672, 2256.830601092896, 2445.0273224043717, 2589.726775956284, 3404.590163934426, 3371.803278688524, 4647.213114754099, 6857.704918032787, 8696.174863387978, 5820.327868852458, 8951.256830601093, 11174.426229508197], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.0, 0.1903825136612022, 0.025156077855306616, 0.16657710908113907, 0.350529709811147, 0.17382901318781255, 0.08338983050847476, 0.05918111925621308, 0.31465226198514507, -0.009630200308166482, 0.3782574873590045, 0.47565965852970216, 0.2680882259195512, -0.3307025260776676, 0.5379299984978221, 0.24836393826919329], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]},
+    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1272.7272727272727, 1304.744099088572, 1522.084599205422, 2055.6204720729143, 2412.9469502220145, 2614.162187426969, 2768.8712315961675, 3640.1028277634964, 3605.047908389811, 4968.684272026175, 7332.086936200048, 9297.733115213836, 6222.949287216639, 9570.460387941108, 11947.417620939474, 12205.88922645478], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.27272727272727276, 0.0251560778553066, 0.16657710908113926, 0.3505297098111469, 0.17382901318781263, 0.08338983050847461, 0.059181119256213145, 0.3146522619851452, -0.009630200308166454, 0.3782574873590044, 0.4756596585297023, 0.26808822591955117, -0.33070252607766754, 0.5379299984978219, 0.24836393826919337, 0.02163409815542893], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]},
     options: {
         scales: {
             'price-axis': {
@@ -439,6 +439,575 @@
         
     
 </section>
+]]></content:encoded></item><item><title>00501 Don't Be Fooled by ROI! How to Calculate the Real Return on Investment?</title><link>https://jomonylw.github.io/en/posts/1739100395242/</link><pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/posts/1739100395242/</guid><description>This CLEC episode focuses on asset allocation and accounting standards (ACC), explaining the relationships between assets, liabilities, and net worth, as well as the calculation and significance of ROA, ROE, and ROI. It emphasizes the importance of extreme optimism in investment, believing that the market will definitely break through new highs. It also delves into the latest developments in the AI field, particularly the impact of DeepSeek on the industry.</description><content:encoded><![CDATA[<lite-youtube videoid="SvT2WNIyUpI" playlabel="SvT2WNIyUpI" params=""></lite-youtube>
+
+
+
+<h2 class="relative group">I. Current Theme 
+    <div id="i-current-theme" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#i-current-theme" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>This CLEC episode focuses on asset allocation and accounting standards (ACC), explaining the relationships between assets, liabilities, and net worth, as well as the calculation and significance of ROA, ROE, and ROI. It emphasizes the importance of extreme optimism in investment, believing that the market will definitely break through new highs. Furthermore, James and the students delved into the latest developments in the AI field, particularly the potential impact of DeepSeek on the industry.</p>
+
+
+<h2 class="relative group">II. Briefing Content 
+    <div id="ii-briefing-content" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ii-briefing-content" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">1. Assets, Liabilities, and Net Worth 
+    <div id="1-assets-liabilities-and-net-worth" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-assets-liabilities-and-net-worth" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Assets</strong>: Generally refer to all resources of economic value owned by an individual or household, including current assets (such as cash, deposits, stocks) and fixed assets (such as real estate, cars, collectibles). In everyday conversation, the &ldquo;assets&rdquo; or &ldquo;wealth&rdquo; people talk about usually refers to total assets.</li>
+<li><strong>Liabilities</strong>: Refer to the debts owed by an individual or household, including short-term liabilities (such as credit card debt, consumer loans) and long-term liabilities (such as mortgages, car loans).</li>
+<li><strong>Equity (Net Worth)</strong>: The balance after deducting liabilities from assets, representing the true wealth owned by an individual or household. This is an important financial indicator that reflects the true financial situation.
+<ul>
+<li><strong>Formula</strong>: Net Worth = Assets - Liabilities</li>
+<li><strong>Example</strong>: If you own a house worth 5 million, but still owe 3.5 million on the mortgage, then your net worth is 1.5 million (5 million - 3.5 million = 1.5 million).</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">2. ROA, ROE, ROI 
+    <div id="2-roa-roe-roi" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-roa-roe-roi" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>ROE (Return on Equity)</strong>: A metric that measures the efficiency of investing one&rsquo;s own funds, reflecting the return generated by each unit of net worth.
+<ul>
+<li><strong>Formula</strong>: ROE = Net Profit / Net Worth</li>
+<li><strong>Example</strong>: If your real estate net worth is 6 million (total price 15 million, loan 9 million), and the property appreciates by 500,000 in a year, then your ROE = 500,000 / 6 million = 8.33%.</li>
+</ul>
+</li>
+<li><strong>ROA (Return on Assets)</strong>: A metric that measures the efficiency of total asset utilization, reflecting the return generated by each unit of total assets.
+<ul>
+<li><strong>Formula</strong>: ROA = Net Profit / Total Assets</li>
+<li><strong>Example</strong>: If you invest 15 million in total assets (real estate) and earn 500,000 in a year, then ROA = 500,000 / 15 million ≈ 3.33%.</li>
+</ul>
+</li>
+<li><strong>ROI (Return on Investment)</strong>: A metric that measures the benefit of a specific investment project, reflecting the return generated by each unit of investment.
+<ul>
+<li><strong>Formula</strong>: ROI = (Investment Gain - Investment Cost) / Investment Cost</li>
+<li><strong>Special Case</strong>: If all assets are used for investment and there are no idle funds, then ROA ≈ ROI.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">3. Stock Investment and Borrowing 
+    <div id="3-stock-investment-and-borrowing" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-stock-investment-and-borrowing" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Impact of Borrowing</strong>: If borrowing is used for stock investment (such as margin trading, credit loans, mortgages, etc.), then the return on equity (ROE) will increase significantly because you leverage a larger investment scale with less of your own capital.
+<ul>
+<li><strong>Example</strong>: If you have 15 million in stock assets, of which 9 million is borrowed and 6 million is your own capital. The stock investment yields a 14% return in one year (2.1 million). Then ROA = 2.1 million / 15 million = 14%, and ROE = 2.1 million / 6 million = 35%.</li>
+</ul>
+</li>
+<li><strong>Impact of Cash</strong>: To control risk, investors usually don&rsquo;t invest all of their funds in the stock market and instead retain a portion of cash. This portion of cash reduces the overall return on investment.
+<ul>
+<li><strong>Beta</strong>: Beta &lt; 1 indicates that the volatility of the investment portfolio is less than the overall market volatility, usually meaning holding cash or low-risk assets.</li>
+<li><strong>Example</strong>: If you have total assets of 15 million, of which 2 million is cash and the actual stock investment is 13 million. If the stock return is still 14%, then the total return is 1.82 million (13 million * 14%). ROA = 1.82 million / 15 million ≈ 12.13%, ROI = 1.82 million / 13 million = 14%.</li>
+<li><strong>ROI of Short-Term Operators</strong>: Short-term operators or options traders typically only invest a small amount of capital. The &ldquo;return&rdquo; they talk about is often ROI rather than ROE. For example, they may have 1 million in funds but only use 100,000 for options trading and earn 30,000. They may say their ROI is 30%. But in reality, their ROE is only 3% (30,000 / 1 million).</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">4. Investment Advice and Philosophy 
+    <div id="4-investment-advice-and-philosophy" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#4-investment-advice-and-philosophy" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Buffett&rsquo;s View</strong>: Warren Buffett emphasizes that whether evaluating a business or a personal investment, one should focus on ROE (return on equity) rather than ROI (return on investment). ROE more truly reflects the efficiency of capital utilization and profitability.</li>
+<li><strong>Independent Thinking</strong>: Don&rsquo;t easily listen to other people&rsquo;s investment advice. Develop your own investment system and judgment through self-study.</li>
+<li><strong>Risk Awareness</strong>: If you are afraid of market declines and losses, then you may not be suitable for high-risk investments.</li>
+<li><strong>Long-Term Investment</strong>: Invest in index funds such as QQQ and adhere to long-term holding without easily selling.</li>
+<li><strong>Avoid Individual Stocks</strong>: For most investors, avoid investing in individual stocks because they are riskier and can easily lead to significant losses.</li>
+<li><strong>Extreme Optimism</strong>: Maintain an optimistic attitude towards the market, believing that the market will move upward in the long run and continue to reach new highs.</li>
+<li><strong>Retirees with Insufficient Funds</strong> can consider high-dividend ETFs (0056 or HSPHD) to increase cash flow.</li>
+</ul>
+
+
+<h3 class="relative group">5. Retirement Asset Allocation 
+    <div id="5-retirement-asset-allocation" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#5-retirement-asset-allocation" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Single Investment in QQQ</strong>: If only investing in QQQ (or 00662), one can withdraw 2% of assets annually as living expenses.</li>
+<li><strong>QQQ + High-Dividend ETF</strong>:
+<ul>
+<li>If 2% of living expenses is not enough, consider allocating a portion to high-dividend ETFs (such as 0056 or HSPHD). These ETFs may have a dividend yield of 4%-5%.</li>
+<li>For example: Invest 50% of the funds in QQQ and the other 50% in high-dividend ETFs (80% in 0056 + 20% in 00864B).</li>
+</ul>
+</li>
+<li><strong>Core Goal</strong>: The core goal of retirement planning is to obtain a stable cash flow rather than simply pursuing asset appreciation.</li>
+</ul>
+
+
+<h3 class="relative group">6. Emphasis 
+    <div id="6-emphasis" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#6-emphasis" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Learning</strong>: Encourage everyone to watch CLEC&rsquo;s past videos, starting with 00451, to gradually understand investment philosophies and strategies.</li>
+<li><strong>Communication</strong>: Welcome everyone to ask questions via email, but it is recommended to watch the videos first to build a basic foundation of knowledge.</li>
+<li><strong>Optimism</strong>: Emphasize that investment should be extremely optimistic, believing in the long-term upward trend of the market.</li>
+</ul>
+
+
+<h2 class="relative group">III. Q&amp;A Session 
+    <div id="iii-qa-session" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iii-qa-session" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Kate 
+    <div id="kate" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#kate" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question 1: Previously, it was mentioned that investing in QQQ/00662 contributes to the capitalist market, but if you buy a 2x leveraged ETF, which is essentially deployed through futures, does it still contribute to society? Is the contribution the same?
+<ul>
+<li>James&rsquo;s Response: There is a contribution, and it is a double contribution. Because there are many ways to hold assets, you can choose to directly hold the underlying stock or use financing (borrowing money) to expand the investment scale. Some 2x leveraged ETFs achieve this through borrowing, while others use futures and other derivatives. Regardless of the method, it is putting capital into the market, supporting the operation and development of businesses. Capitalists contribute the most to society by investing and allocating resources to the most promising companies. Investing in an index fund like QQQ means allocating funds to the best companies on the market, supporting their innovation and development, and thereby creating value for all of humanity.</li>
+</ul>
+</li>
+<li>Question 2: The student&rsquo;s concern is that a large part of 2x leveraged ETFs consists of futures, and futures trading is perceived as a zero-sum game, where one party&rsquo;s profit necessarily means another party&rsquo;s loss. Would this contradict our previous emphasis on the concept of &ldquo;contributing to society&rdquo;?
+<ul>
+<li>James&rsquo;s Response: First of all, not all the funds in our investment portfolio have to be used for investment. We can keep a portion of cash. Secondly, futures trading can also be understood as a &ldquo;pre-purchase,&rdquo; similar to a &ldquo;red slip&rdquo; (pre-sale contract) when buying a house. You pay a deposit, locking in the future right to purchase, which provides financial support to the developer and promotes market liquidity. Futures trading is similar in that investors commit to buying or selling assets at a specific price at a future date, which provides liquidity and price discovery mechanisms to the market. Therefore, our investments, including the use of leveraged instruments, contribute to the market.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Jenny 
+    <div id="jenny" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#jenny" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>
+<p>Share 1: Asset allocation of 433 and 442 should strictly follow the proportions of QQQ/QID/short-term bonds. In Taiwan, these are 00662, 00670L, and 00864B. Do not arbitrarily combine different targets, as this may deviate from our calculated expected returns and risks.</p>
+<ul>
+<li>James&rsquo;s Comment: If you have a mortgage or credit loan, it usually means you are still working. If you are retired, it is best not to have these loans, as this will increase your financial pressure. Retired people should not borrow credit loans and should pay off their mortgages. Net worth after retirement is the basis for calculating your retirement income (50 times your annual expenses). If you are still working, you can moderately use leverage (such as stock pledges), borrowing 2% of your stock assets for consumption while continuing to increase investment. As your assets increase, gradually adjust the proportion of borrowing and consumption. Also, remind everyone that if friends do not watch our investment tutorial videos, then do not advise them to invest, because investment requires doing your own homework and making decisions.</li>
+</ul>
+</li>
+<li>
+<p>Share 2: When combining your own investment targets, you must clearly understand the volatility of each target. We understand the characteristics of the QID or 00670L we recommend. If you combine them yourself and do not understand the volatility, you need to do your own simulation backtesting, otherwise the risk will be very high.</p>
+</li>
+<li>
+<p>Question 1: I currently have 1/4 of my assets under my adult child&rsquo;s name, and I plan to retire in 3 years. Can this portion of assets under my child&rsquo;s name be included in my retirement fund calculation?</p>
+<ul>
+<li>James&rsquo;s Response: No, once you have given it to your children, it is their asset. If you can freely access their money, then of course it can be counted as your asset, but you have to consider the possible legal and family relationship issues in the future. I suggest you transfer the money back into your account first, and only consider giving it to them after you are truly retired and your assets exceed 50 times your annual expenses. Before retirement, it is not recommended to give money to your children; just give a small amount of lucky money.</li>
+</ul>
+</li>
+<li>
+<p>Question 2: If I include my child&rsquo;s account, I can retire now; but if I don&rsquo;t count this portion, my assets do not yet reach 50 times my annual expenses.</p>
+<ul>
+<li>James&rsquo;s Response: If you want to retire, transfer the money back. Otherwise, there may be changes over time. After you retire, if your assets appreciate to more than you need, you can consider giving it to your children. At least this will ensure that your own retirement life is not affected.</li>
+</ul>
+</li>
+<li>
+<p>Question 3: I have invested in VOO and QQQ. When I see the market at a high point, should I sell first and buy back when it falls to a low point?</p>
+<ul>
+<li>James&rsquo;s Response: Our investment strategy is to buy when we have money, hold for the long term, and not time the market.</li>
+</ul>
+</li>
+<li>
+<p>Question 4: I bought an annuity many years ago, investing 150,000, and now I can only receive a few hundred dollars back each month. This annuity expires next year. Should I redeem it and invest on my own?</p>
+<ul>
+<li>James&rsquo;s Response: If you can hold for the long term without easily selling, then the return on an annuity is usually very low, and you can consider redeeming it. But the premise is that you can withstand market fluctuations, even if the market falls 80%, can you still persist in holding on? If so, then redeem the annuity and invest in index funds such as QQQ.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Yami 
+    <div id="yami" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#yami" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question 1: A friend recommended an ETF called GYLD, which is said to have a high interest rate with a yield of 10%-12%. I would like to ask the teacher&rsquo;s opinion on this ETF.
+<ul>
+<li>James&rsquo;s Response: This ETF has a high risk. It has fallen more than 50% from its high point. Do not easily listen to advice from people who do not understand investing. We invest in QQQ, and even if it falls, it will eventually rise back. But a Covered Call ETF like GYLD may never rise back up if it falls.</li>
+</ul>
+</li>
+<li>Question 2: I would like to understand the specific operating mechanism of Covered Call ETFs.
+<ul>
+<li>James&rsquo;s Response: This is more complicated, and I won&rsquo;t explain it in detail here. In short, it is not recommended to invest in these types of ETFs.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Danny 
+    <div id="danny" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#danny" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: Is long-term holding only suitable for index funds like QQQ? I used to buy some individual stocks, such as Chinese solar companies, and in the end, these companies disappeared.
+<ul>
+<li>James&rsquo;s Response: Individual stocks are very risky; you shouldn&rsquo;t have bought them in the first place. Don&rsquo;t buy individual stocks anymore. Just buy index funds like QQQ.</li>
+</ul>
+</li>
+<li>Question 2: What is the difference between the QQQ and SPY index funds?
+<ul>
+<li>James&rsquo;s Response: There is a big difference. We do not recommend investing in SPY, especially for young people. SPY has a lower long-term return and is also more volatile.</li>
+</ul>
+</li>
+<li>Question 3: After retirement, is the main source of income mortgaging stocks and borrowing money to use?
+<ul>
+<li>James&rsquo;s Response: Yes, but the premise is that you fully understand our asset allocation and risk control strategies.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Y5 
+    <div id="y5" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#y5" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: I currently use a long-term holding strategy and put some ETFs into dividends to cover my living expenses. The rest are some bonds and value growth stocks. After listening to the teacher, I really want to convert some of these things into QQQ and leave the dividends behind. Is this good or bad?
+<ul>
+<li>James&rsquo;s Response: First, you need to determine whether you are retired, how much assets you have, and how much your annual expenses are. If you are retired and the dividend ETF is already enough to cover your living expenses, and you still have a surplus for investment, then you can continue to maintain this state. However if, you want to measure whether you have achieved financial freedom, for example: can you and your family travel to Europe and easily afford all the expenses? If you feel that your current state is very stable, very at ease, and you have enough tolerance for market fluctuations, then you can continue to maintain it. But, if the market declines, you may not be able to withstand it, so don&rsquo;t change it easily.</li>
+</ul>
+</li>
+<li>Suggestion: You can consider selling all your assets and buying 80% 00662 and 20% 00864B. Withdraw 2% of your assets annually as living expenses, and this completes the adjustment of asset allocation.
+<ul>
+<li>James&rsquo;s Response: This method needs you to be able to bear it yourself. It takes time to adapt to a sudden change in investment methods.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Si Wu 
+    <div id="si-wu" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#si-wu" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: I would like to invest my two children&rsquo;s annual lucky money, and I don&rsquo;t know what type of account I should open for them. Is it a regular brokerage account, an IRA account, or a Roth IRA?
+<ul>
+<li>James&rsquo;s Response: If the children are still young and have no income, then they cannot open a retirement account such as an IRA or Roth IRA. You can open a regular brokerage account for them, and you are the custodian of the account. You can set a deadline, such as when the children reach 22 or 24 years old, when the control of the account will be handed over to them. Until then, you manage the account entirely. If you withdraw money from the account, you need to pay capital gains tax. But our investment strategy is to hold for the long term without easily selling, so we usually don&rsquo;t need to pay taxes. Only when you have no work income and need money do you consider borrowing from the investment account.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Hao Qin 
+    <div id="hao-qin" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#hao-qin" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Share: I have been thinking about a problem recently. Assuming we invest in QQQ, after deducting inflation, the annual growth rate of actual purchasing power is about 10%. If a young person in the Bay Area has annual expenses of $120,000, how many years will it take to achieve financial freedom? If he saves $500 per month, calculated at a compound interest rate of 10%, it will take 46-47 years to accumulate more than 6 million. If he saves $1,000 per month, it will take 40 years. If he saves $3,000 per month, it will take 30 years. Like James retiring at the age of 42, if he only uses 20 years, then he must save at least $8,000 or more per month. Therefore, in addition to basic expenses, all the money that can be saved must be invested in the stock market to accumulate wealth as soon as possible. If income is not high, you can only exchange time for money.
+<ul>
+<li>James&rsquo;s Response: Retirement is not that difficult. The key is to be stable and stick to it for 20 years. Young people should adopt a 442 asset allocation (40% QQQ, 40% QLD, 20% cash or short-term bonds), so that the beta coefficient is 1.2, and the annualized rate of return can reach about 17%. In this way, if you invest $3,000 per month, you can accumulate $6 million in 20 years. Therefore, young people must use leverage. A low rate of return is the biggest risk.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Danny 
+    <div id="danny-1" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#danny-1" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: I have been studying with you for three years and have invested in QQQ/00662, 00864B, and 00670L, which I feel has been very helpful. I plan to retire in 4 and a half years. My current asset allocation is 721 (70% QQQ, 20% QLD, 10% cash), and the beta coefficient is 1.1. Should I adjust the beta coefficient to 1.2?
+<ul>
+<li>James&rsquo;s Response: If you are still working, you can adjust to 1.2. But be aware that 4 and a half years is relatively short. If the market falls sharply, your assets may shrink significantly, making it impossible for you to retire as planned. Also, you mentioned that your current assets are about the same as your mortgage. If you still have a mortgage to pay after retirement, then your retirement income may not be enough. Assuming you have to pay 50,000 per month for your mortgage, that&rsquo;s 600,000 per year. Based on 50 times the retirement income calculation, you need to prepare 30 million to cover this expense. So, you need to carefully evaluate your assets, liabilities, and income after retirement before deciding whether to adjust your asset allocation. After retirement, leveraged funds should no longer be used.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Chen Feng 
+    <div id="chen-feng" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#chen-feng" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Share 1: I would like to emphasize that whether we invest in prototype ETFs or leveraged ETFs, we are contributing to businesses and society. Even if you put money in the bank, the bank will use that money for investment. Including buying short-term bonds like 00864B provides capital to the government or businesses。
+<ul>
+<li>James&rsquo;s Comment: There is a contribution, but the degree is different. Putting money in the bank means the bank is making the contribution, and your contribution is limited. Investing in QQQ supports technological progress and contributes more.</li>
+</ul>
+</li>
+<li>Share 2: Recently, there has been a phenomenon in Taiwan where many people are borrowing heavily to invest through stock pledges or credit loans, even borrowing up to 60%. I&rsquo;m very worried about this.
+<ul>
+<li>James&rsquo;s Comment: We have always emphasized that borrowing for investment should not exceed 10% of total assets; otherwise, once the market falls sharply, there is a risk of liquidation.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Mike 
+    <div id="mike" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#mike" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Share 1: About DeepSeek. The demand for AI will only continue to increase, and the demand for computing power has only just begun. The emergence of DeepSeek has shown some small companies opportunities. Some small software companies in Taiwan, South Korea, and Japan have found new business models.
+<ul>
+<li>James&rsquo;s Comment: DeepSeek is a driving force for AI development. It adopts a more underlying development method (assembly language) that lowers the barrier to AI development. This makes AI applications more popular, allowing more companies, even companies in the third world, to participate.</li>
+</ul>
+</li>
+<li>Share 2: Musk has not commented on DeepSeek this time, but he may be doing it quietly. If there is no internet data, can AI continue to develop? This is a question worth considering. Also, some Taiwanese companies are starting to pay attention to edge computing, which is also influenced by DeepSeek.
+<ul>
+<li>James&rsquo;s Comment: Can AI replace existing industries? It&rsquo;s not clear yet. It&rsquo;s more about improving the efficiency of existing things. AI applications will become more and more common, but AI itself may not be a &ldquo;paradigm shift.&rdquo; In addition, AI may have an impact on search engines. People may use tools like ChatGPT more often instead of traditional search engines.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Brian 
+    <div id="brian" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#brian" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Share: DeepSeek technical analysis.
+<ul>
+<li>DeepSeek uses a more underlying technology (assembly language) to optimize data from open-source models such as Owen, LLaMA, and ChatGPT, reducing computing power requirements.</li>
+<li>The key question is how many H100 chips DeepSeek actually used. Too many, or failure to achieve expected results, could trigger market turbulence.</li>
+</ul>
+<ul>
+<li>DeepSeek may not be a technology transfer, but it is a new idea that prompts people to rethink the computing power requirements of AI and data center construction.</li>
+<li>DeepSeek may have used a specific dataset (math Olympiad question bank) when testing, which made its performance appear better.</li>
+</ul>
+</li>
+<li>Share: The part of the human brain that consumes the most energy is image processing.
+<ul>
+<li>James&rsquo;s Comment: So developing images creates a large demand for electricity.</li>
+</ul>
+</li>
+<li>Share: Writing down what you have learned can get you rewards, and AI can learn from them.</li>
+<li>James&rsquo;s Comment: Creation and thinking are more important. You must improve every day compared to yesterday.</li>
+<li>Share: Can AI be fully mechanized?
+<ul>
+<li>James&rsquo;s Comment: Use data to decide.</li>
+</ul>
+</li>
+<li>Share: GPT training will always change
+<ul>
+<li>James&rsquo;s Comment: There will be retraining.</li>
+</ul>
+</li>
+</ul>
+
+
+<h2 class="relative group">IV. Key Takeaways 
+    <div id="iv-key-takeaways" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iv-key-takeaways" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<blockquote>
+<p>Investors should always face the sunshine, and the market will definitely break through new highs.
+&ndash; James</p></blockquote>
+<p>James repeatedly emphasized the importance of a long-term perspective in investment, believing in the long-term upward trend of the market and not being disturbed by short-term fluctuations. Only by remaining optimistic can one persist in the market and obtain long-term returns.</p>
+<blockquote>
+<p>Capitalists are the biggest contributors to society and the people who contribute the most to the world. We have made the most effective allocation of resources.
+&ndash; James</p></blockquote>
+<p>James believes that capitalists, through investment, allocate resources to the most promising and efficient businesses, supporting innovation and development, thereby promoting the progress and prosperity of the entire society.</p>
+<blockquote>
+<p>Living well is the most important thing. Don&rsquo;t save on taxes. We often say that saving on taxes is very important, but when it comes to inheritance, it&rsquo;s not your business, it doesn&rsquo;t matter. Inherit as much as you can, but it&rsquo;s important to live well and with dignity.
+&ndash; James</p></blockquote>
+<p>James, when answering questions about estate planning, emphasized that the quality of life for individuals during their lifetime is more important than the amount of inheritance. Don&rsquo;t sacrifice your current quality of life in order to save on taxes or accumulate excessive wealth.</p>
+<blockquote>
+<p>No investment is a life sentence. With investment, you usually get out in 30 years, 30 years at the latest.
+&ndash; James</p></blockquote>
+<p>James encourages everyone to start investing as early as possible, even small amounts, as long as they persist in long-term investment, they can accumulate considerable wealth and eventually achieve financial freedom.</p>
+<blockquote>
+<p>You want their interest, and they want your life.
+&ndash; James</p></blockquote>
+<p>James, when commenting on high-yield Covered Call ETFs, reminds everyone to pay attention to the high risks behind high yields. Don&rsquo;t be misled by high yields and ignore the potential loss of principal.</p>
+<blockquote>
+<p>Having a house is being a rich poor person. It looks like you have a lot of assets, but you can&rsquo;t spend them; you can&rsquo;t spend freely.
+&ndash; James</p></blockquote>
+<p>James believes that although real estate is an asset, it is illiquid and cannot be easily converted into cash, which may limit personal spending power and quality of life. Over-concentration on real estate investment may lead to the predicament of &ldquo;having assets but no cash.&rdquo;</p>
+<blockquote>
+<p>It&rsquo;s not that general companies that adapt to AI usually fail, because that cost will be beyond your imagination, and it will slow down your performance.
+&ndash; Brian</p></blockquote>
+<p>Brian pointed out, when discussing AI applications, that many companies may encounter problems such as high costs and reduced efficiency when trying to introduce AI. The application of AI technology is not easy and requires careful planning and implementation.</p>
+<blockquote>
+<p>Why do you find that the Tesla Model 9 has been completely changed? The whole thing cannot be gradually changed from the old one, gone, retrained.
+&ndash; Brian</p></blockquote>
+<p>Brian mentioned that updates to Tesla&rsquo;s self-driving system usually employ entirely new models rather than incrementally improving existing models. This illustrates that the iteration and development of AI technology may be leaping, and old technology may be quickly eliminated.</p>
+<blockquote>
+<p>To achieve creation and thinking, you have to be better today than yesterday. How can anyone catch up with you that way?
+&ndash; James</p></blockquote>
+<p>James emphasized that continuous learning and innovation are key to staying competitive. Whether in the field of investment.</p>
+<blockquote>
+<p>Buy with money, never sell no matter what
+&ndash; James</p></blockquote>
+<p>James summarized that the best strategy for long-term investors is to choose quality assets (such as the QQQ index fund), hold them for the long term, don&rsquo;t time the market, and don&rsquo;t sell easily.</p>
+
+
+<h2 class="relative group">V. Summary 
+    <div id="v-summary" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#v-summary" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>This CLEC episode is rich in content, with both basic knowledge explanations on asset allocation and accounting standards and in-depth discussions on the latest developments in the AI field. James once again emphasized the importance of long-term investment and an optimistic mindset and reminded everyone to pay attention to investment risks and not blindly pursue high returns. At the same time, through interaction with students, he answered various questions encountered in actual investment and provided valuable advice.</p>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>Disclaimer:</strong> This article is only a personal study note and does not constitute any investment advice.</span>
+</div>
+
 ]]></content:encoded></item><item><title>00500 The Balance Between Asset Appreciation and Spending: Spending Should Reflect Your Asset's Capacity</title><link>https://jomonylw.github.io/en/posts/1737905023775/</link><pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/posts/1737905023775/</guid><description>This episode mainly discusses the power of compound interest in long-term investing. For example, the final benefits of investing $10,000 at different ages vary greatly. It also addresses questions from students regarding whether retired individuals can use the 80/20 asset allocation strategy for collateralization and related issues.</description><content:encoded><![CDATA[<lite-youtube videoid="JGxThQ20wak" playlabel="JGxThQ20wak" params=""></lite-youtube>
 
 
@@ -967,58 +1536,47 @@
 </h2>
 <blockquote>
 <p>When investing, you need to see results. You want to see results like Buffett&rsquo;s. Of course, everyone&rsquo;s level is different. When you feel you are living a prosperous life, you will also need 40 years. You cannot be hasty.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>This point explains the importance of &ldquo;time&rdquo; and the power of &ldquo;compound interest&rdquo; in long-term investing.</p>
 <blockquote>
 <p>The value of life lies in learning, thinking, serving others, and growing, not just working and making money.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>This point emphasizes that the meaning of life lies in continuous learning, growth, and serving society, not just the pursuit of material wealth.</p>
 <blockquote>
 <p>You also need an appropriate amount of time to grow wealth to a certain extent. Therefore, you need to recognize that time exists first.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>This emphasizes that wealth accumulation requires time and patience, and one should not take any shortcuts.</p>
 <blockquote>
 <p>What do you do when everything is destroyed? You need a way out.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Whether you&rsquo;re investing or doing anything else, you have to consider if this thing fails, and whether you have a way out. Or whether you can bear the losses caused by that failure.</p>
 <blockquote>
 <p>Today if you buy a Tesla car but you&rsquo;re afraid of it getting scratched, you&rsquo;re afraid of washing it. After washing it, you&rsquo;re afraid to drive it. Every time you drive it out, you&rsquo;re afraid of people wanting to borrow it, or when your daughter wants to borrow it, you&rsquo;d always say no and no. You&rsquo;re a slave to wealth. It&rsquo;s okay to drive. I have insurance. If it is crashed I can buy a new one. This is wealth. Therefore, don&rsquo;t be a slave to your assets, never be.  It&rsquo;s better not to buy it, instead of buying it and then using up your mental energy over it. We should not spend any mental energy on material things. This is very important. This is the key to happiness.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>We should not be slaves to &ldquo;wealth,&rdquo; and should not be controlled by &ldquo;material things.&rdquo; If something affects your mood, do not buy it because you cannot afford it.</p>
 <blockquote>
 <p>People&rsquo;s destiny is controlled by three factors: The first is fate (DNA); the second is destiny (place of birth); and the third is luck.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>The place of birth determines destiny. If you are born in the United States, you have the American destiny; if you are born in Taiwan, you have the Taiwan destiny; if you are born in Australia, you have the Australian destiny.</p>
 <blockquote>
 <p>I am still going to tell everyone that we are going to be very wealthy, so when you want to immigrate you have to think twice. If it&rsquo;s me, I&rsquo;d rather spend 800,000 USD to immigrate to the US instead of using less money to immigrate to Canada, Europe, or the NSW. Because the destinies are different. Look at the world&rsquo;s top ten companies, and nine are from the US. Only one is TSMC from China, but TSMC is also cultivated in the US. To say it bluntly, all the world&rsquo;s top ten companies were founded by Americans, this is fate.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>When considering immigration, one should think not only for themselves but also the fate of future generations.</p>
 <blockquote>
 <p>An 80/20 allocation without collateralization can do simple rebalancing yearly without risk of bankruptcy.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Retirees that do not do collateralization may utilize an 80/20 asset allocation where 80% is invested in QQQ and 20% is kept in cash, and can do simple rebalancing without risk of bankruptcy.</p>
 <blockquote>
 <p>The US does not care about scams, they don&rsquo;t even care about the 0-dollar purchase scams, so why would they care about scams? Therefore, there is a cost accounting issue. If a country wants to be strong, it needs strong cost accounting. What do you want? Right and wrong is about competing, and everyone needs to know that prosperity is a key, and poverty is a disease. Being poor for an emerging country is a disease, if one is poor it&rsquo;s a disease.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>The United States is strong due to its sound system and market economy.</p>
 <blockquote>
 <p>Always maintain extreme optimism in investing and believe that the market will always go up.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Maintain an optimistic attitude throughout the investment process.</p>
 <blockquote>
 <p>AI may not necessarily solely rely on computing power. It can also rely on the human brain.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>This point explains that in the development of AI, in addition to computing power, the human brain can also play an important role.</p>
 
 
@@ -1493,53 +2051,43 @@
 </h2>
 <blockquote>
 <p>Investing in US indices means holding US assets, not holding US currency.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Investing in US stock index funds is about holding the assets of excellent US companies. The value of these assets is not highly correlated with the value of the US dollar. Even if the US dollar depreciates, the value of quality assets will continue to increase.</p>
 <blockquote>
 <p>The market always goes up. Investing requires patience. Wealth is worth the wait.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>In the long run, the market always goes up, and investors need to be patient and wait for wealth to grow. Short-term market fluctuations are normal and should not be overemphasized.</p>
 <blockquote>
 <p>The financial industry wants to empty your pockets.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>The goal of the financial industry is to maximize its own interests and may use various methods to &ldquo;empty&rdquo; investors&rsquo; pockets. For example, they will design various complex financial products and use information asymmetry to induce investors to buy. Investors must improve their financial literacy to recognize and resist the traps and temptations of the financial industry.</p>
 <blockquote>
 <p>There are many walls in the world, but people inside the walls don’t know they are within the walls, because everyone thinks they are free and open-minded. Many who think they are outside the walls don’t know that they are inside the walls.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>The information filter bubble effect in the online world should make us realize that the world we perceive may not be the real world, and we should maintain an open mind. Everyone and every country has its own information barriers.</p>
 <blockquote>
 <p>The least guaranteed are laborers, and the second least guaranteed is real estate.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Laborers face the risk of unemployment, especially in the current era of rapid AI development. Real estate also has risks, such as natural disasters and market fluctuations. In comparison, the risk of long-term investing in quality stock assets (such as QQQ) is lower.</p>
 <blockquote>
 <p>All laborers, regardless of whether you are young or old, remember that now artificial intelligence is sweeping the world, you will face unemployment.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>The development of AI will have a huge impact on the job market, and a large number of jobs will be replaced by AI. This is both a challenge and an opportunity.</p>
 <blockquote>
 <p>In the future, the future will be left with very few capitalists and very few people who know how to control AI; the rest will be useless laborers.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>The social structure of the future will undergo tremendous changes, and you must become a capitalist or someone who can control AI. This means we need to continuously learn and master new skills in order to stand firm in the future society.</p>
 <blockquote>
 <p>We don&rsquo;t need to have a purpose in life, we don&rsquo;t need to do anything in life, we just need to be happy.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Encourage everyone to enjoy life and not set too many goals and pressures for themselves. The meaning of life lies in experiencing and feeling, rather than pursuing material wealth or social status.</p>
 <blockquote>
 <p>We don&rsquo;t necessarily have to like capitalist society, but we need to know how it makes money. We must stand on the same side as it, and then we can make a lot of money.
-&ndash; Cat</p>
-</blockquote>
+&ndash; Cat</p></blockquote>
 <p>We don&rsquo;t need to like capitalism, but we need to understand the rules of capitalism in order to profit from it. Only by understanding how capitalism works can we better use it to achieve our wealth goals.</p>
 <blockquote>
 <p>If I still criticize, it means I still care.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>The criticism of Taiwan is because of the love for this land and the hope that it will become better.</p>
 
 
@@ -2010,53 +2558,43 @@
 </h2>
 <blockquote>
 <p>People who borrow money are the ones with lower risks, and people who do not borrow money have extremely high risks.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>Because people with cash reserves can use funds immediately in an emergency, while those without cash reserves may face the risk of a broken capital chain. Those who have loans have more cash reserves in the face of crises and have stronger risk resistance than those who do not have cash reserves.</p>
 <blockquote>
 <p>A house is a consumer product. It is a kind of money-eating support, not an investment, and it is a very high-risk support.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This sentence emphasizes the attribute of real estate as a consumer product rather than an investment product, as well as its potential high risks, including natural disasters and maintenance costs.</p>
 <blockquote>
 <p>To succeed in investing, you must control your emotions. The first thing is to control your emotions. If you cannot control your emotions, please do not invest.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>Emphasizes the importance of emotional control in investing. Investing requires rationality, avoiding emotional decisions.</p>
 <blockquote>
 <p>In capitalism, if you have money, buy index funds, and you will become rich.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>Emphasizes that in a capitalist society, long-term investment in index funds is an effective way to achieve wealth growth. Due to their diversified investment characteristics, index funds can reduce risks and obtain average market returns.</p>
 <blockquote>
 <p>You have to recognize that real estate is a high-risk support, so it is very strange that everyone thinks that directly investing in 100 companies is very risky, but buying a house with all their assets is also very special.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This view challenges people&rsquo;s general perception of real estate as a safe asset. Real estate is a high-risk asset with risks such as windstorms, floods, earthquakes, and fires.</p>
 <blockquote>
 <p>If you have been speculating, then you will go bankrupt in this market. There is no need to say that if you do too much, you will go bankrupt.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This sentence warns of the risks of speculative behavior and emphasizes the importance of long-term investment. Frequent trading not only generates high transaction costs but also increases investment risk.</p>
 <blockquote>
 <p>Money is not our purpose. Money is not our purpose. The whole experience of life requires money. That is our purpose.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This sentence emphasizes the essence of money as a tool, and the real purpose of life is experience and spiritual satisfaction. We should use money to create a better experience, not just accumulate numbers.</p>
 <blockquote>
 <p>All passers-by, all the dogma of the financial industry are deceiving you.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>Criticism of the traditional financial system and dogma. Only you don&rsquo;t know. Capitalists know it, politicians know it, but only the workers don&rsquo;t know it. 99.99% of the workers think that they are living in reality and in a real environment. In fact, you are living in a scripted life without knowing it.</p>
 <blockquote>
 <p>Suppose you start working today, then you can borrow $20,000 every year. Then how much more will you have? You will have an extra $30 million.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This view quantifies the huge impact of leveraged investing on wealth growth. Moderate borrowing can amplify investment returns and accelerate wealth accumulation.</p>
 <blockquote>
 <p>This is the power of compound interest, and let me give you an example. In the United States, 401K is $20,000. Suppose you invest $20,000 every year when you are young. With an annualized rate of return of 14%, in 40 years, you will have $30 million. You just invest without doing anything.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This view reveals the great power of compound interest in long-term investment. Even a small amount of money can accumulate into amazing wealth through long-term compound interest growth.</p>
 
 
@@ -2735,71 +3273,61 @@
 </h2>
 <blockquote>
 <p>Investing requires learning, new members need to watch previous videos to learn systematically.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>The background of this idea is the influx of new members, who are asking many questions that have already been answered in previous videos. Therefore new members need systematic learning.</li>
 </ul>
 <blockquote>
 <p>Acknowledging one’s own ignorance is power, and ignorance is wisdom.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>The reason why many retail investors lose money is that they are overconfident, trade frequently, chase highs and sell lows, and cannot understand the essence of the market. Acknowledging one&rsquo;s cognitive limitations is necessary to avoid making rash decisions, and to make more rational investment decisions.</li>
 </ul>
 <blockquote>
 <p>It’s great to have money, you can use it to resolve worries, and to buy relationships.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This is based on Brian’s sharing of his experiences after gaining financial independence, and his ability to spend his own money, and treat his family, which gave him more freedom and control. It shows the conveniences that money provides.</li>
 </ul>
 <blockquote>
 <p>Humanity is growing at an accelerating pace, and investment returns will get higher and higher.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This conclusion is based on data on QQQ&rsquo;s past 20 years of investment returns, and emphasizes the effects of compound interest due to technological developments. Long-term investment in high-quality assets that are representative of the direction of technological development allows one to share the bonuses of human progress.</li>
 </ul>
 <blockquote>
 <p>Encourage borrowing for investment, leave only 1 million in the estate, show respect.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This is based on long-term investments, compounding returns, and sensible asset allocation, allowing one to maximize wealth, and to use loans to enhance one&rsquo;s quality of life, or to help others. With sensible asset allocation, loans for investment can accelerate the growth of wealth, and not simply accumulating wealth to leave to the next generation.</li>
 </ul>
 <blockquote>
 <p>There are no shortcuts in investing, only through systematic learning and practice can one master correct investment methods.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This is a message to those who are trying to find investment skills and shortcuts, but are unwilling to learn systematically. Investing is a complex field of study that requires continuous learning and practice in order to improve one&rsquo;s investment expertise.</li>
 </ul>
 <blockquote>
 <p>When you own equity assets in Wall Street stocks, you own the world.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This is an emphasis on the importance of long-term holdings of high-quality equity assets. Stocks are not merely an investment tool, but also represent ownership of a company. By holding the stocks of the world’s best companies, one can share in the wealth generated by these companies worldwide.</li>
 </ul>
 <blockquote>
 <p>Don’t try to make money that isn’t necessary.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This is to advise investors not to over-pursue short-term gains while overlooking the value of long-term investing. We should focus our main time and energy on our work and lives, instead of spending too much time researching short-term market fluctuations or attempting to earn the difference by trading frequently.</li>
 </ul>
 <blockquote>
 <p>The numbers 442 and 433 are merely references, and the specific asset allocation ratio must be adjusted according to individual situations.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This is to emphasize the flexibility and personalization of asset allocation. Each person has a different risk tolerance, investment goals, capital size, etc., and therefore, they need to devise the appropriate asset allocation plan based on their actual situation.</li>
 </ul>
 <blockquote>
 <p>Protecting account security is very important.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <ul>
 <li>This reminds investors to take account security seriously, and to take the necessary actions to prevent the account from being stolen or accidentally mishandled. Because if this occurs, it will lead to severe losses, and especially for long-term held assets, the losses would be even greater.</li>
 </ul>
@@ -3300,63 +3828,51 @@
 </h2>
 <blockquote>
 <p>The only constant in the market is volatility.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint emphasizes the normality of market fluctuations. Investors should be mentally prepared and not be affected by short-term market fluctuations.</p>
 <blockquote>
 <p>Investing requires independent thinking. Do not blindly follow advice or join any groups to avoid being deceived.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint emphasizes the importance of independent thinking in investing. Investors should make investment decisions based on their own judgment rather than blindly following others&rsquo; opinions or joining unreliable investment groups.</p>
 <blockquote>
 <p>The happiest thing in life is giving. Happiness is a human right. Sharing and giving energy on a spiritual level can bring more happiness than material things.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint emphasizes that spiritual pursuits are more important than material ones. Giving and sharing can bring greater happiness.</p>
 <blockquote>
 <p>If you, as a commercial bank, do lending well, then focus on lending. Deposits are 2%. Then your lending is 3.5%, 4%. You just make that 2% difference. This is what a commercial bank should do. Commerce should not touch insurance.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint points out that commercial banks should focus on deposit and loan business instead of being involved in areas like insurance, which not only violates financial regulations but also harms the interests of customers.</p>
 <blockquote>
 <p>Happiness is a human right. If you are alive, you should be happy. If you live so miserably, why bother?
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint reminds everyone to pursue happiness and not sacrifice their happiness for money or other goals.</p>
 <blockquote>
 <p>Impotence is also a kind of strength because accepting one&rsquo;s own impotence and acknowledging one&rsquo;s own impotence is also a kind of strength.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint expresses a broad-minded attitude towards life. Acknowledging one&rsquo;s limitations is not a bad thing; instead, it can make one more relaxed.</p>
 <blockquote>
 <p>The truly wealthy are those who foresee a future eternally disconnected from government oversight, swiftly settling their dues to escape the clutches of authority.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This perspective highlights how affluent individuals utilize legitimate tax avoidance strategies to minimize governmental control over their wealth.</p>
 <blockquote>
 <p>Learning from the experiences of others is a wise approach.
-&ndash; IM</p>
-</blockquote>
+&ndash; IM</p></blockquote>
 <p>This viewpoint emphasizes the importance of learning and drawing lessons from others&rsquo; experiences, which can help us avoid making the same mistakes.</p>
 <blockquote>
 <p>When others are greedy, you should be fearful; when others are fearful, you should be greedy.
-&ndash; Teacher James, quoting Buffett</p>
-</blockquote>
+&ndash; Teacher James, quoting Buffett</p></blockquote>
 <p>This is a very important principle in investing, namely, contrarian thinking, staying calm when the market is frenzied and looking for opportunities when the market is panicking.</p>
 <blockquote>
 <p>Just be happy. There&rsquo;s nothing to it, nothing to fight for, no particular meaning, nothing that grand or great.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint expresses a detached attitude towards life. Don&rsquo;t put too much pressure on yourself; learn to enjoy life.</p>
 <blockquote>
 <p>Don&rsquo;t wait until it&rsquo;s too late, leaving no time for regrets.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>Drawing on investment principles, this perspective underscores the importance of early health screenings, urging not to wait until problems arise before regretting, echoing Xiao Cai&rsquo;s shared viewpoint.</p>
 <blockquote>
 <p>We investors are always extremely optimistic. Market fluctuations should be ignored. The market will eventually rise and always reach new highs.
-&ndash; Teacher James</p>
-</blockquote>
+&ndash; Teacher James</p></blockquote>
 <p>This viewpoint emphasizes the optimistic attitude towards the long-term trend of the market and the neglect of short-term fluctuations, demonstrating the proper mindset for long-term investors.</p>
 
 
@@ -3729,33 +4245,27 @@
 </h2>
 <blockquote>
 <p>Buy whenever you have money, never sell.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>This is James&rsquo;s consistent investment philosophy and the core strategy of CLEC.</p>
 <blockquote>
 <p>Taiwan is a country with well-equipped weapons and cheap bullets.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>James praises Taiwan&rsquo;s investment environment, believing its financial tools, tax benefits, and low interest rates are highly advantageous for investors.</p>
 <blockquote>
 <p>The most important thing in life is happiness.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>James emphasizes that the meaning of life lies in happiness, not in working and making money for its own sake.</p>
 <blockquote>
 <p>AI creations lack warmth.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>James shares his experience using AI tools for short video production, highlighting the limitations of AI in conveying emotions.</p>
 <blockquote>
 <p>You can be a benefactor to others, but whether they benefit depends on their destiny and fate.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>James shares his understanding of wealth and life, believing that an individual&rsquo;s wealth accumulation is influenced by destiny, fate, and luck, in addition to hard work.</p>
 <blockquote>
 <p>The market has no peak, only higher highs; the market has no bottom, only a perpetual absence of a top or bottom.
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>James emphasizes the long-term upward trend of the market and advises against trying to predict market tops and bottoms.</p>
 
 
@@ -4069,23 +4579,19 @@
 </h2>
 <blockquote>
 <p>&ldquo;The first investment earns the most; that performance can never be replicated.&rdquo;
-&ndash; Monica</p>
-</blockquote>
+&ndash; Monica</p></blockquote>
 <p>Monica&rsquo;s statement highlights the importance of early investment and the difficulty of timing the market. Early investments enjoy higher returns, and over time, even with the same investment strategy, it&rsquo;s hard to replicate those early gains.</p>
 <blockquote>
 <p>&ldquo;The U.S. government&rsquo;s debt is the public&rsquo;s savings.&rdquo;
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>This perspective challenges the traditional understanding of national debt, emphasizing the unique nature of U.S. Treasury bonds.  U.S. national debt represents dollar-denominated assets held by U.S. citizens and global investors, reflecting confidence in the American economy.</p>
 <blockquote>
 <p>&ldquo;Survival is key, not maximizing returns.&rdquo;
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>This statement pinpoints the core goal of investing, reminding investors not to be tempted by high returns at the expense of risk management. Preserving capital is more important than chasing high returns during market fluctuations.</p>
 <blockquote>
 <p>&ldquo;Time is an investor&rsquo;s friend.&rdquo;
-&ndash; James</p>
-</blockquote>
+&ndash; James</p></blockquote>
 <p>Only long-term investments can fully benefit from the power of compounding. Time is an investor&rsquo;s best ally.</p>
 
 
@@ -4393,16 +4899,13 @@
     
 </h2>
 <blockquote>
-<p>&ldquo;If you&rsquo;re not investing for 20+ years, don&rsquo;t tell me you&rsquo;re investing.&rdquo; &ndash; James</p>
-</blockquote>
+<p>&ldquo;If you&rsquo;re not investing for 20+ years, don&rsquo;t tell me you&rsquo;re investing.&rdquo; &ndash; James</p></blockquote>
 <p>Investing requires a long-term perspective. Short-term market fluctuations should not influence investment decisions.</p>
 <blockquote>
-<p>&ldquo;Undamaged capital is the elixir that keeps us calm.&rdquo; &ndash; James</p>
-</blockquote>
+<p>&ldquo;Undamaged capital is the elixir that keeps us calm.&rdquo; &ndash; James</p></blockquote>
 <p>Holding cash helps investors remain composed during market volatility and seize opportunities to buy low.</p>
 <blockquote>
-<p>&ldquo;Don&rsquo;t engage with demons and monsters. If you don&rsquo;t engage, you don&rsquo;t need to train your mind.&rdquo; &ndash; James</p>
-</blockquote>
+<p>&ldquo;Don&rsquo;t engage with demons and monsters. If you don&rsquo;t engage, you don&rsquo;t need to train your mind.&rdquo; &ndash; James</p></blockquote>
 <p>Staying away from market noise and focusing on one&rsquo;s own investment strategy is key to maintaining rational investment decisions.</p>
 
 
@@ -4448,68 +4951,4 @@
     ><strong>Disclaimer:</strong> This is a personal learning summary and does not constitute investment advice.</span>
 </div>
 
-]]></content:encoded></item><item><title>Personal Investment Bible: Conclusion</title><link>https://jomonylw.github.io/en/posts/1731056005974/</link><pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/posts/1731056005974/</guid><description>This article summarizes the core concepts of building wealth through personal finance, emphasizing that everyone can achieve financial freedom through proper money management. Key takeaways include the importance of financial planning, principles for setting financial goals, the value of long-term investing, overcoming common financial misconceptions, and balancing wealth with a fulfilling life. It encourages readers to acquire financial knowledge, adhere to long-term investment strategies, and ultimately achieve financial freedom and a better life.</description><content:encoded><![CDATA[
-
-<h2 class="relative group">Conclusion 
-    <div id="conclusion" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#conclusion" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<blockquote>
-<p>What influences a person&rsquo;s future wealth the most,
-is whether they have started managing their finances.</p>
-</blockquote>
-<p><strong>Everyone Can Achieve Wealth Through Personal Finance</strong></p>
-<p>This book aims to illustrate a simple truth: investing and managing your finances can not only improve the financial situation of an individual or family, but is also an excellent path to wealth creation.  Furthermore, anyone can achieve wealth through personal finance. You don&rsquo;t need to be rich, have a high income, possess a high degree, have specialized knowledge or advanced skills, nor rely on luck. What you need is the desire for wealth, a correct investment philosophy (not just techniques), and the patience to wait for the long term.  Therefore, whether a person has money or not, or how high their income is, doesn&rsquo;t matter. What truly influences a person&rsquo;s future wealth is whether they have started managing their finances. This endeavor is not easy, but it&rsquo;s undoubtedly worth your effort!</p>
-<p>Readers, please immediately review your current asset allocation. Is too much of your capital sitting in bank accounts or other &ldquo;guaranteed return&rdquo; investments?  Is your investment portfolio sufficiently diversified? Do you frequently buy and sell in the stock market?</p>
-<p>After understanding your asset allocation, you should earnestly plan your financial goals and follow these five principles:</p>
-<p><em>1. Clearly define the amount of wealth you hope to achieve and keep it in mind at all times. Simply thinking &ldquo;I want to be rich&rdquo; is not enough.</em></p>
-<p><em>2. Set a specific date for achieving your goal.</em></p>
-<p><em>3. Determine what price you&rsquo;re willing to pay and what actions you&rsquo;ll take to reach your ideal goal.</em></p>
-<p><em>4. Think about your goal at least twice a day to reinforce your belief.</em></p>
-<p><em>5.  Take action, whether you feel completely ready or not.</em></p>
-<p>In Appendix II, readers can use the wealth creation formula and examples provided to calculate how to achieve their financial goals.</p>
-<p>Your future wealth depends on what you do today. Don&rsquo;t let unnecessary hesitation cast a shadow on your heart. As long as you understand investment and financial management, you too can become wealthy in the future. Everyone possesses the necessary ingredients for wealth creation: a small amount of capital and a God-given resource—time. As long as you are willing to learn about personal finance, you have the potential to become a multi-millionaire.</p>
-<p>When you find people around you feeling lost due to a lack of vision for the future, share with them the &ldquo;¥14,000 a year for 40 years can make you a multi-millionaire&rdquo; formula and help them reignite their hope.</p>
-<p><strong>Financial Dependence Is Your Own Responsibility</strong></p>
-<p>The unequal distribution of wealth in today&rsquo;s society is increasingly severe. Some blame flawed policies, others point to artificial market manipulation. I believe neither is the primary cause.  One of the main reasons for the wealth gap is the disparity in financial literacy among people.</p>
-<p>The reason for poverty in modern times is not so much insufficient income, lack of thrift, or excessive spending, but rather improper financial management. In modern society, achieving financial independence after the age of 40 is a fundamental responsibility for everyone. Whether you want to or not, or whether you like it or not, investment and financial management have become essential knowledge for modern individuals. Remember, with our current income levels and investment opportunities, &ldquo;remaining poor after 40&rdquo; is self-inflicted, and &ldquo;not being a multi-millionaire after 70&rdquo; is due to a lack of financial knowledge.</p>
-<p>Advances in modern medicine have increased human life expectancy, leading to an aging society.  Longer lifespans are a blessing, but enjoying a comfortable retirement is even more crucial. We must accumulate sufficient wealth to secure our lives in old age.</p>
-<p><strong>Effortless Personal Finance, Enjoy the Process</strong></p>
-<p>From the examples provided in this article, we can see that those who are good at managing their finances understand how to invest their assets in stocks and real estate with high long-term returns, and they avoid unnecessary short-term trading, thus achieving wealth with ease.  Those who are not good at managing their finances either focus solely on saving and keeping their assets in &ldquo;safe&rdquo; bank deposits or try to get rich quickly by engaging in short-term trading in the stock or futures markets. These individuals will eventually be left far behind in the race for financial success.</p>
-<p>Most people keep their assets in financial institutions without investing them, and when they do start investing, they aim for quick riches.  As a result, their money stagnates in banks, and their pursuit of quick wealth often leads to substantial losses.  They fail to realize that with a little courage, by investing in stocks and real estate and patiently waiting for decades, they can naturally achieve wealth.</p>
-<p>Simply put, building wealth through personal finance only requires two things: investing your capital in areas with high returns and having the patience to wait for the long term. The required investment is low, the probability of success is high, and the process is relaxed and enjoyable.</p>
-<p>I advise readers not to rush to get rich through investment, causing anxiety and ultimately achieving the opposite of what they desire.  By following the methods described in this book, you can achieve financial success without expending excessive time and energy, allowing you to focus on your existing career.</p>
-<p>Personal finance is a marathon, not a sprint. If you view the entire process from a long-term perspective, temporary setbacks don&rsquo;t signify failure, and momentary gains don&rsquo;t guarantee lasting success. With this mindset, you can maintain a more open perspective and avoid becoming overly attached to gains and losses.</p>
-<p>I admit that consistently buying assets and holding them long-term can make personal finance seem dull and unbearable. However, before engaging in any financial activities, investors must clarify their objectives: is it to build wealth or to seek the thrill of gambling? Personal finance can not only lead to wealth but also bring joy and knowledge.  Everyone should learn how to manage their finances and find enjoyment in the process.</p>
-<p><strong>Don&rsquo;t Feel Guilty About Being Wealthy</strong></p>
-<p>Wealth should be acquired and used ethically. You don&rsquo;t need to apologize to others for your wealth. Only the pursuit of wealth through unscrupulous means is sinful and unfortunate.  Therefore, everyone should not only be confident but also feel obligated to earn wealth. There&rsquo;s no need to be secretive or ashamed about pursuing wealth. On the contrary, being financially dependent is a burden on society.  Moreover, wealthy individuals are more capable of contributing to society.  In short, if you can&rsquo;t find a good reason why getting rich is bad, why not allow yourself to become wealthy?</p>
-<p>You earning more in the investment market doesn&rsquo;t mean others will earn less or lose more.  If everyone is proficient in managing their finances, not only can individuals prosper, but economic resources can also be utilized effectively, leading to rapid overall economic growth.  In a market economy, the wealth of society is built upon the wealth of its people. Only a prosperous populace can create a prosperous economy.</p>
-<p>In today&rsquo;s financially driven world, whether for personal advancement or the benefit of society as a whole, everyone should strengthen their understanding of personal finance. When everyone is skilled in managing their finances, individuals and families can live prosperous lives, the wealth gap can be narrowed, and the nation can progress and flourish.</p>
-<p><strong>Action Speaks Louder Than Words</strong></p>
-<p>&ldquo;Knowing and not doing is not knowing.&rdquo; The biggest obstacle to personal finance is not that it&rsquo;s difficult to do, but that it&rsquo;s difficult to start.  The key to overcoming this is to act immediately.  One of the main reasons for failure in personal finance is avoiding decisions.  However, if you want to achieve your goal of building wealth through investment, there&rsquo;s no other way than to take action.</p>
-<p>After reading the basic principles of investment and financial management outlined in this article, you should understand that building wealth is not only achievable but also not difficult.  So, act now! Time is money. The earlier you start, the sooner you&rsquo;ll reach your financial goals and share the fruits of your labor with your family.</p>
-<p>Looking ahead, changes in society, politics, economics, and finance will accelerate, and the resulting redistribution of wealth will inevitably follow suit.  For yourself, your family, and society as a whole, managing your finances is a role everyone should embrace.</p>
-<p><strong>Persistence Is Key</strong></p>
-<p>For readers seeking quick riches, this book might disappoint you.  A more accurate title would be: &ldquo;How to Invest and Manage Your Finances to Slowly but Steadily Build Wealth.&rdquo;</p>
-<p>Many believe that successful people are infallible—never failing, never experiencing losses.  Many also think they must be omniscient and possess sufficient knowledge before they can start investing and managing their finances.  Our most common flaw is our unwillingness to try repeatedly and to persevere. Building wealth through personal finance is not difficult! The reason most people don&rsquo;t achieve their goals is their inability to persevere and their lack of patience.</p>
-<p>Persistence is essential for success in personal finance. Suppose you embark on a wealth-building plan and encounter setbacks along the way. Don&rsquo;t be discouraged. Some people regularly save and invest annually.  When prices rise, they are satisfied and continue their plan. But when prices fall, they panic and abandon their investment strategy.  They fail to understand that price fluctuations are inherent in the investment market, and investment results will inevitably fluctuate.</p>
-<p>If, midway through your financial plan, you succumb to the temptation to spend your investment capital or give up due to repeated setbacks, all your previous efforts will be wasted.  <strong>Success in personal finance depends on endurance and resolve:  endurance to delay gratification and resist immediate consumption temptations; and resolve to withstand significant wealth fluctuations over long periods without losing your composure.  As long as you have perseverance and resolve, trust in compound interest, and believe in the &ldquo;wealth creation formula,&rdquo; the ultimate wealth will undoubtedly be yours.</strong></p>
-<p>&ldquo;No dreams, no wealth.&rdquo;  Those who build wealth through personal finance must be driven by desire and ambition.  They also need sufficient courage, knowledge, patience, and perseverance.  A lack of courage, flawed methods, impatience, or giving up halfway will not work. Whether you can achieve wealth and financial independence in the future depends entirely on your actions and efforts today.</p>
-<p><strong>Unlock Your Hidden Wealth Potential</strong></p>
-<p>Believe it or not, the price of living a wealthy and successful life is no greater than the price of living a poor and miserable one. Achieving this depends entirely on wisdom, belief, and action. After reading this book, readers should understand that everyone can achieve wealth through personal finance. The reason most people are not wealthy is not due to low income, but rather a lack of understanding of how to create wealth through investment and financial management. The primary purpose of this book is to help everyone unlock their hidden wealth potential.</p>
-<p>If, after reading this book, you still cannot effectively apply these investment principles to manage your money and improve your financial situation, then this book is a complete failure.  Financial education is not merely about imparting knowledge; its significance lies in genuinely changing the reader&rsquo;s financial behavior.</p>
-<p>This is a book of action, not a textbook for enhancing investment knowledge or a &ldquo;decorative book&rdquo; for your bookshelf.  This book aims to inspire readers to change their mindset and behavior. Its success depends on readers taking action based on the core principles presented, breaking free from mediocrity, and embarking on the path to wealth. Therefore, at the end of most chapters, key points are summarized for readers to reflect upon and apply.</p>
-<p>Investment and financial management can not only lead to wealth but also bring joy to investors. Everyone should learn how to manage their finances and reap the substantial rewards.  I believe most readers already possess the basic requirements for building wealth: a small amount of capital, sufficient time, and the investment knowledge gained from this book.  The world of personal finance, full of changes and opportunities, awaits you.  It is filled with treasures and pitfalls. Don&rsquo;t hesitate, and don&rsquo;t leave empty-handed.</p>
-<p>The principles of building wealth through investment and financial management are neither profound nor mysterious. They are absolutely achievable for everyone, and many have indeed easily become wealthy through these methods.  As we&rsquo;ve mentioned before, &ldquo;If you&rsquo;re willing to learn, managing your finances is as simple as walking.&rdquo;</p>
-<p>Among the financial principles presented in this book, you&rsquo;ll find many that contradict deeply ingrained investment concepts and financial habits, and some even go against human nature.  Therefore, to realize the ideal of wealth creation through investment and financial management, the first step is to break free from some &ldquo;deep-rooted and misguided&rdquo; investment concepts, common knowledge, and habits.  Almost none of these concepts and principles are easy to achieve. Therefore, I advise readers to not only read each chapter carefully but also to review, reflect, establish strict rules, and ultimately change their behavior.</p>
-<p><strong>Wealth Is a Means to a Better Life</strong></p>
-<p>Finally, this book must emphasize that <strong>wealth is not the purpose of life, but a means to create a better life.</strong>  The ultimate goal of investment and financial management is not just to become rich, but to use wealth to realize your life&rsquo;s aspirations.  Therefore, <strong>a fulfilling and balanced life is the starting point for personal finance.</strong></p>
-<p>Everyone should actively and optimistically plan and execute their lifelong financial journey.  Based on the principles we&rsquo;ve presented, everyone can achieve substantial wealth through personal finance without sacrificing time, energy, work, or life.  However, it&rsquo;s crucial to remember that <strong>only those who balance career, life, health, family, and wealth can be considered truly successful in managing their finances.</strong>  Those who gain the world&rsquo;s riches but lose their health, family, and the meaning of life cannot be considered truly successful.  In today&rsquo;s society, many are lost in the pursuit of wealth, sacrificing more valuable things in life.  Therefore, this principle of balancing personal finance and life is particularly important and deserves careful consideration.</p>
-<p>Although this book repeatedly emphasizes that success in personal finance depends on mindset, time, and action, not luck, I still congratulate you, the reader, on being fortunate enough to encounter this book. By adhering to the investment principles within, you are sure to become a multi-millionaire in the decades to come!</p>
 ]]></content:encoded></item></channel></rss>

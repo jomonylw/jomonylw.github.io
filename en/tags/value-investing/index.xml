@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Value Investing on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/value-investing/</link><description>Recent content in Value Investing on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/value-investing/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/en/</link><pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Value Investing on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/value-investing/</link><description>Recent content in Value Investing on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/value-investing/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/en/</link><pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
@@ -53,8 +53,8 @@
   <span
     
       class="dark:text-neutral-300"
-    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2009/12</strong>, and held it for <strong>15</strong> years, by
-<strong>2024/12</strong> it would be worth <strong>$11174.43</strong>, with a total return of <strong>1017.44%</strong> (annualized return of <strong>17.46%</strong>).</span>
+    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2010/01</strong>, and held it for <strong>15</strong> years, by
+<strong>2025/01</strong> it would be worth <strong>$12205.89</strong>, with a total return of <strong>1120.59%</strong> (annualized return of <strong>18.14%</strong>).</span>
 </div>
 
 <br>
@@ -66,7 +66,7 @@
       const ctx = document.getElementById("chart-3f42e1dde0a3be6b7dd45d9363bdb47b");
       const chart = new Chart(ctx, {
         
-    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1000.0, 1190.3825136612022, 1220.327868852459, 1423.606557377049, 1922.622950819672, 2256.830601092896, 2445.0273224043717, 2589.726775956284, 3404.590163934426, 3371.803278688524, 4647.213114754099, 6857.704918032787, 8696.174863387978, 5820.327868852458, 8951.256830601093, 11174.426229508197], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.0, 0.1903825136612022, 0.025156077855306616, 0.16657710908113907, 0.350529709811147, 0.17382901318781255, 0.08338983050847476, 0.05918111925621308, 0.31465226198514507, -0.009630200308166482, 0.3782574873590045, 0.47565965852970216, 0.2680882259195512, -0.3307025260776676, 0.5379299984978221, 0.24836393826919329], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]},
+    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1272.7272727272727, 1304.744099088572, 1522.084599205422, 2055.6204720729143, 2412.9469502220145, 2614.162187426969, 2768.8712315961675, 3640.1028277634964, 3605.047908389811, 4968.684272026175, 7332.086936200048, 9297.733115213836, 6222.949287216639, 9570.460387941108, 11947.417620939474, 12205.88922645478], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.27272727272727276, 0.0251560778553066, 0.16657710908113926, 0.3505297098111469, 0.17382901318781263, 0.08338983050847461, 0.059181119256213145, 0.3146522619851452, -0.009630200308166454, 0.3782574873590044, 0.4756596585297023, 0.26808822591955117, -0.33070252607766754, 0.5379299984978219, 0.24836393826919337, 0.02163409815542893], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]},
     options: {
         scales: {
             'price-axis': {
@@ -453,8 +453,7 @@
 </h2>
 <blockquote>
 <p>Buy when Value is higher than Price.
-Sell when Value is lower than Price.</p>
-</blockquote>
+Sell when Value is lower than Price.</p></blockquote>
 
 
 <h3 class="relative group">Value Investing 
@@ -494,8 +493,7 @@ Sell when Value is lower than Price.</p>
 <p><em>1. When investing in stocks, ask &ldquo;Is it worth buying?&rdquo; not just &ldquo;Will it go up?&rdquo;</em></p>
 <p><em>2.  Learn from consumer behavior: buy when prices are discounted.</em></p>
 <blockquote>
-<p>Choose a great company, and if it keeps growing, you&rsquo;ll almost never have to sell.</p>
-</blockquote>
+<p>Choose a great company, and if it keeps growing, you&rsquo;ll almost never have to sell.</p></blockquote>
 
 
 <h3 class="relative group">Growth Investing 
@@ -527,8 +525,7 @@ Sell when Value is lower than Price.</p>
 <p><em>1. Real earnings growth drives stock price appreciation.</em></p>
 <p><em>2. Diversify investments in companies with sustainable 5-10 year growth potential, patiently awaiting substantial returns.</em></p>
 <blockquote>
-<p>Don&rsquo;t follow the crowd; be rational. Figure out what most people are doing, then don&rsquo;t do it.</p>
-</blockquote>
+<p>Don&rsquo;t follow the crowd; be rational. Figure out what most people are doing, then don&rsquo;t do it.</p></blockquote>
 
 
 <h3 class="relative group">Contrarian Investing 
@@ -577,8 +574,7 @@ Sell when Value is lower than Price.</p>
     
 </h2>
 <blockquote>
-<p>The greatest enemy of investment activity is human weakness: greed, fear, and herd mentality.</p>
-</blockquote>
+<p>The greatest enemy of investment activity is human weakness: greed, fear, and herd mentality.</p></blockquote>
 
 
 <h3 class="relative group">The Pitfalls of Buying Low and Selling High 
@@ -607,8 +603,7 @@ Sell when Value is lower than Price.</p>
 <p>Merrill Lynch annually has a dozen or so brokers earning over a million dollars.  However, their truly valuable clients are not exceptionally wealthy individuals. Wealthy people are usually busy making money and don&rsquo;t have the time for frequent trading.  They wouldn&rsquo;t be considered valuable clients. Only those who constantly engage in short-term trading are the major contributors to transaction fees and the most loyal customers of brokerage firms.</p>
 <p>In 1990, a scholar wrote a bestselling book on securities investment, earning about 1 million NTD.  He was overjoyed, as it was a considerable sum for a writer.  However, his friend at a brokerage firm mocked him, saying, &ldquo;Your three years of hard work only earned you the equivalent of one month&rsquo;s salary for a broker in our company.&rdquo;</p>
 <blockquote>
-<p>Retail investors, your name is weakness.</p>
-</blockquote>
+<p>Retail investors, your name is weakness.</p></blockquote>
 
 
 <h3 class="relative group">A Losing Game 
@@ -633,8 +628,7 @@ Sell when Value is lower than Price.</p>
 <p><strong>The correct investment philosophy is to profit together, not to defeat others.</strong>  The truly intelligent strategy is to avoid the competition.  As Sun Tzu&rsquo;s <em>Art of War</em> states, &ldquo;The supreme art of war is to subdue the enemy without fighting.&rdquo;  The primary consideration in investment strategy should not be defeating others but maximizing profits.</p>
 <p>How can everyone win? If every investor adopts the strategy presented in this book—&ldquo;buy any stock, buy anytime, don&rsquo;t sell&rdquo;—and adheres to this simple principle, a win-win situation for all can be achieved.</p>
 <blockquote>
-<p>Futures markets make casinos pale in comparison.</p>
-</blockquote>
+<p>Futures markets make casinos pale in comparison.</p></blockquote>
 
 
 <h3 class="relative group">Avoid Futures and Margin Trading 
@@ -678,8 +672,7 @@ Sell when Value is lower than Price.</p>
 <blockquote>
 <p>Basing investment decisions on technical analysis<br>
 often indicates a lack of experience.<br>
-In most cases, it won&rsquo;t make you money.</p>
-</blockquote>
+In most cases, it won&rsquo;t make you money.</p></blockquote>
 
 
 <h3 class="relative group">The Blind Spots of Forecasting and Analysis 
@@ -733,8 +726,7 @@ In most cases, it won&rsquo;t make you money.</p>
 <p>If you still believe technical analysis can lead to riches, ask yourself: who has become wealthy solely through technical analysis?</p>
 <blockquote>
 <p>Blind faith in predictions is worse than no prediction at all.
-Prediction is more art than science.</p>
-</blockquote>
+Prediction is more art than science.</p></blockquote>
 
 
 <h3 class="relative group">The Only Certainty is Uncertainty 
@@ -771,8 +763,7 @@ Prediction is more art than science.</p>
 <p>I don&rsquo;t advocate completely ignoring predictions.  Predictions have value, and good predictions are worth considering.  However, whether you believe in predictions or not, and regardless of the predictor&rsquo;s reputation, remember: the future is fluid and unpredictable.  Investment risk is an inherent part of investing and must be managed.</p>
 <p>You don&rsquo;t need predictive abilities to invest well or make money in the market. In this complex and volatile market, the only certainty is uncertainty.  In the investment world, profits come from choosing the right investments and holding them long-term, not from predicting market movements.  In summary, consider expert predictions, but remember they are just predictions.  Don&rsquo;t blindly trust them.</p>
 <blockquote>
-<p>There are no experts in the stock market, only winners and losers.</p>
-</blockquote>
+<p>There are no experts in the stock market, only winners and losers.</p></blockquote>
 
 
 <h3 class="relative group">Trust Yourself, Not the Experts 
@@ -821,8 +812,7 @@ Prediction is more art than science.</p>
     
 </h2>
 <blockquote>
-<p>Choose the right stocks, hold them long-term, and watch their value grow.</p>
-</blockquote>
+<p>Choose the right stocks, hold them long-term, and watch their value grow.</p></blockquote>
 
 
 <h3 class="relative group">The Secret to Liu Qiude&rsquo;s Fortune 
@@ -952,8 +942,7 @@ Prediction is more art than science.</p>
 <p>The Tsai family themselves followed a similar strategy. To maintain control of Cathay Life, they held their shares long-term through investment companies.  Tsai Chen-yu, Chairman of First Commercial Bank, pointed out that selling these shares was practically impossible; they had become like real estate.  One of the main reasons Tsai Wan-lin became Taiwan&rsquo;s richest man was his ability to hold Cathay Life stock long-term.</p>
 <p>Cathay Life isn&rsquo;t the only company that has created immense wealth for ordinary white-collar workers. Professional managers at several other large Taiwanese companies also accumulated significant fortunes. According to the Taiwan Stock Exchange, from the end of 1990 to April 30, 1996, the average return on all stocks was 35.41%.  During this period, holding United Microelectronics Corporation (UMC) stock would have yielded a return of 726.04%, Acer 421.54%, Tatung 335.88%, China Development Financial Holding Corporation 225.55%, Uni-President Enterprises Corporation 191.30%, and Nan Ya Plastics Corporation 123.77%.  These examples demonstrate that long-term investment in blue-chip stocks can lead to substantial gains.</p>
 <blockquote>
-<p>The higher the economic growth rate, the higher the average long-term stock market return.</p>
-</blockquote>
+<p>The higher the economic growth rate, the higher the average long-term stock market return.</p></blockquote>
 
 
 <h3 class="relative group">Why Stocks Offer High Returns 
@@ -996,8 +985,7 @@ Prediction is more art than science.</p>
 <p>If the question is whether the Taiwan stock market can maintain an average annual return of over 30%, I believe that&rsquo;s unlikely.  A country or region&rsquo;s stock market return is directly influenced by the profitability of its companies, which is essentially linked to the economic growth rate. Taiwan&rsquo;s economy is maturing.  While the average annual growth rate was around 9% for the past few decades, it&rsquo;s now around 6%, and this trend is expected to continue.</p>
 <p>With a declining economic growth rate, it&rsquo;s improbable that the stock market will maintain returns above 20%.  However, I estimate that future stock returns should remain above 15%.  This is based on the observation that in developed economies like the US, Japan, and Europe, long-term stock returns remain between 10%-15% even after their economies mature. Although Taiwan&rsquo;s economic growth rate may decrease, a 10% growth rate is still impressive compared to other regions, making Taiwanese stocks a worthwhile investment.  Furthermore, Taiwan&rsquo;s increasing financial liberalization is likely to attract foreign investment, which will further boost the stock market&rsquo;s performance.</p>
 <blockquote>
-<p>Untapped gold mines are plentiful; careful selection leads to boundless profits.</p>
-</blockquote>
+<p>Untapped gold mines are plentiful; careful selection leads to boundless profits.</p></blockquote>
 
 
 <h3 class="relative group">Choosing the Right Stocks 
@@ -1392,28 +1380,22 @@ Prediction is more art than science.</p>
     
 </h2>
 <blockquote>
-<p>&ldquo;In Wall Street, if you&rsquo;re always doing what&rsquo;s obvious or what everyone else is doing, you&rsquo;re not going to make money.&rdquo;</p>
-</blockquote>
+<p>&ldquo;In Wall Street, if you&rsquo;re always doing what&rsquo;s obvious or what everyone else is doing, you&rsquo;re not going to make money.&rdquo;</p></blockquote>
 <p>Analysis: This emphasizes that to achieve above-average returns, investors require independent thinking and must seek value that is overlooked by the market.</p>
 <blockquote>
-<p>&ldquo;For rational investment, mental attitude is more important than technique.&rdquo;</p>
-</blockquote>
+<p>&ldquo;For rational investment, mental attitude is more important than technique.&rdquo;</p></blockquote>
 <p>Analysis:  Investment success necessitates not just skills and tools, but also the right investment philosophy and mindset, including rationality, patience, and discipline.</p>
 <blockquote>
-<p>&ldquo;Don&rsquo;t buy after a stock has surged and don&rsquo;t sell after it has plummeted.&rdquo;</p>
-</blockquote>
+<p>&ldquo;Don&rsquo;t buy after a stock has surged and don&rsquo;t sell after it has plummeted.&rdquo;</p></blockquote>
 <p>Analysis: Avoid chasing rising prices and panicking during market dips. Focus on rational valuation and don&rsquo;t be swayed by market emotions.</p>
 <blockquote>
-<p>&ldquo;Have the courage of your knowledge and experience. If you have formed a conclusion from the facts and if you know your judgment is sound, act on it—even though others may hesitate or differ.&rdquo;</p>
-</blockquote>
+<p>&ldquo;Have the courage of your knowledge and experience. If you have formed a conclusion from the facts and if you know your judgment is sound, act on it—even though others may hesitate or differ.&rdquo;</p></blockquote>
 <p>Analysis: Investment requires independent judgment. Investors need to be confident and courageous in their convictions, even when facing dissenting opinions. Stay true to your well-researched investment principles.</p>
 <blockquote>
-<p>&ldquo;Many that are first shall be last, and the last shall be first.&rdquo;</p>
-</blockquote>
+<p>&ldquo;Many that are first shall be last, and the last shall be first.&rdquo;</p></blockquote>
 <p>Analysis:  The business landscape is dynamic. Company strength and investment merit can shift over time, requiring investors to maintain a dynamic outlook and avoid fixed biases.</p>
 <blockquote>
-<p><em>&ldquo;Margin of Safety&rdquo;</em></p>
-</blockquote>
+<p><em>&ldquo;Margin of Safety&rdquo;</em></p></blockquote>
 <p>Analysis:  This succinct phrase encapsulates the core of Graham&rsquo;s approach. Investing should be grounded in acquiring assets at a price that provides a buffer against uncertainty and potential errors in judgment.</p>
 
 
@@ -1673,32 +1655,25 @@ Prediction is more art than science.</p>
     
 </h2>
 <blockquote>
-<p>&ldquo;There&rsquo;s a certain irony in the investing world: What&rsquo;s obvious to everyone else is likely to be wrong.&rdquo;</p>
-</blockquote>
+<p>&ldquo;There&rsquo;s a certain irony in the investing world: What&rsquo;s obvious to everyone else is likely to be wrong.&rdquo;</p></blockquote>
 <p>Insight:  Consensus views often lead to average results, at best.  Superior returns require non-consensus views that prove to be correct.</p>
 <blockquote>
-<p>&ldquo;Remember, your goal in investing isn&rsquo;t to earn average returns; you want to do better than average.&rdquo;</p>
-</blockquote>
+<p>&ldquo;Remember, your goal in investing isn&rsquo;t to earn average returns; you want to do better than average.&rdquo;</p></blockquote>
 <p>Insight:  Complacency is the enemy of superior performance.  Strive to exceed benchmarks, not simply match them.</p>
 <blockquote>
-<p>&ldquo;The widespread belief that there&rsquo;s no risk is the biggest risk of all.&rdquo;</p>
-</blockquote>
+<p>&ldquo;The widespread belief that there&rsquo;s no risk is the biggest risk of all.&rdquo;</p></blockquote>
 <p>Insight:  When markets are universally optimistic, risk is often at its highest because prices don&rsquo;t reflect potential problems.</p>
 <blockquote>
-<p>&ldquo;Only when the tide goes out do you discover who&rsquo;s been swimming naked.&rdquo;</p>
-</blockquote>
+<p>&ldquo;Only when the tide goes out do you discover who&rsquo;s been swimming naked.&rdquo;</p></blockquote>
 <p>Insight: Adverse market conditions reveal the weaknesses in portfolios and investment strategies that were hidden during favorable periods.</p>
 <blockquote>
-<p>&ldquo;It takes greatest courage, but provides the greatest profit, to buy when others are despondently selling and to sell when others are greedily buying.&rdquo;</p>
-</blockquote>
+<p>&ldquo;It takes greatest courage, but provides the greatest profit, to buy when others are despondently selling and to sell when others are greedily buying.&rdquo;</p></blockquote>
 <p>Insight: Contrarian investing is difficult because it requires going against the crowd, but it offers the potential for the highest rewards.</p>
 <blockquote>
-<p>&ldquo;One of the great things about investing is that you don&rsquo;t have to make a lot of good decisions to do well. What&rsquo;s essential is avoiding bad decisions.&rdquo;</p>
-</blockquote>
+<p>&ldquo;One of the great things about investing is that you don&rsquo;t have to make a lot of good decisions to do well. What&rsquo;s essential is avoiding bad decisions.&rdquo;</p></blockquote>
 <p>Insight:  Preserving capital is paramount.  Avoiding significant losses has a greater impact on long-term returns than occasional big wins.</p>
 <blockquote>
-<p>&ldquo;An investor needs do very few things right as long as he avoids big mistakes.&rdquo;</p>
-</blockquote>
+<p>&ldquo;An investor needs do very few things right as long as he avoids big mistakes.&rdquo;</p></blockquote>
 <p>Insight:  Risk management and capital preservation are the cornerstones of successful investing.</p>
 
 
