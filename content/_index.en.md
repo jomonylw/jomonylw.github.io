@@ -119,6 +119,7 @@ If you invested **$1000** in **QQQ** starting from **2010/01**, and held it for 
 | [QQQ Financial Ratios](https://marketchameleon.com/Overview/QQQ/ETF-Financial-Ratios/) | Summary of QQQ Financial Ratios |
 | [QQQ Historical Returns](https://www.lazyportfolioetf.com/etf/invesco-qqq-trust-qqq/) | QQQ Historical Performance from various perspectives |
 | [QQQ Finance Charts](https://www.financecharts.com/etfs/QQQ/) | QQQ Finance Charts Information |
+| [QQQ price prediction](https://longforecast.com/qqq-stock/) | The Economy Forecast Agency |
 | [How to Invest in NASDAQ 100](/en/posts/1728723295012-invest-qqq/) |  NASDAQ 100 Investment Information  |
 
 ---
