@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Investment Strategy on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/investment-strategy/</link><description>Recent content in Investment Strategy on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/investment-strategy/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/en/</link><pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Investment Strategy on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/investment-strategy/</link><description>Recent content in Investment Strategy on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/investment-strategy/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/en/</link><pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-365a765a1a66ed2d7a06c5abeedf88fd"></h2>
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
@@ -53,8 +53,8 @@
   <span
     
       class="dark:text-neutral-300"
-    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2010/01</strong>, and held it for <strong>15</strong> years, by
-<strong>2025/01</strong> it would be worth <strong>$12205.89</strong>, with a total return of <strong>1120.59%</strong> (annualized return of <strong>18.14%</strong>).</span>
+    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2010/02</strong>, and held it for <strong>15</strong> years, by
+<strong>2025/02</strong> it would be worth <strong>$11353.22</strong>, with a total return of <strong>1035.32%</strong> (annualized return of <strong>17.57%</strong>).</span>
 </div>
 
 <br>
@@ -66,7 +66,7 @@
       const ctx = document.getElementById("chart-3f42e1dde0a3be6b7dd45d9363bdb47b");
       const chart = new Chart(ctx, {
         
-    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1272.7272727272727, 1304.744099088572, 1522.084599205422, 2055.6204720729143, 2412.9469502220145, 2614.162187426969, 2768.8712315961675, 3640.1028277634964, 3605.047908389811, 4968.684272026175, 7332.086936200048, 9297.733115213836, 6222.949287216639, 9570.460387941108, 11947.417620939474, 12205.88922645478], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.27272727272727276, 0.0251560778553066, 0.16657710908113926, 0.3505297098111469, 0.17382901318781263, 0.08338983050847461, 0.059181119256213145, 0.3146522619851452, -0.009630200308166454, 0.3782574873590044, 0.4756596585297023, 0.26808822591955117, -0.33070252607766754, 0.5379299984978219, 0.24836393826919337, 0.02163409815542893], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]},
+    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1216.7113494191244, 1247.319034852547, 1455.0938337801608, 1965.14745308311, 2306.7470956210905, 2499.1063449508492, 2647.006255585344, 3479.892761394102, 3446.380697050938, 4750.000000000001, 7009.383378016087, 8888.51653261841, 5949.061662198391, 9149.240393208222, 11421.581769436998, 11353.217158176945], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.21671134941912443, 0.025156077855306564, 0.16657710908113904, 0.35052970981114695, 0.17382901318781277, 0.0833898305084746, 0.05918111925621307, 0.31465226198514507, -0.009630200308166465, 0.3782574873590046, 0.47565965852970216, 0.2680882259195512, -0.33070252607766765, 0.537929998497822, 0.24836393826919329, -0.0059855642274513595], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)'], 'borderRadius': 5}], 'labels': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]},
     options: {
         scales: {
             'price-axis': {
@@ -443,6 +443,536 @@
         
     
 </section>
+]]></content:encoded></item><item><title>00506 How to Leverage Your Investment Returns Through Stock Financing? Index Investing Community Exchange: Learn, Share, and Grow Together</title><link>https://jomonylw.github.io/en/posts/1741528316040/</link><pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/posts/1741528316040/</guid><description>This episode delves into the specifics of stock financing in China, including operations, risk control, and broker selection, emphasizing the importance of risk management and compliance. James also stresses the importance of managing investment psychology, reminding everyone not to overreact to market fluctuations and to stick to a long-term investment strategy. This episode also provides detailed answers to questions on asset allocation, tax planning, and leveraged funds.</description><content:encoded><![CDATA[<lite-youtube videoid="rrEKsIfR84g" playlabel="rrEKsIfR84g" params=""></lite-youtube>
+
+
+
+<h2 class="relative group">I. Current Topic 
+    <div id="i-current-topic" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#i-current-topic" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>The core of this episode is to analyze the specific operation process, risk control points, and broker selection criteria of stock financing in mainland China, while also taking into account the management of investment psychology.  The aim is to help investors utilize financial tools for asset appreciation while ensuring risk control and compliance. Teacher James emphasizes the concept of long-term investment and cautions investors not to be affected by short-term market fluctuations.</p>
+
+
+<h2 class="relative group">II. Briefing Content 
+    <div id="ii-briefing-content" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ii-briefing-content" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">1. Stock Financing 
+    <div id="1-stock-financing" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-stock-financing" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Cost of Capital:</strong>
+<ul>
+<li>Three common types of loans in China:
+<ul>
+<li><strong>Personal Credit Loan:</strong> For individuals with stable jobs, such as civil servants. No collateral is required.  Borrowers can obtain 200,000 to 300,000 RMB with an annual interest rate of around 3%.  Typically, only interest is paid for the first three years, followed by principal repayment.</li>
+<li><strong>Mortgage-backed Business Loan:</strong> Requires the borrower to have a business.  Real estate is used as collateral.  It is possible to arrange a loan where only interest is paid for the first ten years, followed by principal repayment.  The current lowest annual interest rate can reach 2.4%.</li>
+<li><strong>Broker Stock Financing:</strong> Financing services provided by brokers.  Currently, friendly brokers in China can offer an annual interest rate of 4%, which can be reduced to 3.6% depending on the asset amount.</li>
+</ul>
+</li>
+<li>Stock financing is the best borrowing method. The key is that the principal can be extended indefinitely, interest accrual can be deferred indefinitely, and the loan duration is considered 0.  This means that, in theory, the principal never needs to be repaid; only interest needs to be paid.</li>
+</ul>
+</li>
+<li><strong>Prerequisites:</strong>
+<ul>
+<li><strong>Choosing the Best Broker:</strong> Compare the fees and interest charging methods of different brokers.  Choose the broker with the lowest interest rate and the most favorable repayment policy.</li>
+<li><strong>Familiarize Yourself with Stock Financing Rules:</strong> Understand concepts like margin ratio, warning line, and liquidation line to avoid the risk of forced liquidation due to improper operation. Stock financing is essentially borrowing money to speculate in stocks, and high-leverage operations should be approached with caution.</li>
+<li><strong>Coordinate the General Account and Margin Account:</strong> Understand the rules for transferring funds and stocks between the two accounts.</li>
+<li><strong>Combine the &ldquo;Never Sell Nasdaq&rdquo; and &ldquo;Never Repay Debt&rdquo; Strategies:</strong> Use long-term holdings of the Nasdaq as collateral to utilize low-cost financing for other investments or consumption.</li>
+</ul>
+</li>
+<li><strong>Specific Operation:</strong>
+<ul>
+<li>Having over 500,000 RMB in Nasdaq assets allows you to open a stock financing account (margin account) with a broker.</li>
+<li>Transfer the Nasdaq ETF (e.g., 513100) from the general account to the margin account as collateral.</li>
+<li>Example using 10% financing:
+<ul>
+<li>Use the financing to buy 100,000 RMB worth of Nasdaq ETF.</li>
+<li>After the transaction is completed, transfer the ETF to the general account through collateral transfer (can only be transferred on the second trading day).</li>
+<li>Sell the Nasdaq ETF in the general account to obtain cash, which can be used for other investments or consumption.</li>
+</ul>
+</li>
+<li>Most brokers offer a six-month extension service, which can theoretically be extended indefinitely as long as interest is paid on time.</li>
+</ul>
+</li>
+<li><strong>Considerations When Choosing a Broker:</strong>
+<ul>
+<li><strong>Interest Calculation Method:</strong> Some brokers calculate interest including the start date but excluding the end date, while others include both. The latter will charge one more day of interest.</li>
+<li><strong>Whether Unpaid Interest Incurs Penalties:</strong> Pay attention to the broker&rsquo;s charging policy for interest overdrafts.</li>
+<li><strong>Whether Unpaid Interest is Included in Debt (Simple/Compound Interest):</strong> The best situation is simple interest accounting, where unpaid interest does not accrue to the financing debt.</li>
+<li>Summary: Find a broker with low interest, simple interest accounting, and where unpaid interest is not transferred to the financing debt.</li>
+</ul>
+</li>
+<li><strong>Familiarize Yourself with Financing Rules (Focus on Margin Ratio):</strong>
+<ul>
+<li>Margin Ratio = Total Account Assets / Total Financing Amount.</li>
+<li>Only stocks with a margin ratio exceeding 300% can be transferred to the general account, indicating that excessive borrowing prevents transfers.</li>
+<li><strong>Warning Line:</strong> If the margin ratio is 150%, the broker will notify you to add margin or make a repayment.</li>
+<li><strong>Liquidation Line:</strong> If the margin ratio is 130%, the broker will forcibly liquidate, selling stocks to repay the debt.</li>
+<li>Example:
+<ul>
+<li>1 million RMB in Nasdaq, financed 100,000 RMB, transfer 100,000 RMB worth of Nasdaq to the general account.</li>
+<li>Margin Ratio = 1 million RMB / 100,000 RMB = 1000%, very safe.</li>
+<li>If 513100 drops 85%, the total account assets remaining are 150,000 RMB, and the margin ratio reaches 150%, triggering the warning line.</li>
+<li>If 513100 drops 87%, the total account assets remaining are 130,000 RMB, and the margin ratio reaches 130%, triggering the liquidation line.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Why Do This:</strong>
+<ul>
+<li>Chinese Broker Rules: If there is cash in the margin account, it will be used to repay the stock loan principal first.</li>
+<li>By transferring the financed Nasdaq to the general account and selling it, you can obtain cash.</li>
+<li>There is no capital gains tax in China, and the commission is extremely low, as low as 0.05% for some brokers.</li>
+<li>The operation is completely compliant and in accordance with the broker&rsquo;s financing rules.</li>
+<li>It is recommended that the stock pledge ratio should not exceed 10%, which is considered a safe leverage.</li>
+</ul>
+</li>
+<li><strong>Operational Precautions:</strong>
+<ul>
+<li>Always keep zero cash in the margin account.</li>
+<li>When you need to invest more funds to buy 513100, transfer the funds to the general account to purchase and then transfer them to the margin account.</li>
+<li>When you need to borrow money and sell stocks, transfer the financed portion to the general account to sell and convert it to cash.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">2. Supplementary Notes on Domestic Stock Financing in China 
+    <div id="2-supplementary-notes-on-domestic-stock-financing-in-china" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-supplementary-notes-on-domestic-stock-financing-in-china" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Thanks to Teacher James&rsquo; selfless dedication, taking the elimination of poverty as his lifelong career.</li>
+<li>Sharing being &ldquo;electrified&rdquo; by the 00451 video, agreeing with its underlying logic and belief, buying all 513100 and holding it for the long term.</li>
+<li>Thinking about how to borrow low-cost &ldquo;garbage&rdquo; (debt) and convert it into assets, let the assets grow by compound interest, never sell, let the debt be accounted for by simple interest and never be repaid, at most borrow new debt to repay old debt, to ensure that the assets are not damaged.</li>
+<li>Amazed that Teacher James&rsquo; investment system continues to evolve, from the initial 70% QQQ to InQQQ, and then integrating credit, stock pledges, leveraged funds, and cash to form an all-around large-scale operational system across sea, land, and air.</li>
+<li>Due to the imperfect financial tools in China, there are no stock pledges and leveraged funds, so it can only stay at the Nasdaq credit stage, and the power is greatly reduced.</li>
+<li>Emphasize practicing internal strength, learning Teacher James&rsquo; investment philosophy and spirit, combining it with the domestic financial environment, integrating it, and driving it with profound internal strength.</li>
+<li>Supplement the comparison of the advantages and disadvantages of stock pledge/financing from the perspective of learning, thinking, and practice:
+<ul>
+<li><strong>Taxation:</strong> The United States has a capital gains tax, while the securities account in China is similar to the American ROTH IRA, which is tax-free. Nasdaq assets grow by compound interest, and financing is accounted for by simple interest, doubling the happiness.</li>
+<li><strong>Interest:</strong> The interest rate on stock pledges in the United States is relatively high, currently about 7%+, and it is compounded into the debt; the interest rate on stock financing in China is relatively low, about 4%, with simple interest accounting, which is more cost-effective in the long run.</li>
+<li><strong>Mechanism:</strong> Stock pledges in the United States can only be used for consumption, with a safety buffer, and are relatively stable; currently, in China, it can only be used by converting stock financing into cash for consumption, which is riskier and requires strict control of the proportion within 10%.</li>
+<li><strong>Humanity:</strong> Emphasize controlling risks, including controlling humanity. Greed when rising, fear when falling. The teacher changed from the previous 20% M to strictly prohibiting financing, because when the number of people increases, it is difficult to comply with the safety margin, and fear will be amplified when it falls.</li>
+<li><strong>Principle:</strong> Financial tools are neutral, and the risk lies in the user.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">3. Others 
+    <div id="3-others" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-others" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Nasdaq 100 is listed in Hong Kong (code 03455).</li>
+<li>Recommend listening to books and podcasts on YouTube Music.  Using YouTube Music allows you to listen only to audio, saving data. You can listen to the CLEC channel through YouTube podcasts.</li>
+<li>The 2025 Buffett Shareholder Meeting can be found on YouTube.</li>
+<li>Li Lu&rsquo;s speech is worth listening to. He not only talks about investment, but also macroeconomics and social systems, and has in-depth analysis of the Japanese and Chinese systems.</li>
+</ul>
+
+
+<h2 class="relative group">III. Q&amp;A 
+    <div id="iii-qa" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iii-qa" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Dev 
+    <div id="dev" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#dev" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: Supplementing the premise of stock pledge borrowing in mainland China, there may be policy risks with brokers, who may require immediate debt repayment at any time. Therefore, it is necessary to always keep enough cash to cover the debt.
+<ul>
+<li>Teacher James&rsquo; Comment: Emphasizes that borrowing should not exceed 10%, otherwise, it is not meaningful.  If you buy leveraged funds in Hong Kong and keep a certain proportion of cash, you can break through the 10% limit and achieve a similar effect to the American 442.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">JOYCE 
+    <div id="joyce" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#joyce" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: Living in the US, there is no credit loan like in Taiwan. Besides HLOC, are there any other ways to borrow to accelerate asset growth?
+<ul>
+<li>Teacher James&rsquo; Reply: There are no credit loans in the United States, and the interest rates on credit cards are very high.  Due to cultural reasons, credit loans are more common in Taiwan and China, and the interest rates are also lower.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">James 
+    <div id="james" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#james" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question 1: For the 442 asset allocation, when it falls, you need to add 2% to QLD, but LIIA can only put in $7,000 per year, which is not enough.  How to deal with it? Should a portion of the two layers of cash be placed in LIIA?
+<ul>
+<li>Teacher James&rsquo; Reply:
+<ul>
+<li>No.  Keep cash in a Traditional IRA or Brokerage Account, preferably in a Traditional IRA for better tax benefits.</li>
+<li>Do a Conversion, from IRA to Roth IRA to add leverage, especially when the market falls, it is more beneficial to do Conversion.  Transferring the same 100 shares of QQQ requires less funds when it falls.</li>
+<li>Or convert QLD to TQQQ, but it is not recommended.  If you must do this, calculate how much QLD needs to be converted to TQQQ to achieve 2% leverage.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Question 2: Two weeks ago, the teacher said that QQQ would rise higher after the adjustment.  In these two weeks, QQQ has declined.  Did the teacher see the phenomenon and predict the adjustment, or did he just say it casually, and it happened to fall?
+<ul>
+<li>Teacher James&rsquo; Reply: Unspeakable, don&rsquo;t know.  Even if I knew, I wouldn&rsquo;t say.  The key is that you should not try to predict the market.  Even if you have escaped a few bubbles, you cannot guarantee that you will succeed every time.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">VIC 
+    <div id="vic" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#vic" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: I have 1 million in loan funds.  Should I use 721 or 633 for asset allocation? I am currently working and have some time before retirement.
+<ul>
+<li>Teacher James&rsquo; Reply:
+<ul>
+<li>You can choose 442 or 433. 442 is more aggressive and suitable for young people.</li>
+<li>442 is 40% QQQ/006200, 40% QLD/00679L, 20% cash 864B.</li>
+<li>Balance according to the proportion at the end of the year.</li>
+</ul>
+</li>
+<li>Supplement:
+<ul>
+<li>Risk tolerance is very important. Find a comfortable situation for yourself.</li>
+<li>Investment is not about pursuing the highest rate of return, but about being stable.</li>
+<li>50% investment and 50% cash is also very comfortable, and the return rate can also reach 9.25%.</li>
+</ul>
+</li>
+<li>Further Supplement:
+<ul>
+<li>For stock pledge borrowing, Smart Rebalancing is based on the initial assets.</li>
+<li>When the market rises, move 30% of the appreciation for the year to cash.</li>
+<li>Emphasize referring to the Smart Rebalancing document.</li>
+</ul>
+</li>
+<li>One More Supplement: The 2% of 442 comes from cash to supplement leveraged funds.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Ah Xia 
+    <div id="ah-xia" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ah-xia" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: Contacted the teacher&rsquo;s course in October last year.  After the New Year, I put all my mortgage into it.  Now I block all stock market news and focus on work and spending time with my family.</li>
+<li>Teacher James&rsquo; Comment: Well done.</li>
+<li>Question: If my family needs money, can I borrow a small amount from the stock pledge as household expenses?
+<ul>
+<li>Teacher James&rsquo; Reply: Absolutely correct, that&rsquo;s the purpose of stock pledges.</li>
+<li>Supplement: If you are truly proficient, you can remove the app and place orders by calling the broker.</li>
+<li>Further Supplement: Market fluctuations have nothing to do with me, international situations have nothing to do with me, market analysis has nothing to do with me, financial reports have nothing to do with me, economic situations have nothing to do with me, everything has nothing to do with me, ignore the deep ups and downs of the market.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Kk 
+    <div id="kk" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#kk" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>
+<p>Question: Why shouldn&rsquo;t we buy when the market falls?</p>
+<ul>
+<li>Teacher James&rsquo; Reply: You shouldn&rsquo;t have any bullets when it falls.  All bullets should have been fired.  A fall means you have already made a lot of money.</li>
+</ul>
+</li>
+<li>
+<p>Question: I just sold a house.  How should I buy?</p>
+<ul>
+<li>Teacher James&rsquo; Reply: Buy everything at the market price immediately.  There is nothing to hesitate about.</li>
+<li>If you always keep cash and prepare to buy when it falls, you shouldn&rsquo;t be listening to my class.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Haoqin 
+    <div id="haoqin" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#haoqin" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: What do you think of TSMC building a factory in the United States and setting up an R&amp;D department in the United States?
+<ul>
+<li>Teacher James&rsquo; Reply:
+<ul>
+<li>It is very normal to move towards a truly world-class company.  Don&rsquo;t worry, the company&rsquo;s decisions are based on maximizing its own interests.</li>
+<li>It is normal to set up R&amp;D in the United States.  Whether it surpasses Taiwan is not important.  It is all for TSMC&rsquo;s use.</li>
+<li>Don&rsquo;t use it too outrageously.  Does Microsoft need to explain to all Americans when it opens an R&amp;D center in Taiwan?  TSMC should not be linked to the &ldquo;national protection mountain.&rdquo;</li>
+<li>Don&rsquo;t have a small-country mentality. You should be happy that TSMC has become a world-class company.</li>
+<li>The most talented people in the United States are not going into factories now.  The most talented people in the United States are doing software.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Yao 
+    <div id="yao" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#yao" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: I just came across the teacher&rsquo;s channel two weeks ago.  Besides working and sleeping, I have been listening to the teacher&rsquo;s videos and continuing to invest. My sleep quality has improved, and I pay less attention to financial news.</li>
+<li>Teacher James&rsquo; Comment: Well done.</li>
+<li>Question: I have a lot of pressure at work.  Do you have any good suggestions?
+<ul>
+<li>Teacher James&rsquo; Reply:
+<ul>
+<li>It&rsquo;s not that important.  Don&rsquo;t think too highly of yourself.  It&rsquo;s not your problem if the world collapses.</li>
+<li>Do only three things a day.  Finish them and go home.  Don&rsquo;t put all the monkeys on your shoulders.</li>
+<li>If you are stressed, go out and eat ice cream. Give yourself time to relax.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Others 
+    <div id="others" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#others" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>
+<p>Question: I have some investments in Taiwan and will have a fixed income in New Taiwan Dollars every year.  Should I buy 00662 or convert it to US dollars to buy QQQ?</p>
+<ul>
+<li>Teacher James&rsquo; Reply:
+<ul>
+<li>Keep it in Taiwan and buy 00662 first.</li>
+<li>Convert to the United States after you have status.</li>
+<li>You can apply for a credit loan in Taiwan and use 662 as collateral to borrow.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Question: About BXMX.</p>
+<ul>
+<li>Teacher James&rsquo; Reply:
+<ul>
+<li>BXMX is a box trade that earns time value.  It is essentially arbitrage.</li>
+<li>Time value is close to the risk-free rate, which is the federal funds rate.</li>
+<li>BXMX is tax-free.  People with dividend tax need to use BXMX, which can be used to legally avoid taxes in the United States.</li>
+<li>You can apply for a refund of the withholding tax, but the operation is complicated.</li>
+</ul>
+</li>
+<li>Supplement: Consider account risks, inheritance risks, especially for overseas accounts.</li>
+</ul>
+</li>
+<li>
+<p>Question: Can I put money in a money market if I have money to invest?</p>
+<ul>
+<li>Teacher James&rsquo; Reply: Of course, you can put money in a Money Market once you have the funds to invest.</li>
+</ul>
+</li>
+<li>
+<p>Question: I have to withdraw a certain amount from my retirement account every year to pay taxes.</p>
+<ul>
+<li>Teacher James&rsquo; Reply: The withholding tax amount is enough to pay the taxes.  You don&rsquo;t need to withdraw money from your retirement account to pay taxes.  This situation is not normal.</li>
+</ul>
+</li>
+</ul>
+
+
+<h2 class="relative group">IV. Key Takeaways 
+    <div id="iv-key-takeaways" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iv-key-takeaways" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<blockquote>
+<p>Market analysis has nothing to do with me.
+&ndash; Teacher James</p></blockquote>
+<p>This emphasizes that long-term investors should ignore short-term market fluctuations and focus on long-term value investing.</p>
+<blockquote>
+<p>You have to train until there is no market, you have to train until we investors train to ignore the existence of the market.
+&ndash; Ah Xia</p></blockquote>
+<p>This emphasizes the importance of mentality in the investment process, to overcome human greed and fear, and not to be affected by market sentiment.</p>
+<blockquote>
+<p>Since you have already recognized the teacher&rsquo;s path, don&rsquo;t let those outside messages affect your normal life.
+&ndash; Ah Xia</p></blockquote>
+<p>This encourages investors to stick to their own investment strategies and not be easily interfered with by external information.</p>
+<blockquote>
+<p>Cultivation comes from falling.
+&ndash; Teacher James</p></blockquote>
+<p>This illustrates that the path of investment is not smooth sailing, and you need to experience the test of the market to truly grow.</p>
+<blockquote>
+<p>A truly good building is not made by the builder, but by the designer.
+&ndash; Haoqin</p></blockquote>
+<p>This is a metaphor, illustrating that in the value chain, the importance of design and concept is often higher than execution.</p>
+<blockquote>
+<p>The concept is the most valuable.
+&ndash; Haoqin</p></blockquote>
+<p>Echoing the previous point, emphasizing the importance of innovation and thinking.</p>
+<blockquote>
+<p>It&rsquo;s not your problem if the world collapses, it&rsquo;s the company&rsquo;s problem if the company collapses.
+&ndash; Teacher James</p></blockquote>
+<p>This aims to relieve the audience&rsquo;s work pressure and let them understand that life is not just about work, and they should learn to relax.</p>
+<blockquote>
+<p>The company&rsquo;s collapse is the company&rsquo;s business, what does it have to do with me?
+&ndash; Teacher James</p></blockquote>
+<p>Further emphasizing that work is not all of life, and there is no need to be overly anxious.</p>
+<blockquote>
+<p>The withholding tax amount is enough to pay the taxes.  You don&rsquo;t need to withdraw money from your retirement account to pay taxes.
+&ndash; Teacher James</p></blockquote>
+<p>Addressing the tax question raised by the audience, giving direct advice and stating that this situation should not occur.</p>
+
+
+<h2 class="relative group">V. Summary 
+    <div id="v-summary" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#v-summary" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>This episode delves into the operational details and risks of stock financing, emphasizing the importance of mindset management and long-term investment.  Through detailed explanations and practical case analysis, Teacher James helps investors better understand investment strategies and reminds everyone to develop appropriate asset allocation plans based on their own circumstances.</p>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>Disclaimer:</strong> This article is only a personal learning note and does not constitute any investment advice.</span>
+</div>
+
 ]]></content:encoded></item><item><title>00497 Owning a basket of fresh fruit is better than picking and choosing short-term trades from a basket of rotten fruit and messing yourself up. The necessity of completely updating investment concepts to control your financial future.</title><link>https://jomonylw.github.io/en/posts/1736043800062/</link><pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/posts/1736043800062/</guid><description>This episode mainly discusses New Zealand taxation, investment and consumption concepts, asset allocation strategies, borrowing for investment strategies, long-term investing and compound interest, and Q&amp;amp;A. It also delves into investment and consumption views, investment learning, the risks of individual stock investment, investment in Taiwan and with borrowed funds, comparisons between property investment and renting, investment market analysis and disclaimers, and investment goals and expectations.</description><content:encoded><![CDATA[<lite-youtube videoid="_ICD3Dgobjc" playlabel="_ICD3Dgobjc" params=""></lite-youtube>
 
 
