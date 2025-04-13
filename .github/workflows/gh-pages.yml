@@ -22,7 +22,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          # 固定 Hugo 版本为 0.145.0 以解决构建问题
+          hugo-version: '0.145.0'
           extended: true
 
       - name: Build
@@ -35,3 +36,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
+          # 可选：添加 commit message 说明是哪个 commit 触发的部署
+          # commit_message: ${{ github.event.head_commit.message }}
