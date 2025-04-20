@@ -6,7 +6,450 @@
     <description>Recent content in QQQ on QQQ 投资者</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/tags/qqq/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/tags/qqq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>00512 资产配置模拟全攻略：杠杆、再平衡与现金转换的实战演练</title>
+      <link>https://jomonylw.github.io/posts/1745130594222/</link>
+      <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomonylw.github.io/posts/1745130594222/</guid>
+      <description>James老师讨论了市场波动下的投资心态，更新了退休提款与杠杆管理的Excel工具，强调了长期持有、尽早进行Roth转换的重要性，并探讨了金融系统运作、应对外界压力以及对美国科技前景的看法。</description>
+      <content:encoded><![CDATA[<lite-youtube videoid="Wrcv9WKvu4s" playlabel="Wrcv9WKvu4s" params=""></lite-youtube>
+
+
+
+<h2 class="relative group">一、当期主题 
+    <div id="%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<p>本期内容围绕在当前市场震荡、国际局势多变的背景下，投资者应持有的心态和策略。James老师强调，对于长期投资者而言，市场的短期波动、宏观经济形势、乃至战争等因素都无需过度关注，核心策略应是坚持买入优质指数基金（如纳斯达克100 QQQ）并长期持有，打死不卖。同时，分享了更新后的Excel财务模拟工具，探讨了退休前提款策略、杠杆管理、尽早进行Roth转换的巨大优势，以及如何建设强大的投资心理，应对外界压力和纷杂信息。</p>
+
+
+<h2 class="relative group">二、简报内容 
+    <div id="%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">核心投资理念与市场观点 
+    <div id="%E6%A0%B8%E5%BF%83%E6%8A%95%E8%B5%84%E7%90%86%E5%BF%B5%E4%B8%8E%E5%B8%82%E5%9C%BA%E8%A7%82%E7%82%B9" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E6%A0%B8%E5%BF%83%E6%8A%95%E8%B5%84%E7%90%86%E5%BF%B5%E4%B8%8E%E5%B8%82%E5%9C%BA%E8%A7%82%E7%82%B9" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>忽略噪音，坚持买入：</strong> 市场震荡、国际局势、关税战、贸易战、热战、冷战等宏观因素与长期投资关系不大。投资者无法也无需预测或应对，只需坚持买入指数基金（QQQ），并长期持有。</li>
+<li><strong>腰斩是必然：</strong> 长期投资过程中，资产缩水50%甚至更多是必然会发生的事件，不是概率问题，而是确定会发生的。投资者需有心理准备，并确保在这种情况下依然能“活下来”。每天都要问自己：“如果市场腰斩再腰斩，我还能坚持吗？”</li>
+<li><strong>长期主义与乐观心态：</strong> 投资需要耐心，财富值得等待。市场长期总是上涨的。投资者应永远极度乐观，即使市场跌80%也要乐观，因为下跌是投资过程的一部分，而且未来总是阳光的。买入就是为了未来会上涨，不应因担忧未来下跌而离场。</li>
+</ul>
+
+
+<h3 class="relative group">Excel工具更新与应用 (参考讲义第18页起) 
+    <div id="excel%E5%B7%A5%E5%85%B7%E6%9B%B4%E6%96%B0%E4%B8%8E%E5%BA%94%E7%94%A8-%E5%8F%82%E8%80%83%E8%AE%B2%E4%B9%89%E7%AC%AC18%E9%A1%B5%E8%B5%B7" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#excel%E5%B7%A5%E5%85%B7%E6%9B%B4%E6%96%B0%E4%B8%8E%E5%BA%94%E7%94%A8-%E5%8F%82%E8%80%83%E8%AE%B2%E4%B9%89%E7%AC%AC18%E9%A1%B5%E8%B5%B7" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>问题缘起与背景：</strong>
+<ul>
+<li>有学员反馈旧版Excel问题：1) 提高花费比例后最终资产可能反而减少；2) 资产大幅增长后（如100万变400万），直接按新资产的2%（即8万）花费，在模拟2000年科技泡沫破裂情景时无法通过压力测试。</li>
+</ul>
+</li>
+<li><strong>主要更新与使用建议：</strong>
+<ol>
+<li><strong>花费与再平衡比例分离：</strong> 修正了花费比例与聪明再平衡比例挂钩的错误。新版允许独立设置，建议聪明再平衡比例仍维持2%或根据个人风险承受能力调整。</li>
+<li><strong>资产增长后提升花费的新策略（0.8%规则）：</strong>
+<ul>
+<li><strong>模拟结论：</strong> 若资产显著增长（如100万增至460万，净值380万，借款78万占总资产17%），直接按新资产2%花费（8万/年）风险过高。</li>
+<li><strong>安全建议：</strong> 当资产增值超过<strong>2.5倍</strong>以上，且质押借款比例控制在<strong>20%以内</strong>时，可考虑将年花费提升至 <strong>新总资产的0.7%或0.8%</strong>。例如，460万资产可花费约3.68万/年（460万 * 0.8%）。这样调整后，即使遭遇类似2000年的市场冲击，也能维持足够的安全边际。这意味着资产增长2.5倍，年花费约能安全地增加2.2倍。</li>
+<li><strong>操作指南（使用“练习版”Excel）：</strong>
+<ul>
+<li>进入“状况九”（适用于已开始质押借款并花费的情况）。</li>
+<li>在表格前部的“个人资料”或“状况八九资料”区域修改“已经借款金额”（<strong>不要在Excel内部的S2单元格直接改，要去前面总览页面改</strong>）。</li>
+<li>回到状况九模拟页面，修改初始资产配置比例（如QQQ 33%, QLD/杠杆 45%, 现金 22%）。</li>
+<li>调整“借款开销”百分比（位于T列，如改为0.8或0.7）。</li>
+<li>可根据实际情况调整“借款利息”（S5单元格，如台湾地区可设为3%）。</li>
+<li>观察结果中的“最低维持率”（或称“最低市足率”），确保其高于个人设定的安全阈值（如150%或160%）。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>现金利息假设：</strong> Excel中计算现金(Cash)部分的复利时，使用的利率是借款利率(S5)的一半（即<code>S5/2/12</code>按月计算）。这是基于存款利率通常低于借款利率的保守假设，无需修改。</li>
+</ol>
+</li>
+<li><strong>版本说明：</strong> 提供“简易版”（仅需填写初始总资产、聪明再平衡%、年花费%）和“练习版”（允许在Excel内部修改更多细节参数，如初始配置比例、获利转出比例、初始借款比例/金额、预扣现金比例等）。进行详细模拟和参数调整需使用“练习版”。</li>
+</ul>
+
+
+<h3 class="relative group">提早退休与Roth转换 (参考讲义第20页) 
+    <div id="%E6%8F%90%E6%97%A9%E9%80%80%E4%BC%91%E4%B8%8Eroth%E8%BD%AC%E6%8D%A2-%E5%8F%82%E8%80%83%E8%AE%B2%E4%B9%89%E7%AC%AC20%E9%A1%B5" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E6%8F%90%E6%97%A9%E9%80%80%E4%BC%91%E4%B8%8Eroth%E8%BD%AC%E6%8D%A2-%E5%8F%82%E8%80%83%E8%AE%B2%E4%B9%89%E7%AC%AC20%E9%A1%B5" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>模拟情景分析：</strong> 比较50岁、Traditional IRA有200万、预期回报14%、税率24%的夫妻，在三种不同Roth转换策略下的长期（至100岁）财富差异。
+<ul>
+<li>状况一：不转换，依赖RMD。最终资产约<strong>3.3亿</strong>。</li>
+<li>状况二：工作至56岁再开始转换。最终资产约<strong>3.5亿</strong>。</li>
+<li>状况三：50岁立即退休并开始转换。最终资产高达<strong>7.8亿</strong>。</li>
+</ul>
+</li>
+<li><strong>核心结论：</strong> 提早6年退休进行Roth转换，利用退休初期的低税阶窗口，可带来超过<strong>3亿美金</strong>的额外财富。即使是高收入者（假设转换税率40%），也需要额外工作9-10年以上才能弥补不提早转换的巨大机会成本。<strong>强烈建议符合条件者尽早规划并执行Roth转换。</strong></li>
+</ul>
+
+
+<h3 class="relative group">金融系统运作与个人理财智慧 
+    <div id="%E9%87%91%E8%9E%8D%E7%B3%BB%E7%BB%9F%E8%BF%90%E4%BD%9C%E4%B8%8E%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2%E6%99%BA%E6%85%A7" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E9%87%91%E8%9E%8D%E7%B3%BB%E7%BB%9F%E8%BF%90%E4%BD%9C%E4%B8%8E%E4%B8%AA%E4%BA%BA%E7%90%86%E8%B4%A2%E6%99%BA%E6%85%A7" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>善用金融工具（传砲力）：</strong> 特别指出台湾的低利率环境为投资者提供了利用借贷（质押贷款等）放大投资收益的有利条件（传砲力）。</li>
+<li><strong>银行视角与客户关系：</strong> 银行视存款为负债，贷款为资产。乐见客户借款并按时付息，大额借款客户是银行的VIP，享受优待；普通储户则需按常规流程办理业务。</li>
+<li><strong>财富流转机制：</strong> 商业银行在资本主义体系中扮演中介角色，将风险厌恶者/不投资者的闲置资金（存款），转移给愿意承担风险、懂得利用资金的投资者（借款人），并从中赚取利差。理解这一机制有助于投资者更自信地利用杠杆。</li>
+</ul>
+
+
+<h3 class="relative group">投资心理建设与人生哲学 
+    <div id="%E6%8A%95%E8%B5%84%E5%BF%83%E7%90%86%E5%BB%BA%E8%AE%BE%E4%B8%8E%E4%BA%BA%E7%94%9F%E5%93%B2%E5%AD%A6" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E6%8A%95%E8%B5%84%E5%BF%83%E7%90%86%E5%BB%BA%E8%AE%BE%E4%B8%8E%E4%BA%BA%E7%94%9F%E5%93%B2%E5%AD%A6" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>应对外部压力：</strong> 面对市场下跌时家人朋友的担忧或质疑，需建立强大内心：
+<ul>
+<li><strong>自我信念：</strong> 首先自己要坚定投资理念，理解波动是正常过程。</li>
+<li><strong>屏蔽与超越：</strong> 练习从“不听不看不存在”到“既看既听也不存在”的境界，即内心不受外界言语干扰。</li>
+<li><strong>积极姿态：</strong> 对外展现信心和良好状态（“我很好，没问题，市场会涨的”）。</li>
+</ul>
+</li>
+<li><strong>断舍离与价值排序（参考视频 00351《悟》）：</strong>
+<ul>
+<li>人生应化繁为简，明确自己“不要什么”比“要什么”更重要。减少不必要的物质追求和社交关系，能带来更多自由和专注。</li>
+<li>反思人生核心价值，如学员分享的“关系”、“贡献感”、“健康”、“心灵”等，工作只是其中一部分。</li>
+<li>摆脱寻求外部认同的束缚（参考《被讨厌的勇气》）。</li>
+<li>对子女的爱与责任是许多人难以割舍的根本价值。</li>
+</ul>
+</li>
+<li><strong>警惕信息茧房（参考视频 00420 逻辑课）：</strong>
+<ul>
+<li>意识到我们都可能被网络算法困在“信息茧房”中，只接触到同质化信息，导致视野狭隘，失去独立思考能力，如同“鹦鹉”般复述观点。</li>
+<li>主动寻求不同信息源，运用<strong>批判性思维</strong>，尤其是<strong>证伪</strong>能力，对接收到的信息保持质疑（先假设99%是错的）。</li>
+</ul>
+</li>
+</ul>
+
+
+<h2 class="relative group">三、问答环节 
+    <div id="%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Lily 
+    <div id="lily" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#lily" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享：</strong> 台湾消防员，40岁，新晋投资者（2月开始），采442配置（40% QQQ, 40% 杠杆, 20% 现金），投入约600万。近期亲历杠杆部分单日大跌28%，但表示能承受。与朋友分享理念响应者少。坚信打死不卖能实现财务自由。
+<ul>
+<li><strong>James老师评论：</strong> 感谢分享。442配置较激进，此次下跌是很好的压力测试。提醒消防工作体力消耗大，投资应更注重稳健。建议根据自身舒适度调整配置，如433或更保守的424甚至505。资产配置首要目标是让自己“舒服”，能长期持有。现金是“活下去”的关键。面对外界质疑，保持内心强大和自信最重要。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Rui 
+    <div id="rui" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#rui" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享：</strong>
+<ol>
+<li><strong>人生思考：</strong> 回顾上周作业，结合《你要如何衡量你的人生》和 Brian Dyson 五球理论，明确人生第二价值为“关系”、“贡献感”、“善待自然”；强调健康、亲情、友情、心灵的不可替代性；当前最想摆脱的是“寻求他人认同”；认为人生后悔往往源于“未做之事”。</li>
+<li><strong>Excel疑问缘起：</strong> 因担心聪明再平衡使Beta持续升高（如&gt;1.2）及资产增长后想提高生活费（按新资产2%），而深入研究Excel发现问题。</li>
+</ol>
+</li>
+<li><strong>问题：</strong> 台湾投资者常用的杠杆ETF（如00670L）是否可以计入Excel模型计算维持率（市值）？若计入，即使Beta较高（如1.24），采用433配置似乎也能通过测试。
+<ul>
+<li><strong>James老师回复：</strong>
+<ul>
+<li><strong>人生哲学：</strong> 赞赏其深入思考。强调“断舍离”和明确“不要什么”的重要性。认同无需他人认同，并分享自己最看重与子女的关系。推荐视频 00351《悟》。</li>
+<li><strong>Excel与台湾应用：</strong> 理论上可以将杠杆ETF市值纳入维持率计算。现有模型基于美国情况且偏保守（高利率假设、未明确计入杠杆市值），旨在通用和安全。台湾投资者可利用无资本利得税优势（方便降杠杆）和较低利率，自行修改Excel（如改利率、调整维持率公式）以更贴合实际。模型能通过，台湾实际通常更容易。感谢其提问促成对“资产增长后如何提高花费”策略的优化（0.7%-0.8%规则或降杠杆）。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Yaowen 
+    <div id="yaowen" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#yaowen" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>问题：</strong> 观察到历史熊市恢复时间似乎缩短，结合美国金融政策演变（QE、疫情应对等），是否意味着政府管控效率提升，市场恢复加快？
+<ul>
+<li><strong>James老师回复：</strong> 认同观察。随着金融理论和实践经验积累，政策工具更有效，应对已知危机的能力确实增强，恢复期缩短。但真正的风险在于<strong>未知的、前所未有的危机</strong>。对已知模式无需过度担忧，对未来保持乐观但需有风险意识。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Weijun 
+    <div id="weijun" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#weijun" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享：</strong> 433配置已All in。虽自认有准备，但实际面对下跌时，难以承受父母“关爱式”担忧带来的压力，甚至不敢告知亏损。庆幸此次下跌发生在投入比例尚不高时。</li>
+<li><strong>问题：</strong> 如何应对来自亲友（尤其父母）的这种关爱式压力？（尤其对无法像退休者那样物理回避的上班族）。
+<ul>
+<li><strong>James老师回复：</strong> 无法控制他人，只能修炼内心。从屏蔽信息（“不听不看不存在”）到内心不受干扰（“既看既听也不存在”）。关键是自身信念坚定，理解现状，并对外展现信心（“我很好”）。下跌是投资常态，或是再平衡良机。当内心强大到认识到外部世界的某种虚幻性，就能减少其影响。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">JJ 
+    <div id="jj" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#jj" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>问题：</strong> 对美国科技领先地位表示担忧，列举多项负面信息（科学家流失、签证收紧、科研机构经费/独立性受损、卫生部长反疫苗立场及公共卫生事件），询问若美国失去科技中心地位对QQQ投资的影响及是否需调整策略。
+<ul>
+<li><strong>James老师回复：</strong>
+<ul>
+<li><strong>宏观层面：</strong> 参考视频 00430C。承认全球竞争加剧，但美国并未衰败，科技实力根基仍在。美国民主体制有韧性和自我修正能力，不必因短期政策或人事变动过度悲观。</li>
+<li><strong>投资指标：</strong> 判断标准是全球市值前十大科技公司构成。目前仍以美国为主，则无需改变策略。若未来格局显著变化（如非美公司占半数以上），再考虑按比例调整。50年内不太可能发生。</li>
+<li><strong>具体担忧：</strong> 许多信息可能被放大或存在偏见（信息茧房效应）。要相信美国社会基本的诚信体系和制度韧性。个别事件（如反疫苗言论、麻疹爆发）虽令人担忧，但不太可能颠覆整个系统。保持关注，但不应恐慌，专注于可验证的事实。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">David 
+    <div id="david" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#david" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享与回应：</strong>
+<ol>
+<li>对JJ提到的信息提出质疑，强调需核查信息来源与科学性（如麻疹疫苗问题），并对比中美在自动驾驶等领域的不同做法，指出美国体系中的审慎和法规约束。</li>
+<li>质疑关于削减社会福利报道的真实性（缺乏实例）。</li>
+<li>引用2018年贸易战历史数据，证明美国市场和经济调控的韧性强于中国。</li>
+<li>建议主动查找反向信息和历史数据，以克服恐惧。</li>
+</ol>
+</li>
+<li><strong>James老师评论:</strong> 高度赞同David对信息辨别的强调。再次深入阐述<strong>信息茧房</strong>的危害，它剥夺独立思考能力，使人变成<strong>鹦鹉</strong>。呼吁大家警醒，主动破除信息壁垒，运用<strong>批判性思维</strong>和<strong>证伪</strong>方法（参考视频 00420 逻辑课）来审视信息。</li>
+</ul>
+
+
+<h3 class="relative group">Tony 
+    <div id="tony" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#tony" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>问题：</strong> Excel练习版中现金部分的月复利计算为何将借款年利率(S5)除以2？
+<ul>
+<li><strong>James老师/慶 (Qing) 回复：</strong> 这是模型的设计假设：<strong>存款利率</strong>（现金收益率）被设定为<strong>借款利率</strong>的一半。这是一种简化的、保守的估计，反映了银行存贷利差的现实。公式 <code>本金 * (1 + S5/2/12)</code> 是正确的，体现了这一安全边际，无需修改。</li>
+</ul>
+</li>
+</ul>
+
+
+<h2 class="relative group">四、精彩观点 
+    <div id="%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<blockquote>
+<p>市场震荡、国际局势、贸易战、热战冷战&hellip;都跟我们投资没关系，买进就好，不要卖。长期才是投资。
+&ndash; James老师</p>
+</blockquote>
+<p>背景：强调长期投资应专注于持有优质资产，忽略短期市场噪音和宏观事件。</p>
+<blockquote>
+<p>你在市场里面一定会碰到好几次资产缩水50%的机会，这不是概率问题，这是确定的。
+&ndash; James老师</p>
+</blockquote>
+<p>背景：提醒投资者市场大幅回调是长期投资的必然组成部分，需为此做好心理和财务准备。</p>
+<blockquote>
+<p>资产配置不是为了绩效而做，资产配置是为了你舒服不舒服而做。
+&ndash; James老师</p>
+</blockquote>
+<p>背景：阐述资产配置（尤其是现金持有比例）的首要目标是确保投资者能够安心持有、穿越周期，而非单纯追求最高收益。</p>
+<blockquote>
+<p>商业银行就是将穷人的钱转介给富人使用，这个旋转门就是在银行发生。这就是资本主义穷者越穷、富者越富的道理。
+&ndash; James老师</p>
+</blockquote>
+<p>背景：揭示现代银行体系在资本流转中的核心作用，以及其对财富分配格局的影响。</p>
+<blockquote>
+<p>借钱的人是VIP&hellip;钱不多又不借钱的，请到柜台抽号码牌排队。
+&ndash; James老师 (引用学员Benson的观察)</p>
+</blockquote>
+<p>背景：生动形象地对比了银行对待大额借款客户与普通存款客户的天壤之别。</p>
+<blockquote>
+<p>你先把不要的都推出去&hellip;那你剩下要的东西是什么？就很少&hellip;你要的越少，你的功课就越少。
+&ndash; James老师</p>
+</blockquote>
+<p>背景：运用“断舍离”思想于人生规划，主张通过减少欲望和不必要的追求，来实现内心的自由与专注。</p>
+<blockquote>
+<p>我们被网络围困锁在一个监牢里面的信息监牢里面，你冲不出去的&hellip;我们所有的想法不是我们的想法&hellip;我们都是鹦鹉。
+&ndash; James老师</p>
+</blockquote>
+<p>背景：深刻警示“信息茧房”对个体认知和独立思考能力的侵蚀，呼吁对此保持警醒。</p>
+<blockquote>
+<p>既看既听也不存在。
+&ndash; James老师</p>
+</blockquote>
+<p>背景：描述一种高级的心理修炼境界，即使接触到负面或干扰信息，内心也能保持平静、不受影响。</p>
+<blockquote>
+<p>以前发生过的事情反而比较不用担心，我们担心的是以前都没发生过的。
+&ndash; James老师</p>
+</blockquote>
+<p>背景：区分已知风险与未知风险，指出历史经验有助于应对重复发生的危机，但真正的挑战在于应对全新的、未知的冲击。</p>
+<blockquote>
+<p>提早六年退休（进行Roth转换），你就差三亿（美金）。
+&ndash; James老师</p>
+</blockquote>
+<p>背景：基于模拟计算结果，极力强调尽早利用低税率窗口进行Roth IRA/401k转换所能带来的巨大长期财富效应。</p>
+
+
+<h2 class="relative group">五、总结 
+    <div id="%E4%BA%94%E6%80%BB%E7%BB%93" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%BA%94%E6%80%BB%E7%BB%93" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<p>本期讲座在市场波动加剧的背景下，坚定了长期投资的核心理念：忽略噪音、坚持持有优质指数基金(QQQ)。James老师不仅更新并详细解释了重要的财务规划工具Excel模型（特别是资产增长后的提款策略调整），还极具说服力地展示了尽早进行Roth转换的惊人价值。更深层次地，课程聚焦于投资心理的建设，探讨了如何理解并利用金融系统规则、如何以强大的内心应对外部压力（亲友担忧、社会信息），并特别强调了在信息爆炸时代保持独立思考、警惕“信息茧房”的极端重要性。最终目标是帮助投资者在追求财务自由的道路上，同时修炼内功，实现认知与心态的双重提升。</p>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>免责声明:</strong> 本文仅为个人学习笔记，不构成任何投资建议。</span>
+</div>
+
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>00511 风险与现金才是真正的投资起点</title>
       <link>https://jomonylw.github.io/posts/1744504450104/</link>
@@ -3640,209 +4083,6 @@
     
 </h2>
 <p>本期直播再次强调了长期投资的重要性，并提醒大家要保持理性、耐心和警惕。James老师解答了学员关于投资策略、风险控制、金钱与价值观等方面的疑问，并分享了许多个人经验和见解，例如：不要预测市场，不要投资杠杆基金，不要投资个股，要对金钱无感等等。同时，学员们也积极分享了自己的投资经历和思考，引发了大家对投资、金钱、人生等方面的深入思考。直播中，还涉及了巴菲特等投资大师的理念和一些社会现象的讨论，内容丰富，信息量大。</p>
-
-  
-
-
-
-<div
-  
-    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
-  >
-
-  <span
-    
-      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
-    >
-
-    
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
-
-  </span>
-
-
-  </span>
-
-  <span
-    
-      class="dark:text-neutral-300"
-    ><strong>免责声明:</strong> 本文仅为个人学习笔记，不构成任何投资建议。</span>
-</div>
-
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>00477 永恒无需担心没有压力的人生：长期投资的智慧与策略</title>
-      <link>https://jomonylw.github.io/posts/1728565408053/</link>
-      <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://jomonylw.github.io/posts/1728565408053/</guid>
-      <description>本期James老师主要分享了投资理念，强调不要盲从、要独立思考，并解答了学员关于TQQQ、紧急备用金、MAGS基金、房产投资等问题。</description>
-      <content:encoded><![CDATA[<lite-youtube videoid="CfFEQJkTCBw" playlabel="CfFEQJkTCBw" params=""></lite-youtube>
-
-
-
-<h2 class="relative group">一、当期主题 
-    <div id="%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-<p>本期主题围绕长期投资理念展开，强调独立思考和风险控制的重要性。James老师重申了其一直倡导的投资哲学：选择合适的投资标的（如QQQ），尽早买入并长期持有，忽略市场短期波动，最终获得财富的稳步增长。此外，他还探讨了如何保持良好的心态，应对投资过程中可能出现的压力和焦虑，以及如何选择可靠的券商，保障账户安全。</p>
-
-
-<h2 class="relative group">二、简报内容 
-    <div id="%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-<ul>
-<li><strong>财富是慢慢累积的，享受财富积累的过程才是人生的意义。</strong> 一夜暴富或者快速致富并非最佳途径，缓慢积累财富并享受其中，才能体会人生的真谛，并从中学习和成长。</li>
-<li><strong>不要盲目追求高收益而忽略风险。</strong> 许多人追求快速致富，希望获得超高回报，但往往忽视了背后的风险，最终可能得不偿失。要学会评估风险，并选择与自身风险承受能力相匹配的投资策略。</li>
-<li><strong>投资要找到一个确定的永恒，不要理会市场噪音，保持内心的平静。</strong> 指数基金投资是一种确定且永恒的策略，无需费心研究和操作，只需长期持有即可获得可观的回报。</li>
-<li><strong>投资是一种输家游戏，不求赢，只求不败。</strong> 在投资中，避免犯错比追求获胜更重要。指数基金投资能够帮助投资者减少失误，最终获得胜利。</li>
-<li><strong>任何时间单笔买进并长期持有，都优于其他投资方式。</strong> 尽早投资并长期持有，才能最大化收益，获得最佳的投资回报。</li>
-<li><strong>要学会分辨哪些事可以做，哪些事做起来有效，哪些事可以担心，哪些事不值得担心。</strong> 要将精力集中在重要且能够解决的事情上，忽略那些无关紧要或者无法掌控的事情，才能提高效率，减少不必要的焦虑。</li>
-<li><strong>不要太努力，让钱为你工作。</strong> 将钱投入到市场中，让它为你创造财富，而不是将所有精力都投入到工作中，要学会利用投资工具，实现财富的被动增长。</li>
-<li><strong>所有压力都来自于期望，所有担心都来自于没有解决方案。</strong> 要降低期望，并积极寻找解决问题的方案，才能缓解压力和焦虑。</li>
-<li><strong>要学会将压力转移给能够承担的人，并思考应对最坏情况的方案。</strong> 不要独自承担压力，要学会寻求帮助，并提前思考应对最坏情况的方案，才能从容应对挑战。</li>
-<li><strong>要保持内心的平静，专注于重要的事情，忽略无关紧要的事情。</strong> 简单的事情坚持做，复杂的事情不要做，才能保持内心的平静，专注于人生中真正重要的事情。</li>
-<li><strong>账户安全是投资的首要问题，要选择大型、正规的券商开户，避免使用网络券商。</strong> 网络券商存在安全风险，例如账户被盗、资金被冻结等。选择大型、正规的券商能够更好地保障账户安全。</li>
-</ul>
-
-
-<h2 class="relative group">三、问答环节 
-    <div id="%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-<p><strong>Dave:</strong></p>
-<ul>
-<li><strong>分享:</strong><br>
-分享了Jimmy老师关于TQQQ的模拟回测结果，并提出了如何避免TQQQ大幅回调的风险。</li>
-<li><strong>问题及老师回复:</strong>
-James老师认为，无法预测市场，也无法完全避免风险，重要的是控制风险敞口，不要过度押注。如果担心TQQQ的波动，可以选择更保守的投资策略，例如QQQ。Jimmy老师也提醒，要区分个人思考和公开建议，不要被别人的想法轻易左右。</li>
-</ul>
-<p><strong>民建联:</strong></p>
-<ul>
-<li><strong>分享:</strong>
-分享了公司储蓄会投资股票的经历，以及关于MAGS基金和紧急备用金的讨论。</li>
-<li><strong>问题及老师回复:</strong>
-<ol>
-<li>关于MAGS基金：James老师认为，无法确定MAGS基金长期是否能够跑赢QQQ，投资应该选择经过时间验证的标的，例如QQQ或SPY。</li>
-<li>关于紧急备用金：James老师认为，紧急备用金是个人责任，政府的政策无法完全依赖。每个人都应该根据自身情况准备足够的紧急备用金，以应对突发事件。</li>
-</ol>
-</li>
-</ul>
-<p><strong>Learn:</strong></p>
-<ul>
-<li><strong>问题及老师回复:</strong>
-关于00670L的绩效问题，James老师解释了00670L由于美金避险导致的绩效差异，以及如何通过复委托投资QLD来解决。并强调了β值和投资回报率是不同的概念，β值代表波动率，不等于回报率。投资模型在台湾需要根据具体情况调整，例如考虑维持率要求和汇率波动等因素。</li>
-</ul>
-<p><strong>JJU:</strong></p>
-<ul>
-<li><strong>分享:</strong>
-分享了关于市场不可预测性以及良师益友的重要性的感悟。认为投资除了选择好的标的，更重要的是保持内心的平静，以及提升精神层次。</li>
-<li><strong>问题及老师回复:</strong>
-<ol>
-<li>关于reinvest和buy share的区别：James老师解释了再投资和购买股票的区别，前者是将分红或资本利得自动投入到投资标的，后者是用新的资金购买股票。</li>
-<li>关于 Roth IRA 和 Individual Brokerage Account 的资金比例：建议尽量将 Roth IRA 额度填满。</li>
-<li>关于房产抵押贷款投资：建议如果可以卖掉房产就卖掉，降低投资房产的风险，否则可以考虑房屋抵押贷款（HELOC）进行投资，但要注意风险控制，确保能够按时偿还贷款。Home Equity Line of Credit (HELOC) 是一种循环信贷额度，类似于信用卡，可以随时提取和偿还。</li>
-</ol>
-</li>
-</ul>
-<p><strong>Draft down:</strong></p>
-<ul>
-<li><strong>分享:</strong>
-提出了利用信用卡0利率进行投资和使用box spread策略的可能性，作为增加资金利用率的方法。</li>
-<li><strong>问题及老师回复:</strong>
-<ol>
-<li>关于信用卡投资：James老师认为，信用卡额度有限，且存在无法续借的风险，不适合作为主要的投资资金来源，只适合作为小额资金的短期周转。</li>
-<li>关于box spread策略：James老师认为，box spread策略过于复杂且风险较高，不建议普通投资者使用。</li>
-</ol>
-</li>
-</ul>
-<p><strong>Jason:</strong></p>
-<ul>
-<li><strong>问题及老师回复:</strong>
-<ol>
-<li>如何度过投资过程中的短期痛苦：James老师建议降低期望值，不要过度追求完美或快速致富，寻找解决问题的方案，并将压力转移给能够承担的人，例如上级或更有经验的人。要思考应对最坏情况的方案，例如失业或投资亏损，并保持积极的心态，相信问题终将得到解决。</li>
-<li>关于非美国税务居民在美国投资股票的问题：James老师认为，非美国税务居民可以使用护照在美国开设证券账户，无需Social Security Number。建议选择大型、正规的券商，例如嘉信理财，避免使用网络券商，例如微牛、Robinhood等，因为网络券商存在安全风险和监管不完善的问题。</li>
-</ol>
-</li>
-</ul>
-
-
-<h2 class="relative group">四、精彩观点 
-    <div id="%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-<blockquote>
-<p>投资是一种输家游戏，不求赢，只求不败。
-&ndash; James老师</p>
-</blockquote>
-<p>在投资中，避免犯错比追求获胜更重要。选择合适的投资标的，制定合理的投资策略，并严格遵守纪律，才能减少失误，最终获得长期稳定的回报。</p>
-<blockquote>
-<p>任何时间单笔买进并长期持有，都优于其他投资方式。
-&ndash; James老师</p>
-</blockquote>
-<p>尽早投资并长期持有，才能最大化收益，获得最佳的投资回报。时间是投资的朋友，尽早开始投资，才能让时间发挥复利的神奇力量。</p>
-<blockquote>
-<p>所有压力都来自于期望，所有担心都来自于没有解决方案。
-&ndash; James老师</p>
-</blockquote>
-<p>要降低期望，并积极寻找解决问题的方案，才能缓解压力和焦虑。面对挑战时，要保持积极的心态，相信自己能够找到解决问题的方法。</p>
-<blockquote>
-<p>财富是慢慢累积的，享受财富积累的过程才是人生的意义。
-&ndash; James老师</p>
-</blockquote>
-<p>一夜暴富或者快速致富并非最佳途径，缓慢积累财富并享受其中，才能体会人生的真谛。投资是一个长期的过程，不要急于求成，要享受财富积累的过程，并从中学习和成长。</p>
-<blockquote>
-<p>良师益友很重要，有些事情你认同他不一定是对的。
-&ndash; JJU</p>
-</blockquote>
-<p>在投资过程中，要善于学习，也要善于思考。不要盲目相信任何人的观点，包括老师和朋友，要经过自己的独立思考和判断，才能做出正确的投资决策。</p>
-<blockquote>
-<p>账户安全是投资的首要问题。
-&ndash; James老师</p>
-</blockquote>
-<p>选择大型、正规的券商开户，例如嘉信理财，能够更好地保障账户安全。避免使用网络券商，因为网络券商存在安全风险和监管不完善的问题。</p>
-
-
-<h2 class="relative group">五、总结 
-    <div id="%E4%BA%94%E6%80%BB%E7%BB%93" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%BA%94%E6%80%BB%E7%BB%93" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-<p>本期内容主要围绕长期投资理念、风险控制和心态管理展开，James老师通过生动的例子和深入浅出的讲解，帮助学员更好地理解投资的本质，并解答了学员在投资过程中遇到的各种问题，例如TQQQ的风险、紧急备用金的重要性、房产投资的策略等。同时，学员们也积极分享了自己的经验和困惑，例如利用信用卡投资、使用box spread策略等，引发了更深入的思考和讨论。James老师强调了独立思考的重要性，不要盲目相信任何人的观点，要经过自己的独立思考和判断，才能做出正确的投资决策。同时，他也提醒大家要注意账户安全，选择大型、正规的券商开户，避免使用网络券商。</p>
 
   
 
