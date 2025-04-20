@@ -1,4 +1,427 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Long-Term Investing on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/long-term-investing/</link><description>Recent content in Long-Term Investing on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/long-term-investing/index.xml" rel="self" type="application/rss+xml"/><item><title>00511 Risk and Cash Are the Real Starting Points for Investing</title><link>https://jomonylw.github.io/en/posts/1744504450104/</link><pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/posts/1744504450104/</guid><description>In this episode, James emphasizes that in any market environment, the primary consideration for investing is having sufficient cash reserves, followed by holding index funds for the long term. He discusses risk tolerance, asset allocation models (such as 433 and 424), the principles for using leveraged funds, and caution regarding paid groups and conflicts of interest. Students share their experiences and questions regarding market volatility, tax planning, retirement preparation, and more.</description><content:encoded><![CDATA[<lite-youtube videoid="xmD_sz5rYlU" playlabel="xmD_sz5rYlU" params=""></lite-youtube>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Long-Term Investing on QQQ Investor</title><link>https://jomonylw.github.io/en/tags/long-term-investing/</link><description>Recent content in Long-Term Investing on QQQ Investor</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/long-term-investing/index.xml" rel="self" type="application/rss+xml"/><item><title>00512 Asset Allocation Simulation Full Guide: Practical Exercises in Leverage, Rebalancing, and Cash Conversion</title><link>https://jomonylw.github.io/en/posts/1745130594222/</link><pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/posts/1745130594222/</guid><description>James discusses the investment mindset in volatile markets, updates the Excel tool for retirement withdrawals and leverage management, emphasizes the importance of long-term holding and early Roth conversion, and explores the operation of the financial system, coping with external pressure, and perspectives on the future of US technology.</description><content:encoded><![CDATA[<lite-youtube videoid="Wrcv9WKvu4s" playlabel="Wrcv9WKvu4s" params=""></lite-youtube>
+
+
+
+<h2 class="relative group">I. Current Theme 
+    <div id="i-current-theme" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#i-current-theme" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>This episode focuses on the mindset and strategies that investors should adopt in the context of current market volatility and volatile international situations. James emphasizes that for long-term investors, short-term market fluctuations, macroeconomic conditions, and even wars should not be of excessive concern. The core strategy should be to insist on buying high-quality index funds (such as Nasdaq 100 QQQ) and holding them for the long term, never selling. At the same time, he shares an updated Excel financial simulation tool, discusses pre-retirement withdrawal strategies, leverage management, the significant advantages of early Roth conversion, and how to build a strong investment psychology to cope with external pressure and complex information.</p>
+
+
+<h2 class="relative group">II. Briefing Content 
+    <div id="ii-briefing-content" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ii-briefing-content" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Core Investment Philosophy and Market Views 
+    <div id="core-investment-philosophy-and-market-views" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#core-investment-philosophy-and-market-views" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Ignore the Noise, Keep Buying:</strong> Macro factors such as market volatility, international situations, tariff wars, trade wars, hot wars, and cold wars have little to do with long-term investing. Investors cannot and do not need to predict or respond to them. Just keep buying index funds (QQQ) and holding them for the long term.</li>
+<li><strong>Halving is Inevitable:</strong> In the long-term investment process, a 50% or even greater reduction in assets is an inevitable event, not a matter of probability, but a certainty. Investors need to be psychologically prepared and ensure that they can still &ldquo;survive&rdquo; in this situation. Ask yourself every day: &ldquo;If the market halves again, can I still hold on?&rdquo;</li>
+<li><strong>Long-Termism and Optimistic Mindset:</strong> Investing requires patience, and wealth is worth waiting for. The market always goes up in the long run. Investors should always be extremely optimistic, even if the market drops 80%, because the decline is part of the investment process, and the future is always bright. Buying is for future gains, not for leaving the market out of fear of future declines.</li>
+</ul>
+
+
+<h3 class="relative group">Excel Tool Updates and Applications (Refer to Lecture Notes from Page 18) 
+    <div id="excel-tool-updates-and-applications-refer-to-lecture-notes-from-page-18" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#excel-tool-updates-and-applications-refer-to-lecture-notes-from-page-18" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Origin and Background of the Problem:</strong>
+<ul>
+<li>Some students reported problems with the old Excel version: 1) Increasing the spending ratio may actually reduce the final assets; 2) After a significant increase in assets (such as from 1 million to 4 million), spending directly at 2% of the new assets (i.e., 80,000) failed the stress test when simulating the 2000 tech bubble burst.</li>
+</ul>
+</li>
+<li><strong>Main Updates and Usage Suggestions:</strong>
+<ol>
+<li><strong>Separating Spending and Rebalancing Ratios:</strong> Corrected the error of linking the spending ratio with the smart rebalancing ratio. The new version allows independent settings. It is recommended that the smart rebalancing ratio remain at 2% or be adjusted according to individual risk tolerance.</li>
+<li><strong>New Strategy for Increasing Spending After Asset Growth (0.8% Rule):</strong>
+<ul>
+<li><strong>Simulation Conclusion:</strong> If assets increase significantly (such as from 1 million to 4.6 million, net worth 3.8 million, and borrowing 780,000 accounting for 17% of total assets), spending directly at 2% of the new assets (80,000/year) is too risky.</li>
+<li><strong>Safety Recommendation:</strong> When assets have increased by more than <strong>2.5 times</strong> and the pledged loan ratio is controlled within <strong>20%</strong>, consider increasing the annual spending to <strong>0.7% or 0.8% of the new total assets</strong>. For example, assets of 4.6 million can spend about 36,800/year (4.6 million * 0.8%). After this adjustment, even if you encounter a market shock similar to 2000, you can maintain a sufficient margin of safety. This means that if assets grow 2.5 times, the annual spending can safely increase by about 2.2 times.</li>
+<li><strong>Operation Guide (Using the &ldquo;Practice Version&rdquo; Excel):</strong>
+<ul>
+<li>Enter &ldquo;Scenario Nine&rdquo; (applicable to situations where you have started pledged borrowing and spending).</li>
+<li>Modify the &ldquo;Amount Already Borrowed&rdquo; in the &ldquo;Personal Information&rdquo; or &ldquo;Scenario Eight Nine Information&rdquo; area in the front of the table (<strong>do not directly change the S2 cell inside Excel, go to the overview page in front to change it</strong>).</li>
+<li>Return to the scenario nine simulation page and modify the initial asset allocation ratio (such as QQQ 33%, QLD/Leverage 45%, Cash 22%).</li>
+<li>Adjust the &ldquo;Borrowing Expenses&rdquo; percentage (located in column T, such as changing to 0.8 or 0.7).</li>
+<li>Adjust the &ldquo;Borrowing Interest&rdquo; according to the actual situation (cell S5, such as setting it to 3% for Taiwan).</li>
+<li>Observe the &ldquo;Minimum Maintenance Rate&rdquo; (or &ldquo;Minimum Equity Ratio&rdquo;) in the results and ensure that it is higher than your set safety threshold (such as 150% or 160%).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Cash Interest Assumption:</strong> When calculating the compound interest on the Cash portion in Excel, the interest rate used is half of the borrowing rate (S5) (i.e., <code>S5/2/12</code> calculated monthly). This is based on the conservative assumption that the deposit rate is usually lower than the borrowing rate and does not need to be modified.</li>
+</ol>
+</li>
+<li><strong>Version Description:</strong> Provides &ldquo;Easy Version&rdquo; (only needs to fill in the initial total assets, smart rebalancing %, and annual spending %) and &ldquo;Practice Version&rdquo; (allows you to modify more detailed parameters inside Excel, such as initial allocation ratio, profit transfer ratio, initial borrowing ratio/amount, withholding cash ratio, etc.). To perform detailed simulations and parameter adjustments, you need to use the &ldquo;Practice Version.&rdquo;</li>
+</ul>
+
+
+<h3 class="relative group">Early Retirement and Roth Conversion (Refer to Lecture Notes on Page 20) 
+    <div id="early-retirement-and-roth-conversion-refer-to-lecture-notes-on-page-20" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#early-retirement-and-roth-conversion-refer-to-lecture-notes-on-page-20" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Scenario Analysis:</strong> Compare a couple aged 50 with 2 million in Traditional IRA, expected return of 14%, and tax rate of 24%, under three different Roth conversion strategies for the long term (to age 100).
+<ul>
+<li>Scenario 1: No conversion, relying on RMD. The final assets are approximately <strong>330 million</strong>.</li>
+<li>Scenario 2: Work until age 56 and then start converting. The final assets are approximately <strong>350 million</strong>.</li>
+<li>Scenario 3: Retire immediately at age 50 and start converting. The final assets are as high as <strong>780 million</strong>.</li>
+</ul>
+</li>
+<li><strong>Core Conclusion:</strong> Retiring 6 years early to perform Roth conversion, utilizing the low tax bracket window in the early stage of retirement, can bring more than <strong>300 million USD</strong> in additional wealth. Even for high-income earners (assuming a conversion tax rate of 40%), it takes an additional 9-10 years of work to make up for the huge opportunity cost of not converting early. <strong>It is strongly recommended that those who meet the conditions plan and execute Roth conversion as soon as possible.</strong></li>
+</ul>
+
+
+<h3 class="relative group">Financial System Operation and Personal Financial Wisdom 
+    <div id="financial-system-operation-and-personal-financial-wisdom" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#financial-system-operation-and-personal-financial-wisdom" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Make Good Use of Financial Tools (Transmissive Power):</strong> Specifically pointed out that Taiwan&rsquo;s low interest rate environment provides investors with favorable conditions to use borrowing (pledged loans, etc.) to amplify investment returns (transmissive power).</li>
+<li><strong>Bank Perspective and Customer Relationships:</strong> Banks view deposits as liabilities and loans as assets. They are happy to see customers borrow and pay interest on time. Large borrowing customers are VIPs of the bank and enjoy preferential treatment; ordinary depositors need to go through regular procedures.</li>
+<li><strong>Wealth Circulation Mechanism:</strong> Commercial banks play an intermediary role in the capitalist system, transferring the idle funds (deposits) of risk-averse/non-investors to investors (borrowers) who are willing to take risks and know how to use funds, and earn interest spreads from them. Understanding this mechanism helps investors use leverage more confidently.</li>
+</ul>
+
+
+<h3 class="relative group">Investment Psychological Construction and Philosophy of Life 
+    <div id="investment-psychological-construction-and-philosophy-of-life" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#investment-psychological-construction-and-philosophy-of-life" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Coping with External Pressure:</strong> When facing the worries or doubts of family and friends when the market falls, you need to build a strong inner self:
+<ul>
+<li><strong>Self-Belief:</strong> First of all, you must be firm in your investment philosophy and understand that volatility is a normal process.</li>
+<li><strong>Shielding and Transcendence:</strong> Practice from the realm of &ldquo;not listening, not seeing, does not exist&rdquo; to &ldquo;both seeing and listening but also does not exist,&rdquo; that is, the inner self is not disturbed by external words.</li>
+<li><strong>Positive Attitude:</strong> Show confidence and a good state to the outside world (&ldquo;I&rsquo;m fine, no problem, the market will rise&rdquo;).</li>
+</ul>
+</li>
+<li><strong>Decluttering and Value Ordering (Refer to Video 00351 &ldquo;Enlightenment&rdquo;):</strong>
+<ul>
+<li>Life should be simplified, and clarifying what you &ldquo;don&rsquo;t want&rdquo; is more important than what you &ldquo;want.&rdquo; Reducing unnecessary material pursuits and social relationships can bring more freedom and focus.</li>
+<li>Reflect on the core values of life, such as &ldquo;relationships,&rdquo; &ldquo;sense of contribution,&rdquo; &ldquo;health,&rdquo; and &ldquo;soul&rdquo; shared by students, and work is only a part of it.</li>
+<li>Get rid of the shackles of seeking external recognition (refer to &ldquo;The Courage to be Disliked&rdquo;).</li>
+<li>Love and responsibility for children are the fundamental values that many people find difficult to give up.</li>
+</ul>
+</li>
+<li><strong>Beware of Information Cocoons (Refer to Video 00420 Logic Class):</strong>
+<ul>
+<li>Realize that we may all be trapped in &ldquo;information cocoons&rdquo; by network algorithms, only accessing homogeneous information, resulting in a narrow vision and loss of independent thinking ability, like &ldquo;parrots&rdquo; repeating views.</li>
+<li>Actively seek different information sources, use <strong>critical thinking</strong>, especially the ability to <strong>falsify</strong>, and maintain skepticism about the information received (first assume that 99% is wrong).</li>
+</ul>
+</li>
+</ul>
+
+
+<h2 class="relative group">III. Q&amp;A Session 
+    <div id="iii-qa-session" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iii-qa-session" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Lily 
+    <div id="lily" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#lily" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Share:</strong> Taiwanese firefighter, 40 years old, new investor (started in February), adopting a 442 allocation (40% QQQ, 40% leverage, 20% cash), investing approximately 6 million. Recently experienced a large single-day drop of 28% in the leveraged portion, but stated that they could withstand it. Few friends shared the same philosophy. Believes that never selling can achieve financial freedom.
+<ul>
+<li><strong>James&rsquo;s Comments:</strong> Thank you for sharing. The 442 allocation is more aggressive, and this decline is a good stress test. Reminded that firefighting work is physically demanding, and investment should focus more on stability. Suggested adjusting the allocation according to their own comfort level, such as 433 or more conservative 424 or even 505. The primary goal of asset allocation is to make yourself &ldquo;comfortable&rdquo; and able to hold it for the long term. Cash is the key to &ldquo;surviving.&rdquo; When facing external doubts, maintaining a strong inner self and confidence is the most important.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Rui 
+    <div id="rui" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#rui" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Share:</strong>
+<ol>
+<li><strong>Life Reflections:</strong> Reviewing last week&rsquo;s homework, combined with &ldquo;How Will You Measure Your Life?&rdquo; and Brian Dyson&rsquo;s five-ball theory, clarified that the second value of life is &ldquo;relationships,&rdquo; &ldquo;sense of contribution,&rdquo; and &ldquo;treating nature well&rdquo;; emphasized the irreplaceability of health, family, friendship, and soul; the current most wanted to get rid of is &ldquo;seeking recognition from others&rdquo;; believed that life regrets often stem from &ldquo;things not done.&rdquo;</li>
+<li><strong>Origin of Excel Questions:</strong> Deeply studied Excel and discovered problems due to concerns about smart rebalancing causing Beta to continue to rise (such as &gt;1.2) and wanting to increase living expenses (at 2% of new assets) after asset growth.</li>
+</ol>
+</li>
+<li><strong>Question:</strong> Can leveraged ETFs (such as 00670L) commonly used by Taiwanese investors be included in the Excel model to calculate the maintenance rate (market value)? If included, even with a higher Beta (such as 1.24), it seems that a 433 allocation can pass the test.
+<ul>
+<li><strong>James&rsquo;s Response:</strong>
+<ul>
+<li><strong>Philosophy of Life:</strong> Appreciated the in-depth thinking. Emphasized the importance of &ldquo;decluttering&rdquo; and clarifying &ldquo;what not to want.&rdquo; Agreed that there is no need for others to recognize, and shared that they value their relationship with their children the most. Recommended video 00351 &ldquo;Enlightenment.&rdquo;</li>
+<li><strong>Excel and Taiwan Applications:</strong> Theoretically, the market value of leveraged ETFs can be included in the maintenance rate calculation. The existing model is based on the US situation and is conservative (high interest rate assumptions, not explicitly including the market value of leverage), aimed at being universal and safe. Taiwanese investors can take advantage of the no capital gains tax (easy to reduce leverage) and lower interest rates, and modify Excel themselves (such as changing the interest rate and adjusting the maintenance rate formula) to better fit reality. If the model can pass, it is usually easier in Taiwan. Thanked them for their question, which prompted the optimization of the &ldquo;how to increase spending after asset growth&rdquo; strategy (0.7%-0.8% rule or reducing leverage).</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Yaowen 
+    <div id="yaowen" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#yaowen" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Question:</strong> Observed that the recovery time of historical bear markets seems to be shortening. Combined with the evolution of US financial policies (QE, pandemic response, etc.), does it mean that the government&rsquo;s control efficiency has improved and the market recovery is accelerating?
+<ul>
+<li><strong>James&rsquo;s Response:</strong> Agreed with the observation. With the accumulation of financial theory and practical experience, policy tools are more effective, and the ability to respond to known crises has indeed increased, shortening the recovery period. But the real risk lies in <strong>unknown, unprecedented crises</strong>. There is no need to worry too much about known patterns, and be optimistic about the future but have risk awareness.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Weijun 
+    <div id="weijun" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#weijun" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Share:</strong> 433 allocation is already All in. Although they thought they were prepared, when actually facing the decline, it was difficult to bear the pressure from their parents&rsquo; &ldquo;caring&rdquo; worries, and they were even afraid to tell them about the losses. Glad that this decline occurred when the invested proportion was not yet high.</li>
+<li><strong>Question:</strong> How to cope with this kind of caring pressure from relatives and friends (especially parents)? (Especially for office workers who cannot physically avoid it like retirees).
+<ul>
+<li><strong>James&rsquo;s Response:</strong> Cannot control others, only cultivate the inner self. From shielding information (&ldquo;not listening, not seeing, does not exist&rdquo;) to the inner self not being disturbed (&ldquo;both seeing and listening but also does not exist&rdquo;). The key is to have firm self-belief, understand the current situation, and show confidence to the outside world (&ldquo;I&rsquo;m fine&rdquo;). The decline is the norm for investing, or a good opportunity to rebalance. When the inner self is strong enough to realize a certain illusion of the external world, its influence can be reduced.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">JJ 
+    <div id="jj" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#jj" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Question:</strong> Expressed concerns about the US&rsquo;s leading position in technology, listed multiple negative information (loss of scientists, tightening of visas, damage to funding/independence of research institutions, anti-vaccine stance of the Minister of Health and public health incidents), and asked about the impact of the US losing its position as a technology center on QQQ investment and whether it is necessary to adjust the strategy.
+<ul>
+<li><strong>James&rsquo;s Response:</strong>
+<ul>
+<li><strong>Macro Level:</strong> Refer to video 00430C. Admitted that global competition is intensifying, but the US has not declined, and the foundation of technological strength remains. The US democratic system has resilience and self-correcting ability, and there is no need to be overly pessimistic due to short-term policies or personnel changes.</li>
+<li><strong>Investment Indicators:</strong> The criteria for judgment is the composition of the top ten technology companies in the world by market value. If it is still dominated by the United States, then there is no need to change the strategy. If the future pattern changes significantly (such as non-US companies accounting for more than half), consider adjusting the proportion accordingly. Unlikely to happen within 50 years.</li>
+<li><strong>Specific Concerns:</strong> Much information may be amplified or biased (information cocoon effect). Believe in the basic integrity system and institutional resilience of American society. Individual incidents (such as anti-vaccine rhetoric, measles outbreaks), while worrying, are unlikely to subvert the entire system. Stay focused, but don&rsquo;t panic, and focus on verifiable facts.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">David 
+    <div id="david" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#david" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Share and Response:</strong>
+<ol>
+<li>Questioned the information mentioned by JJ, emphasizing the need to verify the source and scientific nature of the information (such as the measles vaccine issue), and compared the different practices of China and the United States in areas such as autonomous driving, pointing out the prudence and regulatory constraints in the US system.</li>
+<li>Questioned the authenticity of reports about cuts in social welfare (lack of examples).</li>
+<li>Cited historical data from the 2018 trade war to prove that the US market and economic regulation are more resilient than China.</li>
+<li>Suggested actively searching for reverse information and historical data to overcome fear.</li>
+</ol>
+</li>
+<li><strong>James&rsquo;s Comments:</strong> Highly praised David&rsquo;s emphasis on information discrimination. Further elaborated on the dangers of <strong>information cocoons</strong>, which deprive people of independent thinking ability and turn them into <strong>parrots</strong>. Called on everyone to be vigilant, actively break down information barriers, and use <strong>critical thinking</strong> and <strong>falsification</strong> methods (refer to video 00420 Logic Class) to examine information.</li>
+</ul>
+
+
+<h3 class="relative group">Tony 
+    <div id="tony" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#tony" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Question:</strong> Why is the annual borrowing rate (S5) divided by 2 in the monthly compound interest calculation of the cash portion in the Excel practice version?
+<ul>
+<li><strong>James/慶 (Qing) Response:</strong> This is the design assumption of the model: The <strong>deposit rate</strong> (cash yield) is set to half of the <strong>borrowing rate</strong>. This is a simplified, conservative estimate that reflects the reality of the bank&rsquo;s deposit and loan interest rate spread. The formula <code>principal * (1 + S5/2/12)</code> is correct, reflecting this safety margin, and does not need to be modified.</li>
+</ul>
+</li>
+</ul>
+
+
+<h2 class="relative group">IV. Wonderful Views 
+    <div id="iv-wonderful-views" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iv-wonderful-views" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<blockquote>
+<p>Market volatility, international situations, trade wars, hot and cold wars&hellip; have nothing to do with our investment, just buy, don&rsquo;t sell. Long-term is investment.
+&ndash; James</p></blockquote>
+<p>Background: Emphasizes that long-term investment should focus on holding high-quality assets, ignoring short-term market noise and macro events.</p>
+<blockquote>
+<p>You will definitely encounter several opportunities for asset depreciation of 50% in the market, this is not a probability problem, this is a certainty.
+&ndash; James</p></blockquote>
+<p>Background: Reminds investors that a significant market correction is an inevitable part of long-term investment and that they need to be psychologically and financially prepared for it.</p>
+<blockquote>
+<p>Asset allocation is not done for performance, asset allocation is done for your comfort.
+&ndash; James</p></blockquote>
+<p>Background: Explains that the primary goal of asset allocation (especially the proportion of cash holdings) is to ensure that investors can hold it with peace of mind and get through the cycle, rather than simply pursuing the highest returns.</p>
+<blockquote>
+<p>Commercial banks are intermediaries that transfer the money of the poor to the rich for use, and this revolving door takes place in banks. This is the reason why the capitalist system makes the poor poorer and the rich richer.
+&ndash; James</p></blockquote>
+<p>Background: Reveals the core role of the modern banking system in capital flow and its impact on the wealth distribution pattern.</p>
+<blockquote>
+<p>People who borrow money are VIPs&hellip; those who don&rsquo;t have much money and don&rsquo;t borrow money, please go to the counter to draw a number and line up.
+&ndash; James (quoting student Benson&rsquo;s observation)</p></blockquote>
+<p>Background: Vividly compares the vast difference in the way banks treat large borrowing customers and ordinary depositors.</p>
+<blockquote>
+<p>You push out all the things you don&rsquo;t want first&hellip; then what are the things you have left that you want? It&rsquo;s very little&hellip; the less you want, the less homework you have.
+&ndash; James</p></blockquote>
+<p>Background: Applies the concept of &ldquo;decluttering&rdquo; to life planning, advocating that by reducing desires and unnecessary pursuits, inner freedom and focus can be achieved.</p>
+<blockquote>
+<p>We are besieged by the network and locked in an information prison, you can&rsquo;t break out&hellip; all our thoughts are not our thoughts&hellip; we are all parrots.
+&ndash; James</p></blockquote>
+<p>Background: Deeply warns of the erosion of individual cognition and independent thinking ability by &ldquo;information cocoons,&rdquo; calling for vigilance.</p>
+<blockquote>
+<p>Both seeing and listening but also does not exist.
+&ndash; James</p></blockquote>
+<p>Background: Describes an advanced state of psychological practice, where even when exposed to negative or disturbing information, the inner self can remain calm and unaffected.</p>
+<blockquote>
+<p>Things that have happened in the past are less worried about, we are worried about things that have never happened before.
+&ndash; James</p></blockquote>
+<p>Background: Distinguishes between known and unknown risks, pointing out that historical experience helps to deal with recurring crises, but the real challenge lies in dealing with new, unknown shocks.</p>
+<blockquote>
+<p>If you retire six years early (to perform Roth conversion), you will be short of 300 million (USD).
+&ndash; James</p></blockquote>
+<p>Background: Based on simulation calculation results, strongly emphasizes the huge long-term wealth effect that can be brought about by using the low tax rate window to convert Roth IRA/401k as early as possible.</p>
+
+
+<h2 class="relative group">V. Summary 
+    <div id="v-summary" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#v-summary" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>This lecture, against the background of increased market volatility, strengthened the core concept of long-term investment: ignore the noise and insist on holding high-quality index funds (QQQ). James not only updated and explained in detail the important financial planning tool Excel model (especially the adjustment of withdrawal strategies after asset growth), but also persuasively demonstrated the amazing value of doing Roth conversion as early as possible. At a deeper level, the course focused on the construction of investment psychology, discussed how to understand and use financial system rules, how to cope with external pressure (worries from relatives and friends, social information) with a strong inner self, and especially emphasized the extreme importance of maintaining independent thinking and being wary of &ldquo;information cocoons&rdquo; in the era of information explosion. The ultimate goal is to help investors cultivate both their inner skills and achieve a double improvement in cognition and mindset on the road to pursuing financial freedom.</p>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>Disclaimer:</strong> This article is only a personal study note and does not constitute any investment advice.</span>
+</div>
+
+]]></content:encoded></item><item><title>00511 Risk and Cash Are the Real Starting Points for Investing</title><link>https://jomonylw.github.io/en/posts/1744504450104/</link><pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/en/posts/1744504450104/</guid><description>In this episode, James emphasizes that in any market environment, the primary consideration for investing is having sufficient cash reserves, followed by holding index funds for the long term. He discusses risk tolerance, asset allocation models (such as 433 and 424), the principles for using leveraged funds, and caution regarding paid groups and conflicts of interest. Students share their experiences and questions regarding market volatility, tax planning, retirement preparation, and more.</description><content:encoded><![CDATA[<lite-youtube videoid="xmD_sz5rYlU" playlabel="xmD_sz5rYlU" params=""></lite-youtube>
 
 
 
