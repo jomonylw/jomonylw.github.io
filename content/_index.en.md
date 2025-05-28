@@ -122,6 +122,6 @@ If you invested **$1000** in **QQQ** starting from **2010/04**, and held it for 
 | [QQQ Finance Charts](https://www.financecharts.com/etfs/QQQ/) | QQQ Finance Charts Information |
 | [QQQ price prediction](https://longforecast.com/qqq-stock/) | The Economy Forecast Agency |
 | [How to Invest in NASDAQ 100](/en/posts/1728723295012-invest-qqq/) |  NASDAQ 100 Investment Information  |
-
+| [If you invest QQQ 💰](https://if-you-invest-qqq.vercel.app/) | QQQ Investment Return Calculator |
 ---
 {{< article link="/en/posts/1736045402069/" >}}

@@ -121,6 +121,6 @@ tags: ["投资", "理财", "纳斯达克指数", "纳斯达克100", "基金", "�
 | [QQQ 金融图表](https://www.financecharts.com/etfs/QQQ/) | QQQ 金融图表资讯 |
 | [QQQ 价格预测](https://longforecast.com/qqq-stock/) | The Economy Forecast Agency |
 | [如何投资纳斯达克 100](/posts/1728723295012-invest-qqq/) | 纳斯达克 100 投资资讯 |
-
+| [如果你投资了QQQ 💰](https://if-you-invest-qqq.vercel.app/) | QQQ 投资收益计算器 |
 ---
 {{< article link="/posts/1736045402069/" >}}
