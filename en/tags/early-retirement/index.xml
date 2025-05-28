@@ -218,6 +218,10 @@
           <td><a href="/en/posts/1728723295012-invest-qqq/">How to Invest in NASDAQ 100</a></td>
           <td>NASDAQ 100 Investment Information</td>
       </tr>
+      <tr>
+          <td><a href="https://if-you-invest-qqq.vercel.app/" target="_blank">If you invest QQQ 💰</a></td>
+          <td>QQQ Investment Return Calculator</td>
+      </tr>
   </tbody>
 </table>
 <hr>
@@ -608,7 +612,7 @@
 
       </span>
       <div id="github-ca5909c42993317bda43c57784488179-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
-        126
+        128
       </div>
 
       <span class="text-md mr-1 text-neutral-800 dark:text-neutral">
@@ -621,7 +625,7 @@
 
       </span>
       <div id="github-ca5909c42993317bda43c57784488179-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
-        27
+        28
       </div>
 
     </div>
