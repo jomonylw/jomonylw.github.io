@@ -6,11 +6,11 @@
     <description>Recent content in Stock on QQQ Investor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/stock/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/stock/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://jomonylw.github.io/en/</link>
-      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>https://jomonylw.github.io/en/</guid>
       <description></description>
@@ -69,8 +69,8 @@
   <span
     
       class="dark:text-neutral-300"
-    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2010/06</strong>, and held it for <strong>15</strong> years, by
-<strong>2025/06</strong> it would be worth <strong>$12915.94</strong>, with a total return of <strong>1191.59%</strong> (annualized return of <strong>18.60%</strong>).</span>
+    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2010/07</strong>, and held it for <strong>15</strong> years, by
+<strong>2025/07</strong> it would be worth <strong>$12333.77</strong>, with a total return of <strong>1133.38%</strong> (annualized return of <strong>18.23%</strong>).</span>
 </div>
 
 <br>
@@ -82,7 +82,7 @@
       const ctx = document.getElementById("chart-3f42e1dde0a3be6b7dd45d9363bdb47b");
       const chart = new Chart(ctx, {
         
-    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1275.1112151720909, 1307.1880121751346, 1524.9356122687893, 2059.470849918052, 2417.4666354483725, 2619.058768438305, 2774.0575977522826, 3646.9210957621162, 3611.800515101849, 4977.991102786233, 7345.820650901428, 9315.148677124795, 6234.605478810582, 9588.38679466167, 11969.79630063217, 12915.94474361976], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.27511121517209086, 0.025156077855306654, 0.166577109081139, 0.35052970981114706, 0.17382901318781252, 0.08338983050847473, 0.059181119256213006, 0.3146522619851451, -0.00963020030816644, 0.37825748735900444, 0.47565965852970227, 0.26808822591955117, -0.33070252607766754, 0.5379299984978219, 0.24836393826919334, 0.07904465700369699], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]},
+    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1188.8234010041474, 1218.7295350360182, 1421.741977734119, 1920.104780615586, 2253.8746998471947, 2441.8249290547915, 2586.334861383977, 3400.130975769482, 3367.3870333988207, 4641.12639161755, 6848.722986247544, 8684.7849814451, 5812.704649639816, 8939.532853088844, 11159.790438768827, 12333.769919231609], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.1888234010041474, 0.025156077855306682, 0.16657710908113915, 0.35052970981114695, 0.17382901318781266, 0.08338983050847465, 0.05918111925621307, 0.31465226198514507, -0.009630200308166416, 0.3782574873590044, 0.47565965852970243, 0.26808822591955134, -0.3307025260776676, 0.5379299984978217, 0.2483639382691933, 0.10519726933082964], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]},
     options: {
         scales: {
             'price-axis': {
