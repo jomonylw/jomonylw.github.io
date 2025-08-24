@@ -59,46 +59,46 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">代码</th>
-          <th style="text-align: left">产品名称</th>
-          <th style="text-align: left">备注</th>
+          <th>代码</th>
+          <th>产品名称</th>
+          <th>备注</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left"><strong>QQQ</strong></td>
-          <td style="text-align: left">Invesco QQQ Trust</td>
-          <td style="text-align: left"></td>
+          <td><strong>QQQ</strong></td>
+          <td>Invesco QQQ Trust</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left"><strong>QQQM</strong></td>
-          <td style="text-align: left">Invesco NASDAQ 100 ETF</td>
-          <td style="text-align: left"></td>
+          <td><strong>QQQM</strong></td>
+          <td>Invesco NASDAQ 100 ETF</td>
+          <td></td>
       </tr>
       <tr>
-          <td style="text-align: left">QLD</td>
-          <td style="text-align: left">ProShares Ultra QQQ</td>
-          <td style="text-align: left">2x</td>
+          <td>QLD</td>
+          <td>ProShares Ultra QQQ</td>
+          <td>2x</td>
       </tr>
       <tr>
-          <td style="text-align: left">TQQQ</td>
-          <td style="text-align: left">ProShares UltraPro QQQ</td>
-          <td style="text-align: left">3x</td>
+          <td>TQQQ</td>
+          <td>ProShares UltraPro QQQ</td>
+          <td>3x</td>
       </tr>
       <tr>
-          <td style="text-align: left">PSQ</td>
-          <td style="text-align: left">ProShares Short QQQ</td>
-          <td style="text-align: left">-1x</td>
+          <td>PSQ</td>
+          <td>ProShares Short QQQ</td>
+          <td>-1x</td>
       </tr>
       <tr>
-          <td style="text-align: left">QID</td>
-          <td style="text-align: left">ProShares UltraShort QQQ</td>
-          <td style="text-align: left">-2x</td>
+          <td>QID</td>
+          <td>ProShares UltraShort QQQ</td>
+          <td>-2x</td>
       </tr>
       <tr>
-          <td style="text-align: left">SQQQ</td>
-          <td style="text-align: left">ProShares UltraPro Short QQQ</td>
-          <td style="text-align: left">-3x</td>
+          <td>SQQQ</td>
+          <td>ProShares UltraPro Short QQQ</td>
+          <td>-3x</td>
       </tr>
   </tbody>
 </table>
@@ -181,32 +181,32 @@
       <tr>
           <td style="text-align: left">159941</td>
           <td style="text-align: left">广发纳斯达克100ETF</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
       <tr>
           <td style="text-align: left">513100</td>
           <td style="text-align: left">国泰纳斯达克100ETF</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
       <tr>
           <td style="text-align: left">513300</td>
           <td style="text-align: left">华夏纳斯达克100ETF</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
       <tr>
           <td style="text-align: left">159513</td>
           <td style="text-align: left">大成纳斯达克100ETF</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
       <tr>
           <td style="text-align: left">159632</td>
           <td style="text-align: left">华安纳斯达克100ETF</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
       <tr>
           <td style="text-align: left">159501</td>
           <td style="text-align: left">嘉实纳斯达克100ETF</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -234,12 +234,12 @@
       <tr>
           <td style="text-align: left">02834</td>
           <td style="text-align: left">安碩納指一百</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
       <tr>
           <td style="text-align: left">03034</td>
           <td style="text-align: left">南方納指一百</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
       <tr>
           <td style="text-align: left">07266</td>
@@ -358,7 +358,7 @@
       <tr>
           <td style="text-align: left">2631</td>
           <td style="text-align: left">MUKAM MAXIS NASDAQ100 ETF</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
       <tr>
           <td style="text-align: left">2842</td>
@@ -421,7 +421,7 @@
       <tr>
           <td style="text-align: left">133690</td>
           <td style="text-align: left">Mirae Asset TIGER NASDAQ 100 ETF</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -461,7 +461,7 @@
       <tr>
           <td style="text-align: left">NDXEX</td>
           <td style="text-align: left">iShares NASDAQ-100 UCITS ETF</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
   </tbody>
 </table>
@@ -489,12 +489,12 @@
       <tr>
           <td style="text-align: left">CNDX</td>
           <td style="text-align: left">iShares NASDAQ 100 UCITS ETF</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
       <tr>
           <td style="text-align: left">EQQQ</td>
           <td style="text-align: left">INVESCO MARKETS III PLC INVESCO EQQQ NASDAQ 100 UCITS ETF</td>
-          <td style="text-align: left"></td>
+          <td></td>
       </tr>
   </tbody>
 </table>
