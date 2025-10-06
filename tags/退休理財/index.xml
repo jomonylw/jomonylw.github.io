@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>退休理財 on QQQ 投资者</title><link>https://jomonylw.github.io/tags/%E9%80%80%E4%BC%91%E7%90%86%E8%B2%A1/</link><description>Recent content in 退休理財 on QQQ 投资者</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 04 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/tags/%E9%80%80%E4%BC%91%E7%90%86%E8%B2%A1/index.xml" rel="self" type="application/rss+xml"/><item><title>00534 退休资产配置与提领率：活着比回报率更重要</title><link>https://jomonylw.github.io/posts/1759712155643/</link><pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/posts/1759712155643/</guid><description>本期James老师详细阐述了针对已退休或临近退休人士的资产配置与提拨率核心策略，强调“活著”比追求高回报率更重要。内容涵盖了不同现金比例（30%、40%、50%）下的投资组合构建、最高Beta值限制以及相应的安全提拨率，并深入探讨了股票质押、投资心法、AI时代展望等话题。学员分享环节内容丰富，涵盖了从实践中获得的财务成长喜悦到面对具体财务决策（如换车、贷款投资）的探讨。</description><content:encoded><![CDATA[<lite-youtube videoid="1-XZhoheNvs" playlabel="1-XZhoheNvs" params=""></lite-youtube>
+
+
+
+<h2 class="relative group">一、当期主题 
+    <div id="%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<p>本期核心主题是<strong>为已退休或接近退休人士构建一个以“活著”为首要目标的稳健资产配置策略</strong>。核心观点是，退休后的财务规划应优先考虑现金流的稳定性与持久性，而非最大化投资回报率。James老师详细讲解了根据不同比例的现金储备（30%、40%、50%）来设定投资组合的风险暴露（Beta值），并依此确定安全的年度提拨率，旨在确保在极端市场情况下（如长达15年的熊市）也能安然度过。</p>
+
+
+<h2 class="relative group">二、简报内容 
+    <div id="%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">诈骗提醒与资源分享 
+    <div id="%E8%AF%88%E9%AA%97%E6%8F%90%E9%86%92%E4%B8%8E%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E8%AF%88%E9%AA%97%E6%8F%90%E9%86%92%E4%B8%8E%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>警惕诈骗</strong>：近期网络诈骗依然猖獗，例如利用AI模仿黄仁勋等人声音的影片，以免费送书、教授ChatGPT使用技巧等名义诱骗用户加入群组进行诈骗。James老师分享连自己的父亲都收到了“手机被黑客入侵”的诈骗短信，提醒大家不要随意点击来路不明的链接，政府、银行等重要机构通常会通过信件而非电话联系。</li>
+<li><strong>识别假冒账号</strong>：上周推荐“阿良正传的人生”后，有学员误入了诈骗者设立的假Facebook账号。正牌阿良的Facebook有4000多名关注者，而诈骗账号只有几十个。</li>
+<li><strong>频道推荐</strong>：推荐了陈风的YouTube频道“陳風領航 大道至簡投資”，其中有更细致的投资方法，以及一个适合给孩子听的理财启蒙播客“倉鼠大米的理財冒險”。</li>
+</ul>
+
+
+<h3 class="relative group">核心策略：退休者的资产配置与提撥率 
+    <div id="%E6%A0%B8%E5%BF%83%E7%AD%96%E7%95%A5%E9%80%80%E4%BC%91%E8%80%85%E7%9A%84%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E4%B8%8E%E6%8F%90%E6%92%A5%E7%8E%87" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E6%A0%B8%E5%BF%83%E7%AD%96%E7%95%A5%E9%80%80%E4%BC%91%E8%80%85%E7%9A%84%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E4%B8%8E%E6%8F%90%E6%92%A5%E7%8E%87" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<p>James老师为不同资金状况和风险承受能力的退休人士，提出了三种以现金为基础的资产配置模型：</p>
+<ol>
+<li>
+<p><strong>30% 现金配置</strong>：</p>
+<ul>
+<li><strong>最高风险配置 (Beta ≈ 1.0)</strong>：剩下70%资产可配置为40%原型基金（如QQQ）和30%杠杆基金（如TQQQ）。</li>
+<li><strong>安全提拨率</strong>：此配置下，每年最多提拨总资产的 <strong>2%</strong> 作为生活费。</li>
+<li><strong>较低风险配置 (Beta ≈ 0.7)</strong>：若组合为70%原型基金，无杠杆，则提拨率可提高至 <strong>3%</strong>。</li>
+<li><strong>核心原则</strong>：资产波动性越高，提拨率必须越低，以防市场大跌时资产过度缩水。</li>
+</ul>
+</li>
+<li>
+<p><strong>40% 现金配置</strong>：</p>
+<ul>
+<li><strong>较高风险配置 (Beta ≈ 0.9)</strong>：剩下60%资产最多可配置为30%原型和30%杠杆。</li>
+<li><strong>安全提拨率</strong>：此配置下，每年最多提拨 <strong>3%</strong>。</li>
+<li><strong>较低风险配置 (Beta ≈ 0.6)</strong>：若组合为40%原型和20%杠杆，提拨率可提高至 <strong>4%</strong>。</li>
+</ul>
+</li>
+<li>
+<p><strong>50% 现金配置</strong>：</p>
+<ul>
+<li><strong>较高风险配置 (Beta ≈ 0.7)</strong>：剩下50%资产最多可配置为30%原型和20%杠杆。</li>
+<li><strong>安全提拨率</strong>：此配置下，每年可提拨 <strong>4%</strong>。</li>
+<li><strong>无杠杆配置 (Beta ≈ 0.5)</strong>：若配置为50%现金和50%原型基金，提拨率可提高至 <strong>5%</strong>。</li>
+</ul>
+</li>
+</ol>
+<ul>
+<li><strong>最终目标：15年现金储备</strong>
+<ul>
+<li>最理想的状态是在市场高点时，持有的现金足以支付未来15年的生活开销。考虑到现金本身有利息（如3.5%），实际上可能只需要准备12-13年的本金就足够支撑15年。</li>
+<li>初期若无法达到，可在市场上涨时，通过再平衡逐步累积现金，直至达到或超过15年的目标。</li>
+<li>只有当现金储备超过15年生活费时，多余的部分才可以在市场下跌时用于逢低承接，确保“活下去”是第一要务。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">投资心法与股票质押解析 
+    <div id="%E6%8A%95%E8%B5%84%E5%BF%83%E6%B3%95%E4%B8%8E%E8%82%A1%E7%A5%A8%E8%B4%A8%E6%8A%BC%E8%A7%A3%E6%9E%90" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E6%8A%95%E8%B5%84%E5%BF%83%E6%B3%95%E4%B8%8E%E8%82%A1%E7%A5%A8%E8%B4%A8%E6%8A%BC%E8%A7%A3%E6%9E%90" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>投资是学来的，不是教来的</strong>：James老师引用“道可道，非常道”的概念，强调投资理念需要自己思考、理解并实践，才能真正内化。如同骑自行车，看再多书也不如亲自上车尝试。他鼓励大家动手动脑，自己去探索和领悟。</li>
+<li><strong>股票质押的再思考</strong>：
+<ul>
+<li><strong>观念演变</strong>：过去为了不因持有现金（用于质押）而牺牲回报率，建议搭配杠杆基金。现在更强调“求稳”和“活著”，因此即使不追求最高回报，持有50%现金和50%原型基金的无杠杆组合，同样可以进行股票质押借款。</li>
+<li><strong>质押风险警示</strong>：老师用一个例子解释了为何质押借款比例看似很低（如10%）也可能导致破产。假设100万资产借10万，在长达10年的熊市中（如2000-2009年，市场下跌85%），10万的借款加上利息可能滚存至16万，而你的资产只剩下15万，此时便已资不抵债。这凸显了持有充足现金（如30%）的重要性。</li>
+</ul>
+</li>
+<li><strong>现金流是生命线</strong>：通过一个拥有一亿多台币资产，却因购买7500万豪宅而陷入现金流困境的案例，警示大家，无论资产多少，若不懂现金流管理，同样会面临破产风险。</li>
+</ul>
+
+
+<h3 class="relative group">AI时代展望 
+    <div id="ai%E6%97%B6%E4%BB%A3%E5%B1%95%E6%9C%9B" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ai%E6%97%B6%E4%BB%A3%E5%B1%95%E6%9C%9B" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>千倍的典范转移</strong>：人工智能带来的变革是过去互联网革命的上千倍，是多种典范转移的叠加。人类经济将迎来前所未有的增长。</li>
+<li><strong>抓住机遇，抓紧扶手</strong>：跟上趋势的人有机会“上太空”，但若不紧跟正确的投资原则、不学习思考，也可能从太空中摔下来。必须靠自己学习，抓紧正确的方向。</li>
+</ul>
+
+
+<h2 class="relative group">三、问答环节 
+    <div id="%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Iba 
+    <div id="iba" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iba" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：从2021年4月开始听老师的课，虽然理解慢，但在过去20个月里，薪水不高的她也存下了10万美元，感到非常惊喜和开心。她已将投资组合的Beta值从1.3降至1.0左右。</li>
+<li><strong>问题</strong>：车子状况不好，是应该花1000美元修好继续开几年，还是换一辆特斯拉来提升生活品质？虽然很想体验，但感觉还处于财富积累初期。
+<ul>
+<li><strong>James老师回复</strong>：建议花1000美元修车。因为目前总资产还不算非常雄厚，买一辆五六万美元的车占总资产比例过高。现阶段应继续将资金投入投资。老师建议她巧妙利用信用卡消费，比如使用有2%-3%现金回馈的Apple Card或American Express卡，将获得的回馈金全部投入购买TQQQ，实现“越花钱越有钱”。同时，老师也分享了自己过去的遗憾，因为节俭，带母亲去吃回转寿司时，母亲因体谅他而不敢多拿，这成了他后来追悔莫及的事。因此，虽然不建议买车，但在孝敬父母等关键事情上，不应过度节省。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Nai-Hsin 
+    <div id="nai-hsin" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#nai-hsin" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：
+<ol>
+<li>首先公开感谢群组管理员Chris，他为大家的00662社群设置了许多自动化回复，极大地提高了管理效率，解决了大量重复问题，对社群贡献巨大。</li>
+<li>分享个人感悟，认为自己账户里的财富增长是“上天的恩典和老师的启蒙”，因为这些钱本是“本來無一物”，所以内心充满感恩。</li>
+<li>最近花莲水灾，家人提议捐款，她卖掉了一部分00670L（正二）的获利来进行捐款，她称之为“公益再平衡”，因为钱本来就不是自己的，捐出去非常开心。她接任了地方公益组织的领导职务，也认为做公益的钱并非自己“出”的，而是通过投资的智慧获得的，可以顺水推舟地回馈社会。</li>
+</ol>
+<ul>
+<li><strong>James老师评论</strong>：赞扬了Nai-Hsin的善举。钱赚来就是要用的，当财富达到一定程度，回馈社会是自然而然的。老师强调，他对不同学员的建议是“因人而异”的，根据每个人所处的财务阶段给出不同指导。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Jenny 
+    <div id="jenny" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#jenny" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：听了一场佛法开示，联想到James老师的教导如同帮助大家“脱离贫穷的轮回”，对此升起“恭敬心”。她分享自己最近的行动，下定决心将一份亏损的保险解约，拿回2万4千块，并立即投入到老师的投资方法中。她认为虽然短期亏损，但及时止损、换到正确的“电梯”更重要，未来几年就能赚回来。她也开始思考老师强调“预留15年现金”的深意，理解到这是为了在长达15年的熊市中，既能保证生活无虞，又能通过再平衡度过难关。</li>
+<li><strong>James老师回复</strong>：详细解释了“15年现金”的概念。这主要针对已退休无收入来源的人。计算方式是，年开销减去社保等固定收入后，自己需要准备的金额乘以15。例如每年需自备5万美元，则需准备75万美元现金。这个标准是基于2000-2015年的历史经验，市场可能需要15年才回到高点。对于仍在工作的人，可以通过每月薪水动态补充现金，无需严格执行再平衡卖出股票。</li>
+</ul>
+
+
+<h3 class="relative group">Dr. An 
+    <div id="dr-an" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#dr-an" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：他是2011年就跟随老师的“老学员”。他认为现在的新学员非常幸运，因为老师现在的投资策略（指数化、长期持有、自动化）已经进化到了“最完美的时刻”。他回忆早年老师教的方法包含个股操作、杀进杀出，虽然能躲过大跌，但普通人很难跟紧，且税后回报并不理想。许多老学员因为没有持续学习，反而错过了后面更优化的策略。他本人是在2023年底，根据老师最新的退休计算方法，发现自己已足够退休，于是在2024年1月正式退休，现在的生活非常美好，投资收益甚至超过了上班时的薪水。</li>
+<li><strong>James老师评论</strong>：感谢Dr. An的分享。他将早期的投资教学比作“远征军”，伤亡惨重，最终能跟上的人不多。而现在因为网络教学无法即时指挥数万学员，策略必须进化为“太空军”，即完全自动化、无人为干预的模式。Pandemic加速了这一转变。他赞扬Dr. An不仅跟上了，还实践了股票质押和Roth转换等高阶操作。</li>
+</ul>
+
+
+<h3 class="relative group">Fang 
+    <div id="fang" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#fang" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：他是36岁的小主管，2022年市场大跌时开始跟随老师，目前资产已翻倍。他计算发现自己大约在45岁就能达到退休门槛，但现在工作压力很大，很想加速退休进程。</li>
+<li><strong>问题</strong>：在这种“想加速”又知道“安全第一”的矛盾心态下，应该如何调整资产配置和心态？
+<ul>
+<li><strong>James老师回复</strong>：因为距离退休还有近10年，完全可以采取更积极的策略。可以将Beta值维持在1.0，并且在未来几年内“不要做再平衡”，让利润奔跑，这样可能会让Beta值自然增长到1.3甚至1.5。等到距离退休前5年，再开始“踩刹车”，逐步增加现金比例，降低风险。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Rui 
+    <div id="rui" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#rui" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：他觉得自己非常幸运，遇到老师时策略就已是“完全体”。他对老师的一些理念，如“风险的风险”，在反复听过之后才真正理解。他已实现433配置，并存够了50倍年开销和15年现金。</li>
+<li><strong>问题</strong>：在30多岁的年纪，如何更好地“用金钱换取精神能量”？
+<ul>
+<li><strong>James老师回复</strong>：精神能量的核心是“眼光”和“心量”。要练习一种心态：假设你突然拥有200亿，如果你的生活方式、心态没有任何改变，那你的精神能量就足够强大。真正的财务自由是让“钱”在你的生活中消失，它像空气一样自然，你消费时不再考虑价格，只考虑价值和体验，这才能让你从琐事中解脱，精神能量才能更强大。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Chris 
+    <div id="chris" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#chris" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：他于2021年接触CLEC，从此投资变得很简单。最近卖掉了一套房子，感觉很轻松。最重要的是，他通过CLEC认识了现在的伴侣，对此非常感谢老师。他明天会和介绍他认识CLEC的朋友以及各自的伴侣一起聚餐。
+<ul>
+<li><strong>James老师评论</strong>：恭喜他能遇到理念相同的伴侣，这非常美好。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Benson 
+    <div id="benson" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#benson" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：他的投资回报已达220%，感觉非常自由，在工作中也更有底气。</li>
+<li><strong>问题</strong>：他确认自己的理解是否正确：由于早期投资组合比较激进，现在随着资产增高，应该将每月新增的资金主要投入现金部位，以逐步建立起老师所说的15年现金缓冲，而不是去调整已有的股票仓位。
+<ul>
+<li><strong>James老师回复</strong>：这个想法完全正确，是非常好的动态调整方式。他还分享了与女儿的对话，解释为何选择QQQ而非VOO：<strong>降低波动率应该靠增加现金，而不是去投资一个回报率更低的标的</strong>。长期低回报才是最大的风险。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Peng 
+    <div id="peng" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#peng" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：他是两周前才接触频道的新学员，前几天因为信息量太大而失眠。他之前的观念是长期持有VT和0050，退休时靠卖出资产生活。接触老师后才理解了“股票质押”这一颠覆性的概念。</li>
+<li><strong>问题</strong>：
+<ol>
+<li>如果在退休并开始质押提领3年后，现金储备达到了15年的水平，那么考虑到已借出的3年生活费，是否需要准备18年的现金才算安全？</li>
+<li>老师在42岁退休时，是否已经有了质押借款来生活的概念？这个想法的启发点是什么？</li>
+</ol>
+<ul>
+<li><strong>James老师回复</strong>：</li>
+</ul>
+<ol>
+<li>不需要。因为经过几年市场上涨，你的总资产规模已经远大于期初，增长的资产足以覆盖已借出的部分，安全垫反而更厚了。</li>
+<li>这是一个演化的过程。他退休时并不知道，也是后来才发现的。2018年，他因需要用钱但不想卖股缴高额税款，主动写邮件问券商能否用股票抵押借款。券商随即帮他办理了质押贷款。他指出，这是金融业的“秘密”，因为法规限制，券商不能主动向客户推销这类银行业务，除非客户自己提出。</li>
+</ol>
+</li>
+</ul>
+
+
+<h3 class="relative group">Meihao 
+    <div id="meihao" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#meihao" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：用一个“不要和猪辩论”的笑话开场，表达对老师持续教导的感激。</li>
+<li><strong>问题</strong>：她已规划好433配置，房子也卖了但现金还未到账。此时银行提供了一笔500万、利率2.88%的七年期信贷。她想知道，动用这笔信贷来投资，是属于贪心，还是正确的操作？
+<ul>
+<li><strong>James老师回复</strong>：这是非常正确的操作，不是贪心。因为433配置可以支持3%的提拨率，完全可以覆盖2.88%的贷款利息。她仍在上班，有现金流，风险可控。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Wei 
+    <div id="wei" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#wei" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：他的太太投资QQQ二十多年，从不改变，业绩非常好，并以此为由拒绝任何改变，认为最简单的方法就是最好的，她的儿子也受其影响。</li>
+<li><strong>问题</strong>：面对家人“我的方法行之有效，为何要改”的观点，该如何沟通？
+<ul>
+<li><strong>James老师回复</strong>：这无法沟通。因为她的环境（有你作为后盾）没有迫使她进化的压力。她就像一只强壮的“猴子”，即使不进化成“人”，在现有环境下也能活得很好。从她的角度看，她没有错。如果她的资产足够庞大，即使市场大跌80%依然生活无忧，那么她的选择也是一种可行的路径。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Mike 
+    <div id="mike" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#mike" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：讨论了Sora 2带来的巨大冲击，并分享了他所在的小组因坚持理念而共同富裕的经历。</li>
+<li><strong>问题</strong>：他看到有分析师提到稳定币（Stablecoin）会带来3万亿的商业机会，这个数字是如何估算出来的？这是否反映了美国经济的强大？
+<ul>
+<li><strong>James老师回复</strong>：美元本身就是一种“侵略性货币”，用纸币换取他国的真实资产。稳定币将这种“侵略”的效率提高了至少10倍，因为它能绕过各国的中央银行和SWIFT系统，直接渗透到民间。这将导致更多国家丧失货币主权。美元流通量的大幅增加，将为美国金融机构带来巨额的利息收入，3万亿的估算可能还很保守。这就是一场无声的“资本主义战争”。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Hua Sheng 
+    <div id="hua-sheng" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#hua-sheng" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：他来自中国大陆，分享了自己的投资感悟：在找到正确道路时要“快”（快速买入、质押），上路后则要“慢”（耐心持有、求稳）。他分享了大陆投资者在香港操作的实用建议：投资港股03086（华夏纳指ETF），现金部分购买累积型货币基金，杠杆ETF则放在美国券商以规避税务交换问题。</li>
+</ul>
+
+
+<h3 class="relative group">Dong Zhang 
+    <div id="dong-zhang" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#dong-zhang" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：她是新学员，跟随三四个月投资513100（A股纳指ETF），盈利已能覆盖两年开销，让她提前感受到财富自由。</li>
+<li><strong>问题</strong>：
+<ol>
+<li>她自认性情急躁，如何像老师一样保持耐心？</li>
+<li>她已配置73比，且有15年开销的现金，退休后应如何进行再平衡？</li>
+</ol>
+<ul>
+<li><strong>James老师回复</strong>：</li>
+</ul>
+<ol>
+<li>他自己脾气也很暴躁，但一直在练习。关键是练习“同理心”，在与人对话前，先默念三遍“他是对的，我是错的”。当你把自己放在“错”的位置，就不会那么激动，沟通效果会更好。</li>
+<li>如果还有收入，就用收入来维持比例。如果完全退休，每年从现金部分取用一年生活费即可。如果市场上涨，让现金储备自然增长到比如20年，当市场下跌时，动用超过15-16年基准线以上的部分去买入股票。</li>
+</ol>
+</li>
+</ul>
+
+
+<h3 class="relative group">Aola 
+    <div id="aola" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#aola" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>问题</strong>：
+<ol>
+<li>如果投资组合的Beta值超过1了，需要处理吗？</li>
+<li>他在两岸三地都有银行账户，是否有必要全部整合到美国？</li>
+</ol>
+<ul>
+<li><strong>James老师回复</strong>：</li>
+</ul>
+<ol>
+<li>只要现金储备充足，Beta值超过1也无需处理。</li>
+<li>如果在三地都有用钱需求，保留账户是方便的。关键要考虑的是各地的遗产继承法规，确保继承人能顺利继承资产。</li>
+</ol>
+</li>
+</ul>
+
+
+<h3 class="relative group">Queen Wu 
+    <div id="queen-wu" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#queen-wu" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：她是一位刚从国内移居美国的新学员，行动力很强，听课后一个月内就卖掉了国内的商铺，并已将40%的资金投入513100。</li>
+<li><strong>问题</strong>：她计划6年后回国，了解到香港做股票质押最有利。但每年只有5万美元的换汇额度，资金转移缓慢。她该如何规划？
+<ul>
+<li><strong>James老师回复</strong>：首先，在美国做质押对于非长期居民有风险，账户可能被关闭。因此，将资金逐步转移到香港是正确的方向。对于如何操作，他建议Queen Wu可以联系在留言区发言的Hua Sheng，他们可以私下交流更多细节。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Vicky 
+    <div id="vicky" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#vicky" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>分享</strong>：她是刚听课两三周的新手，目前为自己、先生、儿子和妈妈四人管理股票，但买得非常分散，有30多档。</li>
+<li><strong>问题</strong>：
+<ol>
+<li>如何入门，是应该卖掉所有旧股票，还是用现金开始买新标的？</li>
+<li>如何为三代人（退休的母亲、即将退休的自己、刚工作的儿子）做不同的规划？</li>
+<li>为儿子买了预售屋，未来贷款应该怎么还是最有利的？</li>
+</ol>
+<ul>
+<li><strong>James老师回复</strong>：</li>
+</ul>
+<ol>
+<li><strong>母亲</strong>：全部卖掉，买入0056（台湾高股息ETF），用股息生活，用不完的再投入。</li>
+<li><strong>自己和先生</strong>：全部股票（30多档）和债券都卖掉，建立70%的00662（富邦纳斯达克）和30%的00865B（国泰20年美债）的组合。</li>
+<li><strong>儿子</strong>：刚工作，收入稳定，所有闲钱都投入00662即可，现阶段无需留现金。</li>
+<li><strong>预售屋</strong>：最好的策略是交房后尽快卖掉。如果自住，贷款尽量只还利息，不还本金。</li>
+<li><strong>关于复委托</strong>：建议全部赎回。台湾的复委托未来可能面临美国遗产税的问题，且有海外最低税负制，不如直接投资台湾本地的ETF简单。</li>
+</ol>
+</li>
+</ul>
+
+
+<h2 class="relative group">四、精彩观点 
+    <div id="%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<blockquote>
+<p>退休讲求的是现金流而不是回报率，回報其次，活著才是最重要。
+&ndash; James老师</p></blockquote>
+<p>此观点贯穿全场，是本次资产配置策略的核心基石，提醒退休人士应将财务安全置于收益增长之上。</p>
+<blockquote>
+<p>道可道，非常道。……道就是你自己悟出來的才叫道。所有讲的都是表面，都是武功秘籍的文字部分。
+&ndash; James老师</p></blockquote>
+<p>老师强调独立思考和亲身实践在投资中的重要性，知识需要内化才能成为真正的智慧。</p>
+<blockquote>
+<p>公在倒，看人抬；儿在世，分人一块。 (台语意译：在世的时候给你父母亲吃颗花生，也胜过人走了在祭坛上面一只猪。)
+&ndash; James老师 (由 Jenny 分享时引用)</p></blockquote>
+<p>老师用这个生动的比喻强调，孝顺和关爱要在亲人健在时及时表达，其价值远胜于身后的铺张祭奠。</p>
+<blockquote>
+<p>降低波動率不是去改變你的投資標地，而是你要留現金來降低波動率。长期低回报才是风险。
+&ndash; James老师</p></blockquote>
+<p>老师在回答女儿问题时提出的精辟观点，指出应对市场波动的正确方式是调整现金比例，而不是牺牲长期回报去选择波动更低的资产。</p>
+<blockquote>
+<p>你要先告訴自己他是對的，我是錯的。……錯的人還這麼大聲？那这个就你就会反省。
+&ndash; James老师</p></blockquote>
+<p>在回答如何保持耐心时，老师分享的修行方法。通过先承认对方的合理性，可以有效降低自己的情绪激动，实现更平和的沟通。</p>
+<blockquote>
+<p>借錢永遠不還，這很重要。如果你要去还股票质押的钱，一开始就不应该借。
+&ndash; Benson &amp; James老师</p></blockquote>
+<p>Benson的分享和老师的确认，点出了股票质押的核心精髓：借出的钱是用于生活或再投资的工具，目的是让产生现金流的资产永远不被消耗，因此“还本金”是一个错误的操作。</p>
+<blockquote>
+<p>投资不存在，市场不存在，钱不存在，那就是你就精神能量就是最高了。
+&ndash; James老师</p></blockquote>
+<p>老师描述的一种财务自由的最高境界，当财富充裕到不再需要为金钱本身而思考和担忧时，人才能获得真正的精神自由。</p>
+
+
+<h2 class="relative group">五、总结 
+    <div id="%E4%BA%94%E6%80%BB%E7%BB%93" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%BA%94%E6%80%BB%E7%BB%93" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<p>本期分享会是一场极其深刻和实用的退休理财规划课。James老师从以往追求“安全下的最高回报”进化到更侧重于“绝对安全”的保守策略，为即将或已经退休的投资者提供了一套清晰、可操作的资产配置与提拨率指南。通过30%、40%和50%三种现金配置模型的详细拆解，让不同财务状况的人都能找到适合自己的“活下去”的方案。问答环节的众多学员分享，从老学员的今昔对比，到新学员的顿悟与实践，生动地展示了这套投资哲学如何改变不同人的财务命运和人生心态。整场分享会不仅是关于投资技巧的传授，更是一场关于财富观、风险观和人生智慧的深度交流。</p>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>免责声明:</strong> 本文仅为个人学习笔记，不构成任何投资建议。</span>
+</div>
+
+]]></content:encoded></item></channel></rss>
