@@ -6,7 +6,467 @@
     <description>Recent content in Posts on QQQ Investor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>00538 Flexible Rebalancing 2.0: Fifteen Years of Cash Without Depletion, A Safer Upgrade with More Wins and Fewer Losses</title>
+      <link>https://jomonylw.github.io/en/posts/1762045399886/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomonylw.github.io/en/posts/1762045399886/</guid>
+      <description>In this session, Teacher James details the &amp;#39;Flexible Smart Rebalancing&amp;#39; strategy developed by student Peng, an enhanced version of the traditional smart rebalancing aimed at improving asset allocation security. The core of the strategy is to set a cash-year threshold, flexibly adjusting the funding source for rebalancing. Additionally, James discusses withdrawal rates corresponding to different Beta values and introduces high-dividend ETFs like JEPQ as a solution for retirees with insufficient cash flow.</description>
+      <content:encoded><![CDATA[<lite-youtube videoid="g14_NDnf8V8" playlabel="g14_NDnf8V8" params=""></lite-youtube>
+
+
+
+<h2 class="relative group">I. Theme of the Session 
+    <div id="i-theme-of-the-session" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#i-theme-of-the-session" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>This session delves into the &ldquo;Flexible Smart Rebalancing&rdquo; optimization strategy. Its core idea is to add a &ldquo;cash years&rdquo; criterion to the traditional smart rebalancing framework. When cash reserves fall below a preset number of years (e.g., 15 years), market downturns will no longer deplete cash. Instead, the underlying fund (e.g., QQQ) will be used to buy more of the leveraged fund to protect cash flow and enhance the portfolio&rsquo;s security. Concurrently, for retirees with higher cash flow needs, an alternative solution of allocating to high-dividend ETFs (such as JEPQ) is proposed.</p>
+
+
+<h2 class="relative group">II. Briefing Content 
+    <div id="ii-briefing-content" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ii-briefing-content" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Opening Reminders &amp; Basic Principles 
+    <div id="opening-reminders--basic-principles" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#opening-reminders--basic-principles" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Daylight Saving Time Ends</strong>: Starting next week, the Clubhouse session in the US will be one hour earlier, moving to 6:00 AM Pacific Time on Saturdays. The time in Taiwan remains unchanged (Saturday, 10:00 PM).</li>
+<li><strong>Scam Prevention</strong>: A reminder to all students to be wary of a scam account named &ldquo;powwill,&rdquo; which impersonates Teacher James to send private messages, inviting students to join groups or offering to manage their investments. Teacher James emphasizes that he will never initiate private messages.</li>
+<li><strong>Channel&rsquo;s Purpose</strong>: CLEC is a purely sharing platform and does not engage in any profit-making activities; the YouTube channel has not enabled monetization. All shared content is for reference only and does not constitute professional investment or tax advice. Investment carries extremely high risks and should be approached with caution.</li>
+</ul>
+
+
+<h3 class="relative group">Detailed Explanation of the Flexible Smart Rebalancing Strategy 
+    <div id="detailed-explanation-of-the-flexible-smart-rebalancing-strategy" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#detailed-explanation-of-the-flexible-smart-rebalancing-strategy" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Strategy Background</strong>: This strategy was optimized and back-tested by student Peng, based on Teacher James&rsquo;s smart rebalancing concept, with the goal of increasing the maintenance rate (security).</li>
+<li><strong>Core Mechanism</strong>: It introduces a customizable &ldquo;cash years&rdquo; variable (e.g., 15 years) as a threshold for switching strategies.
+<ol>
+<li><strong>When Cash Level is Below 15 Years</strong>:
+<ul>
+<li><strong>During a Market Upturn</strong>: Profits from the leveraged fund are moved into cash, with the goal of replenishing cash reserves to over 15 years as quickly as possible. Consider transferring 30%, 40%, or 50% of the profitable portion to accelerate cash accumulation.</li>
+<li><strong>During a Market Downturn</strong>: <strong>Do not use cash</strong>. Instead, sell the underlying fund (e.g., QQQ) to buy the leveraged fund (e.g., TQQQ) to maintain the Beta value while protecting precious cash reserves.</li>
+</ul>
+</li>
+<li><strong>When Cash Level is Above 15 Years</strong>:
+<ul>
+<li>The strategy reverts to traditional smart rebalancing. During a market downturn, cash can be used to buy more of the leveraged fund.</li>
+</ul>
+</li>
+</ol>
+</li>
+<li><strong>Strategy Version Evolution (1.0 vs. 2.0)</strong>:
+<ul>
+<li><strong>Version 1.0</strong>: The core is to reduce downside risk. During upturns, profits from the leveraged fund are converted to cash.</li>
+<li><strong>Version 2.0</strong>: With sufficient cash (above the threshold), it increases upside potential. During upturns, profits from the leveraged fund can be moved into the underlying fund (QQQ) instead of cash. This slows down the decrease in Beta, allowing for the capture of more upside opportunities.</li>
+</ul>
+</li>
+<li><strong>Back-testing Conclusion</strong>: Data shows that under different Beta settings, the &ldquo;Flexible Rebalancing&rdquo; strategy, especially when using the appropriate version for different Beta values, generally provides a higher minimum maintenance rate than traditional smart rebalancing, meaning higher security.</li>
+</ul>
+
+
+<h3 class="relative group">Application of Beta, Withdrawal Rate, and High-Dividend ETFs 
+    <div id="application-of-beta-withdrawal-rate-and-high-dividend-etfs" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#application-of-beta-withdrawal-rate-and-high-dividend-etfs" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Relationship Between Beta and Withdrawal Rate</strong>: The recommended annual withdrawal rate varies with the portfolio&rsquo;s volatility (Beta):
+<ul>
+<li>Beta 1.0: Recommended withdrawal rate 2.0%</li>
+<li>Beta 0.9: Recommended withdrawal rate 2.2%</li>
+<li>Beta 0.8: Recommended withdrawal rate 2.4%</li>
+<li>Beta 0.7: Recommended withdrawal rate 2.8%</li>
+</ul>
+</li>
+<li><strong>Solution for High Withdrawal Rates</strong>: When the required withdrawal rate <strong>exceeds 3%</strong>, traditional asset allocation becomes riskier. It is recommended to introduce high-dividend assets to supplement cash flow.</li>
+<li><strong>Introduction to High-Dividend ETFs (JEPQ &amp; JEPI)</strong>:
+<ul>
+<li><strong>JEPQ</strong>: Annualized dividend yield of about 10%. Approximately 80% of its assets are in QQQ, with the other 20% generating cash flow by selling covered calls. Its Beta is about 0.78, making it less volatile than QQQ and suitable for retirees needing high cash flow.</li>
+<li><strong>JEPI</strong>: Annualized dividend yield of about 8.37%. It operates based on SPY and has a lower Beta of about 0.57.</li>
+<li><strong>Target Audience</strong>: These ETFs are primarily suitable for investors who are <strong>already retired, have insufficient principal, and are highly dependent on stable cash flow</strong>. They are not recommended for young investors still in the asset accumulation phase, as their long-term capital appreciation potential is far lower than QQQ.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Investment Philosophy and Summary 
+    <div id="investment-philosophy-and-summary" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#investment-philosophy-and-summary" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Core Principles</strong>: Even if you don&rsquo;t understand the complex strategy details, grasp these key principles:
+<ol>
+<li><strong>Cash is King</strong>: If using a stock pledge loan, maintain a cash position of at least 30%.</li>
+<li><strong>15-Year Cash Goal</strong>: Strive to maintain cash reserves equivalent to at least 15 years of living expenses as an important safety buffer.</li>
+<li><strong>Beta Control</strong>: Keep the overall portfolio Beta below 1.0 to navigate market fluctuations smoothly.</li>
+</ol>
+</li>
+<li><strong>Assets and Inflation</strong>: Stocks are real assets, and their intrinsic value is not eroded by inflation. When currency depreciates, the price of assets (stock prices) will rise to reflect their value. Therefore, do not sell quality assets (like QQQ) due to fears of inflation or short-term market volatility. Selling at any time is a mistake.</li>
+</ul>
+
+
+<h2 class="relative group">III. Q&amp;A Session 
+    <div id="iii-qa-session" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iii-qa-session" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Peng 
+    <div id="peng" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#peng" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing:
+<ol>
+<li><strong>Inspiration for Flexible Rebalancing 1.0</strong>: It originated from Teacher James&rsquo;s mention that when cash is less than 15 years, one should not use cash to buy leveraged funds during a down year. Based on this, he conducted quantitative back-testing and tested different cash-year thresholds (13, 14, 15, 16 years) and the effect of transferring different percentages (30%, 40%, 50%) of profits to cash during upturns.</li>
+<li><strong>Inspiration for Flexible Rebalancing 2.0</strong>: Inspired by a strategy shared by student Lin. He pondered whether, when the cash position is sufficient, profits from the leveraged fund could be moved to the underlying fund (instead of cash) to slow the decline in Beta, thereby capturing more future upside potential.</li>
+<li><strong>Conclusion</strong>: Version 1.0 aims to &ldquo;reduce downside risk,&rdquo; while Version 2.0 builds on this to &ldquo;increase upside potential.&rdquo; He emphasized that the current back-testing period is limited and this is still his personal exploration, not to be taken as a final conclusion. However, the general direction is that a higher cash position leads to a higher maintenance rate.</li>
+</ol>
+</li>
+</ul>
+
+
+<h3 class="relative group">Haiwaizhong 
+    <div id="haiwaizhong" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#haiwaizhong" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: Why do you recommend withdrawing 2% annually instead of borrowing the full 20% of the pledge limit from the start?
+<ul>
+<li>Teacher James&rsquo;s Reply: This is a critical risk control issue. If you borrow 20% at once and the market experiences a major crash like in 2000 (an 85% drop), your assets would fall from $1 million to $150,000, but your debt would still be $200,000. you would go bankrupt immediately. By withdrawing 2% annually, even if the market declines for three or four consecutive years, you would have only used 8% of your total assets, and your assets would still be far greater than your liabilities, allowing you to survive the crisis safely.</li>
+</ul>
+</li>
+<li>Sharing: He observed that QQQ&rsquo;s annual return (23.29%) has surpassed VT&rsquo;s (19.92%), refuting an influencer&rsquo;s previous claim that VT would crush QQQ.
+<ul>
+<li>Teacher James&rsquo;s Comment: Ignore the outside noise; time will prove everything.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Lin 
+    <div id="lin" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#lin" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: Two things are especially important in investing: first, clarifying your investment Purpose, and second, setting a matching Target. The most dangerous situation is a mismatch between purpose and target. For example, investing with a mindset of entertainment (gambling) but expecting a stable cash flow or high returns will inevitably lead to disaster. Many friends around her made this mistake by engaging in all sorts of frantic trading during a bull market.
+<ul>
+<li>Teacher James&rsquo;s Comment: Very well said. It&rsquo;s like someone who does drugs and stays up all night but expects to be healthy—an impossible task. The actions of most people are contrary to their ultimate goals, but they don&rsquo;t realize it themselves. This is a lifelong tragedy.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Lu 
+    <div id="lu" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#lu" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: After following the teacher for over a year, she feels very much at ease. The cash strategy mentioned later by the teacher also coincides with Charlie Munger&rsquo;s philosophy of holding cash. Cash may seem like a drag on performance, but it can bring huge opportunities or provide security at critical moments. She shared her personal experience to encourage new students, saying that the teacher has already considered various risks for everyone. As long as you listen carefully and execute, you will surely gain understanding.</li>
+</ul>
+
+
+<h3 class="relative group">H. Chen 
+    <div id="h-chen" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#h-chen" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: After I retire, my annual Social Security and pension income will be about $100,000. In this case, is it sufficient for me to set aside a 10-year cash reserve?
+<ul>
+<li>Teacher James&rsquo;s Reply: Your situation is excellent. Since your basic living expenses are covered by this $100,000 stable cash flow, you don&rsquo;t need to reserve that many years of cash. Depending on your comfort level, you can keep, for instance, 5 years of cash or 10% of your total assets in cash as a backup. The rest of your funds can be confidently invested in QQQ and leveraged funds.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Wang 
+    <div id="wang" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#wang" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question 1: If I buy the Hong Kong-listed version of the QQQ ETF (e.g., 3086) through a Hong Kong brokerage, will I be subject to US estate tax?
+<ul>
+<li>Teacher James&rsquo;s Reply: No. As long as you purchase an ETF listed locally in Hong Kong, it will not involve US estate tax. Only directly purchasing the US-listed QQQ would.</li>
+</ul>
+</li>
+<li>Question 2: For index ETFs purchased in Hong Kong or Mainland China, should I also follow the principle of &ldquo;buy and hold, never sell&rdquo;?
+<ul>
+<li>Teacher James&rsquo;s Reply: Yes, keep buying and don&rsquo;t sell.</li>
+</ul>
+</li>
+<li>Question 3: Are there any leveraged funds available for purchase in Mainland China?
+<ul>
+<li>Teacher James&rsquo;s Reply: No, not in the mainland. Hong Kong has them, such as the CSOP NASDAQ-100 Index Daily (2x) Leveraged Product (7266) and the ChinaAMC NASDAQ 100 Index Daily (2x) Leveraged Product (7261).</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Doris 
+    <div id="doris" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#doris" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question 1: Most of her funds are in a US retirement account (a Rollover IRA from a 401k) and she was told she cannot use them for a stock pledge loan. This might prevent her from retiring early. How should she handle this?
+<ul>
+<li>Teacher James&rsquo;s Reply: This is a common trap. He does not recommend over-contributing to retirement accounts (like the Mega Backdoor Roth). The remedy now is: immediately stop contributing more money to the retirement account and focus all your efforts on building a personal brokerage account. At the same time, you should start converting funds from your Traditional IRA to a Roth IRA annually as soon as possible. Within the IRA, you can also allocate: put a small amount in a Roth IRA to buy TQQQ, so the high-growth portion is tax-free; keep the majority in the Traditional IRA holding QQQ or cash, which will reduce the tax burden during conversion.</li>
+</ul>
+</li>
+<li>Question 2: Are JEPQ and JEPI meant to be replacements for QQQ?
+<ul>
+<li>Teacher James&rsquo;s Reply: Not replacements. They are tools for a specific group of people (retired, insufficient principal, need high cash flow). Those still in the asset accumulation phase should not touch them. The funding allocation order for retirees should be: 1. Meet cash flow needs (JEPQ), 2. Set aside an emergency fund, 3. Only if there is money left over, consider investing in QQQ for growth.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Helen Wong 
+    <div id="helen-wong" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#helen-wong" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: She bought QQQ in 2021 after listening to the teacher&rsquo;s class but sold in a panic during the 2022 market downturn. This year, she rebuilt her confidence, consolidated her assets, and followed the teacher&rsquo;s method. She is now up over 30% and feels more confident about her future retirement.</li>
+<li>Question 1: In the event of future hyperinflation, which is a better store of value, real estate or stocks? Can the stock market withstand the test?
+<ul>
+<li>Teacher James&rsquo;s Reply: Stocks are assets. Inflation means money is worthless, but the value of the asset remains. At that time, the price of the asset (stock price) will rise to reflect its real value. Short-term market drops are due to human fear, not value destruction.</li>
+</ul>
+</li>
+<li>Question 2: Is the 10% dividend from JEPQ fixed? If the principal drops from $500,000 to $300,000, will the dividend also decrease proportionally?
+<ul>
+<li>Teacher James&rsquo;s Reply: Its dividend amount is relatively stable; it does not fluctuate strictly as a percentage of the principal. It&rsquo;s more like an annuity, designed to provide a steady stream of cash flow. So even if the market value drops, the dividend amount you receive will not decrease proportionally.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">L 
+    <div id="l" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#l" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: Her family members previously bought QQQ and leveraged funds, but sold everything out of fear after making only fifty or sixty thousand dollars. Now they only dare to buy money market funds (865B) and have missed out on significant subsequent gains. How can she persuade them?
+<ul>
+<li>Teacher James&rsquo;s Reply: You can&rsquo;t save them; this is their &ldquo;fate.&rdquo; Not everyone can become wealthy; 99.99% of people are destined to be poor. For those who won&rsquo;t listen, you should &ldquo;let go.&rdquo; Don&rsquo;t worry about them, just manage your own investments well.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Wanfeng 
+    <div id="wanfeng" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#wanfeng" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: I&rsquo;m curious why the teacher mentioned a new investment vehicle like JEPQ today.
+<ul>
+<li>Teacher James&rsquo;s Reply: It was because of a specific case: a 72-year-old student with only $600,000 in principal who needs $40,000 a year for living expenses. To help solve his problem, I researched high-dividend products and found JEPQ and JEPI to be relatively stable options. This is because they are not purely derivatives; they hold a large amount of real assets (80% index components), so they can be considered. This is to solve the cash flow problem for seniors, not a recommendation for the average investor.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Haoqing 
+    <div id="haoqing" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#haoqing" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: He shared the story of a 78-year-old relative in his family who is in financial difficulty due to kidney failure, requiring dialysis three times a week. He advised the relative to sell a piece of ancestral land that generated no cash flow and invest the funds into Taiwan&rsquo;s high-dividend ETF 0056. This would generate nearly 600,000 TWD in annual cash flow (50,000 TWD per month), completely solving her living expenses and allowing her to live with more dignity. He believes that the form of an asset can be changed; converting land into a stock asset that continuously generates cash flow can also be passed down to future generations.
+<ul>
+<li>Teacher James&rsquo;s Comment: There is much suffering in the world, but the number of people we can help is limited. You gave excellent advice, but if she is unwilling to sell the land, that is her choice. We can only help those who are willing to be helped. At the same time, he also reminded everyone to protect their kidney health, drink more water, and stay away from junk food and sugary drinks.</li>
+</ul>
+</li>
+</ul>
+
+
+<h2 class="relative group">IV. Insightful Quotes 
+    <div id="iv-insightful-quotes" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iv-insightful-quotes" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<blockquote>
+<p>You think what you&rsquo;re doing is moving you towards your goal, but in reality, you&rsquo;re just moving further away from it, and you still think you&rsquo;re heading towards your goal. This is the most frightening thing.
+&ndash; Lin</p></blockquote>
+<p>This quote profoundly points out the disconnect between the actions and goals of many investors. They engage in speculative, trend-chasing, and other entertainment-like operations, yet expect to achieve long-term, stable financial objectives. Ultimately, they often end up going in the opposite direction, wasting precious time and capital.</p>
+<blockquote>
+<p>Stocks are assets&hellip; How much they sell for is determined by you, the asset owner&hellip; As long as you sell (QQQ), you are wrong. Selling at any time is wrong because you are selling too low.
+&ndash; Teacher James</p></blockquote>
+<p>In response to concerns about inflation, Teacher James emphasized the nature of quality stocks as real assets. Their long-term value will continuously grow, and short-term price fluctuations should not affect the determination to hold. Selling quality assets is equivalent to giving away huge future potential at a low price.</p>
+<blockquote>
+<p>You can&rsquo;t save the poor&hellip; 99.99% of people are fated to be poor, it can&rsquo;t be helped. So you should just&hellip; let go.
+&ndash; Teacher James</p></blockquote>
+<p>While this statement may sound blunt, it reflects a reality in investment education: we can only influence those who are willing to accept and change. For family or friends who are stubborn and dominated by fear, it is better to let go and focus on one&rsquo;s own growth than to persuade them in vain.</p>
+<blockquote>
+<p>When people get old, if you don&rsquo;t have money, others might see you as a kind of &rsquo;lower-class elderly&rsquo;.
+&ndash; Haoqing</p></blockquote>
+<p>This point raised by Haoqing in his sharing very realistically highlights the importance of financial independence in old age. Having a stable cash flow is not just for survival, but for maintaining dignity, avoiding dependency on others, and being at their mercy in one&rsquo;s later years.</p>
+
+
+<h2 class="relative group">V. Conclusion 
+    <div id="v-conclusion" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#v-conclusion" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>This session provided a significant optimization to the smart rebalancing strategy from a more refined and secure perspective, introducing the concept of &ldquo;Flexible Rebalancing.&rdquo; The core idea is to protect cash as a lifeline, preferring to exchange underlying assets for leveraged assets rather than easily tapping into cash reserves when they are insufficient. At the same time, the course demonstrated strong practicality by offering concrete and viable solutions, such as allocating to high-dividend products like JEPQ, for groups facing real-life difficulties (like insufficient retirement funds). Overall, this session not only deepened the theory of asset allocation but also closely integrated the practical financial needs of different life stages, once again emphasizing the core investment principles of long-term holding, risk control, and cash is king.</p>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>Disclaimer:</strong> This article is for personal study notes only and does not constitute any investment advice.</span>
+</div>
+
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>00537 Wealth Management Mortgage &#43; Antifragile Retirement: A 15-Year Cash Safety Cushion, Get Rich by Borrowing Smartly</title>
       <link>https://jomonylw.github.io/en/posts/1761444214833/</link>
@@ -4305,455 +4765,6 @@ Background: When summarizing the seventh and highest level of investment operati
     
 </h2>
 <p>This session once again emphasized the core of the CLEC investment philosophy: investing is simple, mindset is supreme. Starting from a high-level life philosophy, Teacher James guided everyone to shift their focus from the complex noise of the market to the simple purity of their personal lives, fostering the belief to &ldquo;live for yourself.&rdquo; The course not only shared profound insights on children&rsquo;s education and self-worth realization but also delved into the practical application of financial tools like &ldquo;reverse mortgages&rdquo; and &ldquo;pledged loans.&rdquo; It also provided detailed explanations on the risk control and long-term operational principles of asset allocation (especially the 433 strategy involving leveraged funds). Through active questions and sharing from students, many practical confusions—such as allocation in different accounts, tax issues, and retirement cash flow planning—were clearly answered. Ultimately, the course returned to a fundamental point: build a strong inner self and adhere to the right principles, and wealth will naturally follow.</p>
-
-  
-
-
-
-<div
-  
-    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
-  >
-
-  <span
-    
-      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
-    >
-
-    
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
-
-  </span>
-
-
-  </span>
-
-  <span
-    
-      class="dark:text-neutral-300"
-    ><strong>Disclaimer:</strong> This article is for personal learning notes only and does not constitute any investment advice.</span>
-</div>
-
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>00528 Achieving Financial Freedom with Correct Asset Allocation and Stock Pledging: A Long-Term Investment Strategy from 60 Million to 700 Million</title>
-      <link>https://jomonylw.github.io/en/posts/1756008529035/</link>
-      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://jomonylw.github.io/en/posts/1756008529035/</guid>
-      <description>In this session, Teacher James reiterates the core investment philosophy of &amp;#39;Buy whenever you have money, and never sell.&amp;#39; He provides a detailed introduction to the AI learning tools and resource library compiled by senior student Chen Feng. The session also delves into different asset allocation strategies for young people and high-net-worth individuals, particularly highlighting the distinction between the &amp;#39;super-rich&amp;#39; and the &amp;#39;rich&amp;#39; in using stock pledging for wealth growth. The Q&amp;amp;A segment is rich in content, covering key topics such as tax planning, retirement account choices, cross-border fund management, and how to counter market noise with facts. It also includes important reminders about health screenings and the tax implications of overseas brokerage accounts.</description>
-      <content:encoded><![CDATA[<lite-youtube videoid="Auip1bgz_5E" playlabel="Auip1bgz_5E" params=""></lite-youtube>
-
-
-
-<h2 class="relative group">I. Theme of the Session 
-    <div id="i-theme-of-the-session" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#i-theme-of-the-session" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<p>The core theme of this session is to <strong>adhere to long-termism and not fear short-term market fluctuations</strong>. Teacher James emphasizes that the only secret to successful investing is to &ldquo;buy whenever you have money, and never sell,&rdquo; as the market will inevitably reach new highs in the long run. Investors should not be influenced by sensational media headlines or short-term market volatility but should focus on a simple buy-and-hold strategy. Additionally, this session delves into asset allocation methods for different capital sizes and how to use financial tools like stock pledging to achieve exponential wealth growth.</p>
-
-
-<h2 class="relative group">II. Briefing Content 
-    <div id="ii-briefing-content" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#ii-briefing-content" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-
-
-<h3 class="relative group">Core Investment Philosophy &amp; Learning Tools 
-    <div id="core-investment-philosophy--learning-tools" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#core-investment-philosophy--learning-tools" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Core Philosophy</strong>: The market has no ceiling; it will only go higher. The simplest and most effective investment method is to &ldquo;buy whenever you have money, and never sell.&rdquo; The only thing investors need to do is buy; they don&rsquo;t even need to consider selling. This simple truth is often not understood by the public, while the media prefers sensational and &ldquo;bloodthirsty&rdquo; headlines to attract attention.</li>
-<li><strong>Investing Cannot Be Taught, Only Learned</strong>: The teacher stresses that even if the audience listens to what he says, they may not truly learn it. True mastery comes from investors spending their own time watching videos, thinking independently, and studying.</li>
-<li><strong>Introduction to a Powerful Learning Resource Library</strong>:
-<ol>
-<li><strong>Chen Feng&rsquo;s Platform</strong>: Page 20 of the lecture notes provides a link to the platform organized by Chen Feng, which integrates all of CLEC&rsquo;s important resources.</li>
-<li><strong>Annual Playlists</strong>: The platform allows direct access to the complete course playlists for 2023 and 2024, making it convenient for new students to learn systematically.</li>
-<li><strong>AI Interactive Tool (NotebookLM)</strong>: Chen Feng has &ldquo;fed&rdquo; the content of CLEC&rsquo;s long and short videos into an AI model to create a knowledge base. Students can log in with their Google account and ask the AI questions in a conversational manner. The AI will provide relevant answers based on the questions and indicate which videos the knowledge comes from, greatly improving the efficiency of learning and finding information.</li>
-<li><strong>Financial Statement Learning Resources</strong>: The teacher specifically shared the <strong>2018</strong> and <strong>2022</strong> course playlists on the YouTube channel, which contain complete instructional content on financial statement analysis, suitable for students who want to study in-depth.</li>
-<li><strong>The Teacher&rsquo;s ChatGPT</strong>: Page 23 of the lecture notes provides a link to the ChatGPT trained by James himself, which is also a powerful learning tool.</li>
-</ol>
-</li>
-</ul>
-
-
-<h3 class="relative group">Asset Allocation Strategies for Different Stages 
-    <div id="asset-allocation-strategies-for-different-stages" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#asset-allocation-strategies-for-different-stages" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>For the Young or Those with Insufficient Funds</strong>:
-<ul>
-<li><strong>Prerequisite</strong>: When your total capital is not enough to cover <strong>three years</strong> of annual expenses, complex asset allocation is not recommended.</li>
-<li><strong>Action</strong>: First, save up <strong>one year</strong> of emergency funds (in cash or a money market fund). Any amount exceeding the emergency fund should be fully invested in QQQ or 00662.</li>
-<li><strong>Example</strong>: If your annual expense is 100,000 and your total assets are 160,000, then 100,000 should be kept as an emergency fund, and only 60,000 can be invested.</li>
-<li><strong>Turning Point</strong>: When the cash portion can reach about 30% of your total assets, and this amount already exceeds one year&rsquo;s expenses, you can start considering a more systematic asset allocation. For example, with total assets of 500,000 and annual expenses of 100,000, 30% cash is 150,000, which is higher than the 100,000 emergency fund requirement. At this point, you can start asset allocation.</li>
-</ul>
-</li>
-<li><strong>Asset Allocation and Pledging Strategy for High-Net-Worth Individuals (433 Model)</strong>:
-<ul>
-<li><strong>Case Study</strong>: A 35-year-old friend with 60 million in assets uses a 433 asset allocation (40% QQQ, 30% QLD, 30% short-term bonds/cash).</li>
-<li><strong>2% Living Expense Rule</strong>: Borrow 2% of <strong>total assets</strong> annually for living expenses through stock pledging. In this case, it&rsquo;s 2% of 60 million, which is 1.2 million per year. <strong>The key is that it&rsquo;s based on total assets, not 2% of a single holding (like QQQ)</strong>.</li>
-<li><strong>The Power of Long-Term Growth</strong>:
-<ul>
-<li>In the 10th year: Total assets are expected to grow from 60 million to about 200 million, while total debt (including interest) will be around 14 million, resulting in a very healthy debt ratio of only 7%.</li>
-<li>At that point, the living expense standard can be raised, for example, to live on 1% (2 million/year) or 2% (4 million/year) of 200 million.</li>
-</ul>
-</li>
-<li><strong>Rebalancing and Taxes</strong>: After significant asset growth, you can re-allocate your assets. For U.S. investors, rebalancing within a ROTH account can effectively avoid capital gains tax, which is highly efficient.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Life and Other Important Advice 
-    <div id="life-and-other-important-advice" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#life-and-other-important-advice" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Health First: Low-Dose Computed Tomography (LDCT)</strong>
-<ul>
-<li><strong>Importance</strong>: The teacher strongly recommends that everyone, especially friends over 40, pay for an LDCT lung cancer screening.</li>
-<li><strong>Judgment Criteria</strong>:
-<ul>
-<li>If a nodule smaller than 0.6cm is found, there is no need to worry excessively; annual follow-ups are sufficient.</li>
-<li>If a nodule larger than 0.8cm is found, you must immediately consult a thoracic specialist. The doctor will arrange for follow-up tracking (usually covered by health insurance). If the nodule shows signs of growth during the observation period, it needs to be dealt with promptly.</li>
-</ul>
-</li>
-<li><strong>The Core Idea</strong>: Early detection and early treatment are key. Do not neglect screening out of fear of &ldquo;false positives.&rdquo;</li>
-</ul>
-</li>
-</ul>
-
-
-<h2 class="relative group">III. Q&amp;A Session 
-    <div id="iii-qa-session" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#iii-qa-session" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-
-
-<h3 class="relative group">Chenfeng 
-    <div id="chenfeng" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#chenfeng" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Sharing:
-<ol>
-<li>He has integrated all the links introduced by the teacher (long/short videos, AI interactive tools, data downloads, etc.) into a single portal (the CFN link on page 20 of the lecture notes), allowing everyone one-stop access and operation.</li>
-<li>Scope of the AI Knowledge Base: Long-form videos now cover content from mid-2022 to the present; nearly 100 short-form videos have been included and will be continuously updated.</li>
-<li>Value of the AI Tool: Through AI-powered summaries and Q&amp;A functions, it can help everyone quickly find the information they need in a vast sea of data, making it smoother to get on the &ldquo;train to wealth.&rdquo;</li>
-</ol>
-<ul>
-<li>Teacher James&rsquo;s Comment: Everyone should go and actually operate and experience these tools. You can only appreciate their value by playing with them yourself.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Bruce 
-    <div id="bruce" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#bruce" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Question 1: My son lives in Taiwan, but his US dollar income is directly deposited into a Hong Kong account. Should he bring the money back to Taiwan to buy 00662, or open an account in Hong Kong to buy QQQ?
-<ul>
-<li>Teacher James&rsquo;s Reply: The core principle is &ldquo;<strong>If you are in Taiwan, your money should be in Taiwan</strong>.&rdquo; Funds should not be kept in Hong Kong. Remit the money back to Taiwan and declare it as income for tax purposes normally. Don&rsquo;t worry about exchange rate fluctuations; in the long run, the average exchange rate from remitting in batches will tend towards an expected value. The exchange rate is irrelevant to long-term investment. If you have money, you should buy immediately and not let the exchange rate influence your decision.</li>
-</ul>
-</li>
-<li>Question 2: Regarding the 60 million asset case, living off a 2% pledge (1.2 million) annually, if I only need 1% (600,000), should I only withdraw 1%, or withdraw 2% and invest the extra 1% back?
-<ul>
-<li>Teacher James&rsquo;s Reply: Just withdraw the 1% you need. You can choose not to use the extra credit line, or you can borrow it to reinvest, which will make you grow faster. Both are acceptable.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Winnie 
-    <div id="winnie" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#winnie" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Question 1: She is 63 this year and has already converted part of her Traditional IRA to a Roth IRA. Her company&rsquo;s 401k also allows Roth contributions. Should she, from now on, choose Roth for everything she can convert and contribute to?
-<ul>
-<li>Teacher James&rsquo;s Reply: Yes, that is very correct and urgent. First, all future contributions should go into a Roth 401k. Second, she has 1.7M in a Traditional IRA and must speed up the conversion. Otherwise, she will face a huge tax burden at age 75 due to RMD (Required Minimum Distribution). Based on calculations, she needs to convert about 270,000 per year to finish before age 75. It&rsquo;s easier to convert now while she has work income than after retirement when she has no cash flow. Consider borrowing from a pledged account to pay the conversion tax.</li>
-</ul>
-</li>
-<li>Sharing: After learning about investing, her energy and confidence have both increased. She has become more confident and bold at work, daring to express herself and take action.</li>
-</ul>
-
-
-<h3 class="relative group">Li 
-    <div id="li" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#li" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Question 1: Is it necessary for high-net-worth individuals to do stock pledging?
-<ul>
-<li>Teacher James&rsquo;s Reply: Not necessarily, but this is precisely the difference between being &ldquo;<strong>rich</strong>&rdquo; and being &ldquo;<strong>super-rich</strong>.&rdquo; He used a striking example: with 60 million in assets, if you use pledged loans for living expenses (allowing the principal to compound at 15%), your net worth could reach <strong>15.8 billion</strong> after 40 years. However, if you don&rsquo;t pledge and instead sell assets for living expenses each year (causing the total return rate to drop to 13%), your assets will only be <strong>800 million</strong> after 40 years, a difference of nearly 20 times.</li>
-</ul>
-</li>
-<li>Question 2: What should be the order of borrowing? Mortgage, personal loan, stock pledge—which takes priority?
-<ul>
-<li>Teacher James&rsquo;s Reply: You can use lower-interest mortgages or personal loans to borrow funds and invest them in the market (buy QQQ/00662), and then use the money borrowed from stock pledging to pay the monthly installments of the mortgage or personal loan. This frees up your salary, allowing 100% of it to be reinvested, creating a powerful positive cycle. This is the most efficient way to grow wealth.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Vini 
-    <div id="vini" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#vini" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Sharing: When sharing investment concepts with elders, an elder sent him news articles stating that &ldquo;95% of AI companies are not profitable&rdquo; and &ldquo;OpenAI CEO warns of an AI bubble.&rdquo; At the time, he responded that it was market noise, but he still felt a bit uncertain inside.</li>
-<li>Question: He would like to ask the teacher&rsquo;s opinion on these two news items.
-<ul>
-<li>Teacher James&rsquo;s Reply: This information is all &ldquo;<strong>demons and ghosts</strong>&rdquo;; you must dispel them with facts. The so-called &ldquo;unprofitable AI companies&rdquo; refer to small startups, which is normal. But the large tech companies in the QQQ components that we invest in (like Meta, Google, Microsoft) are not only profitable but are also growing rapidly, especially in the B2B sector, where AI is generating very substantial revenue. Communicating with data and facts is the only effective way to dispel these rumors.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">S 
-    <div id="s" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#s" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Question: To reconfirm the case of using 2% of a 60 million asset base annually, does this refer to selling 2% of stocks or taking a pledged loan?
-<ul>
-<li>Teacher James&rsquo;s Reply: The case we discussed refers to <strong>pledged loans</strong>. Of course, for those who do not use pledging, they can also choose to sell 2% of their stocks each year to cover living expenses.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Wu 
-    <div id="wu" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#wu" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Question 1: Is investing in QQQ equivalent to investing in a country (the United States) and the future of humanity?
-<ul>
-<li>Teacher James&rsquo;s Reply: Yes, investing in QQQ is about believing in technology, believing in America, and believing that humanity will continue to progress.</li>
-</ul>
-</li>
-<li>Question 2: How should we view the Buffett Indicator (Total US Stock Market Cap / GDP Ratio) being at a historical high, suggesting the market is overvalued?
-<ul>
-<li>Teacher James&rsquo;s Reply: This is a fundamental conceptual error. <strong>GDP is like your annual salary, a flow concept; market capitalization is like your total net worth, an accumulation of stock over decades</strong>. Comparing your one-year salary to your decades of total assets and then saying your assets are in a bubble is completely illogical. This indicator has no reference value.</li>
-</ul>
-</li>
-<li>Sharing: He personally believes that QQQ represents the strongest productivity of humankind and, through its dynamic adjustment mechanism of survival of the fittest, will always contain the 100 strongest tech companies of the time.</li>
-</ul>
-
-
-<h3 class="relative group">Iam 
-    <div id="iam" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#iam" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Sharing 1: He feels that the more he learns, the harder it is to communicate with friends who don&rsquo;t understand investing.
-<ul>
-<li>Teacher James&rsquo;s Reply: That shouldn&rsquo;t be the case. In theory, <strong>the more you know, the easier it should be to communicate with others in simpler, more accessible terms</strong>, just like a university professor can explain complex mathematical concepts to a middle school student. The key to communication is to listen and adjust your frequency to match the other person&rsquo;s, rather than adopting a &ldquo;teaching&rdquo; mentality. If the other person cannot accept it, you can say, &ldquo;Perhaps you are right,&rdquo; and end the conversation.</li>
-</ul>
-</li>
-<li>Sharing 2: When he talks about investing with friends, their first reaction is always &ldquo;I don&rsquo;t have money,&rdquo; and they hope to find a &ldquo;guaranteed profit, no-risk&rdquo; method.
-<ul>
-<li>Teacher James&rsquo;s Reply: This is the &ldquo;fatalistic&rdquo; thinking instilled in many people by their families of origin and culture, such as &ldquo;there&rsquo;s no such thing as a free lunch&rdquo; and &ldquo;only hard work leads to wealth.&rdquo; The truth is, <strong>it is very difficult to become rich through work alone. Only those who understand financial operations and investing can achieve financial freedom</strong>. The financial system in the United States (like the 401k) encourages the entire population to invest, whereas many emerging countries are still stuck in the stage of encouraging hard work alone.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Penny 
-    <div id="penny" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#penny" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Sharing 1 (The Importance of Roth): She is in the US, and one of the biggest changes after getting to know the teacher was converting all her 401k to Roth. She reminds everyone that a Traditional 401k is only tax-deferred, not tax-free. For those who know how to invest, retirement accounts will grow to a very large amount, and withdrawals from a traditional account will face terrifying tax rates. Young people must choose Roth.</li>
-<li>Sharing 2 (New US Tax Law Rule): As a payroll system expert, she shared a new rule effective in 2025: for people over 50 with an annual income exceeding $145,000, their additional &ldquo;Catch-up&rdquo; contributions can only be put into a Roth 401k, no longer into a pre-tax Traditional 401k.</li>
-<li>Sharing 3 (Pledging vs. Selling): She strongly agrees with the teacher&rsquo;s &ldquo;chicken and golden egg&rdquo; analogy. Selling stocks is like killing the chicken that lays golden eggs. Not only is the chicken gone, but you also have to pay taxes on the income from selling the chicken, which is a double loss. Pledging allows the chicken to continue laying eggs; you are just borrowing some future eggs. It is a superior strategy.</li>
-<li>Question: She is planning her post-retirement operational sequence: first, sell company stock and convert to QQQ; then, convert SPY to QQQ; and finally, convert Traditional 401k to Roth annually as needed. She asks if this sequence is reasonable.
-<ul>
-<li>Teacher James&rsquo;s Reply: The sequence is reasonable. The key is to calculate and control the annual operations to fall within the ideal tax bracket. He also suggests that she can allocate some cash within her Traditional 401k to slow its growth rate, thereby reducing the future tax burden upon conversion. However, she should also be careful not to sacrifice too much of the overall portfolio&rsquo;s return (Beta) in the process.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Selected Chat Questions 
-    <div id="selected-chat-questions" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#selected-chat-questions" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Question: If I am in the US, can I operate a brokerage account in mainland China?
-<ul>
-<li>Teacher James&rsquo;s Reply: You can log in, but be wary of tax issues. Brokerages like Futu, Tiger, and Interactive Brokers are registered in the US as overseas brokers. Their assets are considered US assets and are subject to <strong>US estate tax</strong>, which requires special care.</li>
-</ul>
-</li>
-<li>Question: If my company&rsquo;s 401k investment options are very poor, should I give it up and only invest in a brokerage account?
-<ul>
-<li>Teacher James&rsquo;s Reply: No. Even if the 401k options are bad, you still <strong>must have a Roth account</strong>. The advantages of Roth&rsquo;s tax-free growth and tax-free withdrawals are unparalleled.</li>
-</ul>
-</li>
-</ul>
-
-
-<h2 class="relative group">IV. Noteworthy Quotes 
-    <div id="iv-noteworthy-quotes" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#iv-noteworthy-quotes" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<blockquote>
-<p>The market has no ceiling, it will only go higher, so you don&rsquo;t have to do anything, you don&rsquo;t have to worry, it will hit new highs and bring you immense wealth.
-&ndash; Teacher James</p></blockquote>
-<p>Background: At the beginning of the session, the teacher emphasized the mindset investors should have—a firm belief in the long-term upward trend of the market, which is the cornerstone of adopting a &ldquo;buy and hold&rdquo; strategy.</p>
-<blockquote>
-<p>Investing can&rsquo;t be taught, it can only be learned by oneself. You won&rsquo;t get it just by listening to me. If you don&rsquo;t learn it yourself, you won&rsquo;t get it.
-&ndash; Teacher James</p></blockquote>
-<p>Background: After introducing numerous learning tools, the teacher stressed the importance of proactive learning and self-exploration in the field of investment. Attending lectures is just the starting point; true understanding requires personal practice.</p>
-<blockquote>
-<p>If you are in Taiwan, your money should be in Taiwan.
-&ndash; Teacher James</p></blockquote>
-<p>Background: When answering Bruce&rsquo;s question about his son&rsquo;s US dollar income in Hong Kong, the teacher gave this clear and concise principle, emphasizing that funds should be consistent with one&rsquo;s place of residence for ease of management and tax compliance.</p>
-<blockquote>
-<p>This (pledging or not) is the difference between being rich and being super-rich.
-&ndash; Teacher James</p></blockquote>
-<p>Background: When explaining why one should use stock pledging, the teacher used an example showing a nearly twenty-fold difference in assets after 40 years, vividly illustrating the huge impact of using (or not using) leverage tools on the ultimate scale of wealth.</p>
-<blockquote>
-<p>Your salary is the so-called GDP, and your salary increase is GDP growth. Your assets are the result of past accumulation, so our market value is the result of past accumulation.
-&ndash; Teacher James</p></blockquote>
-<p>Background: When refuting the bearish market argument that the &ldquo;Market Cap to GDP ratio is too high,&rdquo; the teacher used the analogy of personal salary versus total assets to clearly reveal the logical fallacy of this indicator.</p>
-<blockquote>
-<p>The more you know, the easier it should be to communicate with people.
-&ndash; Teacher James
-Background: In response to a student&rsquo;s confusion about finding it harder to communicate as they learn more, the teacher pointed out that true wisdom is demonstrated by the ability to simplify complexity and communicate effectively with people at different levels of understanding.</p></blockquote>
-<blockquote>
-<p>If you just sell stocks&hellip; you are essentially killing one of your chickens. Not only will this chicken no longer lay eggs for you, but the chicken itself is also gone.
-&ndash; Penny</p></blockquote>
-<p>Background: In her sharing, Penny used the vivid &ldquo;killing the goose that lays the golden eggs&rdquo; analogy to profoundly explain the essential difference and the pros and cons between selling stocks for living expenses and using stock pledging to borrow funds.</p>
-<blockquote>
-<p>It&rsquo;s likely impossible to become wealthy through work. People who work longer might even become poorer. Only those who understand will become rich, and those who know how to borrow money will become super-rich.
-&ndash; Teacher James</p></blockquote>
-<p>Background: Commenting on the prevalent societal belief of &ldquo;getting rich through hard work,&rdquo; the teacher revealed the truth about wealth growth, emphasizing the importance of financial literacy and the skillful use of leverage.</p>
-
-
-<h2 class="relative group">V. Summary 
-    <div id="v-summary" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#v-summary" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<p>This session began by reaffirming the investment anchor of &ldquo;buy and hold, never sell,&rdquo; instilling strong confidence in investors amidst a volatile market. Teacher James and senior student Chen Feng detailed the newly integrated AI learning platform, tools that will significantly enhance students&rsquo; efficiency in self-directed learning. The core discussion, through an analysis of asset allocation strategies for young people and high-net-worth individuals, clearly outlined a path to wealth from accumulation to the skillful use of capital. The in-depth interpretation of stock pledging, in particular, revealed its immense potential as a wealth amplifier. The Q&amp;A session was exceptionally insightful, not only solving students&rsquo; specific problems in areas like taxation, retirement planning, and asset allocation but also providing profound inspiration regarding investment mindset, communication wisdom, and information discernment. This was a comprehensive sharing that covered everything from the Tao (investment philosophy) to the techniques (specific strategies) and the tools (learning instruments).</p>
 
   
 
