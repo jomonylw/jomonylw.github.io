@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>资产配置 on QQQ 投资者</title><link>https://jomonylw.github.io/tags/%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE/</link><description>Recent content in 资产配置 on QQQ 投资者</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/tags/%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/</link><pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-6fb22d3943ec7794c447a8e7c1bb77a4"></h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>资产配置 on QQQ 投资者</title><link>https://jomonylw.github.io/tags/%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE/</link><description>Recent content in 资产配置 on QQQ 投资者</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/tags/%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://jomonylw.github.io/</link><pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/</guid><description/><content:encoded><![CDATA[<h2 id="typeit-6fb22d3943ec7794c447a8e7c1bb77a4"></h2>
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
@@ -447,6 +447,456 @@
         
     
 </section>
+]]></content:encoded></item><item><title>00538 弹性再平衡2 0：现金十五年不减值，赢多输少的安全升级版</title><link>https://jomonylw.github.io/posts/1762045399886/</link><pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/posts/1762045399886/</guid><description>本期James老师详细介绍了由学员彭（Peng）开发的「弹性聪明再平衡」策略，作为传统聪明再平衡的优化版，旨在提高资产配置的安全性。策略核心在于设立现金年份门槛，灵活调整再平衡的资金来源。此外，老师也探讨了不同Beta值对应的提领率，并为现金流不足的退休人士介绍了JEPQ等高股息ETF作为解决方案。</description><content:encoded><![CDATA[<lite-youtube videoid="g14_NDnf8V8" playlabel="g14_NDnf8V8" params=""></lite-youtube>
+
+
+
+<h2 class="relative group">一、当期主题 
+    <div id="%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<p>本期深入探讨了「弹性聪明再平衡」这一优化策略，其核心观点是：在传统聪明再平衡的基础上，增加一个「现金年份」的判断标准。当现金储备低于预设年份（如15年）时，市场下跌不再消耗现金，而是用原型基金（如QQQ）去补仓杠杆基金，以保护现金流并提高投资组合的安全性。同时，也针对现金流需求较高的退休人士，提出了配置高股息ETF（如JEPQ）的替代方案。</p>
+
+
+<h2 class="relative group">二、简报内容 
+    <div id="%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">开场提醒与基本原则 
+    <div id="%E5%BC%80%E5%9C%BA%E6%8F%90%E9%86%92%E4%B8%8E%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E5%BC%80%E5%9C%BA%E6%8F%90%E9%86%92%E4%B8%8E%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>日光节约时间结束</strong>：下周起，美国的Clubhouse时间将提早一小时，改为美西时间周六早上6点，台湾时间不变（周六晚上10点）。</li>
+<li><strong>防范诈骗</strong>：再次提醒学员警惕名为「powwill」的诈骗帐号，该帐号会冒充James老师私讯学员，诱导加入群组或代为操作。James老师强调，他本人绝不会主动发起私讯。</li>
+<li><strong>频道宗旨</strong>：CLEC是一个纯分享平台，不从事任何营利活动，YouTube频道也未开启营利模式。所有分享仅供参考，不构成专业投资或税务建议，投资风险极高，需谨慎行事。</li>
+</ul>
+
+
+<h3 class="relative group">弹性聪明再平衡策略详解 
+    <div id="%E5%BC%B9%E6%80%A7%E8%81%AA%E6%98%8E%E5%86%8D%E5%B9%B3%E8%A1%A1%E7%AD%96%E7%95%A5%E8%AF%A6%E8%A7%A3" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E5%BC%B9%E6%80%A7%E8%81%AA%E6%98%8E%E5%86%8D%E5%B9%B3%E8%A1%A1%E7%AD%96%E7%95%A5%E8%AF%A6%E8%A7%A3" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>策略背景</strong>：此策略由学员Peng（彭）基于James老师的聪明再平衡理念进行优化与数据回测，旨在提高维持率（安全性）。</li>
+<li><strong>核心机制</strong>：引入一个可自订的「现金年份」变数（例如15年）作为策略切换的阈值。
+<ol>
+<li><strong>当现金水位低于15年</strong>：
+<ul>
+<li><strong>市场上涨时</strong>：将杠杆基金的获利部分转入现金，目标是尽快将现金储备补足至15年以上。可以考虑转出获利部位的30%、40%或50%，加速现金累积。</li>
+<li><strong>市场下跌时</strong>：<strong>不消耗现金</strong>。改为卖出原型基金（如QQQ）去买入杠杆基金（如TQQQ），以维持Beta值，同时保护宝贵的现金储备。</li>
+</ul>
+</li>
+<li><strong>当现金水位高于15年</strong>：
+<ul>
+<li>策略回归传统的聪明再平衡。市场下跌时，可动用现金去补仓杠杆基金。</li>
+</ul>
+</li>
+</ol>
+</li>
+<li><strong>策略版本演进 (1.0 vs 2.0)</strong>：
+<ul>
+<li><strong>1.0版</strong>：核心是降低下行风险。上涨时，杠杆基金获利转现金。</li>
+<li><strong>2.0版</strong>：在现金充足（高于门槛）的前提下，增加上涨潜力。上涨时，杠杆基金获利可以转入原型基金（QQQ）而不是现金，这样可以减缓Beta下降的速度，抓住更多上涨机会。</li>
+</ul>
+</li>
+<li><strong>回测结论</strong>：数据显示，在不同Beta值设定下，「弹性再平衡」策略，特别是针对不同Beta值采用合适的版本，通常能提供比传统聪明再平衡更高的最低维持率，意味着安全性更高。</li>
+</ul>
+
+
+<h3 class="relative group">Beta值、提领率与高股息ETF的应用 
+    <div id="beta%E5%80%BC%E6%8F%90%E9%A2%86%E7%8E%87%E4%B8%8E%E9%AB%98%E8%82%A1%E6%81%AFetf%E7%9A%84%E5%BA%94%E7%94%A8" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#beta%E5%80%BC%E6%8F%90%E9%A2%86%E7%8E%87%E4%B8%8E%E9%AB%98%E8%82%A1%E6%81%AFetf%E7%9A%84%E5%BA%94%E7%94%A8" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Beta值与提领率的关系</strong>：根据资产配置的波动度（Beta），建议的年提领率也不同：
+<ul>
+<li>Beta 1.0：建议提领率 2.0%</li>
+<li>Beta 0.9：建议提领率 2.2%</li>
+<li>Beta 0.8：建议提领率 2.4%</li>
+<li>Beta 0.7：建议提领率 2.8%</li>
+</ul>
+</li>
+<li><strong>高提领率的解决方案</strong>：当所需提领率**超过3%**时，传统的资产配置风险较大。建议引入高股息资产来补充现金流。</li>
+<li><strong>高股息ETF介绍 (JEPQ &amp; JEPI)</strong>：
+<ul>
+<li><strong>JEPQ</strong>：年化股息率约10%。其资产约80%持有QQQ，另外20%透过卖出选择权（Covered Call）来创造现金流。其Beta值约0.78，波动小于QQQ，适合需要高现金流的退休人士。</li>
+<li><strong>JEPI</strong>：年化股息率约8.37%。基于SPY操作，Beta值更低，约0.57。</li>
+<li><strong>适用对象</strong>：这类ETF主要适用于<strong>已退休、本金不足、且高度依赖稳定现金流</strong>的投资者。对于仍在资产累积期的年轻投资者，不建议配置，因为其长期资本增值潜力远低于QQQ。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">投资心法与总结 
+    <div id="%E6%8A%95%E8%B5%84%E5%BF%83%E6%B3%95%E4%B8%8E%E6%80%BB%E7%BB%93" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E6%8A%95%E8%B5%84%E5%BF%83%E6%B3%95%E4%B8%8E%E6%80%BB%E7%BB%93" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>核心原则</strong>：即使听不懂复杂的策略细节，也要抓住几个关键原则：
+<ol>
+<li><strong>现金为王</strong>：若有使用股票质押，现金部位至少要维持在30%以上。</li>
+<li><strong>15年现金目标</strong>：努力将现金储备维持在15年生活费以上，这是一个重要的安全缓冲。</li>
+<li><strong>Beta控制</strong>：将整体投资组合的Beta值控制在1.0以下，有助于平稳度过市场波动。</li>
+</ol>
+</li>
+<li><strong>资产与通膨</strong>：股票是实质资产，其内在价值不会因通膨而消失。当货币贬值时，资产的价格（股价）会上涨来反映其价值。因此，不要因为担心通膨或市场短期波动而卖出优质资产（如QQQ），任何时候卖出都是错误的。</li>
+</ul>
+
+
+<h2 class="relative group">三、问答环节 
+    <div id="%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Peng 
+    <div id="peng" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#peng" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>分享：
+<ol>
+<li><strong>弹性在平衡1.0的发想来源</strong>：源于James老师曾提到，当现金未满15年时，下跌年不要用现金转杠杆。他基于此进行量化回测，并测试了不同现金年份门槛（13、14、15、16年）以及上涨时转出不同比例（30%、40%、50%）获利到现金的效果。</li>
+<li><strong>弹性在平衡2.0的发想来源</strong>：受到学员Lin分享的策略启发。思考当现金部位充足时，是否可以将杠杆基金的获利转入原型基金（而非现金），以减缓Beta下降的速度，从而抓住更多未来上涨的潜力。</li>
+<li><strong>总结</strong>：1.0版本旨在「降低下行风险」，2.0版本则是在此基础上「增加上涨潜力」。他强调目前回测区间有限，这仍是他个人的探索，不应视为定论，但大方向是现金部位越高，维持率越高。</li>
+</ol>
+</li>
+</ul>
+
+
+<h3 class="relative group">Haiwaizhong 
+    <div id="haiwaizhong" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#haiwaizhong" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题：为什么建议每年提领2%，而不是一开始就直接借满质押上限的20%来用？
+<ul>
+<li>James老师回复：这是一个关键的风险控制问题。如果你一次性借出20%后，市场遭遇像2000年那样的大崩盘（下跌85%），你的资产会从100万跌至15万，但你的负债仍是20万，你会直接破产。而每年提领2%，即使市场连续下跌三、四年，你也只动用了总资产的8%，资产仍远大于负债，可以安全度过危机。</li>
+</ul>
+</li>
+<li>分享：他观察到QQQ的年度涨幅（23.29%）已经超越VT（19.92%），证明了之前某位网红称VT会碾压QQQ的说法是错误的。
+<ul>
+<li>James老师评论：不要理会外界的噪音，时间会证明一切。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Lin 
+    <div id="lin" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#lin" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>分享：投资中有两件事特别重要：一是明确你的投资目的（Purpose），二是制定匹配的目标（Target）。最可怕的情况是目的与目标不匹配，例如，以娱乐（赌博）的心态进行投资，却期望获得稳定现金流或高回报，这必然会导致灾难。她身边很多朋友在股市上涨时进行各种骚操作，就是犯了这个错误。
+<ul>
+<li>James老师评论：说得非常好。这就像一个人天天吸毒、熬夜，却期望自己能身体健康，这是不可能的任务。绝大多数人的行为和他们的最终目标是背道而驰的，但他们自己却没有意识到，这是一生的悲哀。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Lu 
+    <div id="lu" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#lu" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>分享：跟随老师学习一年多，感到非常安心。老师后来提到的现金策略，也和查理·芒格强调保留现金的理念不谋而合。现金看似会拖累绩效，但在关键时刻可能带来巨大机会或提供安全保障。她以亲身经历鼓励新来的学员，老师已经为大家设想好了各种风险，只要认真听讲并执行，一定会有所领悟。</li>
+</ul>
+
+
+<h3 class="relative group">H. Chen 
+    <div id="h-chen" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#h-chen" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题：我退休后，每年的社安金（Social Security）加上退休金（Pension）大概有10万美金的稳定收入。在这种情况下，我预留10年的现金储备是否足够？
+<ul>
+<li>James老师回复：你的情况非常好。因为你的基本生活开销已经被这10万的稳定现金流覆盖了，所以你并不需要预留那么多年的现金。你可以根据自己的安心程度，保留比如5年的现金或者总资产10%的现金作为备用即可，其他的资金就可以安心投入到QQQ和杠杆基金中。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Wang 
+    <div id="wang" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#wang" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题1：在香港券商购买港股代号的QQQ ETF（如3086），是否需要缴纳美国遗产税？
+<ul>
+<li>James老师回复：不需要。只要是购买在香港本地上市的ETF，就不会涉及美国遗产税。只有直接购买在美国上市的QQQ才会。</li>
+</ul>
+</li>
+<li>问题2：对于在香港或中国内地购买的指数ETF，是否也应遵循「买入并打死不卖」的原则？
+<ul>
+<li>James老师回复：是的，一直买，不要卖。</li>
+</ul>
+</li>
+<li>问题3：中国内地是否有杠杆基金可以购买？
+<ul>
+<li>James老师回复：内地没有。香港有，例如南方纳指两倍（7266）和华夏纳指两倍（7261）。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Doris 
+    <div id="doris" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#doris" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题1：她大部分资金都在美国的退休帐户（401k转成的Rollover IRA），被告知无法进行股票质押。这导致她未来可能无法提早退休，该如何处理？
+<ul>
+<li>James老师回复：这是一个常见的陷阱。他不建议过度投入退休帐户（如Mega Backdoor Roth）。现在的补救措施是：立即停止向退休帐户投入更多资金，全力建立个人的券商帐户（Brokerage Account）。同时，要尽快开始将传统IRA（Traditional IRA）的资金逐年转换（Convert）为罗斯IRA（Roth IRA）。在IRA内部，也可以进行配置：将少量资金放在Roth IRA里买TQQQ，让高增长的部分免税；大部分资金放在传统IRA里持有QQQ或现金，这样转换时的税务负担会小一些。</li>
+</ul>
+</li>
+<li>问题2.：JEPQ和JEPI是用来替代QQQ的吗？
+<ul>
+<li>James老师回复：不是替代。它们是为特定人群（已退休、本金不足、需要高现金流）准备的工具。还在资产累积期的人不应该碰。退休者的资金配置顺序应是：1. 满足现金流需求（JEPQ），2. 预留紧急备用金，3. 若还有余钱，才考虑投资QQQ追求成长。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Helen Wong 
+    <div id="helen-wong" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#helen-wong" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>分享：她21年时听了老师的课买入QQQ，但在22年市场下跌时因恐慌而卖出。今年她重新建立信心，将资产全部归拢并遵循老师的方法，目前已获利超过30%，对未来退休更有信心了。</li>
+<li>问题1：如果未来出现恶性通膨，房子和股票哪个更能保值？股市能否经受考验？
+<ul>
+<li>James老师回复：股票就是资产。通膨意味着货币不值钱，但资产的价值不变。届时，资产的价格（股价）会上涨以反映其真实价值。市场的短期下跌是源于人性恐惧，而非价值毁灭。</li>
+</ul>
+</li>
+<li>问题2：JEPQ的10%股息是固定的吗？如果本金从50万跌到30万，股息是否也会按比例减少？
+<ul>
+<li>James老师回复：它的股息金额相对稳定，并不是严格按照本金的百分比波动。它更像是一种年金，旨在提供稳定的现金流，所以即使市值下跌，你收到的股息金额也不会同比例减少。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">L 
+    <div id="l" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#l" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题：她的家人之前买了QQQ和杠杆基金，只赚了五六万块就因为害怕而全部卖掉，现在只敢买货币基金（865B），损失了很多后续涨幅。该如何劝说他们？
+<ul>
+<li>James老师回复：你救不了他们，这是他们的「命」。不是所有人都能变富有，99.99%的人注定是穷人的命运。对于听不进去的人，你应该「放下」，不要为他们操心，管好自己的投资就好。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Wanfeng 
+    <div id="wanfeng" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#wanfeng" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题：很好奇老师今天为什么会提到JEPQ这个新的投资标的？
+<ul>
+<li>James老师回复：因为遇到一个具体案例：一位72岁的学员只有60万本金，但每年需要4万生活费。为了帮他解决问题，老师去研究了高股息产品，发现JEPQ和JEPI是相对稳健的选择，因为它们并非纯粹的衍生品，而是持有大量实质资产（80%的指数成分股），因此可以纳入考虑。这是为了解决长辈的现金流问题，而不是推荐给普通投资者。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Haoqing 
+    <div id="haoqing" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#haoqing" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>分享：他分享了家族中一位78岁长辈因肾衰竭每周需要洗肾三次，经济陷入困境的故事。他建议长辈卖掉一块无法产生现金流的祖传土地，将资金投入台湾的高股息ETF 0056，这样每年可以产生近60万的现金流（月均5万），彻底解决生活费问题，并能活得更有尊严。他认为，资产的形式可以转换，将土地变为能持续产生现金流的股票资产，同样可以传承给后代。
+<ul>
+<li>James老师评论：世间苦难多，但我们能帮助的人有限。你给了很好的建议，但如果对方不愿意卖地，那也是她的选择。我们只能帮助那些愿意被帮助的人。同时，他也提醒大家保护肾脏健康，要多喝水，远离垃圾食品和含糖饮料。</li>
+</ul>
+</li>
+</ul>
+
+
+<h2 class="relative group">四、精彩观点 
+    <div id="%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<blockquote>
+<p>你以为你在做的是会往你的目标前进，其实你做的只是离你的目标更远，你还以为你是往你的目标前进，这是最可怕的。
+&ndash; Lin</p></blockquote>
+<p>此观点深刻地指出了许多投资者在行为与目标上的脱节。他们采用投机、追涨杀跌等娱乐性操作，却期望能实现长期稳定的财务目标，最终往往南辕北辙，浪费了宝贵的时间和资本。</p>
+<blockquote>
+<p>股票是资产&hellip;至于卖多少钱是你拥有资产的人决定的&hellip;你只要卖（QQQ）就是错，任何时间卖都错，因为你就卖低了。
+&ndash; James老师</p></blockquote>
+<p>在回应关于通膨的担忧时，James老师强调了优质股票作为实质资产的属性。其长期价值会不断增长，短期价格波动不应影响持有决心，卖出优质资产等于是低价出让了未来的巨大潜力。</p>
+<blockquote>
+<p>穷人你没办法救的&hellip;99.99%的人就是穷的命，没办法，那你就&hellip;放下。
+&ndash; James老师</p></blockquote>
+<p>此观点虽然听起来非常直白，但反映了投资教育中的现实：我们只能影响那些愿意接受并改变的人。对于固执己见、被恐惧支配的家人或朋友，与其徒劳地劝说，不如放手，专注于自身的成长。</p>
+<blockquote>
+<p>人老了之后你要是没有钱的话，人家会认为说好像有点像「下流老人」的那种感觉。
+&ndash; Haoqing</p></blockquote>
+<p>Haoqing在分享中提出的这个观点，非常现实地道出了财务独立在晚年的重要性。拥有稳定的现金流不仅是为了生存，更是为了维持尊严，避免在年老时依赖他人，看人脸色。</p>
+
+
+<h2 class="relative group">五、总结 
+    <div id="%E4%BA%94%E6%80%BB%E7%BB%93" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%BA%94%E6%80%BB%E7%BB%93" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<p>本期课程从一个更精细、更安全的角度，对聪明再平衡策略进行了重要的优化，提出了「弹性再平衡」的概念。核心思想是保护好现金这个生命线，在现金不足时，宁可用原型资产交换杠杆资产，也不轻易动用现金储备。同时，课程也展现了极强的实用性，为面临现实困境（如退休金不足）的群体提供了具体可行的解决方案，如配置JEPQ等高股息产品。总体而言，本期内容不仅深化了资产配置的理论，也紧密结合了不同人生阶段的实际财务需求，再次强调了长期持有、风险控制和现金为王的核心投资理念。</p>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>免责声明:</strong> 本文仅为个人学习笔记，不构成任何投资建议。</span>
+</div>
+
 ]]></content:encoded></item><item><title>00537 理财型房贷＋反脆弱退休：现金 15 年安全垫，聪明借钱成富豪</title><link>https://jomonylw.github.io/posts/1761444214833/</link><pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/posts/1761444214833/</guid><description>本期James老师深入探讨了投资中的“反脆弱”概念，强调了长期持有、无惧市场震荡的重要性。通过对比借款消费与动用本金的巨大差异，阐述了合理运用杠杆的财富放大效应。同时，针对退休和准退休人士，老师强调了储备15年以上现金流的核心作用，并结合两个真实的家庭财务案例，剖析了银行理财产品的陷阱以及如何为长辈和自己做出更安全、明智的资产配置。</description><content:encoded><![CDATA[<lite-youtube videoid="XIN4vZYlGFc" playlabel="XIN4vZYlGFc" params=""></lite-youtube>
 
 
@@ -4010,437 +4460,6 @@
     
 </h2>
 <p>本期聚会从重申“买入持有，打死不卖”这一投资定海神针开始，为投资者在波动的市场中注入了强大的信心。James老师和陈峰学长详细介绍了新整合的AI学习平台，这些工具将极大地提升学员自主学习的效率。核心讨论部分，通过对年轻人和高净值人士资产配置策略的剖析，清晰地勾勒出一条从积累到善用资本的财富路径，特别是对股票质押的深入解读，揭示了其作为财富放大器的巨大潜力。问答环节的互动极其精彩，不仅解决了学员们在税务、退休规划、资产配置等方面的具体问题，更在投资心态、沟通智慧和辨别信息层面给予了深刻的启发。这是一次从道（投资哲学）到术（具体策略）再到器（学习工具）的全方位分享。</p>
-
-  
-
-
-
-<div
-  
-    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
-  >
-
-  <span
-    
-      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
-    >
-
-    
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
-
-  </span>
-
-
-  </span>
-
-  <span
-    
-      class="dark:text-neutral-300"
-    ><strong>免责声明:</strong> 本文仅为个人学习笔记，不构成任何投资建议。</span>
-</div>
-
-]]></content:encoded></item><item><title>00527 从 6000 万滚出 60 亿？长期滚雪球配上 2% 质押的奇迹路径</title><link>https://jomonylw.github.io/posts/1755520553470/</link><pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/posts/1755520553470/</guid><description>本期内容James老师深入探讨了长期投资的核心理念，强调投资者应采取“无为而治”的心态，忽略市场短期波动、宏观数据及各类新闻噪音。他指出，成功的关键在于做好风险管理，即通过合理的资产配置和充足的现金储备来应对市场不确定性，而非试图预测市场。同时，课程也剖析了价值投资的难点、新兴市场的货币困境，并解答了学员关于地理套利、家庭财务沟通、保险产品回报率等多个实际问题。</description><content:encoded><![CDATA[<lite-youtube videoid="zo3rAowExzQ" playlabel="zo3rAowExzQ" params=""></lite-youtube>
-
-
-
-<h2 class="relative group">一、当期主题 
-    <div id="%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-<p>本期主题围绕着长期投资的核心理念——“无为而治”展开。James老师强调，投资者应当忽略市场的短期波动、宏观经济数据、财报甚至政治新闻，坚持买入并长期持有优质资产（如QQQ）。成功的关键不在于预测市场高低点，而在于做好风险管理，即通过合理的资产配置和保留充足的现金来应对任何市场状况。市场没有最高，只会更高，投资者应着眼于20年后的未来，而非纠结于明日的涨跌。</p>
-
-
-<h2 class="relative group">二、简报内容 
-    <div id="%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-
-
-<h3 class="relative group">投资心态与长期视角 
-    <div id="%E6%8A%95%E8%B5%84%E5%BF%83%E6%80%81%E4%B8%8E%E9%95%BF%E6%9C%9F%E8%A7%86%E8%A7%92" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E6%8A%95%E8%B5%84%E5%BF%83%E6%80%81%E4%B8%8E%E9%95%BF%E6%9C%9F%E8%A7%86%E8%A7%92" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>无为而治</strong>：投资的最佳策略是买入后就不要管它，市场自然会创新高。试图去管理或预测市场，反而更容易失败。</li>
-<li><strong>忽略市场噪音</strong>：投资者无需关心川普或普丁的言论，也无需理会PPI、CPI等经济数据或公司财报。这些短期信息与长期投资无关。</li>
-<li><strong>时间的重要性</strong>：投资要看长远，至少是20年的维度。思考20年后你想成为什么样的人比关心明天的市场更有意义。一夜暴富不可能，但一夜破产却很常见，因此风险控制至关重要。</li>
-</ul>
-
-
-<h3 class="relative group">风险管理：资产配置与现金为王 
-    <div id="%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E4%B8%8E%E7%8E%B0%E9%87%91%E4%B8%BA%E7%8E%8B" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E9%A3%8E%E9%99%A9%E7%AE%A1%E7%90%86%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E4%B8%8E%E7%8E%B0%E9%87%91%E4%B8%BA%E7%8E%8B" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>核心原则</strong>：面对市场波动的唯一方式是做好资产配置和拥有足够的现金，而不是去预测市场。</li>
-<li><strong>贷款投资须知</strong>：无论是信贷还是房贷，都必须确保用薪水还得起。对于已退休无收入者，不建议办理理财型房贷，可考虑“以房养老”来增加现金流。</li>
-<li><strong>股票质押</strong>：进行股票质押时，同样要懂得资产配置，留足现金以应对市场波动，避免因市场下跌而被强制平仓。</li>
-</ul>
-
-
-<h3 class="relative group">理解世界金融的第一性原理 
-    <div id="%E7%90%86%E8%A7%A3%E4%B8%96%E7%95%8C%E9%87%91%E8%9E%8D%E7%9A%84%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E7%90%86%E8%A7%A3%E4%B8%96%E7%95%8C%E9%87%91%E8%9E%8D%E7%9A%84%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>金融体系的运作</strong>：通过理解央行、财政部的角色，以及通货膨胀与印钞的关系，可以洞察政府政策的本质。例如，政府需要温和通胀以保障就业。</li>
-<li><strong>资本主义视角</strong>：当今世界在资本主义体系下运行，用资本主义的视角去分析政治、社会事件，才能看清问题背后的真正动机。</li>
-</ul>
-
-
-<h3 class="relative group">新兴国家货币与外汇体系解析 
-    <div id="%E6%96%B0%E5%85%B4%E5%9B%BD%E5%AE%B6%E8%B4%A7%E5%B8%81%E4%B8%8E%E5%A4%96%E6%B1%87%E4%BD%93%E7%B3%BB%E8%A7%A3%E6%9E%90" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E6%96%B0%E5%85%B4%E5%9B%BD%E5%AE%B6%E8%B4%A7%E5%B8%81%E4%B8%8E%E5%A4%96%E6%B1%87%E4%BD%93%E7%B3%BB%E8%A7%A3%E6%9E%90" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>货币的局限性</strong>：新兴国家的本国货币（如台币）在国际上不流通，无法直接兑换成美元。</li>
-<li><strong>外汇储备的来源</strong>：一个国家的外汇储备主要来自两个渠道：
-<ol>
-<li><strong>经常账户</strong>：通过出口商品和服务赚取外汇，例如台积电的外销收入。这被称为“奴隶美元”，因为需要付出大量劳动力来换取。</li>
-<li><strong>金融账户</strong>：外国资本流入进行投资（如买股票），这部分资金来去迅速，容易造成金融动荡，导致国家破产。</li>
-</ol>
-</li>
-<li><strong>破产风险</strong>：当一个国家外销能力不强，主要依赖金融账户流入的外资时，一旦外资大规模撤出，其外汇储备不足以应对，就会面临金融危机甚至国家破产。</li>
-</ul>
-
-
-<h3 class="relative group">价值投资的困境与长期持有的优越性 
-    <div id="%E4%BB%B7%E5%80%BC%E6%8A%95%E8%B5%84%E7%9A%84%E5%9B%B0%E5%A2%83%E4%B8%8E%E9%95%BF%E6%9C%9F%E6%8C%81%E6%9C%89%E7%9A%84%E4%BC%98%E8%B6%8A%E6%80%A7" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%BB%B7%E5%80%BC%E6%8A%95%E8%B5%84%E7%9A%84%E5%9B%B0%E5%A2%83%E4%B8%8E%E9%95%BF%E6%9C%9F%E6%8C%81%E6%9C%89%E7%9A%84%E4%BC%98%E8%B6%8A%E6%80%A7" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>估值的困难性</strong>：为资产（无论是房子还是股票）估值极其困难且主观。就像蒙娜丽莎的微笑，不同人有不同解读，没有标准答案。</li>
-<li><strong>估值的误区</strong>：很多人声称股票太贵，但市场却持续上涨。芒格曾说，从未见过巴菲特拿起笔来计算现金流折现率。因此，不要被所谓的“估值过高”言论所困扰。</li>
-<li><strong>长期持有是唯一解</strong>：忘记估值，长期持有优质资产是每个人都可以执行的、最有效的投资策略。</li>
-</ul>
-
-
-<h3 class="relative group">资产配置的个性化与账户选择 
-    <div id="%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E4%B8%8E%E8%B4%A6%E6%88%B7%E9%80%89%E6%8B%A9" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E4%B8%8E%E8%B4%A6%E6%88%B7%E9%80%89%E6%8B%A9" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>拒绝盲目模仿</strong>：不要照搬他人的资产配置方案。每个人的方案都是根据其年龄、资产规模、风险承受能力、财务目标（如5年或10年后退休）等因素量身定制的。学习资产配置的核心精神和逻辑，而不是像鹦鹉学舌一样模仿具体的比例。</li>
-<li><strong>美国投资者的账户建议</strong>：对于在美国的投资者，应充分利用Roth IRA账户的避税优势。这是一个很好的避税和传承工具，建议至少将三分之一的资金配置在Roth账户中，尤其适合存放杠杆基金。</li>
-</ul>
-
-
-<h3 class="relative group">立即投资的重要性：少赚就是真亏损 
-    <div id="%E7%AB%8B%E5%8D%B3%E6%8A%95%E8%B5%84%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%E5%B0%91%E8%B5%9A%E5%B0%B1%E6%98%AF%E7%9C%9F%E4%BA%8F%E6%8D%9F" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E7%AB%8B%E5%8D%B3%E6%8A%95%E8%B5%84%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%E5%B0%91%E8%B5%9A%E5%B0%B1%E6%98%AF%E7%9C%9F%E4%BA%8F%E6%8D%9F" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>对的投资</strong>：只要是“对的投资”（如QQQ）加上“长期持有”，就一定会获利。</li>
-<li><strong>机会成本是真实亏损</strong>：短期账面上的亏损是暂时的、不存在的。而因为犹豫不决而错过的上涨（少赚的钱）才是永久性的、扎扎实实的亏损。
-<ul>
-<li><strong>例子</strong>：QQQ从400涨到577，如果你在400时没有买入，你就永久性地亏损了这177的收益，这个损失再也无法弥补。</li>
-</ul>
-</li>
-<li><strong>立即行动</strong>：因此，有钱就应立即买入，这是期望值最高的行为。越晚买，赚的钱越少，你的财富增长基数就越低，与他人的差距会越来越大。</li>
-</ul>
-
-
-<h2 class="relative group">三、问答环节 
-    <div id="%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-
-
-<h3 class="relative group">Guzhongli 
-    <div id="guzhongli" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#guzhongli" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>分享：最近看到关于AI将改变世界的讨论，让他觉得未来10年更不能退休，应该努力工作，因为这可能是最后的工作机会，同时也不想卖掉正在增长的QQQ来当生活费。
-<ul>
-<li>James老师评论：工作的决定不应基于对未来的恐惧（如AI取代工作）。你应该问自己：你喜不喜欢这份工作？你是为钱工作还是为幸福快乐工作？这才是决定你是否继续工作的根本原因，与AI时代或未来的太空时代无关。</li>
-</ul>
-</li>
-<li>问题：最近看到网上讨论“地理套利”，即搬到生活成本较低的东南亚国家（如泰国、越南）生活，让储蓄更耐用。想问老师这种做法是否可行？有什么风险或建议？
-<ul>
-<li>James老师回复：这不叫“套利”，这叫“走投无路”（多路）。为了省钱而搬到一个自己并非真心喜欢的地方，是一种外部不经济的行为，是不可取的。我们应该追求住在自己喜欢的、方便的环境，而不是因为钱不够而被迫选择。如果去花东是因为那里很美，即使花费比台北高也是对的；但如果只是为了省钱，那就是错误的选择。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Edwin 
-    <div id="edwin" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#edwin" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>分享：分享了自己对“幸福”的理解。过去，幸福感来自于好成绩、升职等外界认可。学习了老师的理财观念后，他认为真正的幸福是简单的，就像看到一对老夫妻在富士山下安静地吃着苹果，那一刻，过去的成就都不再重要。</li>
-<li>问题：他理解阿德勒的“课题分离”原则，但看到亲朋好友仍在辛苦工作的轮回中挣扎时，内心还是感到很可惜。他知道自己无法强行改变他们，但想请教老师如何调整这种“于心不忍”的心态？
-<ul>
-<li>James老师回复：我的幸福观是“无所谓，都可以，没关系”，即没有负担就是幸福。对于你提到的情况，这很像医生的困境：看到病人因为没钱而无法安装必要的支架，医生也无能为力。穷是一种病，我们无法拯救每一个人，就连千手观音的能力也是有限的。你能做的就是告诉他们正确的观念一次，尽到你的责任。信者得救，不信者你也要学会放下，否则无法过好自己的生活。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Yaomie 
-    <div id="yaomie" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#yaomie" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>问题：在听霍华德·马克斯（Howard Marks）的有声书时，他理解到市场周期没有固定的时间长度，而是由大众的集体情绪驱动。当市场极度狂热时就是泡沫，反之亦然。请问老师这个理解是否正确？
-<ul>
-<li>James老师回复：你的理解完全正确。霍华德·马克斯所说的泡沫，唯一的指标就是“投资者疯狂了”，没有其他量化指标。但这套理论的难点在于执行，因为每个人所处的环境不同，对市场“温度”的感知也不同，所以很难精确判断何时是顶点。理论是正确的，但如何应用才是关键。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Weinini 
-    <div id="weinini" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#weinini" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>分享：向一位非常保守的长辈介绍老师的投资理念，对方最终只愿意每月定期定额投两万台币到006208试试看。她为此感到有点着急，觉得太慢了。</li>
-<li>问题：这位长辈坚称自己有一张三、四十年前买的保单，回报率有8%。她怀疑这是当时业务员的话术，想请教老师如何向长辈解释，这个保单的实际回报率可能没有那么高？
-<ul>
-<li>James老师回复：首先，不要着急。如果当事人不急，我们就不要急。你不知道你的建议是救了他还是害了他，万一他投入后市场短期下跌，他会怪你。慢慢来是好事。关于保单，8%的回报率几乎不可能。要计算真实的年化回报率（IRR或XIRR），而不是简单的算术平均。特别是考虑到早期投入的资金被锁定了二三十年没有回报，这期间的机会成本是巨大的。经过简单估算，如果同样的钱（每年投入75万，共投20年）投入市场（年化10%），28年后会变成一亿，而保单每年只给一百万，回报率连1%都不到，本质上是“诈骗集团”的产品。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Jason 
-    <div id="jason" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#jason" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>分享：关于家庭财务沟通的后续。他意识到，要进行大额投资（如房贷整合出几百万），必须获得太太的同意。他目前的策略是“慢慢来，或许比较快”，通过持续沟通、分享小的收益、解释长期理念的方式，逐步取得太太的理解和信任。他认为夫妻同心非常重要，否则即使自己投资赚钱了，也可能引发家庭矛盾。
-<ul>
-<li>James老师回复：你的做法非常正确。慢慢来，并且要让配偶有参与感和安全感。比如，贷款出来的钱，可以放一部分到太太的账户里，让她保管。这样她看到账户里有现金，会更安心。切忌自己一个人做决定，即使成功了，对方也可能因为没有被尊重而生气，导致婚姻破裂。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Jeff 
-    <div id="jeff" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#jeff" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>问题：老师提到资产配置的三个原则之一是考虑“利率涨到无限大”的极端情况。他担心如果出现像美国1980年代利率高达20%的情况，我们现有的基于过去20年数据的回测模型是否还能扛得住？他是否过分忧虑了？
-<ul>
-<li>James老师回复：这是一个非常好的问题。应对这种极端情况的方法就是持有更多的现金。如果你担心1970-1980年代那种股市盘整、利率高企的“滞胀”环境，那么你最初配置的现金比例就应该更高，比如从30%提高到40%甚至50%。你的现金储备决定了你能抵御多大的风险。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">IAM 
-    <div id="iam" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#iam" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>分享：观察到很多大学生被灌输“分散投资”、“资产配置”等传统金融理论，他认为这是资本主义设计的一套“系统性诈骗”，让普通人本就不多的储蓄被进一步分散，无法有效增长。</li>
-<li>问题：当他试图“点醒”身边的人时，发现有两种结果：一种是对方醒悟并开始行动；另一种是对方意识到自己几十年都做错了而感到痛苦和沮丧。他不知道如何帮助后一种人，担心点醒他们后却无法正确引导，反而害了他们。
-<ul>
-<li>James老师回复：你说的“系统性诈骗”是对的。简单地“点醒”一个人是非常危险的，因为他可能会自己去摸索，结果误入歧途（如短线炒作）导致破产。正确的做法是系统性地教育。你应该引导他们来看我们的频道，从头开始学习完整的投资体系。不要只给他们一个结论，要教他们整个思考过程和方法。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Catherine 
-    <div id="catherine" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#catherine" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>问题：有朋友问她：“你们这些早期投资者低价买了QQQ，现在鼓励我们买，把价格拱高，你们能得到什么好处？” 她回答说市场体量巨大，我们无法影响价格，价格上涨源于生产力提升和通胀。想问老师会如何回应？
-<ul>
-<li>James老师回复：你什么时候买入并不重要。市场的长期年化回报率（比如拉长到30-40年看）是相对恒定的。我过去40年获得的回报率，和你从现在开始投资未来40年获得的回报率，期望值是一样的。我们鼓励你买，并不会让我们自己多赚钱。每个人的投资都是一个独立的事件，你获得的回报只跟你的持有时间有关，跟我们无关。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">快速问答（留言区） 
-    <div id="%E5%BF%AB%E9%80%9F%E9%97%AE%E7%AD%94%E7%95%99%E8%A8%80%E5%8C%BA" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E5%BF%AB%E9%80%9F%E9%97%AE%E7%AD%94%E7%95%99%E8%A8%80%E5%8C%BA" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>关于海外券商（如富途）</strong>：老师强烈建议台湾投资者不要使用富途等海外券商。主要风险在于：1. 有最低税负制问题。2. 存在高额的遗产税（可能高达40%）。3. 万一投资者发生意外，继承人可能根本找不到这个账户，继承过程将极其困难。</li>
-<li><strong>关于汇率</strong>：投资是长达几十年的事，不要理会短期的汇率波动。长期来看，汇率会在一个区间内波动，最终会趋向于一个期望值。为汇率操心会让你什么事都做不了。</li>
-<li><strong>关于现金部分</strong>：资产配置中的“现金”部分，绝对不可以买高股息股票。高股息股本质还是股票，会下跌，不具备现金的稳定性。现金应配置于货币基金（Money Market Fund）或短期国债等真正安全的资产。</li>
-<li><strong>关于其他基金</strong>：有学员问及富兰克林高科技基金等主动型基金。老师的建议是，停止投入这类费用高昂且可能限制赎回的基金，直接购买00662（台湾的纳指ETF）即可。</li>
-</ul>
-
-
-<h2 class="relative group">四、精彩观点 
-    <div id="%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-<blockquote>
-<p>市场没有最高，只会更高。
-&ndash; James老师</p></blockquote>
-<p>背景：老师在开篇强调投资者应具备的长期信念，不要因为市场创新高而感到恐惧或试图预测顶部。</p>
-<blockquote>
-<p>你如果错过没赚到的钱，你这个一辈子是永远的亏损……少赚就是扎扎实实的亏了。
-&ndash; James老师</p></blockquote>
-<p>背景：在解释为何要“有钱立即买入”时，老师指出机会成本是真实且永久的亏损，远比账面上的短期浮亏更可怕。</p>
-<blockquote>
-<p>钱可以好几十亿都花不完，还想搬去落后……（只为省钱）那叫多路（走投无路）。
-&ndash; James老师</p></blockquote>
-<p>背景：在评论“地理套利”时，老师犀利地指出，因财务窘迫而牺牲生活品质、搬到不喜欢的廉价地区，并非明智之举。</p>
-<blockquote>
-<p>看到别人（受苦），我们难救的，就是救……好像耶稣，有跟他讲……后来他就跑掉不见了，因为钱不够……那耶稣也要放下，没办法。
-&ndash; James老师</p></blockquote>
-<p>背景：在回答Edwin如何调整心态面对无法帮助的亲友时，老师用此比喻说明，我们能做的只是传递信息，对方能否接受非我们能控制，要学会放下。</p>
-<blockquote>
-<p>慢慢来，或许比较快。
-&ndash; Jason</p></blockquote>
-<p>背景：学员Jason在分享与家人沟通投资理念的经验时，总结出这句富有哲理的话，强调耐心和持续沟通的重要性。</p>
-<blockquote>
-<p>夫妻同心，其利断金；夫妻不同心的话……你做成功它（也可能）大发雷霆，你做什么事都不跟我说。
-&ndash; James老师</p></blockquote>
-<p>背景：在评论家庭财务沟通时，老师强调了夫妻达成共识的极端重要性，否则即使投资成功也可能破坏家庭关系。</p>
-<blockquote>
-<p>我说你们这个（保单）根本没有该赔都不赔，他说你保费才缴多少……哇，那这叫保险吗？
-&ndash; James老师
-背景：老师在回忆与保险业者辩论时，揭示了某些保险产品“赔付上限与保费挂钩”的本质，指出其保障功能的局限性。</p></blockquote>
-<blockquote>
-<p>那个一千五百万不要拿去拿买保鲜，你会有一亿……一年才能一百万……才拿一趴而已，你还笑呵呵的。
-&ndash; James老师</p></blockquote>
-<p>背景：老师通过计算，揭示了长期储蓄险的极低回报率，与同期市场投资相比，回报天差地别，是巨大的机会成本损失。</p>
-
-
-<h2 class="relative group">五、总结 
-    <div id="%E4%BA%94%E6%80%BB%E7%BB%93" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%BA%94%E6%80%BB%E7%BB%93" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-<p>本期课程再次强化了CLEC长期投资的核心思想——简化投资决策，拥抱市场长期增长。James老师通过“无为而治”的理念，劝诫投资者摆脱短期市场噪音的干扰，将焦点放在构建稳健的、个性化的资产配置上，并始终保有充足的现金作为风险的终极防线。问答环节覆盖了从个人心态调整、家庭财务沟通到对金融产品（如保险）的辨析等多个层面，老师用生动的例子和犀利的观点，揭示了许多常见的投资误区。最核心的启示是：投资是一场关乎耐心和纪律的马拉松，立即行动并长期坚持，远比试图寻找最佳时机和估值更为重要。</p>
 
   
 
