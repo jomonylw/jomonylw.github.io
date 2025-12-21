@@ -6,7 +6,464 @@
     <description>Recent content in CLEC on QQQ Investor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/clec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/clec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>00545 Turning Family Tragedies into Comedies: The Power of Sober Investing and Companionship</title>
+      <link>https://jomonylw.github.io/en/posts/1766278331470/</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomonylw.github.io/en/posts/1766278331470/</guid>
+      <description>In this session, Teacher James introduces and demonstrates a portfolio backtesting App developed by community member Martin. By simulating stock pledging strategies under different market conditions in Taiwan and the US, the session explores the impact of different withdrawal rates (1.5% vs. 2.7%) on asset growth. The course emphasizes that while pledging can amplify long-term assets, it comes with higher risks and requires strict spending control. During the Q&amp;amp;A, students shared their journeys from anxiety to peace of mind, once again proving the power of long-term investing.</description>
+      <content:encoded><![CDATA[<lite-youtube videoid="L90H95KxHCc" playlabel="L90H95KxHCc" params=""></lite-youtube>
+
+
+
+<h2 class="relative group">I. Theme of the Week 
+    <div id="i-theme-of-the-week" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#i-theme-of-the-week" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>The core of this session is the introduction of a new portfolio backtesting simulation App, used to deeply analyze and compare the differences between <strong>stock pledging</strong> and <strong>non-pledging</strong> retirement withdrawal strategies. Through live demonstrations, Teacher James shows the maximum safe withdrawal rates (approx. 1.5%-1.8%) and risks of pledging strategies under different markets (Taiwan vs. US), interest rates, and LTV (Loan-to-Value) ratios. The core takeaway is: while pledging can significantly increase total terminal assets over the long term, it demands extremely high cash flow stability and very conservative withdrawal rates. Conversely, non-pledging strategies allow for a higher withdrawal rate (approx. 2.7%) but sacrifice asset growth for greater flexibility.</p>
+
+
+<h2 class="relative group">II. Presentation Highlights 
+    <div id="ii-presentation-highlights" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ii-presentation-highlights" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Investment Philosophy and Mindset Building 
+    <div id="investment-philosophy-and-mindset-building" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#investment-philosophy-and-mindset-building" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Ignore Market Noise</strong>: Teacher James began by emphasizing that daily market fluctuations, international tensions, central bank rate changes, economic data, and financial reports are irrelevant to our long-term investment strategy. Investors should focus on holding for the long term and moving forward.</li>
+<li><strong>The Logic Behind Choosing QQQ</strong>: We invest in indices like QQQ not by &ldquo;looking in the rearview mirror&rdquo; at past performance, but based on a belief in the future—<strong>belief in human growth, technological progress, and the development of the United States.</strong> QQQ is the purest representation of these three beliefs.</li>
+<li><strong>Scam Warning</strong>: Students are reminded again to beware of fake accounts (often with suffixes like &lsquo;N&rsquo; or &lsquo;M&rsquo; added to the ID). Teacher James has only one account on Clubhouse; please verify carefully.</li>
+</ul>
+
+
+<h3 class="relative group">Introduction to the Backtesting App and Simulation Analysis 
+    <div id="introduction-to-the-backtesting-app-and-simulation-analysis" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#introduction-to-the-backtesting-app-and-simulation-analysis" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Developed by community member Martin, this App simulates long-term returns and risks under various asset allocations, pledging conditions, and withdrawal strategies.</p>
+<ol>
+<li>
+<p><strong>Taiwan Scenario (40% QQQ, 30% QLD, 30% Cash)</strong></p>
+<ul>
+<li><strong>Parameters</strong>: Initial principal of 1 million, 3% interest rate, 60% LTV.</li>
+<li><strong>Withdrawal Testing</strong>:
+<ul>
+<li>Annual withdrawal of 1.5% (15,000): Results show assets survive safely from 2000 to 2025.</li>
+<li>Annual withdrawal of 1.6% (16,000): Results show the portfolio is liquidated (fails) in 2009.</li>
+</ul>
+</li>
+<li><strong>Conclusion</strong>: Under Taiwan&rsquo;s pledging conditions, the upper limit for a safe withdrawal rate is very strict at <strong>1.5%</strong>.</li>
+</ul>
+</li>
+<li>
+<p><strong>US Scenario (40% QQQ, 30% QLD, 30% Cash)</strong></p>
+<ul>
+<li><strong>Parameters</strong>: 6.5% interest rate, higher LTV (70% for QQQ, 95% for Cash, but QLD cannot be pledged).</li>
+<li><strong>Withdrawal Testing</strong>:
+<ul>
+<li>Annual withdrawal of 1.8%: Safely survives.</li>
+<li>Annual withdrawal of 1.9%: Results in failure.</li>
+</ul>
+</li>
+<li><strong>Conclusion</strong>: Due to more relaxed LTV conditions in the US, the safe withdrawal rate can reach <strong>1.8%</strong>, showing slightly higher risk tolerance than in Taiwan.</li>
+<li><strong>Impact of Interest Rates</strong>: When Teacher James lowered the US interest rate to 5% (the setting used in early Excel simulations), the safe withdrawal rate rose to <strong>2.1%</strong>, proving that interest rates are a critical variable in pledging safety.</li>
+</ul>
+</li>
+</ol>
+
+
+<h3 class="relative group">Comparison: Pledging vs. Non-Pledging Strategies 
+    <div id="comparison-pledging-vs-non-pledging-strategies" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#comparison-pledging-vs-non-pledging-strategies" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ol>
+<li>
+<p><strong>Non-Pledging Strategy (80% QQQ, 20% Cash)</strong></p>
+<ul>
+<li><strong>Maximum Withdrawal Rate</strong>: <strong>2.7%</strong> of assets annually.</li>
+<li><strong>Outcome</strong>: While it safely survives 25 years, by 2025, the total asset value has barely grown, returning to its 2000 initial level. This strategy sacrifices capital appreciation for higher immediate cash flow.</li>
+</ul>
+</li>
+<li>
+<p><strong>Asset Comparison at Equal Withdrawal Rates</strong></p>
+<ul>
+<li>Assume both strategies withdraw only 1.5% (15,000) annually.</li>
+<li><strong>Non-Pledger</strong>: Assets grow to 1.61 million by 2025.</li>
+<li><strong>Pledger (Taiwan Plan)</strong>: Assets grow to 4.75 million by 2025.</li>
+<li><strong>Conclusion</strong>: Given the same low expenses, the pledging strategy can result in several times more asset growth. Investors must weigh &ldquo;higher asset growth&rdquo; against &ldquo;higher current cash flow.&rdquo;</li>
+</ul>
+</li>
+</ol>
+
+
+<h3 class="relative group">Teacher James&rsquo; Suggestions 
+    <div id="teacher-james-suggestions" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#teacher-james-suggestions" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Pledging Risks are High</strong>: A 1.5% withdrawal rate means your total assets must be 66 times your annual expenses, a high bar for most people.</li>
+<li><strong>Combine with High-Dividend ETFs</strong>: Retirees might consider allocating a small portion (e.g., 10%-20%) to high-dividend products (like QYI) to generate stable cash flow, reducing the amount and pressure of pledged loans.</li>
+<li><strong>For Those Still Working</strong>: You can experiment with pledging while continuing monthly contributions, which makes the outlook much more optimistic.</li>
+</ul>
+
+
+<h2 class="relative group">III. Q&amp;A Session 
+    <div id="iii-qa-session" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iii-qa-session" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Martin 
+    <div id="martin" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#martin" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Sharing</strong>:
+<ol>
+<li>Introduced updates in App v0.2: Configuration export/import to avoid resetting; simplified strategies into &ldquo;No-brain Rebalancing&rdquo; and &ldquo;Smart Rebalancing&rdquo;; added detailed monthly ledgers and semi-annual balance sheets.</li>
+<li>Added risk assessment metrics to performance reports: &ldquo;Worst Yearly Return,&rdquo; &ldquo;Maximum Drawdown,&rdquo; &ldquo;Calmar Ratio,&rdquo; and &ldquo;Pain Index.&rdquo;</li>
+<li>Reports can be downloaded as PDFs and include JSON data that can be fed into LLMs (like ChatGPT) for plain-language analysis and interpretation.</li>
+<li>He has open-sourced the App&rsquo;s source code link for collective verification and improvement.</li>
+</ol>
+</li>
+</ul>
+
+
+<h3 class="relative group">Chen Feng 
+    <div id="chen-feng" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#chen-feng" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Sharing</strong>:
+<ol>
+<li>Based on his own Excel models, he believed a 2% or even 2.2% withdrawal rate should be safe. He questioned the strict 1.5% result from the App and offered to help verify the source code.</li>
+<li>Shared a Taiwan-version &ldquo;Buy vs. Rent&rdquo; spreadsheet, proving with data that over the long term, those who rent and invest will end up with assets vastly exceeding those who buy, with the gap reaching the &ldquo;hundreds of millions&rdquo; level.</li>
+</ol>
+<ul>
+<li><strong>James&rsquo; Comment</strong>: James adjusted the simulation interest rate from 6.5% down to 5% on the spot, showing that a 2.1% withdrawal rate then became viable. This confirmed that the interest rate is the key variable and validated Chen Feng&rsquo;s calculations in a lower-rate environment. James thanked him for the significant time spent creating tools and educating the community.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Ponting 
+    <div id="ponting" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ponting" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Sharing</strong>: He pointed out that from 1999 to 2006, there was no real trading data for QLD. Different simulated extrapolation methods used by various platforms lead to differences in backtesting results. This may explain the discrepancies between models.
+<ul>
+<li><strong>James&rsquo; Comment</strong>: James agreed and explained that the QLD backtesting data used in the App originated from his early Excel files, which indeed affects precision. However, he emphasized that the primary purpose of this tool is to help everyone grasp the &ldquo;vague correctness&rdquo; of different strategies rather than pursuing absolute numerical precision.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">L 
+    <div id="l" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#l" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Question</strong>: When doing a Roth Conversion after retirement, if one does not use stock pledging, how should taxes be paid?
+<ul>
+<li><strong>James&rsquo; Reply</strong>: There are two ways. One is paying with cash from your Brokerage Account, which is the best way as it maximizes the funds moved into the Roth. The second is having the broker withhold taxes during the conversion (e.g., convert 200k, withhold 20k for tax), but this reduces the principal entering the Roth.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Andy 
+    <div id="andy" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#andy" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Sharing</strong>: Expressed deep gratitude for the sharing, which put him and many others on the right path to financial freedom. This sense of peace from &ldquo;knowing where the finish line is&rdquo; has significantly elevated his quality of life and freedom of choice—which is far more important than the wealth itself.
+<ul>
+<li><strong>James&rsquo; Comment</strong>: Our greatest reward is hearing that students&rsquo; lives have become more relaxed. Even if not yet retired, knowing you are on the right path with a secure future brings a peace of mind that we most hope to provide.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Clark 
+    <div id="clark" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#clark" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Q1</strong>: In worst-case simulations (like the year 2000), cash positions and debt get very close. Is this safe enough?
+<ul>
+<li><strong>James&rsquo; Reply</strong>: Yes, the simulation result is a &ldquo;narrow escape.&rdquo; In an extreme market crash of 85%, the assets just barely avoid liquidation. This illustrates why the withdrawal rate cannot be higher—2% is the tipping point.</li>
+</ul>
+</li>
+<li><strong>Q2</strong>: When markets crash and cash is tight, should one be more cautious with &ldquo;Smart Rebalancing,&rdquo; such as reducing or pausing cash injections?
+<ul>
+<li><strong>James&rsquo; Reply</strong>: Excellent question. We are indeed exploring more conservative approaches. One principle: if your cash reserve is lower than 15 (or even 20) years of living expenses, you should not touch it for rebalancing. An alternative is to sell some QQQ to buy QLD for rebalancing instead of using cash, preserving your safety net.</li>
+</ul>
+</li>
+<li><strong>Q3</strong>: When should company-issued semiconductor stocks be sold? Given tax issues, is it worth waiting or using complex Exchange Funds?
+<ul>
+<li><strong>James&rsquo; Reply</strong>: As long as you have held them for over a year, a fixed long-term capital gains tax applies, which is independent of your personal income. Don&rsquo;t wait; sell after one year to diversify risk early. Avoid complex financial products like Exchange Funds—simple is best.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Shu Fen 
+    <div id="shu-fen" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#shu-fen" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Question</strong>: Teacher mentioned a Chinese High Dividend ETF (008163) last week. Its holdings are mostly traditional sectors like banks, unlike the tech-heavy QQQI. Can it serve as a substitute?
+<ul>
+<li><strong>James&rsquo; Reply</strong>: Absolutely. Our goal is to obtain cash flow. Just as Americans eat bread and Chinese eat rice, both fill you up. Products in different markets have different underlying assets, but as long as it consistently provides high cash flow, it meets our strategic objective.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Min 
+    <div id="min" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#min" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Sharing</strong>: A new student from Xiamen who began investing after listening for six months. Today, he successfully convinced his girlfriend, who works three cleaning jobs, to start investing and urged her not to put money into building a house in the countryside that has no economic value.
+<ul>
+<li><strong>James&rsquo; Comment</strong>: This is a vital &ldquo;awakening.&rdquo; The younger generation shouldn&rsquo;t rush to give &ldquo;filial piety money&rdquo; to parents whose financial concepts might be incorrect, wasting your &ldquo;ammunition.&rdquo; Use the money where it is most efficient (investing) to become the &ldquo;big tree&rdquo; of the family first. Only then can you truly protect the whole family and achieve a leap in social class.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Wu Li Yun 
+    <div id="wu-li-yun" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#wu-li-yun" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Sharing (Very Touching)</strong>: A low-wage worker from Taiwan. Five years ago, when she started listening to the program, her assets were less than 1 million TWD. She followed the advice to increase income through side jobs and stayed committed to investing. Today, her assets are nearly 5 million TWD. She has moved from anxiety about money to a sense of inner confidence.
+<ul>
+<li><strong>James&rsquo; Comment</strong>: This is our most gratifying result. Now that she has 5 million, if she persists, having 1 billion TWD in her lifetime is not a dream. This proves that no matter how low the starting point, as long as you are on the right path, anyone can reach extreme wealth.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Katy 
+    <div id="katy" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#katy" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Sharing</strong>: While attending a Christmas lunch at an orphanage, she noticed they lacked financial education. She proposed teaching the administrative staff and volunteers first, who can then educate the children about to leave the orphanage on how to manage their first savings.
+<ul>
+<li><strong>James&rsquo; Comment</strong>: That is wonderful. We must find ways to reach these vulnerable groups and educate them.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Wonder 
+    <div id="wonder" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#wonder" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Sharing</strong>: Thanked the teacher for years of sharing, which allows for peace of mind even when the stock market drops. There is no longer a perceived economic burden for the future, providing confidence in life and in raising children.</li>
+</ul>
+
+
+<h2 class="relative group">IV. Brilliant Insights 
+    <div id="iv-brilliant-insights" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iv-brilliant-insights" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<blockquote>
+<p>&ldquo;Our entire nation deserves to be wealthy&hellip; If you earn money through labor alone, you are like the Boxers (insurgents using outdated methods); you must use financial warfare, financial weapons, and a capitalist&rsquo;s mindset to win this war.&rdquo;
+&ndash; <strong>Teacher James</strong></p></blockquote>
+<p><em>Context: Responding to Min&rsquo;s story, James explained the importance of financial literacy for individuals and families, comparing manual labor alone to the outdated tactics of the Boxers Rebellion.</em></p>
+<blockquote>
+<p>&ldquo;Although it may take some time—maybe five, seven, or even ten years—knowing that there is an end goal allows a person&rsquo;s entire life to relax. They find true peace of mind.&rdquo;
+&ndash; <strong>Teacher James</strong></p></blockquote>
+<p><em>Context: Responding to Andy, James noted that the channel&rsquo;s greatest value isn&rsquo;t instant wealth, but providing a clear future to eliminate current anxiety.</em></p>
+<blockquote>
+<p>&ldquo;A profession will not make you wealthy; only investing will. Your job can be taken away by others, but your investments are yours.&rdquo;
+&ndash; <strong>Teacher James</strong></p></blockquote>
+<p><em>Context: Responding to Clark, James highlighted the fundamental difference between earned income and invested assets; the former is &ldquo;passive&rdquo; (at the mercy of others), while the latter is one&rsquo;s true engine for wealth.</em></p>
+<blockquote>
+<p>&ldquo;For a person earning minimum wage to end up with 1 billion&hellip; wealth is a natural, beautiful gift, but we haven&rsquo;t been educated on it.&rdquo;
+&ndash; <strong>Teacher James</strong></p></blockquote>
+<p><em>Context: After hearing Wu Li Yun&rsquo;s story of growing 1M to 5M on a basic salary, James remarked on the power of capitalism and how proper education enables regular people to reach once-unimaginable levels of wealth.</em></p>
+<blockquote>
+<p>&ldquo;If you want a class reversal, a class migration, you must awaken&hellip; Once you become the &lsquo;big tree&rsquo; of the family, you can flip the fate of the entire lineage.&rdquo;
+&ndash; <strong>Teacher James</strong></p></blockquote>
+<p><em>Context: Encouraging Min, James emphasized that young people should prioritize investing in themselves as the only way to achieve a leap in family wealth.</em></p>
+<blockquote>
+<p>&ldquo;Finance is finance; you must stand on the side of rationality, never on the side of emotion.&rdquo;
+&ndash; <strong>Min</strong></p></blockquote>
+<p><em>Context: Min sharing how he convinced his girlfriend to invest rather than spending money on an emotionally satisfying but economically unproductive countryside house.</em></p>
+
+
+<h2 class="relative group">V. Summary 
+    <div id="v-summary" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#v-summary" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>This session, through a practical backtesting App, turned the abstract concept of stock pledging into something concrete. Teacher James not only demonstrated the tool but, more importantly, revealed the trade-offs between risk and reward in different strategies. Pledging can significantly amplify wealth but requires extreme discipline; non-pledging is more flexible and suits those with higher cash flow needs. Most movingly, the real stories of students—especially Wu Li Yun from a grassroots background and Min&rsquo;s hardworking girlfriend—vividly illustrated the core philosophy: &ldquo;Investing can change your destiny.&rdquo; This was not just a technical analysis class, but a deep exchange about hope, peace, and life awakening, reaffirming the community&rsquo;s belief in long-term holding and simple investing.</p>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>Disclaimer:</strong> This article consists of personal study notes and does not constitute any investment advice.</span>
+</div>
+
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>00544 The Market Will Fall for 10 Years, Are You Ready? Survival Rules for Cash, Debt, and QQQ</title>
       <link>https://jomonylw.github.io/en/posts/1765673945469/</link>
@@ -4382,608 +4839,6 @@ Background: When summarizing the seventh and highest level of investment operati
     
       class="dark:text-neutral-300"
     ><strong>Disclaimer:</strong> This article is for personal study notes only and does not constitute any investment advice.</span>
-</div>
-
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>00534 Retirement Asset Allocation and Withdrawal Rate: Survival is More Important Than Rate of Return</title>
-      <link>https://jomonylw.github.io/en/posts/1759712155643/</link>
-      <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://jomonylw.github.io/en/posts/1759712155643/</guid>
-      <description>In this session, Teacher James elaborates on the core strategies of asset allocation and withdrawal rates for those who are retired or nearing retirement, emphasizing that &amp;#39;survival&amp;#39; is more important than chasing high returns. The content covers portfolio construction with different cash ratios (30%, 40%, 50%), maximum Beta value limits, and corresponding safe withdrawal rates. It also delves into topics like stock pledging, investment mindset, and the outlook for the AI era. The student sharing segment is rich with content, ranging from the joy of financial growth through practice to discussions on specific financial decisions (like buying a car or investing with a loan).</description>
-      <content:encoded><![CDATA[<lite-youtube videoid="1-XZhoheNvs" playlabel="1-XZhoheNvs" params=""></lite-youtube>
-
-
-
-<h2 class="relative group">I. Theme of the Session 
-    <div id="i-theme-of-the-session" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#i-theme-of-the-session" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<p>The core theme of this session is <strong>constructing a robust asset allocation strategy for retired or near-retired individuals with &lsquo;survival&rsquo; as the primary goal</strong>. The central idea is that financial planning in retirement should prioritize the stability and longevity of cash flow over maximizing investment returns. Teacher James explains in detail how to set the portfolio&rsquo;s risk exposure (Beta value) based on different levels of cash reserves (30%, 40%, 50%) and, accordingly, determine a safe annual withdrawal rate. The aim is to ensure one can weather even extreme market conditions, such as a 15-year-long bear market.</p>
-
-
-<h2 class="relative group">II. Presentation Content 
-    <div id="ii-presentation-content" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#ii-presentation-content" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-
-
-<h3 class="relative group">Scam Alerts and Resource Sharing 
-    <div id="scam-alerts-and-resource-sharing" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#scam-alerts-and-resource-sharing" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Beware of Scams</strong>: Recent online scams remain rampant, such as videos using AI to imitate the voices of figures like Jensen Huang, luring users into groups with offers of free books or ChatGPT tutorials for fraudulent purposes. Teacher James shared that even his own father received a scam text message claiming his &ldquo;phone had been hacked,&rdquo; reminding everyone not to click on unknown links. Important institutions like the government and banks typically communicate via mail rather than phone calls.</li>
-<li><strong>Identifying Fake Accounts</strong>: After recommending &ldquo;阿良正传的人生&rdquo; (A-Liang&rsquo;s True Story of Life) last week, some students mistakenly followed a fake Facebook account set up by scammers. The authentic A-Liang&rsquo;s Facebook has over 4,000 followers, while the fake account only has a few dozen.</li>
-<li><strong>Channel Recommendations</strong>: Recommended Chen Feng&rsquo;s YouTube channel &ldquo;陳風領航 大道至簡投資&rdquo; (Chen Feng&rsquo;s Navigation, The Great Way of Simple Investing) for more detailed investment methods, and a financial literacy podcast for children, &ldquo;倉鼠大米的理財冒險&rdquo; (Hamster Dami&rsquo;s Financial Adventure).</li>
-</ul>
-
-
-<h3 class="relative group">Core Strategy: Asset Allocation and Withdrawal Rates for Retirees 
-    <div id="core-strategy-asset-allocation-and-withdrawal-rates-for-retirees" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#core-strategy-asset-allocation-and-withdrawal-rates-for-retirees" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<p>Teacher James proposed three cash-based asset allocation models for retirees with different financial situations and risk tolerances:</p>
-<ol>
-<li>
-<p><strong>30% Cash Allocation</strong>:</p>
-<ul>
-<li><strong>Highest Risk Allocation (Beta ≈ 1.0)</strong>: The remaining 70% of assets can be allocated as 40% in an index fund (like QQQ) and 30% in a leveraged fund (like TQQQ).</li>
-<li><strong>Safe Withdrawal Rate</strong>: With this allocation, a maximum of <strong>2%</strong> of total assets can be withdrawn annually for living expenses.</li>
-<li><strong>Lower Risk Allocation (Beta ≈ 0.7)</strong>: If the portfolio consists of 70% in an index fund with no leverage, the withdrawal rate can be increased to <strong>3%</strong>.</li>
-<li><strong>Core Principle</strong>: The higher the asset volatility, the lower the withdrawal rate must be to prevent excessive asset depletion during a market downturn.</li>
-</ul>
-</li>
-<li>
-<p><strong>40% Cash Allocation</strong>:</p>
-<ul>
-<li><strong>Higher Risk Allocation (Beta ≈ 0.9)</strong>: The remaining 60% of assets can be allocated with a maximum of 30% in an index fund and 30% in a leveraged fund.</li>
-<li><strong>Safe Withdrawal Rate</strong>: With this allocation, a maximum of <strong>3%</strong> can be withdrawn annually.</li>
-<li><strong>Lower Risk Allocation (Beta ≈ 0.6)</strong>: If the portfolio is 40% index and 20% leveraged, the withdrawal rate can be increased to <strong>4%</strong>.</li>
-</ul>
-</li>
-<li>
-<p><strong>50% Cash Allocation</strong>:</p>
-<ul>
-<li><strong>Higher Risk Allocation (Beta ≈ 0.7)</strong>: The remaining 50% of assets can be allocated with a maximum of 30% in an index fund and 20% in a leveraged fund.</li>
-<li><strong>Safe Withdrawal Rate</strong>: With this allocation, <strong>4%</strong> can be withdrawn annually.</li>
-<li><strong>No-Leverage Allocation (Beta ≈ 0.5)</strong>: If the allocation is 50% cash and 50% index fund, the withdrawal rate can be increased to <strong>5%</strong>.</li>
-</ul>
-</li>
-</ol>
-<ul>
-<li><strong>Ultimate Goal: 15 Years of Cash Reserves</strong>
-<ul>
-<li>The most ideal state is to hold enough cash at a market high to cover living expenses for the next 15 years. Considering that cash itself earns interest (e.g., 3.5%), one might only need to prepare 12-13 years&rsquo; worth of principal to last for 15 years.</li>
-<li>If this cannot be achieved initially, cash can be gradually accumulated through rebalancing when the market goes up until the 15-year goal is met or exceeded.</li>
-<li>Only when cash reserves exceed 15 years of living expenses can the surplus be used to buy the dip during a market downturn, ensuring that &ldquo;survival&rdquo; remains the top priority.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Investment Philosophy and Analysis of Stock Pledging 
-    <div id="investment-philosophy-and-analysis-of-stock-pledging" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#investment-philosophy-and-analysis-of-stock-pledging" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Investing is Learned, Not Taught</strong>: James quotes the concept of &ldquo;The Tao that can be told is not the eternal Tao,&rdquo; emphasizing that investment philosophy must be personally contemplated, understood, and practiced to be truly internalized. Like riding a bicycle, no amount of reading can replace getting on the bike and trying. He encourages everyone to use their hands and minds to explore and comprehend for themselves.</li>
-<li><strong>Rethinking Stock Pledging</strong>:
-<ul>
-<li><strong>Evolution of Concept</strong>: In the past, to avoid sacrificing returns by holding cash (used for pledging), it was recommended to pair it with leveraged funds. Now, the emphasis is more on &ldquo;stability&rdquo; and &ldquo;survival.&rdquo; Therefore, even without chasing the highest returns, a no-leverage portfolio of 50% cash and 50% index fund can still be used for a pledged-asset line of credit.</li>
-<li><strong>Pledging Risk Warning</strong>: The teacher used an example to explain why even a seemingly low borrowing ratio (e.g., 10%) could lead to bankruptcy. Suppose you borrow $100,000 against $1 million in assets. During a prolonged bear market of 10 years (like 2000-2009, when the market fell 85%), the $100,000 loan plus interest could grow to $160,000, while your assets might shrink to just $150,000, at which point you would be insolvent. This highlights the importance of holding sufficient cash (e.g., 30%).</li>
-</ul>
-</li>
-<li><strong>Cash Flow is the Lifeline</strong>: An anecdote about an individual with over 100 million TWD in assets who fell into a cash flow crisis after buying a 75 million TWD mansion serves as a warning that regardless of asset size, a lack of cash flow management can lead to bankruptcy risk.</li>
-</ul>
-
-
-<h3 class="relative group">Outlook for the AI Era 
-    <div id="outlook-for-the-ai-era" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#outlook-for-the-ai-era" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>A Thousand-Fold Paradigm Shift</strong>: The revolution brought by artificial intelligence is a thousand times greater than the past internet revolution; it is a superposition of multiple paradigm shifts. The human economy is poised for unprecedented growth.</li>
-<li><strong>Seize the Opportunity, Hold on Tight</strong>: Those who follow the trend have the chance to &ldquo;go to space,&rdquo; but without adhering to correct investment principles and learning to think, they could also fall from space. One must rely on self-learning and hold firmly to the right direction.</li>
-</ul>
-
-
-<h2 class="relative group">III. Q&amp;A Session 
-    <div id="iii-qa-session" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#iii-qa-session" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-
-
-<h3 class="relative group">Iba 
-    <div id="iba" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#iba" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: She started listening to the teacher&rsquo;s classes in April 2021. Although she&rsquo;s a slow learner, she has saved $100,000 in the past 20 months despite a modest salary, which makes her very surprised and happy. She has already reduced her portfolio&rsquo;s Beta from 1.3 to around 1.0.</li>
-<li><strong>Question</strong>: Her car is in poor condition. Should she spend $1,000 to fix it and drive for a few more years, or buy a Tesla to improve her quality of life? Although she&rsquo;s tempted, she feels she is still in the early stages of wealth accumulation.
-<ul>
-<li><strong>James&rsquo;s Reply</strong>: He advises spending the $1,000 to fix the car. Since her total assets are not yet substantial, buying a fifty or sixty-thousand-dollar car would be too high a percentage of her total assets. At this stage, she should continue to invest her funds. The teacher suggests she cleverly use credit cards, such as an Apple Card or American Express with 2%-3% cash back, and invest all the rewards into TQQQ, thereby &ldquo;getting richer as you spend.&rdquo; At the same time, he shared a personal regret. Due to his frugality, when he took his mother to a conveyor belt sushi restaurant, she hesitated to take more dishes to be considerate of him, a memory that he later deeply regretted. Therefore, while buying a car is not recommended, one should not be overly frugal on crucial matters like showing filial piety to parents.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Nai-Hsin 
-    <div id="nai-hsin" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#nai-hsin" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>:
-<ol>
-<li>First, she publicly thanked the group administrator Chris, who set up many automated replies for their 00662 community, greatly improving management efficiency, solving numerous repetitive questions, and contributing immensely to the community.</li>
-<li>She shared a personal insight, viewing the wealth growth in her account as &ldquo;a grace from heaven and the teacher&rsquo;s enlightenment.&rdquo; Because this money was &ldquo;originally nothing,&rdquo; her heart is filled with gratitude.</li>
-<li>During the recent floods in Hualien, her family suggested making a donation. She sold a portion of her gains from 00670L (a 2x leveraged ETF) to donate, which she calls &ldquo;charitable rebalancing.&rdquo; She felt very happy donating it because the money was never &ldquo;hers&rdquo; to begin with. She has taken on a leadership role in a local charity and believes the money for charity doesn&rsquo;t come &ldquo;from her pocket&rdquo; but is obtained through investment wisdom, which can then be naturally given back to society.</li>
-</ol>
-<ul>
-<li><strong>James&rsquo;s Comment</strong>: He praised Nai-Hsin&rsquo;s act of kindness. Money is earned to be used, and giving back to society is a natural step when wealth reaches a certain level. The teacher emphasized that his advice is &ldquo;tailored to the individual,&rdquo; providing different guidance based on each person&rsquo;s financial stage.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Jenny 
-    <div id="jenny" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#jenny" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: After listening to a Buddhist dharma talk, she associated Teacher James&rsquo;s teachings with helping people &ldquo;escape the cycle of poverty,&rdquo; which filled her with a &ldquo;mind of reverence.&rdquo; She shared her recent action: she resolutely terminated a losing insurance policy, got back $24,000, and immediately invested it using the teacher&rsquo;s method. She believes that although it&rsquo;s a short-term loss, it&rsquo;s more important to cut losses in time and get on the right &ldquo;elevator,&rdquo; as she can earn it back in the coming years. She also began to ponder the deeper meaning of the teacher&rsquo;s emphasis on &ldquo;reserving 15 years of cash,&rdquo; understanding it&rsquo;s to ensure that one can both live without worry and navigate through a long bear market via rebalancing.</li>
-<li><strong>James&rsquo;s Reply</strong>: He explained the &ldquo;15 years of cash&rdquo; concept in detail. It is mainly for retired individuals with no source of income. The calculation is: annual expenses minus fixed income (like social security), then multiply the amount you need to cover by 15. For example, if you need to provide $50,000 yourself annually, you need to prepare $750,000 in cash. This standard is based on the historical experience of 2000-2015, where the market might have taken 15 years to return to its high. For those still working, they can dynamically replenish cash with their monthly salary and don&rsquo;t need to strictly sell stocks for rebalancing.</li>
-</ul>
-
-
-<h3 class="relative group">Dr. An 
-    <div id="dr-an" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#dr-an" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: He is a &ldquo;veteran student&rdquo; who has been following the teacher since 2011. He believes that new students today are very fortunate because the teacher&rsquo;s current investment strategy (indexing, long-term holding, automation) has evolved to its &ldquo;most perfect moment.&rdquo; He recalled that in the early years, the teacher&rsquo;s methods included individual stock picking and active trading. While it was possible to avoid major crashes, it was difficult for ordinary people to follow, and the after-tax returns were not ideal. Many old students missed out on the later, more optimized strategies because they didn&rsquo;t continue learning. He himself, based on the teacher&rsquo;s latest retirement calculation method in late 2023, found that he had enough to retire. He officially retired in January 2024 and now lives a wonderful life, with his investment income even exceeding his previous salary.</li>
-<li><strong>James&rsquo;s Comment</strong>: He thanked Dr. An for his sharing. He compared his early investment teaching to an &ldquo;expeditionary force,&rdquo; with heavy casualties and few who could keep up. Now, because online teaching doesn&rsquo;t allow for real-time command of tens of thousands of students, the strategy had to evolve into a &ldquo;space force&rdquo;—a fully automated model with no manual intervention. The pandemic accelerated this transformation. He praised Dr. An for not only keeping up but also implementing advanced operations like stock pledging and Roth conversions.</li>
-</ul>
-
-
-<h3 class="relative group">Fang 
-    <div id="fang" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#fang" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: He is a 36-year-old junior manager who started following the teacher during the market crash in 2022. His assets have since doubled. He calculated that he could reach his retirement threshold around age 45, but he is currently under a lot of work pressure and wants to accelerate his retirement.</li>
-<li><strong>Question</strong>: With this conflicting mindset of &ldquo;wanting to accelerate&rdquo; yet knowing &ldquo;safety comes first,&rdquo; how should he adjust his asset allocation and mentality?
-<ul>
-<li><strong>James&rsquo;s Reply</strong>: Since he is nearly 10 years away from retirement, he can absolutely adopt a more aggressive strategy. He can maintain a Beta of 1.0 and &ldquo;not rebalance&rdquo; for the next few years, letting his profits run. This might naturally increase his Beta to 1.3 or even 1.5. When he is about 5 years from retirement, he can start &ldquo;hitting the brakes&rdquo; by gradually increasing his cash position and reducing risk.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Rui 
-    <div id="rui" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#rui" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: He feels very lucky to have encountered the teacher when the strategy was already in its &ldquo;final form.&rdquo; He only truly understood some of the teacher&rsquo;s concepts, like the &ldquo;risk of risk,&rdquo; after listening repeatedly. He has implemented a 433 allocation (40% index, 30% leveraged, 30% cash) and has saved 50 times his annual expenses and 15 years of cash.</li>
-<li><strong>Question</strong>: At the age of 30-something, how can one better &ldquo;exchange money for spiritual energy&rdquo;?
-<ul>
-<li><strong>James&rsquo;s Reply</strong>: The core of spiritual energy is &ldquo;vision&rdquo; and &ldquo;capacity of mind.&rdquo; You should practice a mindset: imagine you suddenly have 20 billion. If your lifestyle and mentality remain unchanged, then your spiritual energy is strong enough. True financial freedom is when &ldquo;money&rdquo; disappears from your life. It becomes like air, natural. When you consume, you no longer consider the price, only the value and experience. This is what frees you from trivial matters, allowing your spiritual energy to grow stronger.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Chris 
-    <div id="chris" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#chris" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: He discovered CLEC in 2021, and investing has become simple ever since. He recently sold a house and feels very relieved. Most importantly, he met his current partner through CLEC, for which he is very grateful to the teacher. Tomorrow, he will have dinner with the friend who introduced him to CLEC and their respective partners.
-<ul>
-<li><strong>James&rsquo;s Comment</strong>: He congratulated him on finding a partner with a similar philosophy, which is a wonderful thing.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Benson 
-    <div id="benson" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#benson" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: His investment return has reached 220%. He feels very free and more confident at work.</li>
-<li><strong>Question</strong>: He wanted to confirm if his understanding is correct: Since his early portfolio was quite aggressive, now that his assets have grown, should he primarily allocate new monthly funds to his cash position to gradually build up the 15-year cash buffer mentioned by the teacher, rather than adjusting his existing stock positions?
-<ul>
-<li><strong>James&rsquo;s Reply</strong>: This idea is completely correct and is an excellent method of dynamic adjustment. He also shared a conversation with his daughter, explaining why he chooses QQQ over VOO: <strong>&ldquo;You should reduce volatility by increasing cash, not by investing in a lower-return asset.&rdquo;</strong> Low long-term return is the biggest risk.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Peng 
-    <div id="peng" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#peng" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: He is a new student who just found the channel two weeks ago and lost sleep for a few days due to the sheer volume of information. His previous belief was to hold VT and 0050 long-term and sell assets to live on in retirement. He only understood the groundbreaking concept of &ldquo;stock pledging&rdquo; after encountering the teacher.</li>
-<li><strong>Question</strong>:
-<ol>
-<li>If, after retiring and starting to withdraw via pledging for 3 years, his cash reserves reach the 15-year level, does he need to prepare 18 years of cash to be safe, considering the 3 years of living expenses already borrowed?</li>
-<li>When the teacher retired at 42, did he already have the concept of living off a pledged-asset line of credit? What was the inspiration for this idea?</li>
-</ol>
-<ul>
-<li><strong>James&rsquo;s Reply</strong>:</li>
-</ul>
-<ol>
-<li>No, it&rsquo;s not necessary. Because after a few years of market growth, your total asset size will be much larger than at the beginning. The growth in assets will be more than enough to cover the borrowed portion, making your safety cushion even thicker.</li>
-<li>It was an evolutionary process. He didn&rsquo;t know about it when he retired; he discovered it later. In 2018, he needed money but didn&rsquo;t want to sell stocks and pay high taxes, so he proactively emailed his brokerage to ask if he could borrow against his stocks. The brokerage immediately set up a pledged-asset loan for him. He pointed out that this is a &ldquo;secret&rdquo; of the financial industry because regulations restrict brokerages from proactively marketing such banking services to clients unless the client asks first.</li>
-</ol>
-</li>
-</ul>
-
-
-<h3 class="relative group">Meihao 
-    <div id="meihao" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#meihao" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: She started with a joke about &ldquo;not arguing with a pig&rdquo; to express her gratitude for the teacher&rsquo;s continuous guidance.</li>
-<li><strong>Question</strong>: She has planned a 433 allocation, and her house is sold, but the cash hasn&rsquo;t arrived yet. The bank is offering her a 7-year personal loan of 5 million at a 2.88% interest rate. She wants to know if using this loan to invest is considered greedy or the right move.
-<ul>
-<li><strong>James&rsquo;s Reply</strong>: This is a very correct move, not greed. A 433 allocation can support a 3% withdrawal rate, which completely covers the 2.88% loan interest. Since she is still working and has cash flow, the risk is manageable.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Wei 
-    <div id="wei" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#wei" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: His wife has been investing in QQQ for over twenty years without deviation, and her performance has been excellent. She uses this as a reason to reject any changes, believing the simplest method is the best. Her son is also influenced by her.</li>
-<li><strong>Question</strong>: How can he communicate with family members who hold the view, &ldquo;My method works, why should I change?&rdquo;
-<ul>
-<li><strong>James&rsquo;s Reply</strong>: This is not something you can communicate. Her environment (having you as a backstop) provides no pressure for her to evolve. She is like a strong &ldquo;monkey&rdquo;; even without evolving into a &ldquo;human,&rdquo; she can live very well in her current environment. From her perspective, she is not wrong. If her assets are large enough that she can live comfortably even after an 80% market drop, then her choice is also a viable path.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Mike 
-    <div id="mike" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#mike" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: He discussed the huge impact of Sora 2 and shared the experience of his small group getting rich together by sticking to their philosophy.</li>
-<li><strong>Question</strong>: He saw an analyst mention that Stablecoin would bring a $3 trillion business opportunity. How is this figure estimated? Does this reflect the strength of the US economy?
-<ul>
-<li><strong>James&rsquo;s Reply</strong>: The US dollar itself is an &ldquo;aggressive currency,&rdquo; exchanging paper money for the real assets of other countries. Stablecoin increases the efficiency of this &ldquo;aggression&rdquo; by at least 10 times because it can bypass central banks and the SWIFT system, penetrating directly into the general populace. This will cause more countries to lose their monetary sovereignty. The significant increase in the circulation of the US dollar will bring enormous interest income to US financial institutions. The $3 trillion estimate might even be conservative. This is a silent &ldquo;capitalist war.&rdquo;</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Hua Sheng 
-    <div id="hua-sheng" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#hua-sheng" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: He is from mainland China and shared his investment insights: be &ldquo;fast&rdquo; when you find the right path (buy quickly, pledge), and be &ldquo;slow&rdquo; once you are on the path (hold patiently, seek stability). He shared practical advice for mainland investors operating in Hong Kong: invest in the Hong Kong-listed 03086 (CSOP NASDAQ-100 ETF), put the cash portion in an accumulating money market fund, and hold leveraged ETFs in a US brokerage to avoid tax information exchange issues.</li>
-</ul>
-
-
-<h3 class="relative group">Dong Zhang 
-    <div id="dong-zhang" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#dong-zhang" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: She is a new student who has been following for three to four months. By investing in 513100 (an A-share traded Nasdaq 100 ETF), her profits can already cover two years of expenses, giving her an early taste of financial freedom.</li>
-<li><strong>Question</strong>:
-<ol>
-<li>She admits to being impatient. How can she maintain patience like the teacher?</li>
-<li>She has a 70/30 (stock/cash) allocation and 15 years of cash for expenses. How should she rebalance after retirement?</li>
-</ol>
-<ul>
-<li><strong>James&rsquo;s Reply</strong>:</li>
-</ul>
-<ol>
-<li>He himself has a quick temper but is always practicing. The key is to practice &ldquo;empathy.&rdquo; Before a conversation, silently repeat three times, &ldquo;He is right, I am wrong.&rdquo; When you place yourself in the &ldquo;wrong&rdquo; position, you won&rsquo;t get so agitated, and the communication will be more effective.</li>
-<li>If you still have income, use the income to maintain the ratio. If you are fully retired, simply withdraw one year&rsquo;s living expenses from the cash portion annually. If the market goes up, let your cash reserves naturally grow to, say, 20 years. When the market falls, use the portion above your 15-16 year baseline to buy stocks.</li>
-</ol>
-</li>
-</ul>
-
-
-<h3 class="relative group">Aola 
-    <div id="aola" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#aola" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Question</strong>:
-<ol>
-<li>If the portfolio&rsquo;s Beta value exceeds 1, does it need to be addressed?</li>
-<li>He has bank accounts in mainland China, Taiwan, and Hong Kong. Is it necessary to consolidate them all in the US?</li>
-</ol>
-<ul>
-<li><strong>James&rsquo;s Reply</strong>:</li>
-</ul>
-<ol>
-<li>As long as you have sufficient cash reserves, a Beta over 1 doesn&rsquo;t need to be addressed.</li>
-<li>If you have a need for money in all three places, keeping the accounts is convenient. The key consideration is the inheritance laws in each location to ensure heirs can inherit the assets smoothly.</li>
-</ol>
-</li>
-</ul>
-
-
-<h3 class="relative group">Queen Wu 
-    <div id="queen-wu" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#queen-wu" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: She is a new student who recently moved to the US from mainland China. She is a person of action; within a month of attending the class, she sold her commercial property in China and has already invested 40% of the funds into 513100.</li>
-<li><strong>Question</strong>: She plans to return to China in 6 years and understands that Hong Kong is the most favorable place for stock pledging. However, there is an annual foreign exchange quota of only $50,000, making capital transfer slow. How should she plan for this?
-<ul>
-<li><strong>James&rsquo;s Reply</strong>: First, pledging assets in the US carries risks for non-long-term residents, as the account could be closed. Therefore, gradually moving funds to Hong Kong is the right direction. As for the operational details, he suggested that Queen Wu could contact Hua Sheng, who spoke in the comments section, to exchange more details privately.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Vicky 
-    <div id="vicky" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#vicky" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Sharing</strong>: She is a beginner who started listening just two or three weeks ago. She currently manages stocks for four people—herself, her husband, her son, and her mother—but the holdings are very diversified, with over 30 different stocks.</li>
-<li><strong>Question</strong>:
-<ol>
-<li>How should she start? Should she sell all the old stocks or start buying the new targets with cash?</li>
-<li>How to create different plans for three generations (her retired mother, herself who is nearing retirement, and her son who just started working)?</li>
-<li>She bought a pre-sale home for her son. What is the most advantageous way to handle the future mortgage?</li>
-</ol>
-<ul>
-<li><strong>James&rsquo;s Reply</strong>:</li>
-</ul>
-<ol>
-<li><strong>Mother</strong>: Sell everything and buy 0056 (a Taiwanese high-dividend ETF). Live off the dividends, and reinvest any surplus.</li>
-<li><strong>Yourself and Husband</strong>: Sell all stocks (the 30+ holdings) and bonds. Create a portfolio of 70% 00662 (Fubon NASDAQ) and 30% 00865B (Cathay 20-Year US Treasury Bond ETF).</li>
-<li><strong>Son</strong>: Just started working with a stable income. All spare cash should go into 00662. There is no need to hold cash at this stage.</li>
-<li><strong>Pre-sale Home</strong>: The best strategy is to sell it as soon as possible after taking possession. If for self-occupancy, try to pay only the interest on the mortgage, not the principal.</li>
-<li><strong>Regarding Sub-brokerage Accounts</strong>: He recommends liquidating them all. Using Taiwanese sub-brokerage accounts to hold US stocks could face US estate tax issues in the future, and there is also the alternative minimum tax system for overseas income. It is simpler to invest directly in local Taiwanese ETFs.</li>
-</ol>
-</li>
-</ul>
-
-
-<h2 class="relative group">IV. Insightful Quotes 
-    <div id="iv-insightful-quotes" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#iv-insightful-quotes" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<blockquote>
-<p>For retirement, what matters is cash flow, not rate of return. Return is secondary; survival is the most important thing.
-&ndash; Teacher James</p></blockquote>
-<p>This viewpoint was a common thread throughout the session and is the cornerstone of this asset allocation strategy, reminding retirees to place financial security above return growth.</p>
-<blockquote>
-<p>The Tao that can be told is not the eternal Tao. &hellip; The true Tao is the one you comprehend for yourself. Everything spoken is just the surface, the written words of a martial arts manual.
-&ndash; Teacher James</p></blockquote>
-<p>The teacher emphasizes the importance of independent thinking and personal practice in investing. Knowledge must be internalized to become true wisdom.</p>
-<blockquote>
-<p>A peanut for your parents while they&rsquo;re alive is worth more than a whole pig on the altar after they&rsquo;re gone. (Taiwanese proverb)
-&ndash; Teacher James (Quoted by Jenny during her sharing)</p></blockquote>
-<p>The teacher uses this vivid metaphor to stress that filial piety and care should be expressed while loved ones are still alive; their value far exceeds lavish memorials after they have passed.</p>
-<blockquote>
-<p>You don&rsquo;t reduce volatility by changing your investment vehicle; you reduce volatility by holding cash. Low long-term return is the real risk.
-&ndash; Teacher James</p></blockquote>
-<p>A concise point made by the teacher when answering his daughter&rsquo;s question, pointing out that the correct way to handle market volatility is to adjust the cash ratio, not to sacrifice long-term returns by choosing a less volatile asset.</p>
-<blockquote>
-<p>You have to first tell yourself that he is right, and I am wrong. &hellip; Why would someone who is wrong be so loud? This will make you reflect.
-&ndash; Teacher James</p></blockquote>
-<p>The teacher&rsquo;s method for practicing patience, shared when answering how to maintain it. By first acknowledging the other person&rsquo;s validity, one can effectively de-escalate one&rsquo;s own emotions and achieve more peaceful communication.</p>
-<blockquote>
-<p>Never pay back borrowed money. This is very important. If you intend to pay back the money from a pledged-asset line, you shouldn&rsquo;t have borrowed it in the first place.
-&ndash; Benson &amp; Teacher James</p></blockquote>
-<p>Benson&rsquo;s sharing and the teacher&rsquo;s confirmation highlight the core essence of stock pledging: the borrowed money is a tool for living expenses or reinvestment. The goal is to ensure the cash-flow-generating asset is never depleted, thus &ldquo;repaying the principal&rdquo; is an incorrect operation.</p>
-<blockquote>
-<p>When investing doesn&rsquo;t exist, the market doesn&rsquo;t exist, and money doesn&rsquo;t exist, that&rsquo;s when your spiritual energy is at its peak.
-&ndash; Teacher James</p></blockquote>
-<p>The teacher describes the highest state of financial freedom. When wealth is so abundant that one no longer needs to think or worry about money itself, one can attain true spiritual freedom.</p>
-
-
-<h2 class="relative group">V. Summary 
-    <div id="v-summary" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#v-summary" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<p>This session was an extremely profound and practical lesson on retirement financial planning. Teacher James has evolved from his previous focus on &ldquo;the highest return under safe conditions&rdquo; to a more conservative strategy centered on &ldquo;absolute safety,&rdquo; providing a clear and actionable guide to asset allocation and withdrawal rates for those approaching or in retirement. Through the detailed breakdown of the 30%, 40%, and 50% cash allocation models, individuals in different financial situations can find a suitable &ldquo;survival&rdquo; plan. The numerous student sharings in the Q&amp;A session, from the &ldquo;then and now&rdquo; comparisons of veteran students to the &ldquo;aha&rdquo; moments and practical applications of new students, vividly demonstrated how this investment philosophy can change the financial destinies and life outlooks of different people. The entire session was not just a transmission of investment techniques but a deep exchange on views about wealth, risk, and life wisdom.</p>
-
-  
-
-
-
-<div
-  
-    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
-  >
-
-  <span
-    
-      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
-    >
-
-    
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
-
-  </span>
-
-
-  </span>
-
-  <span
-    
-      class="dark:text-neutral-300"
-    ><strong>Disclaimer:</strong> This article is for personal learning notes only and does not constitute any investment advice.</span>
 </div>
 
 ]]></content:encoded>
