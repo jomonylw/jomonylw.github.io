@@ -1,4 +1,600 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>QQQ 投资者</title><link>https://jomonylw.github.io/</link><description>Recent content on QQQ 投资者</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 20 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>00545 让家庭从悲剧变成喜剧：清醒投资与陪伴的力量</title><link>https://jomonylw.github.io/posts/1766278331470/</link><pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/posts/1766278331470/</guid><description>本期James老師詳細介紹並操作了一款由社群成員Martin開發的投資組合回測App，通過模擬台灣和美國不同市場條件下的股票質押策略，探討了不同提款率（1.5% vs 2.7%）對資產增長的影響。課程強調了質押借款雖能放大長期資產，但伴隨著較高風險且需嚴格控制開銷。問答環節中，學員們分享了從焦慮到安心的心路歷程，再次印證了長期投資帶來的力量。</description><content:encoded><![CDATA[<lite-youtube videoid="L90H95KxHCc" playlabel="L90H95KxHCc" params=""></lite-youtube>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>QQQ 投资者</title><link>https://jomonylw.github.io/</link><description>Recent content on QQQ 投资者</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>00546 你早就可以退休了，只是你不敢</title><link>https://jomonylw.github.io/posts/1766882241085/</link><pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/posts/1766882241085/</guid><description>本期James老师提出了一个更易实现的退休方案，即准备15倍年开销的资产即可退休。他详细解释了如何利用高股息产品（如QQQI）和传统指数投资组合来实现这一目标，并更新了资产配置模拟工具，分享了针对台湾和美国投资者的模拟结果。此外，内容还涵盖了中国大陆、香港及其他非美国税务居民的现金管理和ETF选择方案，并在问答环节深入探讨了子女财商教育、股票质押策略、各地投资实务等多个热点话题。</description><content:encoded><![CDATA[<lite-youtube videoid="FwPUUYWLGdE" playlabel="FwPUUYWLGdE" params=""></lite-youtube>
+
+
+
+<h2 class="relative group">一、当期主题 
+    <div id="%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<p>本期核心主题是**“重新定义退休门槛”**。James老师颠覆了过去需要年开销50倍资产才能退休的传统观念，提出了一个更为积极和可行的方案：<strong>仅需15倍年开销的资产即可实现退休</strong>。这一方案的核心在于巧妙结合高股息ETF提供的稳定现金流与成长型指数投资的增值潜力，大大降低了退休的财务门槛，为更多人开启了提前退休的可能性。同时，课程也更新了实用的资产配置模拟工具，并针对不同地区的投资者提供了具体的投资工具建议。</p>
+
+
+<h2 class="relative group">二、简报内容 
+    <div id="%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">退休新标准：15倍年开销即可退休 
+    <div id="%E9%80%80%E4%BC%91%E6%96%B0%E6%A0%87%E5%87%8615%E5%80%8D%E5%B9%B4%E5%BC%80%E9%94%80%E5%8D%B3%E5%8F%AF%E9%80%80%E4%BC%91" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E9%80%80%E4%BC%91%E6%96%B0%E6%A0%87%E5%87%8615%E5%80%8D%E5%B9%B4%E5%BC%80%E9%94%80%E5%8D%B3%E5%8F%AF%E9%80%80%E4%BC%91" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>核心方案</strong>：将15倍年开销的资产分为两部分：
+<ol>
+<li><strong>10倍年开销</strong>：投入高股息产品，获取约12%的年化股息作为稳定现金流，覆盖生活开销。</li>
+<li><strong>5倍年开销</strong>：投入成长型投资组合（如433配置），让资产持续增长。</li>
+</ol>
+</li>
+<li><strong>高股息工具推荐</strong>：
+<ul>
+<li><strong>美国</strong>：QQQI，年化股息率约12%。</li>
+<li><strong>台湾</strong>：可通过复委托购买QQQI。</li>
+<li><strong>中国</strong>：南方红利低波动（008163）。</li>
+<li><strong>香港</strong>：3416.HK，目前股息率高达16%。</li>
+</ul>
+</li>
+<li><strong>优势</strong>：此方案让退休目标不再遥远，投资者无需等到积累30或50倍年开销。基金管理人会专业地进行操作（如卖出股票、利用期权增收），为投资者提供稳定的现金流，使其免受市场波动的直接心理冲击。</li>
+</ul>
+
+
+<h3 class="relative group">各地现金及ETF管理方案 
+    <div id="%E5%90%84%E5%9C%B0%E7%8E%B0%E9%87%91%E5%8F%8Aetf%E7%AE%A1%E7%90%86%E6%96%B9%E6%A1%88" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E5%90%84%E5%9C%B0%E7%8E%B0%E9%87%91%E5%8F%8Aetf%E7%AE%A1%E7%90%86%E6%96%B9%E6%A1%88" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>中国大陆投资者</strong>：
+<ul>
+<li><strong>人民币现金</strong>：可存放于<strong>逆回购</strong>，利息约1.1%至1.6%，无汇率风险。</li>
+<li><strong>美元现金</strong>：可购买<strong>QDII美元短期债券基金</strong>，收益率约3.4%至4%，但需承担美元汇率波动。</li>
+</ul>
+</li>
+<li><strong>非美国税务居民（如欧洲、新加坡投资者）</strong>：
+<ul>
+<li><strong>规避美国遗产税</strong>：应选择在爱尔兰、卢森堡注册的UCITS ETF。这类ETF名称中通常含有“UCITS”字样。</li>
+<li><strong>推荐代码</strong>：派息型如EQQQ，累积型如EQQS、CNDX等。</li>
+<li><strong>注</strong>：在香港或新加坡的投资者，通常可以直接购买本地上市的ETF，同样可以规避美国遗产税问题。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">资产配置模拟工具更新与实战 
+    <div id="%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E6%A8%A1%E6%8B%9F%E5%B7%A5%E5%85%B7%E6%9B%B4%E6%96%B0%E4%B8%8E%E5%AE%9E%E6%88%98" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E6%A8%A1%E6%8B%9F%E5%B7%A5%E5%85%B7%E6%9B%B4%E6%96%B0%E4%B8%8E%E5%AE%9E%E6%88%98" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>工具更新</strong>：James老师与Martin更新了资产配置模拟器，修复了Bug，并发布了长达3小时的YouTube教学视频，详细讲解如何使用该工具。</li>
+<li><strong>模拟结论（以167%维持率为基准）</strong>：
+<ul>
+<li><strong>台湾投资者（433配置，质押利率3%）</strong>：
+<ul>
+<li>每年最多可提取**2.5%**的生活费而不会爆仓。</li>
+<li><strong>特别提醒</strong>：需考虑新台币兑美元约15%的汇率波动，这会影响约10%的维持率，因此使用167%的维持率比140%更为安全。</li>
+</ul>
+</li>
+<li><strong>美国投资者（质押LTV约80%）</strong>：
+<ul>
+<li>每年最多可提取**2.1%**的生活费。</li>
+<li><strong>安全建议</strong>：为留出安全边际（护城河），建议台湾投资者提取2.2%左右，美国投资者提取1.8%-1.9%。</li>
+</ul>
+</li>
+<li><strong>不质押者（80/20配置）</strong>：
+<ul>
+<li>每年可提取<strong>2.7%</strong>，但资产总额几乎不会增长，无法享受资产增值的复利效应。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">新人参考资料 
+    <div id="%E6%96%B0%E4%BA%BA%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E6%96%B0%E4%BA%BA%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>新人葵花宝典</strong>：整合了过去大量的重点资讯，是新成员入门学习的宝库。</li>
+<li><strong>James老师AI智能助手</strong>：一位学员利用AI技术，将James老师所有YouTube影片内容整理成一个AI问答机器人，可以像与老师对话一样提问，是学习的得力助手。</li>
+</ul>
+
+
+<h2 class="relative group">三、问答环节 
+    <div id="%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Chris 
+    <div id="chris" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#chris" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题1：家里经济条件较好，如何对年幼的孩子进行正确的财商教育，避免他们养成不良的消费习惯？
+<ul>
+<li>James老师回复：
+<ol>
+<li><strong>区分消费类型</strong>：从小教育孩子分清“精神消费”（如旅行、体验）和“物质消费”（如玩具、名牌）。鼓励前者，节制后者。</li>
+<li><strong>明确所有权</strong>：清晰地告诉孩子，钱是父母的，不是他们的。父母有权决定是否满足他们的物质需求。不能让他们予取予求。</li>
+<li><strong>言教不如身教</strong>：父母自身的消费习惯是最好的榜样。如果父母勤俭节约，不追求物质攀比（例如，车子能开就好，不必追求最新款），孩子自然会耳濡目染。</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>问题2：对于台湾投资者，QQQI退税有延迟，是否有其他本地类似的高股息基金可替代？
+<ul>
+<li>James老师回复：我没有专门研究台湾本地的基金。如果要比较，你需要从几个关键指标入手：1. <strong>最大回撤（Max Drawdown）</strong>，特别是在2022年熊市的表现如何；2. <strong>总回报率</strong>，即资本利得加上股息的总和，与QQQI进行对比，看哪个更适合你的需求。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Qing 
+    <div id="qing" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#qing" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>分享1：他上初中的孩子将零用钱都花在游戏点数上，不愿储蓄，甚至半开玩笑说父亲“寒酸”。
+<ul>
+<li>James老师评论：
+<ol>
+<li><strong>不应用金钱奖励成绩</strong>：学习是孩子自己的责任，用金钱作为激励可能会扭曲其价值观。</li>
+<li><strong>立即纠正不当言行</strong>：当孩子说出“寒酸”这类不尊重的话时，必须立刻、严肃地纠正他。要让他明白，这是父母的钱，他没有权利这样评价，有些玩笑是不能开的。必须为孩子设定清晰的界限和方圆。</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>分享2：谈及近期社会案件，感叹教育子女的难度。
+<ul>
+<li>James老师评论：孩子成年后，父母的责任有限，家里能提供的就是一张床和一双筷子。关键在于从小就要把规矩立好。如果父母自身消费观念正确、不浪费，就能为孩子树立良好榜样。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Loreal 
+    <div id="loreal" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#loreal" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>分享：赞同James老师的观点，分享了高铁上看到有孩子对母亲做出不尊重手势，而母亲却毫无反应的例子，强调从小立规矩的重要性。</li>
+<li>问题：作为中国大陆的新手投资者，通过嘉信理财（Schwab）构建了433投资组合，但担心未来的美国遗产税问题。
+<ul>
+<li>James老师回复：对于非美国居民，通过美国券商处理遗产继承手续会极其复杂和昂贵。强烈建议你到香港开户（如汇丰银行），直接购买在香港上市的ETF。香港没有遗产税，且有对应的纳斯达克100指数及杠杆ETF，可以完全规避此问题。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Washing 
+    <div id="washing" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#washing" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题：退休后，如果公司提供的健康保险（Blue Cross）很好，是否还有必要同时购买联邦医疗保险（Medicare）？
+<ul>
+<li>James老师回复：没有必要。如果你现有的保险足够好，可以满足所有医疗需求，就无需再花钱购买Medicare。你可以选择不去注册Medicare的部分计划。</li>
+</ul>
+</li>
+<li>分享：她28岁的儿子热衷于收藏卡牌、杂志等，并为此专门开了投资账户，对自己为他开的嘉信账户不感兴趣。
+<ul>
+<li>James老师评论：如果涉及的金额不大（几千美元），就让他去追求自己的兴趣吧，这是他自己的钱，孩子高兴就好。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Peter 
+    <div id="peter" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#peter" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>分享：刚购买了特斯拉Model Y，对FSD 14.2版本在实际使用中的表现赞不绝口，认为这是堪比iPhone时刻的巨大技术飞跃。他回忆起James老师在三四年前就预言特斯拉未来是一家AI和机器人公司。
+<ul>
+<li>James老师评论：是的，我当时就说自动驾驶汽车站起来就是机器人。很高兴看到这一切正在实现。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">B 
+    <div id="b" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#b" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题：如何在台湾获得个人信贷？
+<ul>
+<li>James老师回复：关键在于在银行建立稳定的“金流”。建议定期（如每月或每季）从海外汇款至台湾的银行账户，并办理该行的信用卡。持续一段时间后，银行看到你有稳定的资金流入，就会愿意提供信用贷款。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Kim 
+    <div id="kim" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#kim" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>分享：作为马来西亚的投资者，感谢老师的平台，分享了自己坚定持有QQQ的经历。</li>
+<li>问题：作为非美国居民，如何规避美国遗产税？
+<ul>
+<li>James老师回复：可以在新加坡购买在爱尔兰注册的CNDX，或者购买在香港发行的ETF。
+<ul>
+<li>（注：后续Momo学员补充了更精确的信息，建议香港投资者选择02834.HK以彻底规避遗产税和税务问题）。</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Ocean 
+    <div id="ocean" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ocean" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>分享：听从老师建议配置433后，心态更安定，生活质量也得到提升，并开始向在中国的家人推广投资理念。</li>
+<li>问题1：作为在大陆工作的台湾人，人民币收入超出每年5万美元的外汇额度后，如何安全地将资金转回台湾？
+<ul>
+<li>James老师回复：这是一个难题，我没有完美的解决方案。除了亲自携带现金外，官方渠道确实有限。通过公司账目操作也非常复杂，需要非常信赖的关系。</li>
+</ul>
+</li>
+<li>问题2：暂时无法带回台湾的人民币，是应该买国债这类短期产品存放，还是直接投资于中国的指数基金（如513100）？
+<ul>
+<li>James老师回复：直接投资指数基金也是一个不错的选择。既然资金暂时无法移出，不如让它在当地市场继续增值。未来中国的外汇管制总有放开的可能。</li>
+</ul>
+</li>
+<li>问题3：是否应该将所有资产（包括现金部分）都放入质押账户中，以眼不见为净？
+<ul>
+<li>James老师回复：不建议这么做。应保留一部分资产在普通账户，以保持灵活性。万一券商政策变动（如提高利率、账户冻结），你有其他资产作为谈判筹码或备用金，不至于完全被动。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Wang Xi 
+    <div id="wang-xi" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#wang-xi" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题：在中国大陆，是否应该将部分备用金从人民币换成美元，去购买利息更高的QDII美元短期债基？
+<ul>
+<li>James老师回复：可以。虽然有汇率风险，但3.4%的美元利息远高于1.5%的人民币逆回购。长期来看，美元是强势货币，贬值的概率远低于人民币。为了更高的利息收益，承担一些汇率波动是值得的。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Tian 
+    <div id="tian" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#tian" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题1：年底做了一笔大的Roth IRA转换，但之前没有预缴税款，担心会有罚款。
+<ul>
+<li>James老师回复：不用担心。券商会给你1099-R税单，报税时系统会自动计算。即便有少量罚款，利率也非常低，相当于以极低的成本向政府借了一年的钱，完全可以接受。</li>
+</ul>
+</li>
+<li>问题2：因为这次转换，导致收入超标，无法再享受奥巴马医保（Affordable Care Act），该如何寻找合适的保险？
+<ul>
+<li>James老师回复：最好的方法是去问你的家庭医生。他们通常有合作的保险经纪人，可以推荐既能被他们接受、又适合你的保险计划。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">T 
+    <div id="t" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#t" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题1：老师建议资产不足的退休者买高股息产品，但这类产品总回报率低于指数，且派息本质上也是卖出资产。为什么不自己根据需要卖出QQQ呢？
+<ul>
+<li>James老师回复：主要有三点：1. <strong>克服人性弱点</strong>：自己操作容易受市场情绪影响，追涨杀跌。基金经理可以更理性地执行策略。2. <strong>提供下跌保护</strong>：例如2022年QQQ下跌近40%，而QQQI只下跌约30%。3. <strong>独特的收益来源</strong>：QQQI会通过卖出备兑看涨期权（Covered Call）来获取额外的权利金（约4-5%），这是普通投资者难以复制的稳定现金流来源，确保在熊市中也能派发股息。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">C 
+    <div id="c" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#c" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题：关于质押，假设年开销60万，第一年质押300万（5倍），第二年总共需要借120万，是需要再质押300万，还是如何操作？贷款18个月后需要还本金吗？
+<ul>
+<li>James老师回复：第二年总负债是120万，你需要确保质押在里面的资产总市值维持在600万（120万的5倍）。你可以看第一年质押的300万增值到了多少（比如400万），然后再补足差额（再质押200万）即可。贷款到期后无需归还本金，只需支付利息并办理“续约”即可，前提是维持率高于银行要求的最低标准（建议167%以上）。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Demo 
+    <div id="demo" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#demo" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>分享：在南加州的大雨中体验了特斯拉FSD 14.2.2版本，表现极为出色和安全，甚至超越了人类驾驶员在恶劣天气下的水平。他认为FSD是一项关乎生命安全的必要投资。</li>
+</ul>
+
+
+<h3 class="relative group">Maolin 
+    <div id="maolin" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#maolin" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题：在支付宝上看到一支“易方达中短期美元债（00700360）”，年化收益率有4.4%，这是否就是老师提到的QDII产品？
+<ul>
+<li>James老师回复：是的，只要是QDII美元债基就可以。经过快速计算，该基金近期的年化收益率约3.8%，是可靠的选择。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Momo 
+    <div id="momo" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#momo" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>分享1：在香港汇丰银行，可以用于高比例质押（90%）的货币基金是**“汇丰环球货币基金-美元C类”（代码U62931）**，但购买流程稍复杂，需要先买入另一支基金再进行转换。</li>
+<li>分享2（重要修正）：在香港汇丰银行购买<strong>景顺（Invesco）发行的纳指ETF（3455.HK）</strong>，经确认<strong>仍然存在美国遗产税风险</strong>，因为它被视为美国公司发行的产品。更安全的选择是购买香港本地发行的纳指ETF，如**“安硕纳指一百（02834.HK）”**。这个ETF是累积型的（不派息），可以完美规避股息税和CRS申报问题，是更好的选择。</li>
+</ul>
+
+
+<h3 class="relative group">Q 
+    <div id="q" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#q" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题1：在美国的券商，为何BXX和SGOV的质押率只有70%，而不是老师说的90%以上？
+<ul>
+<li>James老师回复：要获得96%的高质押率，你需要购买券商自家的货币基金，例如在嘉信理财（Schwab）就要买<strong>SWVXX</strong>。</li>
+</ul>
+</li>
+<li>问题2：之前投资的是VOO，现在是否应该全部换成QQQ？
+<ul>
+<li>James老师回复：<strong>是的，应该立即更换</strong>。QQQ的长期增长潜力远超VOO，为此支付15%的长期资本利得税是完全值得的。建议在新年开盘后就操作。</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">A Hui 
+    <div id="a-hui" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#a-hui" aria-label="锚点">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>问题：现金部分，BXX、SGOV和QQQI三者有什么区别？
+<ul>
+<li>James老师回复：<strong>QQQI绝对不是现金！</strong> 它是一个股票型基金，可能会有30-50%的下跌风险，绝不能用来替代现金。BXX和SGOV的区别在于：SGOV每月派发股息，会产生税务事件；BXX不派息，收益会累积到净值里，只有卖出时才需要缴税。</li>
+</ul>
+</li>
+</ul>
+
+
+<h2 class="relative group">四、精彩观点 
+    <div id="%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<blockquote>
+<p>15倍的年开销就可以退休了。
+&ndash; James老师</p></blockquote>
+<p>背景：老师提出了一个颠覆性的退休财务模型，通过10倍年开销的资产购买高股息产品覆盖生活，5倍资产继续投资成长，大大降低了退休的门槛。</p>
+<blockquote>
+<p>市场分析跟我没关系，财务报表没关系，经济跟我没关系&hellip;我们就投资最强的公司，这个就是这么这么美妙，可是又这么难以理解。
+&ndash; James老师</p></blockquote>
+<p>背景：在课程开篇，老师重申其核心投资哲学，即摒弃市场噪音，聚焦于持有最顶尖的公司，大道至简。</p>
+<blockquote>
+<p>言教不如身教&hellip;小孩子可以看得懂你的花钱观念，那他就会学。
+&ndash; James老师</p></blockquote>
+<p>背景：在回答如何进行子女财商教育时，老师强调父母自身的消费行为是影响孩子价值观的最重要因素。</p>
+<blockquote>
+<p>小孩子有些东西是可以好好讲，有些东西立即要马上纠正，而且你要义正言辞。
+&ndash; James老师</p></blockquote>
+<p>背景：针对学员孩子的不当言论，老师指出，对于原则性问题，父母必须立场坚定，及时地为孩子划定行为边界。</p>
+<blockquote>
+<p>在会风里面买（3455）确实是有遗产税的问题&hellip;可以直接买02834，因为反正买了也不卖，它是完全零股息的。
+&ndash; Momo</p></blockquote>
+<p>背景：学员Momo分享了极其重要的实操信息，指出了香港投资者在选择纳斯达克100 ETF时如何有效规避美国遗产税和本地税务问题，提供了最佳解决方案。</p>
+<blockquote>
+<p>雨大到我认为我们人开车应该都不太安全，结果他（FSD）开得非常好&hellip;这个钱绝对要花，会救你的命。
+&ndash; Demo</p></blockquote>
+<p>背景：学员Demo分享了在恶劣天气下特斯拉FSD的卓越表现，证明了其在安全性上已经超越人类驾驶员，是一项关乎生命安全的投资。</p>
+
+
+<h2 class="relative group">五、总结 
+    <div id="%E4%BA%94%E6%80%BB%E7%BB%93" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#%E4%BA%94%E6%80%BB%E7%BB%93" aria-label="锚点">#</a>
+    </span>        
+    
+</h2>
+<p>本期内容极具实践价值，从宏观的退休规划到微观的投资工具选择，都给出了清晰、可行的方案。James老师提出的“15倍年开销退休法”为许多人点燃了提前实现财务自由的希望。更新后的资产配置模拟工具，则为大家提供了量化风险、优化策略的利器。问答环节更是精彩纷呈，不仅深入探讨了子女教育、股票质押等重要议题，更有学员Momo带来的关于香港ETF避税的关键信息修正，再次体现了社群共同学习、共同进步的强大力量。总而言之，坚守长期主义，运用正确的工具和策略，财务自由之路将比想象中更为宽广。</p>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>免责声明:</strong> 本文仅为个人学习笔记，不构成任何投资建议。</span>
+</div>
+
+]]></content:encoded></item><item><title>00545 让家庭从悲剧变成喜剧：清醒投资与陪伴的力量</title><link>https://jomonylw.github.io/posts/1766278331470/</link><pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/posts/1766278331470/</guid><description>本期James老師詳細介紹並操作了一款由社群成員Martin開發的投資組合回測App，通過模擬台灣和美國不同市場條件下的股票質押策略，探討了不同提款率（1.5% vs 2.7%）對資產增長的影響。課程強調了質押借款雖能放大長期資產，但伴隨著較高風險且需嚴格控制開銷。問答環節中，學員們分享了從焦慮到安心的心路歷程，再次印證了長期投資帶來的力量。</description><content:encoded><![CDATA[<lite-youtube videoid="L90H95KxHCc" playlabel="L90H95KxHCc" params=""></lite-youtube>
 
 
 
@@ -4343,367 +4939,6 @@
     
 </h2>
 <p>本期内容是一次系统性的投资哲学与人生财富观念的深度梳理。James老师通过三个层次分明的“七级阶梯”模型，为听众构建了一个从投资新手到财富巨擘的完整成长蓝图。课程不仅教授了“做什么”（投指数、不卖出、善用质押），更深刻地阐述了“为什么这么做”（理解风险、忽略噪音、相信复利）以及最终目标（实现人生自由，而非被工作奴役）。学员们的分享和提问，从实践操作到宏观经济，再到AI工具的批判性使用，极大地丰富了讨论的广度和深度，再次印证了投资的成功最终源于持续学习、深刻的自我认知和坚定的哲学信仰。</p>
-
-  
-
-
-
-<div
-  
-    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
-  >
-
-  <span
-    
-      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
-    >
-
-    
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
-
-  </span>
-
-
-  </span>
-
-  <span
-    
-      class="dark:text-neutral-300"
-    ><strong>免责声明:</strong> 本文仅为个人学习笔记，不构成任何投资建议。</span>
-</div>
-
-]]></content:encoded></item><item><title>00535 理财第一步先理现金流；不懂现金流，你就像瞎子摸象在投资！</title><link>https://jomonylw.github.io/posts/1760229213725/</link><pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate><guid>https://jomonylw.github.io/posts/1760229213725/</guid><description>本期内容重点探讨了资产配置的核心原则，即资产配置策略与你是通过卖出资产还是质押借款来获取生活费无关。James老师强调了理财的第一步是理清现金流，确保自由现金流为正，是避免破产的关键。同时，学员们也分享了各自的投资心路历程，包括“复利拐点”的深刻理解，以及对未来AI科技发展的乐观展望。James老师还现场演示了如何使用NotebookLM工具将视频内容快速转化为多语言文本和简报，赋能大家传播投资理念。</description><content:encoded><![CDATA[<lite-youtube videoid="oxo4fzFm_V4" playlabel="oxo4fzFm_V4" params=""></lite-youtube>
-
-
-
-<h2 class="relative group">一、当期主题 
-    <div id="%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%B8%80%E5%BD%93%E6%9C%9F%E4%B8%BB%E9%A2%98" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-<p>本期核心主题围绕<strong>资产配置与现金流管理</strong>展开。James老师明确指出，投资者的资产配置策略（例如70%股票、30%现金）是一个独立的决策，它不应该因为你是选择“卖出资产”还是“质押借款”来获得生活费而改变。此外，老师深入讲解了“理现金流”是理财的基石，无论是个人还是企业，拥有持续为正的“自由现金流”是财务健康和生存的根本保障，忽视现金流而盲目开杠杆是导致财务危机的根源。</p>
-
-
-<h2 class="relative group">二、简报内容 
-    <div id="%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%BA%8C%E7%AE%80%E6%8A%A5%E5%86%85%E5%AE%B9" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-
-
-<h3 class="relative group">开场及资讯分享 
-    <div id="%E5%BC%80%E5%9C%BA%E5%8F%8A%E8%B5%84%E8%AE%AF%E5%88%86%E4%BA%AB" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E5%BC%80%E5%9C%BA%E5%8F%8A%E8%B5%84%E8%AE%AF%E5%88%86%E4%BA%AB" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>市场回顾</strong>：周五市场出现大跌，但对于CLEC学员来说，由于不预测市场，市场涨跌与我们的投资策略无关。</li>
-<li><strong>免责声明</strong>：所有内容均为经验分享，非投资或税务建议，投资风险高，需自行承担。</li>
-<li><strong>学习资源</strong>：再次分享了多个学员创建的学习平台和资源，包括：
-<ul>
-<li><strong>成风</strong>：整理的“好听回”、大道之简资讯平台、CLEC ChatGPT以及他的YouTube频道“陈风说故事-大米的理财冒险”。</li>
-<li><strong>投资翻译官</strong>：内容优质的学员创建平台。</li>
-<li><strong>不来知的投资笔记</strong>：分享投资基础知识，避免常见错误。</li>
-<li><strong>新的Podcast频道</strong>：由学员Amy协助建立，可以实现快速上传当天的音频内容，方便大家随时收听。旧的频道因对音质有较高要求，上传较慢，但仍可收听。</li>
-<li><strong>英文频道预告</strong>：下周可能会介绍由学员创建的英文YouTube频道，旨在将投资哲学传播给非中文用户。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">资产配置与质押借款的关系 
-    <div id="%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E4%B8%8E%E8%B4%A8%E6%8A%BC%E5%80%9F%E6%AC%BE%E7%9A%84%E5%85%B3%E7%B3%BB" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E8%B5%84%E4%BA%A7%E9%85%8D%E7%BD%AE%E4%B8%8E%E8%B4%A8%E6%8A%BC%E5%80%9F%E6%AC%BE%E7%9A%84%E5%85%B3%E7%B3%BB" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>核心观点</strong>：资产配置与你是卖股还是质押借款生活，两者没有直接关系。</li>
-<li><strong>解释</strong>：无论你计划通过卖出部分资产（如货币市场基金）还是通过质押股票借款来覆盖生活开销，你的资产配置比例（如70% QQQ，30% 现金）都应该是相同的。配置的目的是为了让资产能够长期稳定地存在和增值，而提取现金流的方式只是战术选择，不应影响战略配置。</li>
-</ul>
-
-
-<h3 class="relative group">投资心态与学习的重要性 
-    <div id="%E6%8A%95%E8%B5%84%E5%BF%83%E6%80%81%E4%B8%8E%E5%AD%A6%E4%B9%A0%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E6%8A%95%E8%B5%84%E5%BF%83%E6%80%81%E4%B8%8E%E5%AD%A6%E4%B9%A0%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>入门标志</strong>：如果你还会担心市场未来是否会下跌，代表你对投资还没入门。正确的投资哲学是忽略市场波动，长期持有。</li>
-<li><strong>学习方式</strong>：不看影片学习就像“瞎子摸象”，风险极高。学习和思考是投资的开始，遇到问题应积极提问，但最终需要自己内化理解。</li>
-</ul>
-
-
-<h3 class="relative group">理财第一步：理现金流 
-    <div id="%E7%90%86%E8%B4%A2%E7%AC%AC%E4%B8%80%E6%AD%A5%E7%90%86%E7%8E%B0%E9%87%91%E6%B5%81" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E7%90%86%E8%B4%A2%E7%AC%AC%E4%B8%80%E6%AD%A5%E7%90%86%E7%8E%B0%E9%87%91%E6%B5%81" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>现金流是命脉</strong>：理财的第一步是“理现金流”。很多公司破产不是因为生意不好，而是现金流断裂（三点半轧不过来）。个人投资也是同理。</li>
-<li><strong>自由现金流（Free Cash Flow）</strong>：指每月稳定流入的现金，扣除所有开销（生活费、贷款、娱乐等）后，可以自由运用的部分。</li>
-<li><strong>财务健康标准</strong>：健康的财务状况意味着<strong>自由现金流必须为正</strong>。</li>
-<li><strong>案例警示</strong>：
-<ul>
-<li><strong>个人投资者</strong>：有人借信贷、房贷，以为股票会涨，可以用卖股的钱还款。结果一买入就遇到市场大跌，股票价值缩水，最终被迫卖在低点，导致破产。</li>
-<li><strong>房产投资者</strong>：抢购预售屋，等到要交屋或本利合缴时，才发现自己的现金流无法支撑，从“抢到赚到”变成“抢到亏到”。</li>
-</ul>
-</li>
-<li><strong>结论</strong>：无论何时何种情况，都必须先计算清楚自己的现金流，确保其健康和稳定。</li>
-</ul>
-
-
-<h3 class="relative group">投资的简单法则与富有的天赋 
-    <div id="%E6%8A%95%E8%B5%84%E7%9A%84%E7%AE%80%E5%8D%95%E6%B3%95%E5%88%99%E4%B8%8E%E5%AF%8C%E6%9C%89%E7%9A%84%E5%A4%A9%E8%B5%8B" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E6%8A%95%E8%B5%84%E7%9A%84%E7%AE%80%E5%8D%95%E6%B3%95%E5%88%99%E4%B8%8E%E5%AF%8C%E6%9C%89%E7%9A%84%E5%A4%A9%E8%B5%8B" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>简单策略</strong>：投资就是按部就班，照自己的计划前行，让资产自动导航增值。</li>
-<li><strong>富有是天赋人权</strong>：通过投资指数基金（如纳斯达克100），无论背景、收入、地域，每个人都可以实现富有。如果还没富有，说明方法错了。</li>
-<li><strong>快乐是目的</strong>：财富不是最终目的，快乐的人生才是。投资应该省时省力，让我们有时间专注于做快乐的事。</li>
-<li><strong>指数 vs. 个股</strong>：指数基金是“懒人投资法”，躺着就能赚钱。个股投资会更忙碌，担心更多，且个股随时可能下跌80%，而指数基金出现同等跌幅的概率极低。</li>
-</ul>
-
-
-<h2 class="relative group">三、问答环节 
-    <div id="%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%B8%89%E9%97%AE%E7%AD%94%E7%8E%AF%E8%8A%82" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-
-
-<h3 class="relative group">YW 
-    <div id="yw" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#yw" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>分享：他将自己近四年的投资历程内化为六个阶段，核心是“复利拐点”的出现。
-<ol>
-<li><strong>选择与配置</strong>：选择QQQ等长期成长资产，做好安全配置。</li>
-<li><strong>正确用杠杆</strong>：视杠杆为提早到达复利拐点的工具，而非风险。</li>
-<li><strong>管理现金流</strong>：确保借得起、还得起，让复利不中断。</li>
-<li><strong>资产翻倍期</strong>：这是量的积累阶段，熬过去就会迎来爆发。市场纷扰与我无关，因为高回报率下资产翻倍很快（如25%年化三年就翻倍）。</li>
-<li><strong>复利拐点</strong>：当你的<strong>年投资收益等于或大于累计投入的本金</strong>时，复利开始主导资产增长，这是投资的“第二个起跑线”。</li>
-<li><strong>让雪球自己滚</strong>：当资产规模足够大，时间本身就能让雪球加速滚动，操作变得不重要。</li>
-</ol>
-<ul>
-<li>James老师评论：非常赞赏YW的分享和内化。这个“钱的回报超过劳动回报”的拐点非常重要。老师给出一个具体的定义：当你的<strong>年化资产回报（约资产的10%）大于等于你的年薪</strong>时，就是财富自由的拐点。同时也感谢YW作为义工的默默付出。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Amy 
-    <div id="amy" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#amy" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>分享：她作为新Podcast频道的创建者上台分享。起初是为了帮助一位有需求的好友，虽然自己没有经验，但还是自学并开始制作。过程中得到了老师和社群的鼓励，感受到频道的温暖和共创的力量。她认为自己虽然刚开始实践CLEC哲学，但也从中获得了快乐，并相信自己未来也会变得富有。
-<ul>
-<li>James老师评论：非常感谢Amy的及时帮助，让音频内容可以快速分享。老师表示也会将短片的语音档提供给她，并鼓励更多人利用他的公开资源，创建自己语言的频道（如英文、越南语、泰语等），将投资哲学传播给更多国家和地区的朋友，尤其是新兴国家需要帮助的人。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Damon 
-    <div id="damon" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#damon" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>分享1：
-<ol>
-<li>下周美国将举办OCP全球峰会，各大科技巨头都会参与，这再次印证了美国科技持续成长的趋势，应乐观看待未来。</li>
-<li>AI的发展已超乎想象，不再局限于软件应用，而是开始渗透到无线网络等基础设施领域。例如，NVIDIA的技术已进入无线基站，通过AI来调配和优化网络信号（如6G），实现更高效、无缝的连接。未来我们将生活在一个被AI赋能而感受不到AI存在的世界。</li>
-<li>虽然NVIDIA是龙头，但其他竞争者也在不断涌现，针对其弱点（如内存墙）进行创新，这种竞争会推动整个AI产业更蓬勃地发展。</li>
-</ol>
-<ul>
-<li>James老师回复：老师对“AI通过微波进入生活”感到惊奇并请教。Damon解释说，AI将扮演总指挥的角色，协同调度网络中的所有数据包，解决同步和效率问题，避免资源浪费，从而大幅提升网络性能。老师总结道，这就像一个交响乐团的指挥，让所有独立的节点协同工作，未来军事、交通等各领域都将由AI来统筹，效率将极大提升。</li>
-</ul>
-</li>
-<li>问题1：关于Vivian提到的税率问题，是指联邦税还是包含州税？
-<ul>
-<li>James老师回复：主要是指联邦税率（如22%, 24%），州税当然也要交，但因为无论何时转换，州税都跑不掉，所以主要以联邦税的级距作为决策依据。</li>
-</ul>
-</li>
-<li>问题2：如果投资者没有绿卡，无法做股票质押（PLOC），应该如何投资？
-<ul>
-<li>James老师回复：资产配置的原则不变。不能质押借款，就意味着生活支出需要从收入中来覆盖，其余资金用于投资。投资策略（如配置比例）和是否能质押无关。应当尽可能利用好允许的退休账户，如Roth IRA。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Haoqing 
-    <div id="haoqing" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#haoqing" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>分享1：分享了回台湾的两个见闻。一是在菜市场看到阿姨为了一点小钱（10-15元台币）和一位辛苦卖菜的老妇人讨价还价很久，让他心里很难过；而另一边，朋友却很轻松地给了街头弹吉他的外国人100元台币。这种对比让他感触很深。</li>
-<li>分享2：他的朋友花2万5千台币上了一个投资课，学习看三大财报、EPS、ROE等指标，目标是打败QQQ。浩清认为这些都是基础知识，与其花时间操作，不如直接持有指数。他质疑如果该方法有效，老师为何不自己借钱投资，而去赚2万5的学费。
-<ul>
-<li>James老师回复：对第一个故事感同身受，并表示自己会鼓励家人对辛苦的小商贩更慷慨。对于第二个故事，老师完全同意浩清的看法，并指出<strong>投资成功靠的不是知识，而是人性和心态</strong>。知识越多，操作可能越频繁，反而可能导致更快的失败。他以诺贝尔奖得主创办的长期资本管理公司（LTCM）破产为例，证明只有克服人性、做到长期持有，才是多数人能致富的道路。</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Chenfeng 
-    <div id="chenfeng" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#chenfeng" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>分享：他分享了自己创作“陈风讲故事-仓鼠的投资冒险”系列影片的初衷。他希望通过童话故事、伊索寓言的方式，将理财观念传递给更广泛的年龄层（10岁以上至成年人）。例如，用“一棵树还是一片森林”的故事来解释投资个股（如台积电）与投资指数（如00662）在风险分散上的区别，让复杂的投资理念变得浅显易懂。
-<ul>
-<li>James老师评论：老师高度肯定了陈风的努力，并借此机会鼓励大家要多听多看，即使是已知的内容也能起到“催眠治疗”和巩固信心的作用。随后，老师<strong>现场演示了如何使用Google的NotebookLM工具</strong>：
-<ol>
-<li><strong>复制YouTube链接</strong>：将任何YouTube视频（包括CLEC的视频）的链接复制下来。</li>
-<li><strong>粘贴到NotebookLM</strong>：在NotebookLM中创建一个新的笔记，选择从链接上传，将YouTube链接粘贴进去。</li>
-<li><strong>自动转录与翻译</strong>：AI会自动将视频的语音内容转录成文字，并可以根据设置，将其翻译成<strong>任何语言</strong>（如英文、日文、葡萄牙文等）。</li>
-<li><strong>生成多种格式内容</strong>：可以指令AI将文字内容整理成<strong>影片简报、学习指南、博客文章、Podcast对话脚本</strong>等多种格式。</li>
-<li><strong>赋能内容创作</strong>：老师鼓励大家利用这个工具，将他的中文视频内容翻译成自己国家的语言，创建自己的YouTube频道或内容平台，并明确表示<strong>他授权大家使用他的内容，不会有任何版权问题</strong>，以此来帮助更多不同语言地区的人。</li>
-</ol>
-</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Vivian 
-    <div id="vivian" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#vivian" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>分享：她发现频道后，观察了6个月才开始投资。虽然买在了高点，但坚持持有，如今投资的年回报已远超劳动收入。唯一的遗憾是分享给亲友，他们都无动于衷。她也分享了过去听信新闻而卖掉Tesla的失败经历，强调不要看财经新闻。</li>
-<li>问题：关于她先生（53岁）约70万美金的Traditional IRA，应如何转换（Convert）为Roth IRA？她想知道是不是应该在24%的税率下尽快转？她担心退休后转不完。
-<ul>
-<li>James老师回复：建议她<strong>立刻、尽快、积极地转换</strong>。首先，不要再向Traditional账户存钱。其次，以20年的时间 horizon计算，假设年化8%回报，每年需要转换约6.6万美元。如果等到退休后再转，账户里的金额会变得更大，届时每年需要转换的金额也更多，可能会被推到更高的税率区间，得不偿失。结论是越早转越好。</li>
-</ul>
-</li>
-</ul>
-
-
-<h2 class="relative group">四、精彩观点 
-    <div id="%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E5%9B%9B%E7%B2%BE%E5%BD%A9%E8%A7%82%E7%82%B9" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-<blockquote>
-<p>富有是天赋&hellip;我们专注的就是做快乐的事，快乐是人权。
-&ndash; James老师</p></blockquote>
-<p>此观点背景：老师在解释，通过简单的指数投资方法，人人都可以实现财务自由，从而将人生的重心从赚钱转移到追求快乐上，因为快乐是每个人与生俱来的权利。</p>
-<blockquote>
-<p>复利拐点是投资的第二个起跑线，当你的年收益等于累计投入本金时，复利开始主导这一切……复利开始爆发主导资产的成长。
-&ndash; YW</p></blockquote>
-<p>此观点背景：学员YW在总结自己投资心路历程时，提出了“复利拐点”这一概念，形象地描述了当投资收益本身成为增长主动力时的爆发性阶段。</p>
-<blockquote>
-<p>资产配置跟是否质押其实没有直接关系……资产配置不会因为你是质押借款过生活或者是卖货币市场过生活有什么不一样。
-&ndash; James老师</p></blockquote>
-<p>此观点背景：老师在澄清一个常见误区，强调资产配置的战略重要性，它独立于如何从资产中提取生活费用的战术选择。</p>
-<blockquote>
-<p>默默的，AI已经渗透到我们所有的生活上面的任何一片天地里面，所以你会感受不到什么叫AI……你是生活在AI的世界中。
-&ndash; Damon</p></blockquote>
-<p>此观点背景：学员Damon在分享他对AI科技发展的观察时，描绘了未来AI将无缝融入基础设施，极大提升生活效率，而人们甚至不会察觉到它的存在。</p>
-<blockquote>
-<p>投资真正要成功，不是知识的本身……知识越多可能破产的速度会越快，因为你越积极。
-&ndash; James老师</p></blockquote>
-<p>此观点背景：在评论学员朋友参加昂贵的“技术分析”课程时，老师一针见血地指出，投资成功的关键在于心态和纪律（长期持有），而非复杂的金融知识，过多的知识反而可能诱使人频繁交易，导致失败。</p>
-
-
-<h2 class="relative group">五、总结 
-    <div id="%E4%BA%94%E6%80%BB%E7%BB%93" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E4%BA%94%E6%80%BB%E7%BB%93" aria-label="锚点">#</a>
-    </span>        
-    
-</h2>
-<p>本期聚会再次巩固了CLEC的核心投资哲学。James老师从“资产配置”与“现金流管理”两个基本点出发，清晰地剖析了投资成功的底层逻辑：<strong>战略上，坚持正确的资产配置并长期持有，不为市场波动所动；战术上，必须理清并确保健康的现金流，这是抵御一切风险的根本。</strong> 学员们的分享也极具启发性，YW提出的“复利拐点”为投资者的成长路径提供了清晰的里程碑；Damon对AI科技的洞见则让我们对未来充滿信心。特别值得一提的是，James老师现场教学了如何使用AI工具（NotebookLM）进行内容创作和传播，这不仅为大家提供了强大的工具，更体现了将投资哲学无私地分享给全世界的开放精神。</p>
 
   
 
