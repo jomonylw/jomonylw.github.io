@@ -1,5 +1,5 @@
 ---
-title: "00548 [Why are QQQI's dividends stable and reassuring? The key is not the payout, but asset allocation and human nature management]"
+title: "00548 Why are QQQI's dividends stable and reassuring? The key is not the payout, but asset allocation and human nature management]"
 date: 2026-01-10
 description: "In this episode, Teacher James first shares his personal health experience in treating sleep apnea, followed by another strong warning about the huge risks for non-US tax residents investing in the US, including the 40% estate tax and account freezing issues. The teacher provides a detailed analysis of the dividend composition of the high-dividend ETF QQQI, and expounds on the rebalancing strategy for the 433 asset allocation after asset growth, emphasizing the core principle of 'borrowing without repaying' in stock pledging. The Q&A session delves into asset allocation, investment mindset shifts, and the impact of the AI era on social structure."
 tags: ["CLEC", "Index Investing", "Asset Allocation", "Stock Pledging", "Retirement Planning", "Overseas Investment Risk", "QQQI", "AI Society"]
