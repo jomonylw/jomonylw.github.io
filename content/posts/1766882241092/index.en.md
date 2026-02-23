@@ -1,6 +1,6 @@
 ---
 title: "00553 How to Use QQQI + 433 Asset Allocation to Build a Retirement Cash Flow of 15x Annual Expenses?"
-date: 2024-02-14
+date: 2026-02-14
 description: "This session explores how to build a retirement cash flow equivalent to 15 times annual expenses by configuring QQQI and a 433 asset allocation strategy. It also delves into related topics such as retirement tax planning, asset allocation, stock pledging, and personal development in the AI era."
 tags: ["CLEC", "QQQI", "Asset Allocation", "Retirement", "Cash Flow", "Stock Pledging", "AI"]
 ---
