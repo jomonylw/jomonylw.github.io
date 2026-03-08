@@ -1,6 +1,6 @@
 ---
 title: "00555 From Laborer to Capitalist: Boarding Capitalism's Noah's Ark"
-date: 2024-03-09
+date: 2026-03-07
 description: "This episode explores how ordinary people can board capitalism's Noah's Ark through investing to achieve a class transition amidst the AI wave. James emphasizes the necessity of investing and shares valuable experiences in health management, asset allocation, and mindset building."
 tags: ["CLEC", "Capitalism", "Artificial Intelligence", "Asset Allocation", "Investment Philosophy", "Health Management"]
 ---
