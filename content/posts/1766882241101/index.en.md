@@ -1,6 +1,6 @@
 ---
 title: "00562 Buy When You Have Money, Never Sell: Why Can't You Do It?"
-date: 2024-04-25
+date: 2026-04-25
 description: "This session explores the deep-seated reasons why the investment principle 'Buy when you have money, never sell' is so difficult to execute, including human weaknesses and information distortion. By analyzing investor behavior during recent market fluctuations, James emphasizes the simplicity and effectiveness of long-term holding of index funds and provides in-depth explanations on topics such as asset allocation, stock pledge loans, and the transformation of work in the AI era."
 tags: ["CLEC", "Long-term Investing", "Index Funds", "Asset Allocation", "Stock Pledge Loans", "Human Weakness", "AI Revolution"]
 ---
