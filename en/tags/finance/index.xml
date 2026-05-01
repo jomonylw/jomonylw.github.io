@@ -2292,19 +2292,19 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   </thead>
   <tbody>
       <tr>
-          <td><strong>QQQ</strong></td>
-          <td>Invesco QQQ Trust</td>
+          <td>QQQ</td>
+          <td>Invesco QQQ Trust, Series 1</td>
           <td></td>
       </tr>
       <tr>
-          <td><strong>QQQM</strong></td>
+          <td>QQQM</td>
           <td>Invesco NASDAQ 100 ETF</td>
           <td></td>
       </tr>
       <tr>
-          <td>QLD</td>
-          <td>ProShares Ultra QQQ</td>
-          <td>2x</td>
+          <td>QQQI</td>
+          <td>NEOS Nasdaq-100 High Income ETF</td>
+          <td>Income strategy / not plain vanilla Nasdaq-100</td>
       </tr>
       <tr>
           <td>TQQQ</td>
@@ -2312,9 +2312,14 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
           <td>3x</td>
       </tr>
       <tr>
-          <td>PSQ</td>
-          <td>ProShares Short QQQ</td>
-          <td>-1x</td>
+          <td>SQQQ</td>
+          <td>ProShares UltraPro Short QQQ</td>
+          <td>-3x</td>
+      </tr>
+      <tr>
+          <td>QLD</td>
+          <td>ProShares Ultra QQQ</td>
+          <td>2x</td>
       </tr>
       <tr>
           <td>QID</td>
@@ -2322,9 +2327,9 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
           <td>-2x</td>
       </tr>
       <tr>
-          <td>SQQQ</td>
-          <td>ProShares UltraPro Short QQQ</td>
-          <td>-3x</td>
+          <td>PSQ</td>
+          <td>ProShares Short QQQ</td>
+          <td>-1x</td>
       </tr>
   </tbody>
 </table>
@@ -2350,23 +2355,28 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   </thead>
   <tbody>
       <tr>
-          <td>XQQ</td>
-          <td>iShares NASDAQ 100 (CAD Hedged)</td>
+          <td>QQC</td>
+          <td>Invesco NASDAQ 100 Index ETF</td>
           <td></td>
       </tr>
       <tr>
-          <td>QQC</td>
-          <td>Invesco NASDAQ 100 Index Fund</td>
+          <td>XQQ</td>
+          <td>iShares NASDAQ 100 Index ETF (CAD-Hedged)</td>
           <td></td>
+      </tr>
+      <tr>
+          <td>XQQU</td>
+          <td>iShares NASDAQ 100 Index ETF</td>
+          <td>unhedged</td>
       </tr>
       <tr>
           <td>HQU</td>
-          <td>BetaPro NASDAQ-100 2x Daily Bull</td>
+          <td>BetaPro NASDAQ-100 2x Daily Bull ETF</td>
           <td>2x</td>
       </tr>
       <tr>
           <td>HQD</td>
-          <td>BetaPro NASDAQ-100 2x Daily Bear</td>
+          <td>BetaPro NASDAQ-100 2x Daily Bear ETF</td>
           <td>-2x</td>
       </tr>
   </tbody>
@@ -2405,33 +2415,33 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   </thead>
   <tbody>
       <tr>
-          <td>159941</td>
-          <td>GF Fund NASDAQ-100 ETF</td>
-          <td></td>
-      </tr>
-      <tr>
           <td>513100</td>
-          <td>Cathay NASDAQ-100 ETF</td>
+          <td>国泰纳斯达克100ETF</td>
           <td></td>
       </tr>
       <tr>
           <td>513300</td>
-          <td>ChinaAMC NASDAQ-100 ETF</td>
+          <td>华夏纳斯达克100ETF</td>
           <td></td>
       </tr>
       <tr>
-          <td>159513</td>
-          <td>Dacheng NASDAQ-100 ETF</td>
+          <td>159941</td>
+          <td>广发纳指100ETF</td>
           <td></td>
       </tr>
       <tr>
           <td>159632</td>
-          <td>HuaAn NASDAQ-100 ETF</td>
+          <td>华安纳斯达克100ETF</td>
           <td></td>
       </tr>
       <tr>
           <td>159501</td>
-          <td>Harvest NASDAQ-100 ETF</td>
+          <td>嘉实纳斯达克100ETF</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>159513</td>
+          <td>大成纳斯达克100ETF</td>
           <td></td>
       </tr>
   </tbody>
@@ -2458,33 +2468,33 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   </thead>
   <tbody>
       <tr>
-          <td>02834</td>
-          <td>iShares NASDAQ 100</td>
+          <td>03034</td>
+          <td>CSOP NASDAQ 100 ETF</td>
           <td></td>
       </tr>
       <tr>
-          <td>03034</td>
-          <td>CSOP NASDAQ 100</td>
+          <td>02834</td>
+          <td>iShares NASDAQ 100 ETF</td>
           <td></td>
       </tr>
       <tr>
           <td>07266</td>
-          <td>FL 2X CSOP NASDAQ 100</td>
-          <td>2x</td>
-      </tr>
-      <tr>
-          <td>07261</td>
-          <td>FL 2X ChinaAMC NASDAQ 100</td>
+          <td>CSOP NASDAQ-100 Index Daily (2x) Leveraged Product</td>
           <td>2x</td>
       </tr>
       <tr>
           <td>07568</td>
-          <td>FI 2X Inverse CSOP NASDAQ 100</td>
+          <td>CSOP NASDAQ-100 Index Daily (-2x) Inverse Product</td>
           <td>-2x</td>
       </tr>
       <tr>
+          <td>07261</td>
+          <td>ChinaAMC NASDAQ-100 Index Daily (2x) Leveraged Product</td>
+          <td>2x</td>
+      </tr>
+      <tr>
           <td>07522</td>
-          <td>FI 2X Inverse ChinaAMC NASDAQ 100</td>
+          <td>ChinaAMC NASDAQ-100 Index Daily (-2x) Inverse Product</td>
           <td>-2x</td>
       </tr>
   </tbody>
@@ -2512,7 +2522,7 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   <tbody>
       <tr>
           <td>00662</td>
-          <td>Fubon NASDAQ 100</td>
+          <td>Fubon NASDAQ-100 ETF</td>
           <td></td>
       </tr>
   </tbody>
@@ -2540,7 +2550,7 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   <tbody>
       <tr>
           <td>N100</td>
-          <td>Motilal Oswal MOSt Shares NASDAQ 100</td>
+          <td>Motilal Oswal Nasdaq 100 ETF</td>
           <td></td>
       </tr>
   </tbody>
@@ -2567,39 +2577,54 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   </thead>
   <tbody>
       <tr>
-          <td>2569</td>
-          <td>Listed Index Fund US Equity (NASDAQ100) Currency Hedged</td>
-          <td></td>
-      </tr>
-      <tr>
           <td>1545</td>
-          <td>NEXT FUNDS NASDAQ-100</td>
-          <td></td>
-      </tr>
-      <tr>
-          <td>2568</td>
-          <td>Listed Index Fund US Equity (NASDAQ100) No Currency Hedging</td>
+          <td>NEXT FUNDS NASDAQ-100 (Unhedged) Exchange Traded Fund</td>
           <td></td>
       </tr>
       <tr>
           <td>2631</td>
-          <td>MUKAM MAXIS NASDAQ100 ETF</td>
+          <td>MAXIS NASDAQ100 ETF</td>
           <td></td>
+      </tr>
+      <tr>
+          <td>2840</td>
+          <td>iFreeETF NASDAQ100 (Non Hedged)</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>2568</td>
+          <td>Listed Index Fund US Equity (NASDAQ100) No Currency Hedge</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>2569</td>
+          <td>Listed Index Fund US Equity (NASDAQ100) Currency Hedge</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>2632</td>
+          <td>MAXIS NASDAQ100 ETF (JPY Hedged)</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>2845</td>
+          <td>NEXT FUNDS NASDAQ-100 (JPY Hedged) Exchange Traded Fund</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>2869</td>
+          <td>iFreeETF NASDAQ100 Leveraged</td>
+          <td>2x</td>
+      </tr>
+      <tr>
+          <td>2870</td>
+          <td>iFreeETF NASDAQ100 Double Inverse</td>
+          <td>-2x</td>
       </tr>
       <tr>
           <td>2842</td>
           <td>iFreeETF NASDAQ100 Inverse</td>
           <td>-1x</td>
-      </tr>
-      <tr>
-          <td>2869</td>
-          <td>iFreeETF NASDAQ100 Leveraged (2x)</td>
-          <td>2x</td>
-      </tr>
-      <tr>
-          <td>2870</td>
-          <td>iFreeETF NASDAQ100 Double Inverse (-2x)</td>
-          <td>-2x</td>
       </tr>
   </tbody>
 </table>
@@ -2625,29 +2650,29 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   </thead>
   <tbody>
       <tr>
-          <td>379810</td>
-          <td>Samsung KODEX US NASDAQ100 Total Return</td>
+          <td>133690</td>
+          <td>TIGER 미국나스닥100</td>
           <td></td>
       </tr>
       <tr>
-          <td>409820</td>
-          <td>SAMSUNG KODEX US NASDAQ100 Leverage (SYNTH H)</td>
+          <td>379810</td>
+          <td>KODEX 미국나스닥100TR</td>
           <td></td>
       </tr>
       <tr>
           <td>367380</td>
-          <td>KIM KINDEX NASDAQ100</td>
+          <td>KINDEX 미국나스닥100</td>
           <td></td>
       </tr>
       <tr>
           <td>368590</td>
-          <td>KB KBSTAR US NASDAQ100</td>
+          <td>KBSTAR 미국나스닥100</td>
           <td></td>
       </tr>
       <tr>
-          <td>133690</td>
-          <td>Mirae Asset TIGER NASDAQ 100 ETF</td>
-          <td></td>
+          <td>409820</td>
+          <td>KODEX 미국나스닥100레버리지(합성 H)</td>
+          <td>2x</td>
       </tr>
   </tbody>
 </table>
@@ -2685,8 +2710,8 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   </thead>
   <tbody>
       <tr>
-          <td>NDXEX</td>
-          <td>iShares NASDAQ-100 UCITS ETF</td>
+          <td>EXXT</td>
+          <td>iShares Nasdaq-100 UCITS ETF (DE)</td>
           <td></td>
       </tr>
   </tbody>
@@ -2713,13 +2738,13 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   </thead>
   <tbody>
       <tr>
-          <td>CNDX</td>
-          <td>iShares NASDAQ 100 UCITS ETF</td>
+          <td>EQQQ</td>
+          <td>Invesco EQQQ Nasdaq-100 UCITS ETF</td>
           <td></td>
       </tr>
       <tr>
-          <td>EQQQ</td>
-          <td>INVESCO MARKETS III PLC INVESCO EQQQ NASDAQ 100 UCITS ETF</td>
+          <td>CNDX</td>
+          <td>iShares NASDAQ 100 UCITS ETF USD (Acc)</td>
           <td></td>
       </tr>
   </tbody>
@@ -2747,73 +2772,17 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   <tbody>
       <tr>
           <td>USTE</td>
-          <td>Lyxor UCITS Nasdaq-100 D-EUR</td>
-          <td></td>
-      </tr>
-      <tr>
-          <td>PUST</td>
-          <td>Lyxor PEA Nasdaq 100 C</td>
+          <td>Amundi Nasdaq-100 II UCITS ETF Dist</td>
           <td></td>
       </tr>
       <tr>
           <td>PANX</td>
-          <td>Amundi ETF PEA Nasdaq-100 UCITS</td>
+          <td>Amundi Nasdaq-100 UCITS ETF EUR (C)</td>
           <td></td>
       </tr>
-  </tbody>
-</table>
-
-
-<h3 class="relative group">Austria 
-    <div id="austria" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#austria" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<table>
-  <thead>
       <tr>
-          <th>Ticker</th>
-          <th>Product Name</th>
-          <th>Remarks</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>EXXT</td>
-          <td>iShares NASDAQ-100 UCITS</td>
-          <td></td>
-      </tr>
-  </tbody>
-</table>
-
-
-<h3 class="relative group">Hungary 
-    <div id="hungary" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#hungary" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<table>
-  <thead>
-      <tr>
-          <th>Ticker</th>
-          <th>Product Name</th>
-          <th>Remarks</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>DE0A0F.</td>
-          <td>iShares NASDAQ-100 UCITS</td>
+          <td>PUST</td>
+          <td>Amundi PEA Nasdaq-100 UCITS ETF</td>
           <td></td>
       </tr>
   </tbody>
@@ -2841,8 +2810,18 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   <tbody>
       <tr>
           <td>CSNDX</td>
-          <td>iShares Nasdaq 100 UCITS</td>
+          <td>iShares NASDAQ 100 UCITS ETF USD (Acc)</td>
           <td></td>
+      </tr>
+      <tr>
+          <td>N100</td>
+          <td>iShares NASDAQ 100 Swap UCITS ETF USD (Acc)</td>
+          <td>swap version</td>
+      </tr>
+      <tr>
+          <td>EQQS</td>
+          <td>Invesco NASDAQ-100 Swap UCITS ETF Acc</td>
+          <td>swap version</td>
       </tr>
   </tbody>
 </table>
@@ -2887,7 +2866,7 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
       <tr>
           <td>QQQI11</td>
           <td>Buena Vista Nasdaq-100 High Income</td>
-          <td></td>
+          <td>Income strategy / not plain vanilla Nasdaq-100</td>
       </tr>
   </tbody>
 </table>
@@ -2925,8 +2904,8 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   </thead>
   <tbody>
       <tr>
-          <td>STXNDQJ</td>
-          <td>Satrix Nasdaq 100 Feeder Portfolio</td>
+          <td>STXNDQ</td>
+          <td>Satrix Nasdaq 100 ETF</td>
           <td></td>
       </tr>
   </tbody>
@@ -2966,7 +2945,7 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   <tbody>
       <tr>
           <td>NDQ</td>
-          <td>Betashares Nasdaq 100</td>
+          <td>BetaShares NASDAQ 100 ETF</td>
           <td></td>
       </tr>
       <tr>
@@ -3010,8 +2989,8 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
   </thead>
   <tbody>
       <tr>
-          <td>MTFF96</td>
-          <td>MTF Sal (4A) Nasdaq 100 Currency Hedged</td>
+          <td>KSMF83</td>
+          <td>KSM 4A NASDAQ 100 Currency Hedged</td>
           <td></td>
       </tr>
       <tr>
@@ -3020,8 +2999,8 @@ Have you ever heard of anyone getting rich from bank savings?</p></blockquote>
           <td></td>
       </tr>
       <tr>
-          <td>KSMF83</td>
-          <td>KSM 4A NASDAQ 100 Currency Hedged</td>
+          <td>MTFF96</td>
+          <td>MTF Sal (4A) Nasdaq 100 Currency Hedged</td>
           <td></td>
       </tr>
       <tr>
