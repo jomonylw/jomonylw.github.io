@@ -32,22 +32,24 @@ RelPermalink: "/posts/1728723295012-invest-qqq/"
 
 | 代码 | 产品名称 | 备注 |
 |---|---|---|
-|**QQQ**|Invesco QQQ Trust||
-|**QQQM**|Invesco NASDAQ 100 ETF||
-|QLD|ProShares Ultra QQQ|2x|
-|TQQQ|ProShares UltraPro QQQ|3x|
-|PSQ|ProShares Short QQQ|-1x|
-|QID|ProShares UltraShort QQQ|-2x|
-|SQQQ|ProShares UltraPro Short QQQ|-3x|
+| QQQ | Invesco QQQ Trust, Series 1 | |
+| QQQM | Invesco NASDAQ 100 ETF | |
+| QQQI | NEOS Nasdaq-100 High Income ETF | Income strategy / not plain vanilla Nasdaq-100 |
+| TQQQ | ProShares UltraPro QQQ | 3x |
+| SQQQ | ProShares UltraPro Short QQQ | -3x |
+| QLD | ProShares Ultra QQQ | 2x |
+| QID | ProShares UltraShort QQQ | -2x |
+| PSQ | ProShares Short QQQ | -1x |
 
 ### 加拿大
 
 | 代码   | 产品名称                     | 备注 |
 | :----- | :--------------------------- | :---- |
-| XQQ   | iShares NASDAQ 100 (CAD Hedged) |      |
-| QQC   | Invesco NASDAQ 100 IndexFund   |      |
-| HQU   | BetaPro NASDAQ-100 2x Daily Bull | 2x  |
-| HQD   | BetaPro NASDAQ-100 2x Daily Bear | -2x |
+| QQC | Invesco NASDAQ 100 Index ETF | |
+| XQQ | iShares NASDAQ 100 Index ETF (CAD-Hedged) | |
+| XQQU | iShares NASDAQ 100 Index ETF | unhedged |
+| HQU | BetaPro NASDAQ-100 2x Daily Bull ETF | 2x |
+| HQD | BetaPro NASDAQ-100 2x Daily Bear ETF | -2x |
 
 
 ## 亚洲
@@ -56,12 +58,12 @@ RelPermalink: "/posts/1728723295012-invest-qqq/"
 
 | 代码   | 产品名称         | 备注 |
 | :----- | :--------------- | :---- |
-|159941|广发纳斯达克100ETF||
-|513100|国泰纳斯达克100ETF||
-|513300|华夏纳斯达克100ETF||
-|159513|大成纳斯达克100ETF||
-|159632|华安纳斯达克100ETF||
-|159501|嘉实纳斯达克100ETF||
+| 513100 | 国泰纳斯达克100ETF | |
+| 513300 | 华夏纳斯达克100ETF | |
+| 159941 | 广发纳指100ETF | |
+| 159632 | 华安纳斯达克100ETF | |
+| 159501 | 嘉实纳斯达克100ETF | |
+| 159513 | 大成纳斯达克100ETF | |
 
 ### 中国香港
 
@@ -92,24 +94,28 @@ RelPermalink: "/posts/1728723295012-invest-qqq/"
 
 | 代码   | 产品名称                                     | 备注 |
 | :----- | :------------------------------------------ | :---- |
-| 2569  | Listed Index Fund US Equity (NASDAQ100) Currency H |      |
-| 1545  | NEXT FUNDS NASDAQ-100                        |      |
-| 2568  | Listed Index Fund US Equity (NASDAQ100) No Currenc |      |
-| 2631  | MUKAM MAXIS NASDAQ100 ETF||
-| 2842  | iFreeETF NASDAQ100 Inverse                 | -1x |
-| 2869  | iFreeETF NASDAQ100 Leveraged(2x)            | 2x  |
-| 2870  | iFreeETF NASDAQ100 Double Inverse(-2x)      | -2x |
+| 1545 | NEXT FUNDS NASDAQ-100 (Unhedged) Exchange Traded Fund | |
+| 2631 | MAXIS NASDAQ100 ETF | |
+| 2840 | iFreeETF NASDAQ100 (Non Hedged) | |
+| 2568 | Listed Index Fund US Equity (NASDAQ100) No Currency Hedge | |
+| 2569 | Listed Index Fund US Equity (NASDAQ100) Currency Hedge | |
+| 2632 | MAXIS NASDAQ100 ETF (JPY Hedged) | |
+| 2845 | NEXT FUNDS NASDAQ-100 (JPY Hedged) Exchange Traded Fund | |
+| 2869 | iFreeETF NASDAQ100 Leveraged | 2x |
+| 2870 | iFreeETF NASDAQ100 Double Inverse | -2x |
+| 2842 | iFreeETF NASDAQ100 Inverse | -1x |
+
 
 
 ### 韩国
 
 | 代码     | 产品名称                         | 备注 |
 | :------- | :------------------------------- | :---- |
-| 379810  | Samsung KODEX US NASDAQ100 Total Return |      |
-| 409820  | SAMSUNG KODEX US NASDAQ100 Leverage(SYNTH H) |      |
-| 367380  | KIM KINDEX NASDAQ100              |      |
-| 368590  | KB KBSTAR US NASDAQ100              |      |
-|133690|Mirae Asset TIGER NASDAQ 100 ETF||
+| 133690 | TIGER 미국나스닥100 | |
+| 379810 | KODEX 미국나스닥100TR | |
+| 367380 | KINDEX 미국나스닥100 | |
+| 368590 | KBSTAR 미국나스닥100 | |
+| 409820 | KODEX 미국나스닥100레버리지(합성 H) | 2x |
 
 
 
@@ -120,44 +126,32 @@ RelPermalink: "/posts/1728723295012-invest-qqq/"
 
 | 代码   | 产品名称                 | 备注 |
 | :----- | :----------------------- | :---- |
-|NDXEX|iShares NASDAQ-100 UCITS ETF||
+| EXXT | iShares Nasdaq-100 UCITS ETF (DE) | |
 
 
 ### 英国
 
 | 代码   | 产品名称                                 | 备注 |
 | :----- | :-------------------------------------- | :---- |
-|CNDX|iShares NASDAQ 100 UCITS ETF||
-|EQQQ|INVESCO MARKETS III PLC INVESCO EQQQ NASDAQ 100 UCITS ETF||
+| EQQQ | Invesco EQQQ Nasdaq-100 UCITS ETF | |
+| CNDX | iShares NASDAQ 100 UCITS ETF USD (Acc) | |
 
 
 ### 法国
 
 | 代码   | 产品名称                   | 备注 |
 | :----- | :------------------------- | :---- |
-| USTE  | Lyxor UCITS Nasdaq-100 D-EUR |      |
-| PUST  | Lyxor PEA Nasdaq 100 C      |      |
-| PANX  | Amundi ETF PEA Nasdaq-100 UCITS |  |
-
-
-### 奥地利
-
-| 代码   | 产品名称             | 备注 |
-| :----- | :------------------- | :---- |
-| EXXT  | iShares NASDAQ-100 UCITS |      |
-
-
-### 匈牙利
-
-| 代码    | 产品名称            | 备注 |
-| :------ | :------------------ | :---- |
-| DE0A0F. | iShares NASDAQ-100 UCITS |      |
+| USTE | Amundi Nasdaq-100 II UCITS ETF Dist | |
+| PANX | Amundi Nasdaq-100 UCITS ETF EUR (C) | |
+| PUST | Amundi PEA Nasdaq-100 UCITS ETF | |
 
 
 ### 瑞士
 | 代码 | 产品名称 | 备注 |
 |:---|:---|:---|
-| CSNDX |	iShares Nasdaq 100 UCITS | |
+| CSNDX | iShares NASDAQ 100 UCITS ETF USD (Acc) | |
+| N100 | iShares NASDAQ 100 Swap UCITS ETF USD (Acc) | swap version |
+| EQQS | Invesco NASDAQ-100 Swap UCITS ETF Acc | swap version |
 
 
 
@@ -167,8 +161,8 @@ RelPermalink: "/posts/1728723295012-invest-qqq/"
 
 | 代码   | 产品名称                             | 备注 |
 | :----- | :--------------------------------- | :---- |
-| NASD11 | Trend ETF Nasdaq 100 Fundo de Índice |      |
-| QQQI11 | Buena Vista Nasdaq-100 High Income  |      |
+| NASD11 | Trend ETF Nasdaq 100 Fundo de Índice | |
+| QQQI11 | Buena Vista Nasdaq-100 High Income | Income strategy / not plain vanilla Nasdaq-100 |
 
 
 
@@ -178,7 +172,7 @@ RelPermalink: "/posts/1728723295012-invest-qqq/"
 
 | 代码   | 产品名称                   | 备注 |
 | :----- | :------------------------- | :---- |
-| STXNDQJ | Satrix Nasdaq 100 Feeder Portfolio |      |
+| STXNDQ | Satrix Nasdaq 100 ETF | |
 
 
 
@@ -190,9 +184,8 @@ RelPermalink: "/posts/1728723295012-invest-qqq/"
 
 | 代码   | 产品名称                                 | 备注 |
 | :----- | :-------------------------------------- | :---- |
-| NDQ   | Betashares Nasdaq 100                    |      |
-| HNDQ  | BetaShares NASDAQ 100 ETF - Currency Hedged |      |
-
+| NDQ | BetaShares NASDAQ 100 ETF | |
+| HNDQ | BetaShares NASDAQ 100 ETF - Currency Hedged | |
 
 
 ## 中东
@@ -201,13 +194,12 @@ RelPermalink: "/posts/1728723295012-invest-qqq/"
 
 | 代码   | 产品名称                                | 备注 |
 | :----- | :------------------------------------- | :---- |
-| MTFF96 | MTF Sal (4A) Nasdaq 100 Currency Hedged  |      |
-| MTFF95 | MTF Sal (4D) Nasdaq 100              |      |
-| KSMF83 | KSM 4A NASDAQ 100 Currency Hedged     |      |
-| HRLF49 | Harel Sal 4A NASDAQ 100 Currency Hedged |      |
-| HRLF217 | Harel Sal (E) 3 Time Lvrg Nasdaq 100 Mnth CH (6A) | 3x  |
+| KSMF83 | KSM 4A NASDAQ 100 Currency Hedged | |
+| MTFF95 | MTF Sal (4D) Nasdaq 100 | |
+| MTFF96 | MTF Sal (4A) Nasdaq 100 Currency Hedged | |
+| HRLF49 | Harel Sal 4A NASDAQ 100 Currency Hedged | |
+| HRLF217 | Harel Sal (E) 3 Time Lvrg Nasdaq 100 Mnth CH (6A) | 3x |
 | KSMF115 | KSM 6D Short Leveraged NASDAQ 100 x3 Monthly | -3x |
-
 
 
 ---

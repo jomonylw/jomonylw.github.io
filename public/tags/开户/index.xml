@@ -66,19 +66,19 @@
   </thead>
   <tbody>
       <tr>
-          <td><strong>QQQ</strong></td>
-          <td>Invesco QQQ Trust</td>
+          <td>QQQ</td>
+          <td>Invesco QQQ Trust, Series 1</td>
           <td></td>
       </tr>
       <tr>
-          <td><strong>QQQM</strong></td>
+          <td>QQQM</td>
           <td>Invesco NASDAQ 100 ETF</td>
           <td></td>
       </tr>
       <tr>
-          <td>QLD</td>
-          <td>ProShares Ultra QQQ</td>
-          <td>2x</td>
+          <td>QQQI</td>
+          <td>NEOS Nasdaq-100 High Income ETF</td>
+          <td>Income strategy / not plain vanilla Nasdaq-100</td>
       </tr>
       <tr>
           <td>TQQQ</td>
@@ -86,9 +86,14 @@
           <td>3x</td>
       </tr>
       <tr>
-          <td>PSQ</td>
-          <td>ProShares Short QQQ</td>
-          <td>-1x</td>
+          <td>SQQQ</td>
+          <td>ProShares UltraPro Short QQQ</td>
+          <td>-3x</td>
+      </tr>
+      <tr>
+          <td>QLD</td>
+          <td>ProShares Ultra QQQ</td>
+          <td>2x</td>
       </tr>
       <tr>
           <td>QID</td>
@@ -96,9 +101,9 @@
           <td>-2x</td>
       </tr>
       <tr>
-          <td>SQQQ</td>
-          <td>ProShares UltraPro Short QQQ</td>
-          <td>-3x</td>
+          <td>PSQ</td>
+          <td>ProShares Short QQQ</td>
+          <td>-1x</td>
       </tr>
   </tbody>
 </table>
@@ -124,23 +129,28 @@
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">XQQ</td>
-          <td style="text-align: left">iShares NASDAQ 100 (CAD Hedged)</td>
+          <td style="text-align: left">QQC</td>
+          <td style="text-align: left">Invesco NASDAQ 100 Index ETF</td>
           <td style="text-align: left"></td>
       </tr>
       <tr>
-          <td style="text-align: left">QQC</td>
-          <td style="text-align: left">Invesco NASDAQ 100 IndexFund</td>
+          <td style="text-align: left">XQQ</td>
+          <td style="text-align: left">iShares NASDAQ 100 Index ETF (CAD-Hedged)</td>
           <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">XQQU</td>
+          <td style="text-align: left">iShares NASDAQ 100 Index ETF</td>
+          <td style="text-align: left">unhedged</td>
       </tr>
       <tr>
           <td style="text-align: left">HQU</td>
-          <td style="text-align: left">BetaPro NASDAQ-100 2x Daily Bull</td>
+          <td style="text-align: left">BetaPro NASDAQ-100 2x Daily Bull ETF</td>
           <td style="text-align: left">2x</td>
       </tr>
       <tr>
           <td style="text-align: left">HQD</td>
-          <td style="text-align: left">BetaPro NASDAQ-100 2x Daily Bear</td>
+          <td style="text-align: left">BetaPro NASDAQ-100 2x Daily Bear ETF</td>
           <td style="text-align: left">-2x</td>
       </tr>
   </tbody>
@@ -179,34 +189,34 @@
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">159941</td>
-          <td style="text-align: left">广发纳斯达克100ETF</td>
-          <td></td>
-      </tr>
-      <tr>
           <td style="text-align: left">513100</td>
           <td style="text-align: left">国泰纳斯达克100ETF</td>
-          <td></td>
+          <td style="text-align: left"></td>
       </tr>
       <tr>
           <td style="text-align: left">513300</td>
           <td style="text-align: left">华夏纳斯达克100ETF</td>
-          <td></td>
+          <td style="text-align: left"></td>
       </tr>
       <tr>
-          <td style="text-align: left">159513</td>
-          <td style="text-align: left">大成纳斯达克100ETF</td>
-          <td></td>
+          <td style="text-align: left">159941</td>
+          <td style="text-align: left">广发纳指100ETF</td>
+          <td style="text-align: left"></td>
       </tr>
       <tr>
           <td style="text-align: left">159632</td>
           <td style="text-align: left">华安纳斯达克100ETF</td>
-          <td></td>
+          <td style="text-align: left"></td>
       </tr>
       <tr>
           <td style="text-align: left">159501</td>
           <td style="text-align: left">嘉实纳斯达克100ETF</td>
-          <td></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">159513</td>
+          <td style="text-align: left">大成纳斯达克100ETF</td>
+          <td style="text-align: left"></td>
       </tr>
   </tbody>
 </table>
@@ -341,39 +351,54 @@
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">2569</td>
-          <td style="text-align: left">Listed Index Fund US Equity (NASDAQ100) Currency H</td>
-          <td style="text-align: left"></td>
-      </tr>
-      <tr>
           <td style="text-align: left">1545</td>
-          <td style="text-align: left">NEXT FUNDS NASDAQ-100</td>
-          <td style="text-align: left"></td>
-      </tr>
-      <tr>
-          <td style="text-align: left">2568</td>
-          <td style="text-align: left">Listed Index Fund US Equity (NASDAQ100) No Currenc</td>
+          <td style="text-align: left">NEXT FUNDS NASDAQ-100 (Unhedged) Exchange Traded Fund</td>
           <td style="text-align: left"></td>
       </tr>
       <tr>
           <td style="text-align: left">2631</td>
-          <td style="text-align: left">MUKAM MAXIS NASDAQ100 ETF</td>
-          <td></td>
+          <td style="text-align: left">MAXIS NASDAQ100 ETF</td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2840</td>
+          <td style="text-align: left">iFreeETF NASDAQ100 (Non Hedged)</td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2568</td>
+          <td style="text-align: left">Listed Index Fund US Equity (NASDAQ100) No Currency Hedge</td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2569</td>
+          <td style="text-align: left">Listed Index Fund US Equity (NASDAQ100) Currency Hedge</td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2632</td>
+          <td style="text-align: left">MAXIS NASDAQ100 ETF (JPY Hedged)</td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2845</td>
+          <td style="text-align: left">NEXT FUNDS NASDAQ-100 (JPY Hedged) Exchange Traded Fund</td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2869</td>
+          <td style="text-align: left">iFreeETF NASDAQ100 Leveraged</td>
+          <td style="text-align: left">2x</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">2870</td>
+          <td style="text-align: left">iFreeETF NASDAQ100 Double Inverse</td>
+          <td style="text-align: left">-2x</td>
       </tr>
       <tr>
           <td style="text-align: left">2842</td>
           <td style="text-align: left">iFreeETF NASDAQ100 Inverse</td>
           <td style="text-align: left">-1x</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">2869</td>
-          <td style="text-align: left">iFreeETF NASDAQ100 Leveraged(2x)</td>
-          <td style="text-align: left">2x</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">2870</td>
-          <td style="text-align: left">iFreeETF NASDAQ100 Double Inverse(-2x)</td>
-          <td style="text-align: left">-2x</td>
       </tr>
   </tbody>
 </table>
@@ -399,29 +424,29 @@
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">379810</td>
-          <td style="text-align: left">Samsung KODEX US NASDAQ100 Total Return</td>
+          <td style="text-align: left">133690</td>
+          <td style="text-align: left">TIGER 미국나스닥100</td>
           <td style="text-align: left"></td>
       </tr>
       <tr>
-          <td style="text-align: left">409820</td>
-          <td style="text-align: left">SAMSUNG KODEX US NASDAQ100 Leverage(SYNTH H)</td>
+          <td style="text-align: left">379810</td>
+          <td style="text-align: left">KODEX 미국나스닥100TR</td>
           <td style="text-align: left"></td>
       </tr>
       <tr>
           <td style="text-align: left">367380</td>
-          <td style="text-align: left">KIM KINDEX NASDAQ100</td>
+          <td style="text-align: left">KINDEX 미국나스닥100</td>
           <td style="text-align: left"></td>
       </tr>
       <tr>
           <td style="text-align: left">368590</td>
-          <td style="text-align: left">KB KBSTAR US NASDAQ100</td>
+          <td style="text-align: left">KBSTAR 미국나스닥100</td>
           <td style="text-align: left"></td>
       </tr>
       <tr>
-          <td style="text-align: left">133690</td>
-          <td style="text-align: left">Mirae Asset TIGER NASDAQ 100 ETF</td>
-          <td></td>
+          <td style="text-align: left">409820</td>
+          <td style="text-align: left">KODEX 미국나스닥100레버리지(합성 H)</td>
+          <td style="text-align: left">2x</td>
       </tr>
   </tbody>
 </table>
@@ -459,9 +484,9 @@
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">NDXEX</td>
-          <td style="text-align: left">iShares NASDAQ-100 UCITS ETF</td>
-          <td></td>
+          <td style="text-align: left">EXXT</td>
+          <td style="text-align: left">iShares Nasdaq-100 UCITS ETF (DE)</td>
+          <td style="text-align: left"></td>
       </tr>
   </tbody>
 </table>
@@ -487,14 +512,14 @@
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">CNDX</td>
-          <td style="text-align: left">iShares NASDAQ 100 UCITS ETF</td>
-          <td></td>
+          <td style="text-align: left">EQQQ</td>
+          <td style="text-align: left">Invesco EQQQ Nasdaq-100 UCITS ETF</td>
+          <td style="text-align: left"></td>
       </tr>
       <tr>
-          <td style="text-align: left">EQQQ</td>
-          <td style="text-align: left">INVESCO MARKETS III PLC INVESCO EQQQ NASDAQ 100 UCITS ETF</td>
-          <td></td>
+          <td style="text-align: left">CNDX</td>
+          <td style="text-align: left">iShares NASDAQ 100 UCITS ETF USD (Acc)</td>
+          <td style="text-align: left"></td>
       </tr>
   </tbody>
 </table>
@@ -521,73 +546,17 @@
   <tbody>
       <tr>
           <td style="text-align: left">USTE</td>
-          <td style="text-align: left">Lyxor UCITS Nasdaq-100 D-EUR</td>
-          <td style="text-align: left"></td>
-      </tr>
-      <tr>
-          <td style="text-align: left">PUST</td>
-          <td style="text-align: left">Lyxor PEA Nasdaq 100 C</td>
+          <td style="text-align: left">Amundi Nasdaq-100 II UCITS ETF Dist</td>
           <td style="text-align: left"></td>
       </tr>
       <tr>
           <td style="text-align: left">PANX</td>
-          <td style="text-align: left">Amundi ETF PEA Nasdaq-100 UCITS</td>
+          <td style="text-align: left">Amundi Nasdaq-100 UCITS ETF EUR (C)</td>
           <td style="text-align: left"></td>
       </tr>
-  </tbody>
-</table>
-
-
-<h3 class="relative group">奥地利 
-    <div id="%E5%A5%A5%E5%9C%B0%E5%88%A9" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E5%A5%A5%E5%9C%B0%E5%88%A9" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<table>
-  <thead>
       <tr>
-          <th style="text-align: left">代码</th>
-          <th style="text-align: left">产品名称</th>
-          <th style="text-align: left">备注</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td style="text-align: left">EXXT</td>
-          <td style="text-align: left">iShares NASDAQ-100 UCITS</td>
-          <td style="text-align: left"></td>
-      </tr>
-  </tbody>
-</table>
-
-
-<h3 class="relative group">匈牙利 
-    <div id="%E5%8C%88%E7%89%99%E5%88%A9" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#%E5%8C%88%E7%89%99%E5%88%A9" aria-label="锚点">#</a>
-    </span>        
-    
-</h3>
-<table>
-  <thead>
-      <tr>
-          <th style="text-align: left">代码</th>
-          <th style="text-align: left">产品名称</th>
-          <th style="text-align: left">备注</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td style="text-align: left">DE0A0F.</td>
-          <td style="text-align: left">iShares NASDAQ-100 UCITS</td>
+          <td style="text-align: left">PUST</td>
+          <td style="text-align: left">Amundi PEA Nasdaq-100 UCITS ETF</td>
           <td style="text-align: left"></td>
       </tr>
   </tbody>
@@ -615,8 +584,18 @@
   <tbody>
       <tr>
           <td style="text-align: left">CSNDX</td>
-          <td style="text-align: left">iShares Nasdaq 100 UCITS</td>
+          <td style="text-align: left">iShares NASDAQ 100 UCITS ETF USD (Acc)</td>
           <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left">N100</td>
+          <td style="text-align: left">iShares NASDAQ 100 Swap UCITS ETF USD (Acc)</td>
+          <td style="text-align: left">swap version</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">EQQS</td>
+          <td style="text-align: left">Invesco NASDAQ-100 Swap UCITS ETF Acc</td>
+          <td style="text-align: left">swap version</td>
       </tr>
   </tbody>
 </table>
@@ -661,7 +640,7 @@
       <tr>
           <td style="text-align: left">QQQI11</td>
           <td style="text-align: left">Buena Vista Nasdaq-100 High Income</td>
-          <td style="text-align: left"></td>
+          <td style="text-align: left">Income strategy / not plain vanilla Nasdaq-100</td>
       </tr>
   </tbody>
 </table>
@@ -699,8 +678,8 @@
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">STXNDQJ</td>
-          <td style="text-align: left">Satrix Nasdaq 100 Feeder Portfolio</td>
+          <td style="text-align: left">STXNDQ</td>
+          <td style="text-align: left">Satrix Nasdaq 100 ETF</td>
           <td style="text-align: left"></td>
       </tr>
   </tbody>
@@ -740,7 +719,7 @@
   <tbody>
       <tr>
           <td style="text-align: left">NDQ</td>
-          <td style="text-align: left">Betashares Nasdaq 100</td>
+          <td style="text-align: left">BetaShares NASDAQ 100 ETF</td>
           <td style="text-align: left"></td>
       </tr>
       <tr>
@@ -784,8 +763,8 @@
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left">MTFF96</td>
-          <td style="text-align: left">MTF Sal (4A) Nasdaq 100 Currency Hedged</td>
+          <td style="text-align: left">KSMF83</td>
+          <td style="text-align: left">KSM 4A NASDAQ 100 Currency Hedged</td>
           <td style="text-align: left"></td>
       </tr>
       <tr>
@@ -794,8 +773,8 @@
           <td style="text-align: left"></td>
       </tr>
       <tr>
-          <td style="text-align: left">KSMF83</td>
-          <td style="text-align: left">KSM 4A NASDAQ 100 Currency Hedged</td>
+          <td style="text-align: left">MTFF96</td>
+          <td style="text-align: left">MTF Sal (4A) Nasdaq 100 Currency Hedged</td>
           <td style="text-align: left"></td>
       </tr>
       <tr>
