@@ -6,11 +6,11 @@
     <description>Recent content in FIRE on QQQ Investor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/fire/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/fire/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://jomonylw.github.io/en/</link>
-      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
       
       <guid>https://jomonylw.github.io/en/</guid>
       <description></description>
@@ -69,8 +69,8 @@
   <span
     
       class="dark:text-neutral-300"
-    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2010/12</strong>, and held it for <strong>15</strong> years, by
-<strong>2025/12</strong> it would be worth <strong>$11280.02</strong>, with a total return of <strong>1028.00%</strong> (annualized return of <strong>17.53%</strong>).</span>
+    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2011/04</strong>, and held it for <strong>15</strong> years, by
+<strong>2026/04</strong> it would be worth <strong>$11302.30</strong>, with a total return of <strong>1030.23%</strong> (annualized return of <strong>17.54%</strong>).</span>
 </div>
 
 <br>
@@ -82,7 +82,7 @@
       const ctx = document.getElementById("chart-3f42e1dde0a3be6b7dd45d9363bdb47b");
       const chart = new Chart(ctx, {
         
-    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1000.0, 1025.1560778553066, 1195.9236136614027, 1615.1303709144324, 1895.8868894601542, 2053.9845758354754, 2175.541681968417, 2860.0807932427465, 2832.5376423062794, 3903.9662137348514, 5760.925449871465, 7305.361733382299, 4889.460154241645, 7519.647447668012, 9387.256702166727, 11280.022034520747], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.0, 0.025156077855306647, 0.16657710908113899, 0.350529709811147, 0.17382901318781274, 0.08338983050847452, 0.059181119256213076, 0.3146522619851451, -0.0096302003081664, 0.37825748735900455, 0.47565965852970227, 0.2680882259195511, -0.3307025260776675, 0.5379299984978217, 0.24836393826919329, 0.20163135966199153], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]},
+    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [944.9898442789438, 1102.403520649966, 1488.8287068381853, 1747.6303317535544, 1893.3649289099526, 2005.416384563304, 2636.425186188219, 2611.035883547732, 3598.679756262695, 5310.42654028436, 6734.089370345295, 4507.109004739335, 6931.618144888286, 8653.182125930942, 10397.935003385239, 11302.301963439404], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [-0.055010155721056206, 0.16657710908113893, 0.35052970981114706, 0.17382901318781271, 0.08338983050847464, 0.059181119256213166, 0.3146522619851449, -0.009630200308166281, 0.3782574873590044, 0.4756596585297022, 0.2680882259195513, -0.33070252607766765, 0.537929998497822, 0.24836393826919345, 0.2016313596619914, 0.08697563119597612], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]},
     options: {
         scales: {
             'price-axis': {
@@ -237,6 +237,10 @@
       <tr>
           <td><a href="https://if-you-invest-qqq.vercel.app/" target="_blank">If you invest QQQ 💰</a></td>
           <td>QQQ Investment Return Calculator</td>
+      </tr>
+      <tr>
+          <td><a href="https://qdii-limit.vercel.app/" target="_blank">QDII Nasdaq Index Fund Limit Inquiry</a></td>
+          <td>Query Mainland QDII Nasdaq Index Purchase Limits</td>
       </tr>
   </tbody>
 </table>

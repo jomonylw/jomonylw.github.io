@@ -6,11 +6,11 @@
     <description>Recent content in Asset Allocation on QQQ Investor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/asset-allocation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jomonylw.github.io/en/tags/asset-allocation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://jomonylw.github.io/en/</link>
-      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
       
       <guid>https://jomonylw.github.io/en/</guid>
       <description></description>
@@ -69,8 +69,8 @@
   <span
     
       class="dark:text-neutral-300"
-    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2010/12</strong>, and held it for <strong>15</strong> years, by
-<strong>2025/12</strong> it would be worth <strong>$11280.02</strong>, with a total return of <strong>1028.00%</strong> (annualized return of <strong>17.53%</strong>).</span>
+    >If you invested <strong>$1000</strong> in <strong>QQQ</strong> starting from <strong>2011/04</strong>, and held it for <strong>15</strong> years, by
+<strong>2026/04</strong> it would be worth <strong>$11302.30</strong>, with a total return of <strong>1030.23%</strong> (annualized return of <strong>17.54%</strong>).</span>
 </div>
 
 <br>
@@ -82,7 +82,7 @@
       const ctx = document.getElementById("chart-3f42e1dde0a3be6b7dd45d9363bdb47b");
       const chart = new Chart(ctx, {
         
-    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [1000.0, 1025.1560778553066, 1195.9236136614027, 1615.1303709144324, 1895.8868894601542, 2053.9845758354754, 2175.541681968417, 2860.0807932427465, 2832.5376423062794, 3903.9662137348514, 5760.925449871465, 7305.361733382299, 4889.460154241645, 7519.647447668012, 9387.256702166727, 11280.022034520747], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [0.0, 0.025156077855306647, 0.16657710908113899, 0.350529709811147, 0.17382901318781274, 0.08338983050847452, 0.059181119256213076, 0.3146522619851451, -0.0096302003081664, 0.37825748735900455, 0.47565965852970227, 0.2680882259195511, -0.3307025260776675, 0.5379299984978217, 0.24836393826919329, 0.20163135966199153], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]},
+    data: {'datasets': [{'type': 'line', 'label': 'Price', 'data': [944.9898442789438, 1102.403520649966, 1488.8287068381853, 1747.6303317535544, 1893.3649289099526, 2005.416384563304, 2636.425186188219, 2611.035883547732, 3598.679756262695, 5310.42654028436, 6734.089370345295, 4507.109004739335, 6931.618144888286, 8653.182125930942, 10397.935003385239, 11302.301963439404], 'yAxisID': 'price-axis', 'borderColor': 'rgb(96, 165, 250)', 'fill': 'false', 'tension': 0.4}, {'type': 'bar', 'label': 'Return', 'data': [-0.055010155721056206, 0.16657710908113893, 0.35052970981114706, 0.17382901318781271, 0.08338983050847464, 0.059181119256213166, 0.3146522619851449, -0.009630200308166281, 0.3782574873590044, 0.4756596585297022, 0.2680882259195513, -0.33070252607766765, 0.537929998497822, 0.24836393826919345, 0.2016313596619914, 0.08697563119597612], 'yAxisID': 'return-axis', 'backgroundColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderColor': ['rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)', 'rgba(255, 99, 132, 0.5)'], 'borderRadius': 5}], 'labels': [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]},
     options: {
         scales: {
             'price-axis': {
@@ -237,6 +237,10 @@
       <tr>
           <td><a href="https://if-you-invest-qqq.vercel.app/" target="_blank">If you invest QQQ 💰</a></td>
           <td>QQQ Investment Return Calculator</td>
+      </tr>
+      <tr>
+          <td><a href="https://qdii-limit.vercel.app/" target="_blank">QDII Nasdaq Index Fund Limit Inquiry</a></td>
+          <td>Query Mainland QDII Nasdaq Index Purchase Limits</td>
       </tr>
   </tbody>
 </table>
@@ -463,6 +467,611 @@
         
     
 </section>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>00567 Wealth is a Talent: QQQ Will Eventually Reach One Thousand, Ten Thousand, or Even One Million!</title>
+      <link>https://jomonylw.github.io/en/posts/1766882241106/</link>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomonylw.github.io/en/posts/1766882241106/</guid>
+      <description>In this session, Teacher James emphasizes core investment disciplines like &amp;#39;buy whenever you have money, and never sell,&amp;#39; and delves into risk management, cash reserves, and the importance of a wealthy mindset. He firmly believes in the long-term growth potential of QQQ, considers wealth a talent, and encourages everyone to build the right investment beliefs to ultimately achieve financial freedom and spiritual abundance.</description>
+      <content:encoded><![CDATA[<lite-youtube videoid="PCPjSFDsKOQ" playlabel="PCPjSFDsKOQ" params=""></lite-youtube>
+
+
+
+<h2 class="relative group">I. Theme of the Session 
+    <div id="i-theme-of-the-session" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#i-theme-of-the-session" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>The core theme of this session is &ldquo;Wealth is a Talent,&rdquo; emphasizing that through the right investment mindset and discipline, everyone has the potential to achieve tremendous wealth growth. Teacher James firmly believes that the key to successful investing lies in simplifying strategies and holding steadfastly. Using QQQ as an example, he foresees its astonishing potential to reach one thousand, ten thousand, or even one million dollars in the future. He encourages investors to build strong mental energy and believe in the long-term generosity of the market, thereby achieving financial freedom and spiritual abundance.</p>
+
+
+<h2 class="relative group">II. Briefing Content 
+    <div id="ii-briefing-content" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ii-briefing-content" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Core Investment Discipline and Mindset 
+    <div id="core-investment-discipline-and-mindset" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#core-investment-discipline-and-mindset" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Investment Principle</strong>: Buy at the market price immediately when you have money, then go to sleep and never sell, no matter what. Don&rsquo;t try to time the market, buy in batches, or wait for a dip, because the market is unpredictable, and we should admit our ignorance about it.</li>
+<li><strong>Handling Insurance</strong>: Insurance is a poor-quality asset and should be terminated immediately. Don&rsquo;t consider reducing coverage or taking out a loan against it, as this will harm your principal and long-term returns. Insurance agents are often compared to the &ldquo;mules&rdquo; of a fraud ring; you should go directly to the insurance company&rsquo;s counter to handle the cancellation.</li>
+<li><strong>Investment Target</strong>: Focus on investing in QQQ. Stop agonizing over whether to switch to other ETFs like VGT or VOO; the course has repeatedly explained why QQQ is the best choice.</li>
+<li><strong>Forbidden Questions</strong>: Do not ask about individual stocks, when to buy, when to sell, whether to rebalance (doing it once at the end or beginning of the year is enough), whether the market will rise or fall, or if it&rsquo;s a bubble. In investing, knowing less is better than knowing more.</li>
+</ul>
+
+
+<h3 class="relative group">Risk Management and Cash Reserves 
+    <div id="risk-management-and-cash-reserves" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#risk-management-and-cash-reserves" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Risk Awareness</strong>: How much cash to keep depends on your personal assessment of risk. You need to consider all possible risks, such as unemployment, home destruction (fire, earthquake), serious illness in the family, a major stock market crash, and a credit crunch, and assume they will all happen simultaneously.</li>
+<li><strong>Cash Reserves for Working Professionals</strong>: You need to calculate how long it would take to find a new job if you become unemployed and all other risks occur at the same time, and what your total living expenses would be during that period. This amount is the cash you need to reserve.</li>
+<li><strong>Cash Reserves for Retirees</strong>: You need to have 15 years of living expenses saved. This is because after a market peak, it might take 15 years for the market to recover. This ensures you don&rsquo;t have to sell assets at a low point during a market downturn.</li>
+<li><strong>Those Retiring Within Ten Years</strong>: If you have N years until retirement (N&lt;15), you should now have (15-N) years of cash reserves and add one year&rsquo;s worth of cash each year thereafter. This ensures you have 15 years of living expenses by the time you retire. For example, if you are 10 years from retirement, you should have 5 years of cash now and add 1 year&rsquo;s worth annually.</li>
+</ul>
+
+
+<h3 class="relative group">Wealth is a Talent 
+    <div id="wealth-is-a-talent" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#wealth-is-a-talent" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Life Philosophy</strong>: The underlying logic of life should be simple, convenient, and effective. Mentally, you should adopt an attitude of &ldquo;it doesn&rsquo;t matter, anything is fine, it&rsquo;s okay,&rdquo; not being troubled by trivial matters or tied down by yourself.</li>
+<li><strong>The Value of Credibility</strong>: &ldquo;A person without credibility is good for nothing.&rdquo; Credibility is priceless; losing it means losing everything. Those who don&rsquo;t haggle over small things often end up gaining more.</li>
+<li><strong>Wealth is a Talent</strong>: Firmly believe that you will become wealthy. This is the most important mental energy. The channel&rsquo;s goal is to eliminate poverty and give everyone a chance to get rich.</li>
+<li><strong>The Future of QQQ</strong>: The price of QQQ will eventually reach $1,000, $10,000, and you might even see it hit $1 million in your lifetime. Wealth accumulation takes time; investing is a marathon of endurance. Buffett&rsquo;s success is due to him living long enough and holding long enough.</li>
+<li><strong>The AI Era</strong>: Artificial intelligence will completely change the world, and human lifespans may be greatly extended. In a future of longevity and wealth, investment plans need a much longer-term perspective.</li>
+</ul>
+
+
+<h2 class="relative group">III. Q&amp;A Session 
+    <div id="iii-qa-session" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iii-qa-session" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">Catherine 
+    <div id="catherine" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#catherine" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing:
+<ol>
+<li>Recommended a Taiwanese documentary &ldquo;The Island of the Gods,&rdquo; which beautifully documents Taiwan&rsquo;s sacred trees. She encouraged everyone to support local films.</li>
+</ol>
+<ul>
+<li>Teacher James&rsquo;s Comment: Recommends visiting the &ldquo;Sacred Trees Garden&rdquo; at Mingchi or Cilan, which requires a reservation and has guided tours. He suggests booking the 11 AM tour that includes a boxed lunch, as eating it in the forest is a great experience. It&rsquo;s better to go sooner rather than later, as many pristine landscapes have changed with development.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Argan 
+    <div id="argan" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#argan" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: Since we believe 00662 will rise forever, why not just leverage up with the 2x leveraged 00670L? Currently, 00670L has a 45% profit. Should I sell it and switch to 00662?
+<ul>
+<li>Teacher James&rsquo;s Reply: A 2x leveraged product has the risk of going to zero. If the market drops by 85%, it might not recover for 30 years, and you might never see it break even in your lifetime. As for when to sell, don&rsquo;t rebalance just because the market has gone up. Rebalancing should be done once a year, at the end or beginning of the year. It&rsquo;s a passive strategy that completely ignores market fluctuations.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Chris 
+    <div id="chris" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#chris" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing:
+<ol>
+<li>Your cognition determines the height of your assets. As his financial literacy and cognition improved, his assets grew correspondingly. Sharing is the best way to learn; the more you share, the firmer your cognition becomes, and your assets grow exponentially.</li>
+<li>Cash is oxygen. During market volatility, having sufficient cash (like a 2-3 year emergency fund) allows you to get through it peacefully. He now understands the principle that &ldquo;the more you borrow, the safer you are.&rdquo;</li>
+<li>Practice and Gratitude. Last year, he borrowed money from an elder to invest. Although the elder didn&rsquo;t fully understand, they lent him the money out of trust. He promised to pay interest and a filial piety allowance, and regularly reported his asset status. The market has been generous this year, and he has already earned back the principal, an amount equivalent to his total earnings from the past ten years of work. He plans to give a large red envelope to thank the elder and put their mind at ease.</li>
+<li>Change in Mindset. After his financial literacy improved, he no longer feels anything when hearing others discuss raises, job changes, etc., because the right investment philosophy can help you achieve your life goals much faster.</li>
+</ol>
+<ul>
+<li>Teacher James&rsquo;s Comment: Sharing is the greatest form of learning; teaching and learning promote each other. It&rsquo;s important to put elders at ease. If they worry, either comply with their wishes or find a way to reassure them while you take your own actions. Financial cognition and wealth are matched; you will eventually lose any wealth that your mental energy is not strong enough to handle.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Jane 
+    <div id="jane" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#jane" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question 1: In Taiwan, continuously taking out personal loans to buy 00662, is this similar to the concept of a stock pledge loan that you don&rsquo;t pay back? Should I prioritize the credit limit or the interest rate? Is a 7-year personal loan from CTBC Bank at 4-5% worth taking?
+<ul>
+<li>Teacher James&rsquo;s Reply: That&rsquo;s incredibly cheap! Interest rates in the US are over 5.5%. With a 5% interest rate, if you borrow 10,000, the total principal and interest after 60 years will be less than 190,000. But if you invest that 10,000, it will become 43.83 million after 60 years. The debt is just a tiny fraction. If you can get the money, borrow it quickly. The larger the credit limit, the better; the longer the term, the better. The interest rate is of course important, but 4-5% is a very good deal.</li>
+</ul>
+</li>
+<li>Question 2: Can I continue to take out personal loans after retirement?
+<ul>
+<li>Teacher James&rsquo;s Reply: As long as you can afford the payments, you can continue to borrow. Your retirement living expenses calculation needs to include the monthly loan interest payments. Personal loans and pledge loans can be used simultaneously; they don&rsquo;t conflict.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Jack 
+    <div id="jack" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#jack" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: I want to take out a Pledge Loan, but I&rsquo;m very scared. I don&rsquo;t know what to do.
+<ul>
+<li>Teacher James&rsquo;s Reply: If you&rsquo;re scared, then don&rsquo;t borrow. The purpose of borrowing money is to make your life better. If borrowing money makes you worry and lose sleep, you&rsquo;re just creating trouble for yourself. It defeats the purpose.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Dean 
+    <div id="dean" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#dean" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing:
+<ol>
+<li>Encouraged by the teacher, he quit a job he disliked over a month ago. His mind and body have recovered, and he has had time to systematically study the teacher&rsquo;s videos, which made him appreciate the wisdom of the pledge loan strategy even more.</li>
+<li>This month, he completed his first-ever pledge loan (through a margin financing and securities lending method in mainland China) and used the borrowed money to pay off his credit card bill, successfully taking the first step.</li>
+</ol>
+</li>
+<li>Question: He recently found an interesting and relaxed job and plans to work while investing. His salary will be invested in the Nasdaq index, and his living expenses will be covered by the pledge loan. Assuming he has 10 million in assets and a salary of 500,000, a 2% pledge loan would only allow him to borrow 200,000. Should his living expenses be limited to 200,000, or can he borrow 500,000 (matching his salary) to spend?
+<ul>
+<li>Teacher James&rsquo;s Reply: You absolutely cannot borrow 500,000. The amount you can borrow from a pledge loan is always 2% of your total assets, regardless of your salary. In your example, your total assets are 10 million (stocks) + 500,000 (newly invested salary) = 10.5 million. So you can only borrow 2% of 10.5 million, which is 210,000. Exceeding this ratio carries a risk of bankruptcy.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Haoqing 
+    <div id="haoqing" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#haoqing" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing 1: Mentioned a very wealthy person (worth hundreds of millions) who is extremely poor at heart. He collects coupons and even lines up for free food giveaways. This sparked a reflection on &ldquo;inner wealth&rdquo; versus &ldquo;superficial wealth.&rdquo;
+<ul>
+<li>Teacher James&rsquo;s Comment: This is a contrast between inner poverty and superficial wealth. Inner wealth is more important than superficial wealth. If you are wealthy on the inside, you won&rsquo;t take things you shouldn&rsquo;t, even if you don&rsquo;t have money right now. A person who is poor on the inside may eventually lose everything, even with a fortune of hundreds of millions, due to greed. We should cultivate a wealthy mindset, believing that all the money in the world is ours, and then we won&rsquo;t be tempted by petty gains.</li>
+</ul>
+</li>
+<li>Sharing 2: His daughter&rsquo;s roommate wants to become a doctor to &ldquo;make big money,&rdquo; which confused him, as he believes the primary motivation for practicing medicine should be to save lives. He connected this with the case of an 80-something-year-old relative who was advised to undergo a very high-risk surgery, questioning some of the motives within the healthcare system.
+<ul>
+<li>Teacher James&rsquo;s Reply: Regarding Taiwan&rsquo;s healthcare, doctors don&rsquo;t earn a huge amount for performing one surgery, so it&rsquo;s unlikely they would operate just for money. It&rsquo;s more likely based on professional judgment, but misjudgments and risks always exist. The US healthcare system is more controlled by insurance companies. For elderly relatives, any medical decision must be made with extreme caution. As for wanting to be a doctor to make money, this is a reality to some extent, as the cost of medical education is high. But we should still believe that most medical professionals have a mission to save lives.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Candy 
+    <div id="candy" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#candy" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: She took early retirement a few years ago to care for her 90-plus-year-old mother. She was initially worried, but by following the teacher&rsquo;s investment method, her assets have grown steadily, allowing her to now focus on accompanying her mother without any worries. She is very grateful for the teacher&rsquo;s guidance, which has enabled her to be with her mother when she needs it most.
+<ul>
+<li>Teacher James&rsquo;s Comment: Accompanying parents as they age is a very happy but also very tough thing; it&rsquo;s a form of spiritual practice. Stock investing is also a form of spiritual practice. I am very happy for you that you were able to let go of everything and be with your family at a critical time. This is very important.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Ethan 
+    <div id="ethan" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ethan" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: 29 years old, started investing in A-shares at 22. Over 7 years, he invested 150,000 RMB and only made a profit of 20,000. After discovering CLEC last October, he gradually shifted his assets to a Nasdaq ETF. His total holdings are now 1.75 million RMB (including a 500,000 personal loan), with a profit of about 300,000.</li>
+<li>Question 1: His personal loan currently accounts for 28% of his total assets. His job is stable, and he has a monthly surplus. Should he continue to borrow money to increase leverage?
+<ul>
+<li>Teacher James&rsquo;s Reply: As long as you can afford the payments, you can continue to borrow. If you have a monthly surplus of 3,000 yuan, you can go and take out a loan with a monthly payment of 3,000 yuan. In China, a 4.5% interest rate is very cheap.</li>
+</ul>
+</li>
+<li>Question 2: The onshore Nasdaq ETF in China recently had a premium as high as 10%. Should future funds be transferred to an overseas account, or should he continue to buy in mainland China?
+<ul>
+<li>Teacher James&rsquo;s Reply: Don&rsquo;t worry about the premium. In the long run, the market&rsquo;s gains will far exceed this small premium. Buy immediately when you have money. If you&rsquo;re uncomfortable with it, you can also set up automatic investments in offshore funds, find a few different platforms and funds, and diversify to get around quota limits.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Susan 
+    <div id="susan" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#susan" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question 1: Regarding the tax on a Roth Conversion, how does the IRS calculate interest? If it&rsquo;s calculated daily, is it more advantageous to convert at the end of the year (because the interest accrual period is shorter)?
+<ul>
+<li>Teacher James&rsquo;s Reply: Don&rsquo;t overthink it. If you convert at the beginning of the year, you get to enjoy an extra year of tax-free growth, even though the tax isn&rsquo;t due for over a year. If you convert at the end of the year, although the interest period is short, you have to pay the tax soon after. Personally, I never pay estimated taxes; I handle it all when I file my taxes the following April. My experience of over 20 years proves this works fine.</li>
+</ul>
+</li>
+<li>Question 2: Regarding the Pledge Loan, do I have to wait until I have $2.5 million to start? I want to get a preferential mortgage rate from Merrill Edge before I retire in 2029, which requires me to deposit $1 million there. This conflicts with my plan to do a PL at Charles Schwab.
+<ul>
+<li>Teacher James&rsquo;s Reply: Don&rsquo;t give up a PL for a small interest rate discount on a mortgage. The PL itself can give you a huge line of credit. You can use money from the PL to apply for a mortgage, or even pay off the mortgage directly. Schwab&rsquo;s rates are negotiable; the more assets you have, the better the rate. You should apply for the PL immediately. Once you do it, you&rsquo;ll understand. Don&rsquo;t hesitate any longer.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Henry 
+    <div id="henry" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#henry" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: He didn&rsquo;t dare to put all his funds into the market before, but after discovering the channel, he had the courage to go all-in, and his performance this year has been excellent.</li>
+<li>Question 1: If I open an account with a US brokerage and get a debit card, keep less than $60,000 in the card&rsquo;s account, and my family withdraws the money with this card after I pass away, can this avoid estate tax?
+<ul>
+<li>Teacher James&rsquo;s Reply: Theoretically, yes, but your money will be spent. You should be thinking about how to make your money grow continuously, not how to spend it.</li>
+</ul>
+</li>
+<li>Question 2: The interest rates for my mortgage refinance and personal loan are just over 2%, while the teacher says the pledge loan (PL) should be based on 2% of total assets. Does this &ldquo;total assets&rdquo; include the money already borrowed through the mortgage and personal loan?
+<ul>
+<li>Teacher James&rsquo;s Reply: No, it does not. Your mortgage and personal loans are your personal liabilities and are completely separate from the stock pledge loan; they are two different things that don&rsquo;t interfere with each other. The money you borrow through other means and invest in the stock market will increase your total stock assets, thereby increasing your PL credit limit.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Stella 
+    <div id="stella" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#stella" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: My current asset allocation is 5:2:3 (personal account:Roth:cash). Because there isn&rsquo;t enough money in my Roth account, I can&rsquo;t buy enough QLD to reach the 30% allocation. Should the money in my personal account be used to buy QQQ or QLD?
+<ul>
+<li>Teacher James&rsquo;s Reply: Leveraged funds (QLD) must absolutely not be held in a personal account; they can only be in a Roth account. Therefore, your personal account can only buy QQQ. The 5:2:3 ratio is fine for now. As you continue to contribute to your Roth account each year, the leverage ratio will gradually increase.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Doris 
+    <div id="doris" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#doris" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: Regarding the tax on a Roth Conversion, last week the teacher suggested paying it when filing taxes next year because the Pledge Loan interest is lower. But I found that the IRS interest on underpayment is 7% compounded daily, while my PL interest is 6.5% compounded monthly. Looking at it this way, it seems more advantageous to pay the tax in advance?
+<ul>
+<li>Teacher James&rsquo;s Reply: In my personal experience, the interest from the IRS doesn&rsquo;t end up being that high. Also, the tax liability is spread throughout the year, not calculated on the total amount for the whole year, so the effective interest rate is much lower. For over 20 years, I&rsquo;ve done Roth Conversions and always paid the tax when filing the following year, never paying estimated tax, and it&rsquo;s never been a problem. You can try it once yourself and see what the final interest comes out to be. But the simplest way is to just handle it when you file your taxes.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Peter 
+    <div id="peter" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#peter" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: Thank you so much, teacher. After listening to your class, the seed of belief that &ldquo;I am very wealthy&rdquo; has been planted in my heart. This is more precious than any short-term gain. I&rsquo;ve decided to sell my current house to buy one in a good school district and hope my spouse can learn with me so we can progress together.</li>
+<li>Question: Is there a community in mainland China similar to &ldquo;Cheng Feng&rsquo;s&rdquo; group in Taiwan that I can join?
+<ul>
+<li>Teacher James&rsquo;s Reply: No.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">CJY 
+    <div id="cjy" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#cjy" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: Reporting that his account has hit an all-time high. Thank you, teacher. Looking back on his years of investing, he realizes the importance of mental energy and cognition. Although he went through agonizing periods like the big drop in 2022, he ultimately persevered. Now he can face market fluctuations calmly because he believes in the long-term development of technology and believes he holds good companies.</li>
+<li>Question: He is a Christian. After his wealth grew, his church friends said it was God&rsquo;s grace, while he felt it was the result of his years of hard work and ability. He feels conflicted about this.
+<ul>
+<li>Teacher James&rsquo;s Reply: It&rsquo;s destiny plus your effort, but destiny comes first. Without destiny, your efforts would be in vain. The highest state of investing is &ldquo;faith.&rdquo; When you reach the level of faith, you will no longer feel any agony. The fact that you can now face fluctuations calmly means you are moving towards the level of faith. Be grateful for your destiny; it is what gave you this awakening and the ability to act.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Meta 
+    <div id="meta" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#meta" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Question: A TSMC executive said, &ldquo;Employees shouldn&rsquo;t care too much about money; they should think more about the company and shareholders,&rdquo; which caused controversy. What is your evaluation of this viewpoint?
+<ul>
+<li>Teacher James&rsquo;s Reply: From a capitalist&rsquo;s perspective, this statement is understandable. But from an employee&rsquo;s perspective, this is &ldquo;corporate propaganda&rdquo; and is completely wrong. Laborers should look out for their own interests. As a world-leading company, TSMC pays its employees far less than their US counterparts, which is unreasonable. We encourage everyone to become capitalists, but before that, as laborers, it is perfectly justified to fight for the compensation you deserve.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Lijuan 
+    <div id="lijuan" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#lijuan" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: Reporting to the teacher that the Lisa team at Charles Schwab, recommended at the beginning of the year, is very professional. Their service far exceeded expectations, they solved many problems, and she even received a new account bonus. She is very grateful for the teacher&rsquo;s introduction. She also mentioned that her broker at her previous firm tried to use &ldquo;security concerns&rdquo; to stop her from transferring her account, but she thought it was nonsense.
+<ul>
+<li>Teacher James&rsquo;s Comment: I&rsquo;m glad I could help you. A professional team can provide better service and benefits. You don&rsquo;t need to pay any attention to brokers who use false information to try to retain clients.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">Feng 
+    <div id="feng" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#feng" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: Following the teacher&rsquo;s advice from last week, he communicated with his mother by treating her as a &ldquo;guest&rdquo; and successfully resolved their disagreement over investments. Through patient explanation, he helped his mother understand that her sense of money scarcity originated from her family of origin and encouraged her to love herself and enjoy her wealth with peace of mind. His mother also sent a text message to thank him, saying she would let go of her worries about money. From this, he realized that spiritual abundance is the foundation of all things, and the importance of maintaining his &ldquo;true self&rdquo; across different social roles.
+<ul>
+<li>Teacher James&rsquo;s Comment: Mental energy is the most important thing. You must believe that you will be very wealthy, that all the money in the world is yours. The employees of 100 companies are all working for you. You are not playing any role; you are just yourself. You should treat everyone the same, &ldquo;as if they were your own.&rdquo; Your mother&rsquo;s investments are her own issue; putting her at ease is the most important thing, not necessarily pursuing high returns.</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 class="relative group">C.H. 
+    <div id="ch" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ch" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Sharing: He is currently in a hospice ward with his mother. He wanted to share that stress and mood have a huge impact on health; his mother&rsquo;s cancer was caused by this. He also wanted to remind everyone to be extremely careful when accompanying family members in the hospital. He had just discovered that the IV bag a nurse was giving his mother had someone else&rsquo;s name on it, which was very dangerous.
+<ul>
+<li>Teacher James&rsquo;s Comment: Accompanying parents is a happy but difficult task. Stress is indeed a killer of health; learn to use deep breathing to relieve it. Cancer is now more like a chronic disease, and surviving cancer for five years is already a great achievement. Thank you for your reminder; hospital errors can indeed happen, and companions must be extra vigilant.</li>
+</ul>
+</li>
+</ul>
+
+
+<h2 class="relative group">IV. Highlighted Quotes 
+    <div id="iv-highlighted-quotes" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#iv-highlighted-quotes" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<blockquote>
+<p>Wealth is a talent. You can definitely be very rich. The last thing you need to worry about is money.
+&ndash; Teacher James</p></blockquote>
+<p>Background: The teacher encourages everyone to build a strong inner belief that they are destined to be wealthy. This mental energy is the first step toward achieving financial freedom.</p>
+<blockquote>
+<p>Investing is not a competition of returns; it&rsquo;s a marathon of endurance. If you can live to be 150, you will be Buffett.
+&ndash; Teacher James</p></blockquote>
+<p>Background: When explaining the importance of long-term holding, the teacher uses Buffett as an example, pointing out that time and compounding are the keys to investment success, not short-term timing or trading.</p>
+<blockquote>
+<p>Your cognition determines the height of your assets.
+&ndash; Chris</p></blockquote>
+<p>Background: Student Chris shares his insight that improving financial literacy and cognition is a prerequisite for asset growth. When you understand the laws of wealth, money will naturally come to you.</p>
+<blockquote>
+<p>A person without credibility is good for nothing. If you lose your credibility, you lose everything.
+&ndash; Teacher James</p></blockquote>
+<p>Background: When discussing life philosophy, the teacher emphasizes the extreme importance of credibility, considering it the foundation of a person&rsquo;s standing and far more important than money.</p>
+<blockquote>
+<p>If your mental energy is not enough, you can&rsquo;t handle the material energy. If your money exceeds your cognition, you will usually give it all back.
+&ndash; Teacher James</p></blockquote>
+<p>Background: Commenting on a student&rsquo;s sharing, the teacher explains why many lottery winners end up bankrupt: their mental state and wealth cognition cannot handle the sudden huge fortune.</p>
+<blockquote>
+<p>The employees of 100 companies are my laborers. Jensen Huang is my employee; he makes money for me.
+&ndash; Feng</p></blockquote>
+<p>Background: Student Feng, in his sharing, adapts the teacher&rsquo;s viewpoint to vividly describe the &ldquo;capitalist mindset&rdquo; of a shareholder: all employees of listed companies are creating value for the shareholders.</p>
+<blockquote>
+<p>Don&rsquo;t mistake the market&rsquo;s rise for your own ability. That would be a huge misunderstanding.
+&ndash; Teacher James</p></blockquote>
+<p>Background: The teacher reminds everyone to remain humble and recognize that wealth growth is mainly due to destiny and the market&rsquo;s generosity, not personal ability. This mindset helps one go further on the investment journey.</p>
+<blockquote>
+<p>If borrowing money makes you lose sleep, why would you do it? You&rsquo;re just creating trouble for yourself.
+&ndash; Teacher James</p></blockquote>
+<p>Background: Answering a student&rsquo;s question about being afraid to borrow, the teacher emphasizes that the ultimate goal of investing and financial management is a better life. Any financial decision that causes fear and anxiety should be avoided.</p>
+<blockquote>
+<p>You are not playing any role; you are just yourself.
+&ndash; Teacher James</p></blockquote>
+<p>Background: Responding to a student&rsquo;s sharing about &ldquo;role-playing,&rdquo; the teacher offers a deeper perspective: one should return to their true self and treat all people and matters with a sincere and consistent attitude, rather than switching between different roles.</p>
+<blockquote>
+<p>The stages of investment are: Hearing, Knowing, Understanding, Believing, Executing, Persevering, Enduring, and Faith.
+&ndash; Teacher James</p></blockquote>
+<p>Background: The teacher summarizes the process of elevating one&rsquo;s investment mindset, pointing out that only by reaching the state of &ldquo;Faith&rdquo; can one achieve true inner peace, remain unaffected by market fluctuations, and ultimately attain success.</p>
+
+
+<h2 class="relative group">V. Summary 
+    <div id="v-summary" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#v-summary" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>In this gathering, Teacher James once again reinforced his core investment philosophy: to face the complex financial world with an extremely simple strategy (buy QQQ whenever you have money, and never sell) and an extremely strong belief (wealth is a talent, the market will eventually far exceed imagination). From investment discipline, risk management, and cash reserves to life philosophy, the teacher provided clear and firm guidance. The Q&amp;A session was rich in content, covering various real-world issues such as leverage, pledge loans, taxes, family communication, and healthcare. The teacher&rsquo;s responses not only offered solutions but also conveyed a broad-minded and confident attitude toward life. The core of the entire session is that true wealth begins with inner abundance and cognitive enhancement. When one&rsquo;s mental energy is strong enough, the arrival of material wealth is simply a natural consequence.</p>
+
+  
+
+
+
+<div
+  
+    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
+  >
+
+  <span
+    
+      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
+    >
+
+    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
+
+  </span>
+
+
+  </span>
+
+  <span
+    
+      class="dark:text-neutral-300"
+    ><strong>Disclaimer:</strong> This article is for personal study notes only and does not constitute any investment advice.</span>
+</div>
+
 ]]></content:encoded>
     </item>
     
@@ -4004,425 +4613,6 @@
     
 </h2>
 <p>This episode paints a complete blueprint for survival and development, from the macro perspectives of the capitalist system and the AI revolution to the micro aspects of personal investment strategy, health management, and mindset cultivation. James once again emphasizes that in the face of an uncertain future, becoming a capitalist and boarding the &ldquo;Noah&rsquo;s Ark&rdquo; of index investing is the only way for ordinary people to achieve class transition and master their own lives. By learning the correct investment philosophy, establishing a robust asset allocation, and supplementing it with a healthy body and a strong mind, we can not only survive the tides of the times but also live a rich, free, and meaningful life.</p>
-
-  
-
-
-
-<div
-  
-    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
-  >
-
-  <span
-    
-      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
-    >
-
-    
-
-  <span class="relative block icon">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z"/></svg>
-
-  </span>
-
-
-  </span>
-
-  <span
-    
-      class="dark:text-neutral-300"
-    ><strong>Disclaimer:</strong> This article is for personal study notes only and does not constitute any investment advice.</span>
-</div>
-
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>00553 How to Use QQQI &#43; 433 Asset Allocation to Build a Retirement Cash Flow of 15x Annual Expenses?</title>
-      <link>https://jomonylw.github.io/en/posts/1766882241092/</link>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://jomonylw.github.io/en/posts/1766882241092/</guid>
-      <description>This session explores how to build a retirement cash flow equivalent to 15 times annual expenses by configuring QQQI and a 433 asset allocation strategy. It also delves into related topics such as retirement tax planning, asset allocation, stock pledging, and personal development in the AI era.</description>
-      <content:encoded><![CDATA[<lite-youtube videoid="8MjcTghno1g" playlabel="8MjcTghno1g" params=""></lite-youtube>
-
-
-
-<h2 class="relative group">I. Topic of the Session 
-    <div id="i-topic-of-the-session" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#i-topic-of-the-session" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<p>This session primarily explores how to build a robust cash flow system for retirement, specifically using QQQI combined with a 433 asset allocation model to achieve the goal of having retirement funds equal to 15 times annual expenses. The core idea is to invest the majority of retirement funds (e.g., 10-12 times annual expenses) into high-dividend ETFs (like QQQI) to generate a stable cash flow for living expenses, while the remaining funds are actively invested for growth (e.g., a 70/30 or 433 allocation). This approach ensures living expenses are covered while allowing assets to continue growing.</p>
-
-
-<h2 class="relative group">II. Briefing Content 
-    <div id="ii-briefing-content" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#ii-briefing-content" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-
-
-<h3 class="relative group">Investment Mentality and Market Volatility 
-    <div id="investment-mentality-and-market-volatility" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#investment-mentality-and-market-volatility" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Ignore Market Fluctuations</strong>: The only constant in the market is its continuous fluctuation. Investors should learn to ignore short-term market volatility and international situations, focusing instead on long-term goals. Cultivate a state of &ldquo;mind as still as water,&rdquo; unaffected by market ups and downs.</li>
-<li><strong>Investing is a Form of Cultivation</strong>: Investing is a place for self-discovery and mental cultivation. Market downturns are a test for investors; only those who can withstand the pressure and not be scared out of the market will reap the final rewards.</li>
-<li><strong>Always Be Extremely Optimistic</strong>: Firmly believe that the market will always go up in the long run. Even if the market drops by 70%, maintain a mindset of eating well and sleeping well, and patiently wait for the market to recover.</li>
-</ul>
-
-
-<h3 class="relative group">Retirement Planning and Tax Issues 
-    <div id="retirement-planning-and-tax-issues" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#retirement-planning-and-tax-issues" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>The Importance of Retirement Tax Planning</strong>: Many people only consider living expenses when planning for retirement, overlooking tax issues. For example, a Roth Conversion from a Traditional IRA/401k can incur significant taxes.</li>
-<li><strong>Strategies to Cope with High Taxes</strong>:
-<ol>
-<li><strong>Withholding Taxes (Not Recommended)</strong>: Directly withhold taxes during the conversion. However, this reduces the principal that goes into the tax-free (Roth) account, losing the potential for future permanent tax-free growth.</li>
-<li><strong>Utilize High-Dividend ETFs</strong>: Allocate a portion of assets (e.g., 1-2 million) to high-dividend ETFs like QQQI. Use the cash flow generated to pay taxes and living expenses without touching the funds in the tax-free account.</li>
-</ol>
-</li>
-<li><strong>Calculating Assets in Taxable Accounts</strong>: For taxable accounts like Traditional IRAs and 401ks, their asset value should be calculated at 70% (deducting about 30% for taxes) to more accurately assess the actual available retirement funds. For example, a 5 million asset in a taxable account should be considered as 3.5 million.</li>
-</ul>
-
-
-<h3 class="relative group">Asset Allocation and Investment Targets 
-    <div id="asset-allocation-and-investment-targets" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#asset-allocation-and-investment-targets" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Asset Allocation Doesn&rsquo;t Determine Final Performance</strong>: The key determinant of performance is the future direction of the market. Since the future is unpredictable, the primary goal of asset allocation should be to make you feel &ldquo;comfortable,&rdquo; not to pursue the theoretically highest return.</li>
-<li><strong>Retirement Cash Flow Allocation Plan (Example with 15x Annual Expenses)</strong>:
-<ul>
-<li><strong>Background</strong>: Assume annual expenses of 600,000 TWD and retirement funds of 15 times that, which is 9 million TWD.</li>
-<li><strong>Allocation Plan</strong>:
-<ol>
-<li>Invest 10 times annual expenses (6 million TWD) into QQQI, which can generate about 12% cash flow annually (around 600,000-700,000 TWD), sufficient to cover living expenses.</li>
-<li>The remaining 5 times annual expenses (3 million TWD) are allocated using a 70/30 or 433 strategy for long-term growth. 30% of this portion still needs to be held as cash.</li>
-</ol>
-</li>
-</ul>
-</li>
-<li><strong>Reference for Investment Targets in the Chinese Market</strong>:
-<ul>
-<li><strong>High-Dividend Funds</strong>: Invesco Great Wall Dividend Growth Low Volatility Index A (007751), Huatai-PineBridge CSI Central SOE Dividend ETF (561580).</li>
-<li><strong>Short-Term Bond/Money Market Funds</strong>: E Fund Secure Return Bond A (161115), with an annualized return of about 3.2%, can be an option for parking cash.</li>
-</ul>
-</li>
-<li><strong>Stock Pledging in Canada</strong>: RBC (Royal Bank of Canada) offers Security Based Lending, but it requires clients to have over 1 million CAD in assets.</li>
-</ul>
-
-
-<h3 class="relative group">Loans and Debt Management 
-    <div id="loans-and-debt-management" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#loans-and-debt-management" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Long-Term Loans vs. Short-Term Loans</strong>:
-<ul>
-<li><strong>Long-Term (over 15 years)</strong>: If the loan term is long and the bank does not demand principal repayment, you can choose an &ldquo;interest-only&rdquo; plan. Use the principal for investment to create higher returns through compounding over time.</li>
-<li><strong>Short-Term (less than 10 years)</strong>: It is recommended to choose a &ldquo;principal and interest&rdquo; repayment plan. The market is not guaranteed to rise within 10 years. If the market is at a low point when the loan is due, being forced to sell stocks to repay the principal would cause huge losses.</li>
-</ul>
-</li>
-</ul>
-
-
-<h2 class="relative group">III. Q&amp;A Session 
-    <div id="iii-qa-session" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#iii-qa-session" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-
-
-<h3 class="relative group">Ray 
-    <div id="ray" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#ray" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Sharing: He has been following the teacher&rsquo;s investment philosophy for nearly a year. Through repeated study, from the &ldquo;lecture worth 100 million&rdquo; to various investment principles (like never selling, the more you borrow the better), his investment approach and life have been profoundly changed. At 35, his net worth has reached nine figures (TWD), and he has found that the more assets he has, the more willing banks are to offer low-interest loans. He was also spiritually inspired, realizing that &ldquo;wealth is a gift, happiness is a human right,&rdquo; and began to focus more on creating meaning in life. Through health checks (LDC-T, continuous glucose monitor), he improved his lifestyle habits and discovered that curry rice was the culprit for his blood sugar spikes.</li>
-<li>Question 1: About spending money. Although his assets have increased, he felt empty after trying to shop at luxury stores. He finds more happiness in spending money to save time (like taking a taxi instead of the subway) or improve his quality of life (buying a Tesla). He asked the teacher if, after achieving financial freedom, the direction of spending is mainly to &ldquo;be able to not do things you don&rsquo;t want to do,&rdquo; rather than pursuing more material goods.
-<ul>
-<li>James&rsquo;s Reply:
-<ol>
-<li><strong>Spending for the sake of spending leads to emptiness</strong>: When you have no real need and just spend for the sake of it (like buying unnecessary luxury goods), you will feel empty. You should think three times before buying something to confirm it&rsquo;s a &ldquo;need&rdquo; and not a &ldquo;want.&rdquo;</li>
-<li><strong>Spending money to buy time is worthwhile</strong>: Exchanging money for time, allowing you to do more important things or get rest, is very valuable.</li>
-<li><strong>Spending on others brings more happiness than spending on yourself</strong>: Spending on family (like parents, children) and creating beautiful memories together brings a lasting and more meaningful kind of happiness. For example, treating your parents to a nice meal or buying them clothes they like.</li>
-</ol>
-</li>
-</ul>
-</li>
-<li>Question 2: What advice do you have for people in the 35 to 40 age group?
-<ul>
-<li>James&rsquo;s Reply: The most important thing at this stage is <strong>family relationships</strong>, especially with your spouse and children.
-<ol>
-<li><strong>Nurture the spousal relationship</strong>: Treat your spouse as you would your own child, with love and tolerance. The spousal relationship is the foundation of the family; only when it&rsquo;s good can children&rsquo;s upbringing be healthy. Don&rsquo;t keep score, because relationships are reciprocal.</li>
-<li><strong>Understand your parents</strong>: As you get older, spend more time with your parents and understand their silent waiting and love.</li>
-</ol>
-</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Lu 
-    <div id="lu" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#lu" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Sharing: Echoing Ray&rsquo;s sharing, she added that her schedule is very full in retirement and she feels energetic. She shared her experience of spending time with her parents; her mother prepares three meals a day for the family, and she expresses her love by giving her parents pocket money and spending time with them. She believes that sharing wealth with family and friends, such as arranging trips and treating them to meals, creates shared memories and is a wonderful thing. She also mentioned that if wealth doesn&rsquo;t bring happiness, one might need to seek meaning on a higher spiritual level.</li>
-<li>James&rsquo;s Comment: You don&rsquo;t necessarily have to spend money; it&rsquo;s okay not to. Warren Buffett, for example, is not used to spending money and drives the same car for many years. Spending money should be a natural and happy thing. If it becomes a burden and a job, of course, you won&rsquo;t be happy.</li>
-</ul>
-
-
-<h3 class="relative group">Jenny 
-    <div id="jenny" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#jenny" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Sharing: Since adopting the teacher&rsquo;s methods, she has reorganized her family&rsquo;s asset allocation and life philosophy, and life has become easier, more pleasant, and more secure. Previously, she was nervous when buying or selling investments, and her emotions fluctuated with the market. Now, using a &ldquo;buy and don&rsquo;t touch&rdquo; strategy, she feels the ease of investing. She realized that the human brain is naturally inclined towards tension and anxiety, and it needs training to live in the present and enjoy peace. After this shift in mindset, she began to appreciate things she used to find annoying, like the long winters in North America and university, finding tranquility and beauty in them. She also shared that her mortgage rate in Canada is a fixed rate in the 3.8% range.</li>
-<li>James&rsquo;s Comment: Our brain is divided into a primitive brain and a civilized brain. The primitive brain keeps us alert and provides intuitive reactions, but in interpersonal communication, quick intuitive reactions can lead to conflict. We should use our &ldquo;civilized brain&rdquo; to overcome the impulses of the primitive brain and think calmly. When communicating with others, learn to appreciate and affirm them first, rather than directly refuting them. The opening of a conversation should be &ldquo;That&rsquo;s great,&rdquo; &ldquo;Thank you,&rdquo; not &ldquo;That&rsquo;s not right,&rdquo; &ldquo;It&rsquo;s not like that.&rdquo; First admitting &ldquo;I might be wrong&rdquo; can make communication smoother.</li>
-</ul>
-
-
-<h3 class="relative group">Doris 
-    <div id="doris" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#doris" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Question: She has two accounts, a Brokerage and an IRA/Roth, each with about 50% of her assets, representing about 12 years of annual expenses each. She plans to retire at 55 and use the funds in the Brokerage account to live on before she can access her IRA/Roth at 60. Her plan is to invest 60% of the Brokerage assets into QQQI to cover 100% of her annual expenses. How should the remaining 40% be allocated? Is cash needed? Is backtesting necessary?
-<ul>
-<li>James&rsquo;s Reply:
-<ol>
-<li><strong>Roth Conversion</strong>: After retiring at 55, you should immediately start doing Roth conversions from your Traditional IRA. This is especially important for families with children, as a Roth account is more beneficial as an inheritance for future generations.</li>
-<li><strong>Asset Allocation</strong>: The remaining 40% of assets can be combined with the assets in the IRA/Roth account for an overall asset allocation (e.g., 70/30 or 433).</li>
-<li><strong>Cash Reserve</strong>: The 30% cash can be held in any account, including the Traditional IRA. If you need money urgently, you can withdraw the principal from your Roth account (penalty-free) or borrow against your stocks in the Brokerage account without having to sell them.</li>
-<li><strong>Backtesting Simulation</strong>: For a complex allocation involving QQQI and leverage, it is recommended to use the asset allocation backtesting simulation software provided by the teacher. You can treat QQQI as a part of QQQ in the model for backtesting to verify its safety in different market environments.</li>
-</ol>
-</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Frank 
-    <div id="frank" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#frank" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Question: His daughter, after working for a year, wants to take out a loan to buy 00662 and then take an unpaid leave of absence to study abroad for one to two years. The family will help with the loan payments. Is this strategy feasible?
-<ul>
-<li>James&rsquo;s Reply: It&rsquo;s very feasible. Since your daughter has her own dreams and aspirations, as a family, you should encourage and support her. Investing is not the only thing in life. It&rsquo;s a great thing for her to go out and explore the world while she&rsquo;s young. Let her know that home is always her safety net.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Haoqing 
-    <div id="haoqing" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#haoqing" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Sharing and Question: After attending an AI lecture, he heard experts emphasize the importance of &ldquo;Curiosity&rdquo; and &ldquo;Communication&rdquo; in the AI era. In the future, most jobs may be replaced by AI, and asking the right questions will be more important than solving problems. He is concerned about how the next generation will enter the workforce and accumulate experience. He speculates that in the future, society may no longer measure wealth by money, but by &ldquo;honor&rdquo; and contributions to humanity. He wanted to hear the teacher&rsquo;s views on personal development in the AI era.
-<ul>
-<li>James&rsquo;s Reply:
-<ol>
-<li><strong>Young People Should Embrace AI Immediately</strong>: I recommend that young people set up their own AI Agent (like OpenBot). Once you have an AI Agent, you are essentially the general manager of a &ldquo;one-person company.&rdquo; You can command it to perform various tasks like starting a company, preparing financial reports, writing proposals, and attending meetings.</li>
-<li><strong>AI is a Tool, Professional Skill is the Foundation</strong>: AI will not replace professions; it will enhance them. You must have the &ldquo;professional skill&rdquo; in a field to effectively command AI. For example, if you don&rsquo;t understand accounting, you can&rsquo;t get AI to produce meaningful financial reports. AI just allows you to do what you could already do, but faster.</li>
-<li><strong>Curiosity and Execution are Key</strong>: A person&rsquo;s core value lies in their curiosity, learning attitude, and ability to execute. A curious person will proactively explore and use new tools like AI, thus standing out. AI will not change a person&rsquo;s essence; it is just a powerful enabling tool.</li>
-</ol>
-</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Grace 
-    <div id="grace" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#grace" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Sharing: Back in Penghu, she recalled that it was here a year ago that she began to seriously study the teacher&rsquo;s investment philosophy. She shared that as someone who left her hometown, it took her some years to slowly appreciate the importance of spending time with her parents. When she was younger, she would always hang out with friends when she came home, but now she spends more time with her aging parents. She believes this realization comes with time and encourages younger students not to rush it.</li>
-</ul>
-
-
-<h3 class="relative group">Andy 
-    <div id="andy" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#andy" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Sharing: Before encountering the teacher&rsquo;s philosophy, he had spent money on classes but repeatedly lost money in investments. After discovering C-squared in mid-2023, his whole family embraced the teacher&rsquo;s philosophy as a belief, sold their house that was beyond their means, and held on to quality assets like TSMC. In just a few years, their assets have reached 50 times their annual expenses, and retirement feels within reach instead of being a distant dream.</li>
-<li>Question 1: When using ChatGPT for asset planning, the AI suggested using 00865B (a bond ETF) for pledging, not 00662 (QQQ) as recommended by the teacher. Is this correct?
-<ul>
-<li>James&rsquo;s Reply: The AI&rsquo;s suggestion is based on the conservative thinking of an average person (borrowing to buy high-dividend stocks or for a fixed deposit). It doesn&rsquo;t understand our &ldquo;leverage + rebalancing&rdquo; strategy. The AI is not smarter than you; its answers depend on the depth and context of your questions. If you don&rsquo;t tell it that you need to do dynamic rebalancing, it will naturally give the most conservative answer. When you are an expert in a field, you will find that the AI is &ldquo;dumber&rdquo; than you.</li>
-</ul>
-</li>
-<li>Question 2: ChatGPT suggested that when the loan utilization rate from pledging reaches 10-15%, it should be repaid. This conflicts with the teacher&rsquo;s philosophy of &ldquo;don&rsquo;t repay.&rdquo;
-<ul>
-<li>James&rsquo;s Reply: Similarly, this is because the AI doesn&rsquo;t understand our long-term growth strategy of &ldquo;buy, borrow, don&rsquo;t repay, reinvest.&rdquo; You need to provide the complete strategic context to the AI for it to potentially give advice that meets your needs.</li>
-</ul>
-</li>
-<li>Question 3: Regarding the timing of using 00670L to add to a position. If your cash is exactly 15 times your annual expenses, and after adding to the position once it drops below 15 times, can you no longer add more?
-<ul>
-<li>James&rsquo;s Reply: This involves the &ldquo;Flexible Rebalancing&rdquo; strategy. It is explained in detail in the &ldquo;Backtesting Briefing PPT&rdquo; on page 17 of the &ldquo;Sunflower Manual.&rdquo; The briefing and simulation software distinguish between rebalancing rules at different cash levels (like &ldquo;Smart Rebalancing&rdquo; and &ldquo;Flexible Smart Rebalancing&rdquo;). I recommend reading the briefing in detail and using the simulation software for backtesting.</li>
-</ul>
-</li>
-</ul>
-
-
-<h3 class="relative group">Chenfeng 
-    <div id="chenfeng" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#chenfeng" aria-label="Anchor">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Sharing: As a software engineer with over 30 years of experience, he shared his experience using AI. He believes that AI can indeed greatly improve efficiency (work that used to take months now takes a day or two), but this doesn&rsquo;t mean past experience is wasted. On the contrary, it is precisely because of his deep professional knowledge that he can effectively command AI and avoid &ldquo;Garbage in, garbage out.&rdquo; He emphasized that AI is an assistant, but the ultimate goals and direction must be decided by humans, and this is the core value that will not be replaced by AI in the future. He also shares content on his blog about investing, Zi Wei Dou Shu (Purple Star Astrology), and AI applications.</li>
-</ul>
-
-
-<h2 class="relative group">IV. Highlighted Quotes 
-    <div id="iv-highlighted-quotes" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#iv-highlighted-quotes" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<blockquote>
-<p>Spending money on yourself isn&rsquo;t the happiest thing; spending it on others will make you happier.
-&ndash; James</p></blockquote>
-<p>Background: When answering a student&rsquo;s question about feeling empty from consumption, James pointed out that the happiness derived from spending on family and creating shared memories is far more valuable and lasting than mere material satisfaction.</p>
-<blockquote>
-<p>You have to act like a general manager. The moment you go to work, you have to behave like you are a general manager.
-&ndash; James</p></blockquote>
-<p>Background: When discussing the development of young people in the AI era, James emphasized that young people should have the vision and breadth of knowledge of a CEO, proactively learning cross-disciplinary knowledge (like finance, marketing) to effectively use AI tools and become the leader of a &ldquo;one-person company.&rdquo;</p>
-<blockquote>
-<p>AI won&rsquo;t be smarter than you. If you know how to ask, it means you already understand; you just don&rsquo;t want to do the hard job.
-&ndash; Chenfeng &amp; James</p></blockquote>
-<p>Background: When addressing a student&rsquo;s confusion about AI giving different investment advice, the teacher and the student jointly pointed out that the quality of AI&rsquo;s answers depends on the questioner&rsquo;s level of expertise. A good question itself implies a deep understanding of the problem; using AI is more about saving the effort of execution rather than seeking unknown answers.</p>
-<blockquote>
-<p>The human brain is not naturally designed to let us live a peaceful, serene, and happy life; it always has a state that keeps our brain tense.
-&ndash; Jenny</p></blockquote>
-<p>Background: Student Jenny, sharing her transformation from investment anxiety to inner peace, realized that the human brain has a primitive &ldquo;alert&rdquo; instinct. To achieve happiness, one needs to deliberately train the brain to focus on the present, rather than worrying about the past and future.</p>
-<blockquote>
-<p>The spousal relationship is the most important&hellip; If you are willing to sacrifice for them, what else is there to quibble about?
-&ndash; James</p></blockquote>
-<p>Background: When giving advice to people in the 35-40 age group, James emphasized the importance of nurturing the spousal relationship, suggesting that one should treat their spouse with the same care as their own child—selflessly giving without keeping score, which is fundamental to maintaining a happy family.</p>
-<blockquote>
-<p>Investing is not the only thing in life, so it&rsquo;s great for him to go out and explore the world while he&rsquo;s young.
-&ndash; James</p></blockquote>
-<p>Background: In supporting a student&rsquo;s daughter&rsquo;s decision to take an unpaid leave to study abroad, James expressed encouragement for young people to pursue their dreams, believing that life experiences and personal growth are equally important, and that financial management should serve broader life goals.</p>
-
-
-<h2 class="relative group">V. Summary 
-    <div id="v-summary" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#v-summary" aria-label="Anchor">#</a>
-    </span>        
-    
-</h2>
-<p>Starting from a specific retirement financial goal—&ldquo;building a cash flow of 15 times annual expenses&rdquo;—this session systematically explained how to combine a high-dividend tool (QQQI) with a growth-oriented asset allocation (433 model) to achieve this objective. The course not only provided actionable investment strategies but also delved deeper into the often-overlooked tax issues in retirement planning. During the Q&amp;A session, through interaction with students, the topics expanded to multiple levels, including consumption habits, family relationships, personal growth, and how to face the challenges of the AI era. It emphasized the importance of an investment mindset, lifelong learning, and managing one&rsquo;s life. The entire session was filled with a belief in long-termism and an active pursuit of a better life.</p>
 
   
 
