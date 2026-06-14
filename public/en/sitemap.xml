@@ -1921,4 +1921,19 @@
       href="https://jomonylw.github.io/en/posts/1766882241088/"
     />
   </url>
+  <url>
+    <loc>https://jomonylw.github.io/en/posts/1766882241108/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://jomonylw.github.io/posts/1766882241108/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jomonylw.github.io/en/posts/1766882241108/"
+    />
+  </url>
 </urlset>
